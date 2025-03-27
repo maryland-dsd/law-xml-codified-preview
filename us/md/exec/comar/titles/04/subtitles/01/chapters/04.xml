@@ -3,18 +3,12 @@
   <prefix>Chapter</prefix>
   <num>04</num>
   <heading>Personal Records</heading>
-  <annotations>
-    <annotation type="Authority"><cite doc="Md. Code" path="gsg|10-624">State Government Article, §10-624 </cite>Annotated Code of Maryland</annotation>
-    <annotation type="History" effective="1986-10-06">Effective date:  Regulations <cite path="|04|01|04|.01">.01</cite>—<cite path="|04|01|04|.05">.05</cite> effective October 6, 1986 (13:20 Md. R. 2207)</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>General.</heading>
     <text>These regulations set out procedures which govern the form and method for submission of an annual report to the Department of General Services which describes personal records kept by a unit or instrumentality of the State government.</text>
-    <annotations>
-      <annotation app="2024-11-11" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-088-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -36,7 +30,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Amended text;</text>
+          <text>A description;</text>
         </para>
         <para>
           <num>(c)</num>
@@ -56,11 +50,9 @@
         <text>"Secretary" means the Secretary of General Services or the Secretary's designee.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2024-11-11" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-088-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="04|01|04|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Annual Report.</heading>
@@ -133,16 +125,14 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>For each set of personal records that has been disposed of or changed significantly since the unit or instrumentality last submitted a report, the information required under §C(3) of this regulation.</text>
+        <text>For each set of personal records that has been disposed of or changed significantly since the unit or instrumentality last submitted a report, the information required under <cite path="04|01|04|.03|C.|(3)">§C(3) of this regulation</cite>.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
       <text>A unit or instrumentality that has two or more sets of personal records may combine the personal records in the report only if the character of the personal records is highly similar.</text>
     </para>
-    <annotations>
-      <annotation app="2024-11-11" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-088-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -156,18 +146,17 @@
       <num>B.</num>
       <text>The Secretary shall request, by June 1 of each year, a fiscal year annual report of personal records. The report shall be due within 60 days of the Secretary's request.</text>
     </para>
-    <annotations>
-      <annotation app="2024-11-11" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-088-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.05</num>
     <heading>Public Inspection.</heading>
     <text>The Secretary shall make the annual report available for public inspection in accordance with <cite path="|04.01.01">COMAR 04.01.01</cite>.</text>
-    <annotations>
-      <annotation app="2024-11-11" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-088-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
-  <annotation app="2024-11-11" doc="Maryland Register, Volume 51, Issue 22" eff="2024-11-11" path="regulations|final|24-088-F" type="History"/>
+  <annotations>
+    <annotation type="Authority" dest="container"><cite doc="Md. Code" path="gsg|10-624">State Government Article, §10-624 </cite>Annotated Code of Maryland</annotation>
+    <annotation type="History" dest="container" effective="1986-10-06">Effective date:  Regulations <cite path="|04|01|04|.01">.01</cite>—<cite path="|04|01|04|.05">.05</cite> effective October 6, 1986 (13:20 Md. R. 2207)</annotation>
+  </annotations>
 </container>
