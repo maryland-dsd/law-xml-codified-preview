@@ -14,12 +14,16 @@
     </canonical-urls>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="maryland-dsd/law-xml" commit="a1d6fcc020e8534f4e2f66b80d1153048b1ade30"/>
+        <repository name="maryland-dsd/law-xml" commit="eb30623aea947d61659117bf890c34b1386b8517"/>
       </repositories>
       <platform version="2.16.0" reproducible="false"/>
       <build-date>2025-03-27</build-date>
-      <codified-date>0001-01-01</codified-date>
+      <codified-date>2024-11-11</codified-date>
     </build>
   </meta>
   <xi:include href="./us/md/exec/comar/index.xml"/>
+  <collection name="us/md/exec/register">
+    <heading>Maryland Register</heading>
+    <xi:include href="./us/md/exec/register/51/index.xml"/>
+  </collection>
 </library>
