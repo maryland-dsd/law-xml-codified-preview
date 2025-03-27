@@ -3,10 +3,6 @@
   <prefix>Chapter</prefix>
   <num>05</num>
   <heading>Public-Private Partnership Program</heading>
-  <annotations>
-    <annotation type="Authority">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|10A-102">10A-102</cite>—<cite doc="Md. Code" path="gsf|10A-105">10A-105</cite>, <cite doc="Md. Code" path="gsf|10A-201">10A-201</cite>—<cite doc="Md. Code" path="gsf|10A-204">10A-204</cite>, <cite doc="Md. Code" path="gsf|10A-301">10A-301</cite>, <cite doc="Md. Code" path="gsf|10A-401">10A-401</cite>—<cite doc="Md. Code" path="gsf|10A-403">10A-403</cite>, and <cite doc="Md. Code" path="gsf|11-203">11-203</cite>(h), Annotated Code of Maryland</annotation>
-    <annotation type="History" effective="2019-12-30">Effective date: December 30, 2019 (46:26 Md. R. 1163)</annotation>
-  </annotations>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -14,15 +10,13 @@
     <text>The purpose of this chapter is to:</text>
     <para>
       <num>A.</num>
-      <text>Establish a Department of General Services Public-Private Partnership Program (Program) to enhance the State's non-transit infrastructure assets; and</text>
+      <text>Establish a Department of General Services Public-Private Partnership Program (Program) to enhance the State’s non-transit infrastructure assets; and</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Describe and provide a process for the development, solicitation, evaluation, award, and delivery of Public-Private Partnerships in the Department's Program.</text>
+      <text>Describe and provide a process for the development, solicitation, evaluation, award, and delivery of Public-Private Partnerships in the Department’s Program.</text>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -34,11 +28,9 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Within the Department, the Secretary may establish a Public-Private Partnership operational unit and/or designate an employee of the Department to administer the Department's Program.</text>
+      <text>Within the Department, the Secretary may establish a Public-Private Partnership operational unit and/or designate an employee of the Department to administer the Department’s Program.</text>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -53,27 +45,27 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>"Budget Committees" has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Budget Committees” has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Department" means the Department of General Services.</text>
+        <text>“Department” means the Department of General Services.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>"Industry forum" means a pre-solicitation information gathering event that may include public and private sector participants.</text>
+        <text>“Industry forum” means a pre-solicitation information gathering event that may include public and private sector participants.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>"Industry review meeting" means a meeting during the solicitation process with shortlisted private entities.</text>
+        <text>“Industry review meeting” means a meeting during the solicitation process with shortlisted private entities.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>"Internal sponsor" means the senior manager or executive staff member of the Department of General Services that will serve as the primary support, or advocate, for the proposed project being submitted for consideration.</text>
+        <text>“Internal sponsor” means the senior manager or executive staff member of the Department of General Services that will serve as the primary support, or advocate, for the proposed project being submitted for consideration.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>"Multi-step solicitation process" means a Public-Private Partnership solicitation process that includes some or all of the following steps:</text>
+        <text>“Multi-step solicitation process” means a Public-Private Partnership solicitation process that includes some or all of the following steps:</text>
         <para>
           <num>(a)</num>
           <text>Issuance of a Request for Information (RFI);</text>
@@ -101,52 +93,50 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>"Private entity" has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Private entity” has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>"Program" means the structure, process, methodology, and terms and conditions applicable to the Department's development, solicitation, evaluation, award, and delivery of non-transit public infrastructure assets for which it is responsible in accordance with <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Program” means the structure, process, methodology, and terms and conditions applicable to the Department’s development, solicitation, evaluation, award, and delivery of non-transit public infrastructure assets for which it is responsible in accordance with <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>"Project Committee" is the Public-Private Infrastructure Project Committee established to advise the Secretary on the structure and implementation of the Department's Public-Private Partnership Program and comprised of Department and other State employees identified by the Secretary.</text>
+        <text>“Project Committee” is the Public-Private Infrastructure Project Committee established to advise the Secretary on the structure and implementation of the Department’s Public-Private Partnership Program and comprised of Department and other State employees identified by the Secretary.</text>
       </para>
       <para>
         <num>(10)</num>
-        <text>"Public infrastructure asset" has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Public infrastructure asset” has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(11)</num>
-        <text>"Public notice of solicitation" has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Public notice of solicitation” has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(12)</num>
-        <text>"Public-Private Partnership" has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Public-Private Partnership” has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(13)</num>
-        <text>"Public-Private Partnership candidate concept application" means the documentation that must be submitted to the Project Committee to initiate and inform a high-level review of a Public-Private concept generated from within the Department, or by other State agencies.</text>
+        <text>“Public-Private Partnership candidate concept application” means the documentation that must be submitted to the Project Committee to initiate and inform a high-level review of a Public-Private concept generated from within the Department, or by other State agencies.</text>
       </para>
       <para>
         <num>(14)</num>
-        <text>"Reporting agency" has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Reporting agency” has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(15)</num>
-        <text>"Responsibility determination" has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
+        <text>“Responsibility determination” has the meaning stated in <cite doc="Md. Code" path="gsf|10A-101">State Finance and Procurement Article, §10A-101, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(16)</num>
-        <text>"Secretary" means the Secretary of the Department of General Services.</text>
+        <text>“Secretary” means the Secretary of the Department of General Services.</text>
       </para>
       <para>
         <num>(17)</num>
-        <text>"Shortlisted private entity" means a private entity that has been both qualified based on its response to a request for qualifications and selected as one of the highest qualified private entities, allowing them to continue in the solicitation process.</text>
+        <text>“Shortlisted private entity” means a private entity that has been both qualified based on its response to a request for qualifications and selected as one of the highest qualified private entities, allowing them to continue in the solicitation process.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -154,7 +144,7 @@
     <heading>Public-Private Infrastructure Project Committee.</heading>
     <para>
       <num>A.</num>
-      <text>The Project Committee is established to advise the Secretary on the structure and implementation of the Department's Program, including, but not limited to the following:</text>
+      <text>The Project Committee is established to advise the Secretary on the structure and implementation of the Department’s Program, including, but not limited to the following:</text>
       <para>
         <num>(1)</num>
         <text>Identification of potential Public-Private Partnership opportunities for screening;</text>
@@ -188,9 +178,7 @@
       <num>C.</num>
       <text>The Project Committee shall be chaired by a Department employee.</text>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -272,7 +260,7 @@
         <text>An unsolicited proposal shall:</text>
         <para>
           <num>(a)</num>
-          <text>Be sealed and delivered to the Secretary's Office to the attention of the Project Committee chair bearing the private entity's name, address, and the words "Public-Private Partnership Unsolicited Proposal" clearly on the outside; and</text>
+          <text>Be sealed and delivered to the Secretary’s Office to the attention of the Project Committee chair bearing the private entity’s name, address, and the words “Public-Private Partnership Unsolicited Proposal” clearly on the outside; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -300,7 +288,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The primary purpose of unsolicited informational meetings shall be to avoid private entities spending unnecessary time and resources on the development of unsolicited proposals that do not directly meet the State's public infrastructure needs.</text>
+          <text>The primary purpose of unsolicited informational meetings shall be to avoid private entities spending unnecessary time and resources on the development of unsolicited proposals that do not directly meet the State’s public infrastructure needs.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -331,7 +319,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>A signature of an individual authorized to act on behalf of and bind the private entity, along with the individual's telephone number and email address;</text>
+            <text>A signature of an individual authorized to act on behalf of and bind the private entity, along with the individual’s telephone number and email address;</text>
           </para>
         </para>
         <para>
@@ -392,7 +380,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>Additional information, as necessary, to support a high-level screening process, as outlined in Regulation .06C(1) of this chapter.</text>
+          <text>Additional information, as necessary, to support a high-level screening process, as outlined in <cite path="|04|01|05|.06|C.|(1)">Regulation .06C(1) of this chapter</cite>.</text>
         </para>
       </para>
       <para>
@@ -420,9 +408,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -492,7 +478,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The Secretary's written approval shall be required to advance or not advance a Public-Private Partnership concept to the detail-level screening phase.</text>
+          <text>The Secretary’s written approval shall be required to advance or not advance a Public-Private Partnership concept to the detail-level screening phase.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -560,7 +546,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The Secretary's written approval shall be required to advance or not advance a Public-Private Partnership concept to submission of a pre-solicitation report.</text>
+          <text>The Secretary’s written approval shall be required to advance or not advance a Public-Private Partnership concept to submission of a pre-solicitation report.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -576,9 +562,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -668,11 +652,9 @@
         <text>The Department has sought and received the official designation by the Board of Public Works of the public infrastructure asset as a Public-Private Partnership and approval of the solicitation method.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="04|01|05|.08">
     <prefix>Regulation</prefix>
     <num>.08</num>
     <heading>Solicitation Process.</heading>
@@ -956,7 +938,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Information or site access provided to individual shortlisted private entities pursuant to an additional information request as provided for in §C(9)(b) of this regulation., must also be made available to all other interested private entities if a shortlist of private entities has not yet been established; or, to all other shortlisted private entities if a shortlist of private entities has been established.</text>
+          <text>Information or site access provided to individual shortlisted private entities pursuant to an additional information request as provided for in <cite path="04|01|05|.08|C.|(9)|(b)">§C(9)(b) of this regulation</cite>., must also be made available to all other interested private entities if a shortlist of private entities has not yet been established; or, to all other shortlisted private entities if a shortlist of private entities has been established.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -997,7 +979,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Except as set forth in the solicitation documents, should the solicitation process or negotiations be suspended, discontinued, or terminated, the private entity shall have no rights of recourse, including reimbursement of the private entity's unsolicited proposal review fees or costs associated, directly or indirectly, with the solicited or unsolicited proposal developments.</text>
+        <text>Except as set forth in the solicitation documents, should the solicitation process or negotiations be suspended, discontinued, or terminated, the private entity shall have no rights of recourse, including reimbursement of the private entity’s unsolicited proposal review fees or costs associated, directly or indirectly, with the solicited or unsolicited proposal developments.</text>
       </para>
     </para>
     <para>
@@ -1048,9 +1030,7 @@
       <num>F.</num>
       <text>Additional reservations of Department rights may be included in the solicitation documents for a Public-Private Partnership.</text>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1069,7 +1049,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The Department's evaluation criteria shall be clearly set forth in each request for solicitation.</text>
+        <text>The Department’s evaluation criteria shall be clearly set forth in each request for solicitation.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -1088,7 +1068,7 @@
         <text>Be comprised of:</text>
         <para>
           <num>(a)</num>
-          <text>Secretary's Office employees; and</text>
+          <text>Secretary’s Office employees; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1136,7 +1116,7 @@
         <text>Be comprised of:</text>
         <para>
           <num>(a)</num>
-          <text>Secretary's Office employees; and</text>
+          <text>Secretary’s Office employees; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1145,11 +1125,11 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Review the apparent best value private entity's response to the request for proposals;</text>
+        <text>Review the apparent best value private entity’s response to the request for proposals;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Review the apparent best value private entity's best and final offer, if any; and</text>
+        <text>Review the apparent best value private entity’s best and final offer, if any; and</text>
       </para>
       <para>
         <num>(4)</num>
@@ -1165,7 +1145,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The apparent best value private entity does not provide sufficient information or timely feedback to finalize the agreement in accordance with the Department's schedule for the Public-Private Partnership solicitation.</text>
+        <text>The apparent best value private entity does not provide sufficient information or timely feedback to finalize the agreement in accordance with the Department’s schedule for the Public-Private Partnership solicitation.</text>
       </para>
     </para>
     <para>
@@ -1228,7 +1208,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The impact any public private partnership agreement may have on the State's debt affordability measures;</text>
+          <text>The impact any public private partnership agreement may have on the State’s debt affordability measures;</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1252,18 +1232,17 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.10</num>
     <heading>Delivery.</heading>
     <text>Procedures for Public-Private Partnership Agreements. In the development of a Public-Private Partnership agreement, the Secretary shall comply with the provisions established in <cite doc="Md. Code" path="gsf|10A-401">State Finance and Procurement Article, §10A-401, Annotated Code of Maryland</cite>.</text>
-    <annotations>
-      <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
-  <annotation app="2024-10-28" doc="Maryland Register, Volume 51, Issue 21" eff="2024-10-28" path="regulations|final|24-099-F" type="History"/>
+  <annotations>
+    <annotation type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|10A-102">10A-102</cite>—<cite doc="Md. Code" path="gsf|10A-105">10A-105</cite>, <cite doc="Md. Code" path="gsf|10A-201">10A-201</cite>—<cite doc="Md. Code" path="gsf|10A-204">10A-204</cite>, <cite doc="Md. Code" path="gsf|10A-301">10A-301</cite>, <cite doc="Md. Code" path="gsf|10A-401">10A-401</cite>—<cite doc="Md. Code" path="gsf|10A-403">10A-403</cite>, and <cite doc="Md. Code" path="gsf|11-203">11-203</cite>(h), Annotated Code of Maryland</annotation>
+    <annotation type="History" dest="container" effective="2019-12-30">Effective date: December 30, 2019 (46:26 Md. R. 1163)</annotation>
+  </annotations>
 </container>

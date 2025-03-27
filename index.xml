@@ -17,13 +17,9 @@
         <repository name="maryland-dsd/law-xml" commit="a1d6fcc020e8534f4e2f66b80d1153048b1ade30"/>
       </repositories>
       <platform version="2.16.0" reproducible="false"/>
-      <build-date>2025-03-26</build-date>
-      <codified-date>2024-10-28</codified-date>
+      <build-date>2025-03-27</build-date>
+      <codified-date>0001-01-01</codified-date>
     </build>
   </meta>
   <xi:include href="./us/md/exec/comar/index.xml"/>
-  <collection name="us/md/exec/register">
-    <heading>Maryland Register</heading>
-    <xi:include href="./us/md/exec/register/51/index.xml"/>
-  </collection>
 </library>
