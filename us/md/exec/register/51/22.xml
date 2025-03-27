@@ -18,178 +18,6 @@
       </container>
       <container>
         <num>24-029-F</num>
-      </container>
-      <container>
-        <num>24-091-F</num>
-      </container>
-      <container>
-        <num>23-235-F</num>
-      </container>
-      <container>
-        <num>24-088-F</num>
-        <codify:replace path="|04|01|04" codified:doc="Code of Maryland Regulations" codified:path="04|01|04|.01|annos">
-          <container>
-            <prefix>Chapter</prefix>
-            <num>04</num>
-            <heading>Personal Records</heading>
-            <section>
-              <prefix>Regulation</prefix>
-              <num>.01</num>
-              <heading>General.</heading>
-              <text>These regulations set out procedures which govern the form and method for submission of an annual report to the Department of General Services which describes personal records kept by a unit or instrumentality of the State government.</text>
-            </section>
-            <section>
-              <prefix>Regulation</prefix>
-              <num>.02</num>
-              <heading>Definitions.</heading>
-              <para>
-                <num>A.</num>
-                <text>The following terms have the meanings indicated.</text>
-              </para>
-              <para>
-                <num>B.</num>
-                <text>Terms Defined.</text>
-                <para>
-                  <num>(1)</num>
-                  <text>"Personal record" means a public record that names or, with reasonable certainty, otherwise identifies an individual by an identifying factor such as:</text>
-                  <para>
-                    <num>(a)</num>
-                    <text>An address;</text>
-                  </para>
-                  <para>
-                    <num>(b)</num>
-                    <text>Amended text;</text>
-                  </para>
-                  <para>
-                    <num>(c)</num>
-                    <text>A finger or voice print;</text>
-                  </para>
-                  <para>
-                    <num>(d)</num>
-                    <text>A number; or</text>
-                  </para>
-                  <para>
-                    <num>(e)</num>
-                    <text>A picture.</text>
-                  </para>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>"Secretary" means the Secretary of General Services or the Secretary's designee.</text>
-                </para>
-              </para>
-            </section>
-            <section>
-              <prefix>Regulation</prefix>
-              <num>.03</num>
-              <heading>Annual Report.</heading>
-              <para>
-                <num>A.</num>
-                <text>A unit or instrumentality of the State government which keeps personal records shall submit an annual report to the Secretary.</text>
-              </para>
-              <para>
-                <num>B.</num>
-                <text>This regulation does not apply to a:</text>
-                <para>
-                  <num>(1)</num>
-                  <text>Unit in the Legislative branch of State government;</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>Unit in the Judicial branch of State government; or</text>
-                </para>
-                <para>
-                  <num>(3)</num>
-                  <text>Board of license commissioners.</text>
-                </para>
-              </para>
-              <para>
-                <num>C.</num>
-                <text>The annual report shall state:</text>
-                <para>
-                  <num>(1)</num>
-                  <text>The name of the unit or instrumentality;</text>
-                </para>
-                <para>
-                  <num>(2)</num>
-                  <text>For each set of the personal records:</text>
-                  <para>
-                    <num>(a)</num>
-                    <text>The name,</text>
-                  </para>
-                  <para>
-                    <num>(b)</num>
-                    <text>The location, and</text>
-                  </para>
-                  <para>
-                    <num>(c)</num>
-                    <text>If a subunit keeps the set, the name of the subunit;</text>
-                  </para>
-                </para>
-                <para>
-                  <num>(3)</num>
-                  <text>For each set of personal records that has not been previously reported:</text>
-                  <para>
-                    <num>(a)</num>
-                    <text>The category of individuals to whom the set applies,</text>
-                  </para>
-                  <para>
-                    <num>(b)</num>
-                    <text>A brief description of the types of information the set contains,</text>
-                  </para>
-                  <para>
-                    <num>(c)</num>
-                    <text>The major uses and purposes of the information,</text>
-                  </para>
-                  <para>
-                    <num>(d)</num>
-                    <text>By category, the source of information for the set, and</text>
-                  </para>
-                  <para>
-                    <num>(e)</num>
-                    <text>The policies and procedures of the unit or instrumentality as to access and challenges to the personal record by the person in interest and storage, retrieval, retention, disposal, and security, including controls on access;</text>
-                  </para>
-                </para>
-                <para>
-                  <num>(4)</num>
-                  <text>For each set of personal records that has been disposed of or changed significantly since the unit or instrumentality last submitted a report, the information required under §C(3) of this regulation.</text>
-                </para>
-              </para>
-              <para>
-                <num>D.</num>
-                <text>A unit or instrumentality that has two or more sets of personal records may combine the personal records in the report only if the character of the personal records is highly similar.</text>
-              </para>
-            </section>
-            <section>
-              <prefix>Regulation</prefix>
-              <num>.04</num>
-              <heading>Form and Method of Reporting Personal Records.</heading>
-              <para>
-                <num>A.</num>
-                <text>The Secretary shall develop and issue forms and instructions annually which enable units and instrumentalities of State government, other than those identified in Regulation .03B, to comply with the requirements of this chapter.</text>
-              </para>
-              <para>
-                <num>B.</num>
-                <text>The Secretary shall request, by June 1 of each year, a fiscal year annual report of personal records. The report shall be due within 60 days of the Secretary's request.</text>
-              </para>
-            </section>
-            <section>
-              <prefix>Regulation</prefix>
-              <num>.05</num>
-              <heading>Public Inspection.</heading>
-              <text>The Secretary shall make the annual report available for public inspection in accordance with <cite doc="Code of Maryland Regulations" path="|04.01.01">COMAR 04.01.01</cite>.</text>
-            </section>
-          </container>
-        </codify:replace>
-      </container>
-      <container>
-        <num>24-059-F</num>
-      </container>
-      <container>
-        <num>24-096-F</num>
-      </container>
-      <container>
-        <num>24-092-F</num>
         <codify:replace path="|04|01|01" codified:doc="Code of Maryland Regulations" codified:path="04|01|01|.01|annos">
           <container>
             <prefix>Chapter</prefix>
@@ -199,7 +27,7 @@
               <prefix>Regulation</prefix>
               <num>.01</num>
               <heading>General.</heading>
-              <text>Amended Text.</text>
+              <text>Amended Text</text>
             </section>
             <section>
               <prefix>Regulation</prefix>
@@ -411,6 +239,67 @@
           </container>
         </codify:replace>
       </container>
+      <container>
+        <num>24-091-F</num>
+      </container>
+      <container>
+        <num>23-235-F</num>
+      </container>
+      <container>
+        <num>24-088-F</num>
+        <codify:replace path="|04|01|03" codified:doc="Code of Maryland Regulations" codified:path="04|01|03|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>03</num>
+            <heading>Petition for Declaratory Ruling</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Who May File.</heading>
+              <text>Any interested person may file with the Secretary of the Department of General Services a petition for a declaratory ruling with respect to the applicability to any person, property, or state of facts of the laws administered by the Department and regulations set forth in Title 04 of COMAR.</text>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.02</num>
+              <heading>Form.</heading>
+              <para>
+                <num>A.</num>
+                <text>A petition for declaratory ruling shall be filed in writing and clearly marked to indicate that it is being filed pursuant to this regulation. It shall contain a detailed statement of the facts on which the petition is based, shall set forth fully the statutes, regulations, or judicial decisions relevant to the issue, and shall pose the question of whether, and in what manner, the statutes, regulations, or judicial decisions apply to the petitioner under the facts outlined in the petition.</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Amended Text</text>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.03</num>
+              <heading>Consideration and Disposition.</heading>
+              <para>
+                <num>A.</num>
+                <text>The Secretary shall consider the petition and may, at his discretion, issue the declaratory ruling requested. The Secretary may require argument on the petition. Any declaratory ruling issued shall plainly state that it is a declaratory ruling pursuant to this regulation. A written answer from the Secretary or any employee of the Department to an inquiry may not be construed to be a declaratory ruling unless made in conformity with this regulation.</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>As to the petitioner, a declaratory ruling shall be binding upon the Secretary as to any transaction covered thereby, entered into before the date of the declaratory ruling, and any transaction entered into in reliance upon the declaratory ruling unless, after the issuance of the declaratory ruling and before any affected transaction, a change in the legal basis of the declaratory ruling is made by statute, regulation, or judicial decision. With prospective effect only, a declaratory ruling may be revoked, altered, or amended by the Secretary, at any time.</text>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>The Secretary may publish declaratory rulings of general interest, subject to protection of the identity of the petitioner and any confidential information contained in the petition for declaratory ruling.</text>
+              </para>
+            </section>
+          </container>
+        </codify:replace>
+      </container>
+      <container>
+        <num>24-059-F</num>
+      </container>
+      <container>
+        <num>24-096-F</num>
+      </container>
+      <container>
+        <num>24-092-F</num>
+      </container>
     </container>
     <container name="withdrawal">
       <container>
@@ -418,6 +307,7 @@
       </container>
       <container>
         <num>23-224-W</num>
+        <codify:repeal path="|04|01|05" codified:doc="Code of Maryland Regulations" codified:path="04|01|05|.01|annos"/>
       </container>
     </container>
   </container>
