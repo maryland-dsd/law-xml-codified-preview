@@ -18,12 +18,8 @@
       </repositories>
       <platform version="2.16.0" reproducible="false"/>
       <build-date>2025-03-27</build-date>
-      <codified-date>2024-11-11</codified-date>
+      <codified-date>0001-01-01</codified-date>
     </build>
   </meta>
   <xi:include href="./us/md/exec/comar/index.xml"/>
-  <collection name="us/md/exec/register">
-    <heading>Maryland Register</heading>
-    <xi:include href="./us/md/exec/register/51/index.xml"/>
-  </collection>
 </library>
