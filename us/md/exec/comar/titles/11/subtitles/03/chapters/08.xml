@@ -112,9 +112,9 @@
       <table>
         <thead>
           <tr>
-            <th proof="needed"/>
-            <th proof="needed"/>
-            <th proof="needed"/>
+            <th/>
+            <th/>
+            <th/>
             <th colspan="2">Available Loans</th>
           </tr>
           <tr>
@@ -156,10 +156,10 @@
           </tr>
           <tr>
             <td data-vertical-align="middle">Land acquisition:</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td data-vertical-align="middle">Easements and in-fee operating equipment:</td>
@@ -177,10 +177,10 @@
           </tr>
           <tr>
             <td data-vertical-align="middle">Pavement:</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td data-vertical-align="middle">New</td>

@@ -118,7 +118,13 @@
         <text>Has obtained a Maryland High School Certificate of Program Completion in accordance with COMAR 13A.03 .02.09D.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>Amended reg.</text>
+    </para>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-041-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
