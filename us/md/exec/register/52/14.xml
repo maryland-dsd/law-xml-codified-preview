@@ -20,32 +20,468 @@
         <num>25-041-F</num>
       </container>
       <container>
+        <num>25-051-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" warning="false" path="09.30" codified:doc="Code of Maryland Regulations" codified:path="09|30">
+          <container>
+            <prefix>Subtitle</prefix>
+            <num>30</num>
+            <heading>Test New Subtitle</heading>
+          </container>
+        </codify:replace>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="09|30" codified:doc="Code of Maryland Regulations" codified:path="09|30|01|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>01</num>
+            <heading>New Chapter Heading</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Reg</heading>
+              <para>
+                <num>A.</num>
+                <text>New reg subpara</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>New reg subpara 2</text>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.06</num>
+              <heading>Identification as Polysomnographic Technologist; Notice of Name or Address Change.</heading>
+              <para>
+                <num>A.</num>
+                <text>A licensed polysomnographic technologist shall wear an identification tag or a badge <strong>[</strong>which identifies that individual as<strong>]</strong> <em>displaying in readily visible type that the individual is</em> a licensed polysomnographic technologist.</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>
+                  <em>An individual may not identify himself or herself as a polysomnographic technologist unless the individual is licensed by the Board.</em>
+                </text>
+              </para>
+            </section>
+            <annotations>
+              <annotation type="Authority" dest="container">New Authority, Annotated Code of Maryland</annotation>
+              <annotation type="History" subtype="Administrative History" dest="container" effective="2025-07-21">Effective date: July 21, 2025 (52:14 M.D. 101)</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+      </container>
+      <container>
         <num>25-013-F</num>
         <codify:replace history="false" path="10|09|24|heading" codified:doc="Code of Maryland Regulations" codified:path="10|09|24">
-          <heading>Test Heading Change</heading>
+          <heading>Change Chapter Heading</heading>
         </codify:replace>
         <codify:remove history="false" path="10|09|24|.03-4" warning="false" codified:doc="Code of Maryland Regulations" codified:path="10|09|24|.01|annos"/>
         <codify:insert history="false" path="10|09|24" doc="Code of Maryland Regulations" after=".03-3" codified:doc="Code of Maryland Regulations" codified:path="10|09|24|.03-5">
           <section>
             <prefix>Regulation</prefix>
             <num>.03-5</num>
-            <heading>Test new reg</heading>
+            <heading>New Section</heading>
             <para>
               <num>A.</num>
-              <text>Test new para</text>
-              <para>
-                <num>(1)</num>
-                <text>Test new sub para</text>
-              </para>
+              <text>New section para.</text>
             </para>
           </section>
         </codify:insert>
+        <codify:replace history="false" path="10|09|24|.04" doc="Code of Maryland Regulations" codified:doc="Code of Maryland Regulations" codified:path="10|09|24|.04">
+          <section cache:ref-path="10|09|24|.04">
+            <prefix>Regulation</prefix>
+            <num>.04</num>
+            <heading>Application — General Requirements.</heading>
+            <para>
+              <num>A.</num>
+              <text>The Department or its designee shall determine initial (retroactive and current) and continuing eligibility.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>The Department or its designee shall give oral, written, or electronic information about the Medical Assistance Program such as:</text>
+              <para>
+                <num>(1)</num>
+                <text>Requirements for eligibility;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Available services;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>An individual's rights and responsibilities;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Information in plain English, supported by translation services; and</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Information accessible to disabled individuals requesting an application.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>An individual requesting health coverage from an Insurance Affordability Program shall be given an opportunity to apply.</text>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>The Department or its designee shall make the application available to the individual without delay, by telephone, mail, in-person, internet, other available electronic means and in a manner accessible to disabled individuals requesting an application.</text>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>A resident temporarily absent from the State but intending to return may apply for health coverage from an Insurance Affordability Program by telephone, mail, in-person, internet, and other available electronic means to the Department or its designee in any jurisdiction. The individual shall:</text>
+              <para>
+                <num>(1)</num>
+                <text>Demonstrate continued residency in the State; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Meet all nonfinancial and financial requirements in order to be determined eligible.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>New amended sub-para</text>
+              </para>
+            </para>
+            <para>
+              <num>F.</num>
+              <text>Application Filing and Signature Requirements.</text>
+              <para>
+                <num>(1)</num>
+                <text>An individual who wishes to apply for health coverage under an Insurance Affordability Program shall submit a written, telephonic, or electronic application signed under penalty of perjury to the Department or its designee in any jurisdiction. An applicant shall be responsible for completing the application but may be assisted in the completion by an individual of the applicant's choice.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A signed application is required for all individuals for whom assistance is requested. If, after the completion of an eligibility determination, assistance is requested for additional family members, a signed application is required for those individuals.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>An exception to <cite path="10|09|24|.04|F.|(2)" doc="Maryland Register, Volume 52, Issue 14">§F(2) of this regulation</cite> is that a child born to a mother eligible for and receiving Medical Assistance on the date of the child's birth shall be considered to have applied for Medical Assistance and to have been found eligible for Medical Assistance on the date of his birth, and to remain eligible for Medical Assistance for a period of 1 year.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>For the purpose of establishing eligibility, the applicant or an authorized representative shall complete and sign the application.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>In the case of a child applicant younger than 18 years old, a parent of the child shall sign the application, except in the following situations:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>When the child does not live with a parent, or the parent with whom the child lives is an unmarried minor younger than 18 years old, the caretaker relative other than parent shall sign the application form;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>An authorized representative who is 18 years old or older shall complete and sign the application form for an unmarried child younger than 18 years old who is not living with a parent or caretaker relative other than the parent.</text>
+                </para>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>The date of application shall be the date on which a written, telephonic, or electronic signed application is received by the Department or its designee.</text>
+              </para>
+            </para>
+            <para>
+              <num>G.</num>
+              <text>An individual who has filed a written, telephonic, or electronic application may voluntarily withdraw that application; however, the application shall remain the property of the Department or its designee, and the withdrawal may not affect the requirements for establishing periods under consideration specified in <cite path="10|09|24|.04|H." doc="Maryland Register, Volume 52, Issue 14">§H of this regulation</cite>.</text>
+            </para>
+            <para>
+              <num>H.</num>
+              <text>Period under Consideration.</text>
+              <para>
+                <num>(1)</num>
+                <text>The Department or its designee shall establish a current period under consideration based on the date of application established pursuant to <cite path="10|09|24|.04|F.|(6)" doc="Maryland Register, Volume 52, Issue 14">§F(6) of this regulation</cite>.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The period under consideration shall be for retroactive eligibility, the 1, 2, or 3 months immediately preceding the month of application for Medical Assistance, except as specified in §H(3) and <cite path="10|09|24|.04|N." doc="Maryland Register, Volume 52, Issue 14">§N of this regulation</cite>.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>For a deceased individual, the retroactive and current periods under consideration shall begin as stated in §H(1) and (2) of this regulation and may not extend beyond the month of death.</text>
+              </para>
+            </para>
+            <para>
+              <num>I.</num>
+              <text>Processing Applications — Time Limitations.</text>
+              <para>
+                <num>(1)</num>
+                <text>When a written, telephonic, or electronic application is filed, a decision shall be made promptly but not later than:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>10 days from the date of application when filed with the local health department; or</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>30 days from the date of application when filed with the Department or its designee, with the exception of the local health department.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The time standards specified in <cite path="10|09|24|.04|I.|(1)" doc="Maryland Register, Volume 52, Issue 14">§I(1) of this regulation</cite> cover the period from the date of application to the date the Department or its designee sends a written or electronic notice of its decision to the applicant.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Information Required.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>The applicant shall report all required information. When there is evidence of inconsistency with attested information given by the applicant and reported by the state and federal databases, the applicant shall be required to offer an explanation and appropriate verification to reconcile the inconsistency.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The Department or its designee shall inform the applicant or authorized representative in a written or electronic notice of the required information and verifications needed to determine eligibility, and the applicable pending time limit.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The applicant or authorized representative shall provide all information and requested verification for the determination of nonfinancial and financial eligibility, including information relating to health insurance coverage or potential third-party payments, early enough for the Department or its designee to meet time limitations.</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>When an applicant completes the application form and requests coverage for:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The current period, verification of all elements of eligibility may be required for the current period;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>The retroactive period, verification of all elements of eligibility may be required for the retroactive period; or</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Both the retroactive and current periods, verification of all elements of eligibility may be required for both the retroactive and current periods.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>When an applicant fails to complete the application form, or fails to provide the required information and verification to determine eligibility within the applicable time frame, the applicant shall be determined ineligible.</text>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Extension of Time Standards.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>The time standards specified in <cite path="10|09|24|.04|I.|(1)" doc="Maryland Register, Volume 52, Issue 14">§I(1) of this regulation</cite> shall be extended to allow the applicant sufficient time to complete provision of information when:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The applicant is actively attempting to establish his eligibility but has been unable to provide the required information through no fault of his own; or</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>There is an administrative or other emergency beyond the control of the Department or its designee.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The Department or its designee shall document the reason for the delay in the applicant's written or electronic record. The extension of time will continue as long as the requirements of <cite path="10|09|24|.04|I.|(4)|(a)" doc="Maryland Register, Volume 52, Issue 14">§I(4)(a) of this regulation</cite> are met. The Department or its designee shall deny Medical Assistance when these requirements cease to be met. When a subsequent application is made, eligibility and period under consideration shall be determined under §I(7), (8), (9), or (10) of this regulation.</text>
+                </para>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>The standards of promptness for acting on applications may not be used to deny assistance except as provided in <cite path="10|09|24|.04|I.|(4)|(b)" doc="Maryland Register, Volume 52, Issue 14">§I(4)(b) of this regulation</cite>.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>The standards of promptness for acting on applications may not be used as a waiting period for granting assistance to eligible persons.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>Disposition of Application Following a Decision of Ineligibility. If an applicant is determined ineligible for the current period under consideration:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Due to a nonfinancial factor, the application shall be disposed of and the application date may not be retained. If the applicant reapplies, the process and the period under consideration shall be established under <cite path="10|09|24|.04|I.|(9)" doc="Maryland Register, Volume 52, Issue 14">§I(9) of this regulation</cite>.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Solely because of excess income, the application shall be preserved for the period under consideration. The applicant may subsequently establish eligibility for the period under consideration under the "spend-down" process described under Regulations .09C(4) and .10D(5) of this chapter.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Solely because of failure to complete the application requirements, including voluntary withdrawal of the application, the application shall be disposed of. If the applicant reapplies, the process and period under consideration shall be established under §I (8), (9), or (10) of this regulation.</text>
+                </para>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>Reactivation of an Application Following a Decision of Ineligibility for Reasons Other than Nonfinancial Factors or Excess Income.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A request for current eligibility following the rejection of an application for reasons other than nonfinancial factors or excess income shall be considered a reactivation of the appropriate earlier application.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The reactivation period shall:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Apply to the earliest rejected application for which the period under consideration has not expired;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Include the retroactive period associated with the current period.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The applicant may establish eligibility for the current period, the retroactive period, or both, at any time during the reactivation period.</text>
+                </para>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>Reapplication Following a Decision of Ineligibility Due to a Nonfinancial Factor.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>When an applicant reapplies following a decision of ineligibility due to a nonfinancial factor, a new period under consideration shall be established based on the date a new application is submitted. Coverage may not be provided for any month in which the applicant has not overcome the prior factor of ineligibility.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The incurred medical expenses from a past period during which nonfinancial ineligibility or excess resources existed may be applied to excess income, if any, for the current period.</text>
+                </para>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>Reapplication After the Period Under Consideration Has Expired.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A request for eligibility and application filed after the expiration of the period under consideration shall be considered a new application, and a new period under consideration shall be established.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>A part of the expired current period under consideration may not be converted to a retroactive period for purposes of determining eligibility. A part of the expired current period under consideration may constitute part or all of the 3 months before the month of application for purposes of post-eligibility deductions.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The incurred unpaid expenses from the expired period may, with the written consent of the applicant, be applied to excess income, if any, for the current period.</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>The written consent shall be obtained on a form designated by the Department.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>J.</num>
+              <text>An applicant or recipient may be assisted by an individual or individuals of the applicant's or recipient's choice in the application process and may be accompanied by this individual or individuals when in contact with the Department or its designee.</text>
+            </para>
+            <para>
+              <num>K.</num>
+              <text>Required Application for Income Benefits.</text>
+              <para>
+                <num>(1)</num>
+                <text>Applicants and recipients shall apply for all income benefits to which there may be entitlement, except as specified in <cite path="10|09|24|.04|K.|(3)" doc="Maryland Register, Volume 52, Issue 14">§K(3) of this regulation</cite>.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Income benefits include, but are not limited to, Social Security, Unemployment Compensation, Railroad Retirement, Veterans' Administration, Civil Service annuities, federal, state, or local government and private pensions, and Workers' Compensation.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Applicants and recipients determined by the Department or its designee to be unable to perform the required activity because of the applicant's or recipient's physical or mental condition and for whom there is no other individual to perform the activity are not required to apply for income benefits.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Determination of initial eligibility may not be delayed pending the results of the application filed for income benefits.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>At the time of redetermination or reapplication, eligibility will be determined on the basis of the applicant's or recipient's documented reasonable and continuous efforts to establish entitlement to income benefits.</text>
+              </para>
+            </para>
+            <para>
+              <num>L.</num>
+              <text>Social Security Number.</text>
+              <para>
+                <num>(1)</num>
+                <text>Eligibility may not be established until the applicant or recipient furnishes or applies for a Social Security number for any individual whose income is considered in determining financial eligibility.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Assistance may not be denied, delayed, or discontinued pending the issuance or verification of the number if the applicant or recipient complies with <cite path="10|09|24|.04|L.|(1)" doc="Maryland Register, Volume 52, Issue 14">§L(1) of this regulation</cite>.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>If an applicant or recipient is physically or mentally incapable of acting for himself or herself or lacks the resources to meet the requirements, the Department or its designee shall assist the applicant or recipient in obtaining the necessary evidentiary documents required for application for a Social Security number, and any costs incurred by the Department or its designee shall be paid out of administrative funds.</text>
+              </para>
+            </para>
+            <para>
+              <num>M.</num>
+              <text>Third-Party Liability.</text>
+              <para>
+                <num>(1)</num>
+                <text>Applicants and recipients shall notify the Department or its designee within 10 working days when medical treatment has been provided as a result of a motor vehicle accident or other occurrence in which a third party might be liable for their medical expenses.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Applicants and recipients shall cooperate with the Department or its designee in completing a form designated by the Department to report all pertinent information and in collecting available health insurance benefits and other third-party payments.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>In accident situations, applicants and recipients shall notify the Department or its designee of the time, date, and location of the accident, the name and address of the attorney, the names and addresses of all parties and witnesses to the accident, and the police report number if an investigation is made.</text>
+              </para>
+            </para>
+            <para>
+              <num>N.</num>
+              <text>Retroactive Eligibility for Applicants or Recipients. An applicant or recipient who desires Medical Assistance coverage for a past period shall apply for retroactive coverage. The date of application for retroactive coverage shall be established in accordance with the requirements of <cite path="|10|09|24|.09|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .09B of this chapter</cite>.</text>
+            </para>
+            <para>
+              <num>O.</num>
+              <text>The Department or its designee shall explain the spend-down provision to an applicant determined ineligible because of excess income.</text>
+            </para>
+            <para>
+              <num>P.</num>
+              <text>The Department or its designee shall maintain a written or electronic record including documentation of all required elements of eligibility.</text>
+            </para>
+            <para>
+              <num>Q.</num>
+              <text>The Department or its designee shall restrict disclosures of information concerning applicants and recipients to purposes directly connected with the administration of the Program, including:</text>
+              <para>
+                <num>(1)</num>
+                <text>Establishing eligibility;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Determining the extent of coverage under the Program;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Providing services for recipients; and</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Conducting or assisting an investigation, prosecution, or civil or criminal proceeding related to the administration of the Program.</text>
+              </para>
+            </para>
+            <para>
+              <num>R.</num>
+              <text>The Department or its designee shall conduct a wage-screening inquiry to determine wages, benefits, and claimant history for each of the following applicants or recipients of Medical Assistance:</text>
+              <para>
+                <num>(1)</num>
+                <text>Childless, adults older than 19 years old and younger than 65 years old;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Parents and other Caretaker Relatives;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Pregnant and postpartum women;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Children younger than 21 years old; and</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Former Foster Care Children younger than 26 years old.</text>
+              </para>
+            </para>
+            <para>
+              <num>S.</num>
+              <text>An applicant or recipient shall give consent to verify information needed to establish eligibility to the Department or its designee, by submitting a written, telephonic or electronic application.</text>
+            </para>
+          </section>
+        </codify:replace>
         <codify:insert history="false" path="10|09|24" doc="Code of Maryland Regulations" before="annos" codified:doc="Code of Maryland Regulations" codified:path="10|09|24|.18">
           <section>
             <prefix>Regulation</prefix>
             <num>.18</num>
-            <heading>Test New Reg at End</heading>
-            <text>Test New reg at end</text>
+            <heading>New reg at end</heading>
+            <text>Text</text>
           </section>
         </codify:insert>
         <codify:replace history="false" path="10|09|24|annos" doc="Code of Maryland Regulations" codified:doc="Code of Maryland Regulations" codified:path="10|09|24|annos">
@@ -66,7 +502,7 @@
             <annotation type="History" subtype="Administrative History" dest="container" effective="2010-12-27"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-3 amended effective December 27, 2010 (37:26 Md. R. 1787)</annotation>
             <annotation type="History" subtype="Administrative History" dest="container" effective="2004-06-07"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-4 adopted effective June 7, 2004 (31:11 Md. R. 856)</annotation>
             <annotation type="History" subtype="Administrative History" dest="container" effective="2010-12-27"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-4A amended effective December 27, 2010 (37:26 Md. R. 1787)</annotation>
-            <annotation type="History" subtype="Administrative History" dest="container"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-5 adopted effective July, 21, 2025 (52:14 Md. R. 856)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2025-07-21"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-5 adopted effective July 21, 2025 (52:14 Md. R. 856)</annotation>
             <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.04" doc="Maryland Register, Volume 52, Issue 14">Regulation .04</cite> amended effective May 1, 1986 (13:8 Md. R. 898); May 1, 1989 (16:8 Md. R. 910); June 30, 2008 (35:13 Md. R. 1179); April 19, 2010 (37:8 Md. R. 615)</annotation>
             <annotation type="History" subtype="Administrative History" dest="container" effective="2001-10-01"><cite path="|10|09|24|.04|J." doc="Maryland Register, Volume 52, Issue 14">Regulation .04J</cite> amended as an emergency provision effective October 1, 2001 (28:24 Md. R. 2125); emergency status expired March 29, 2002</annotation>
             <annotation type="History" subtype="Administrative History" dest="container" effective="1984-07-06">Regulations .04J, .07B, G—N, and .08B, G—L amended as an emergency provision effective March 1, 1984 (11:5 Md. R. 449); emergency status extended at 11:14 Md. R. 1247 (July 6, 1984)</annotation>

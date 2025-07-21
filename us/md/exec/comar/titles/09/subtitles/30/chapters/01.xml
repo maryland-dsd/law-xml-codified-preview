@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>New Chapter Heading</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Reg</heading>
+    <para>
+      <num>A.</num>
+      <text>New reg subpara</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>New reg subpara 2</text>
+    </para>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-051-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Identification as Polysomnographic Technologist; Notice of Name or Address Change.</heading>
+    <para>
+      <num>A.</num>
+      <text>A licensed polysomnographic technologist shall wear an identification tag or a badge <strong>[</strong>which identifies that individual as<strong>]</strong> <em>displaying in readily visible type that the individual is</em> a licensed polysomnographic technologist.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>
+        <em>An individual may not identify himself or herself as a polysomnographic technologist unless the individual is licensed by the Board.</em>
+      </text>
+    </para>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-051-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation type="Authority" dest="container">New Authority, Annotated Code of Maryland</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2025-07-21">Effective date: July 21, 2025 (52:14 M.D. 101)</annotation>
+  </annotations>
+  <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-051-F" type="History" display="false"/>
+</container>
