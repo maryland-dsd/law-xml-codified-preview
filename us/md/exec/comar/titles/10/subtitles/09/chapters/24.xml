@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>24</num>
-  <heading>Change Chapter Heading<annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/></heading>
+  <heading>Medical Assistance Eligibility</heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -23,9 +23,7 @@
         <text>The MAGI Exempt coverage groups whose income standard is based on Title XIX of the Social Security Act.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -535,9 +533,7 @@
         <text>"Tuberculosis hospital" means an institution which falls within the jurisdiction of Health-General Article, §19-307(a)(1), Annotated Code of Maryland, and is licensed pursuant to <cite path="|10.07.01">COMAR 10.07.01</cite>.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -611,9 +607,7 @@
         <text>“Maryland Health Benefit Exchange” means the unit of State government that determines initial and continuing eligibility for the MAGI based insurance affordability programs, including, by delegation, certain eligibility in the program.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.03">
     <prefix>Regulation</prefix>
@@ -791,9 +785,7 @@
         <text>Because of a change in household income, will not otherwise remain eligible.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.03-1">
     <prefix>Regulation</prefix>
@@ -1035,9 +1027,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.03-2">
     <prefix>Regulation</prefix>
@@ -1311,9 +1301,7 @@
         <text>Coverage for services in a long-term care facility exceeding 30 consecutive days.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.03-3">
     <prefix>Regulation</prefix>
@@ -1675,21 +1663,33 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.03-5</num>
-    <heading>New Section</heading>
+    <num>.03-4</num>
+    <heading>Medicare Buy-In Coverage for Medical Assistance Recipients.</heading>
     <para>
       <num>A.</num>
-      <text>New section para.</text>
+      <text>If a recipient, who is determined federally eligible and enrolled in Medical Assistance or the Maryland Children’s Health Program according to the requirements of this chapter or <cite path="|10.09.11">COMAR 10.09.11</cite>, is entitled to hospital insurance benefits under Medicare Part A, or medical insurance benefits under Medicare Part B, or both, with or without payment of premiums, the Medical Assistance program shall provide the same coverage of Medicare savings program expenses as specified for a Qualified Medicare Beneficiary under Regulation .03-3E of this chapter.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <para>
+      <num>B.</num>
+      <text>A qualified recipient is automatically made eligible by the Department or its designee for the Medicare buy-in benefits effective the first day of the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Second month after the month in which the individual is determined eligible for Medical Assistance or the first day of the third month of Medicare entitlement, whichever date is later, if the individual is eligible in a long-term care or spend down coverage group; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Month that the individual is eligible for both Medical Assistance and Medicare, if the individual is eligible under <cite path="|10.09.24">COMAR 10.09.24</cite> or <cite path="|10.09.11">COMAR 10.09.11</cite> for Medical Assistance in any coverage groups other than long-term care or spend down.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A recipient's eligibility for Medicare buy-in benefits shall continue until the recipient is determined ineligible.</text>
+    </para>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.04">
     <prefix>Regulation</prefix>
@@ -1742,10 +1742,6 @@
         <num>(2)</num>
         <text>Meet all nonfinancial and financial requirements in order to be determined eligible.</text>
       </para>
-      <para>
-        <num>(3)</num>
-        <text>New amended sub-para</text>
-      </para>
     </para>
     <para>
       <num>F.</num>
@@ -1760,14 +1756,18 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>An exception to <cite path="10|09|24|.04|F.|(2)" doc="Maryland Register, Volume 52, Issue 14">§F(2) of this regulation</cite> is that a child born to a mother eligible for and receiving Medical Assistance on the date of the child's birth shall be considered to have applied for Medical Assistance and to have been found eligible for Medical Assistance on the date of his birth, and to remain eligible for Medical Assistance for a period of 1 year.</text>
+        <text>An exception to <cite path="10|09|24|.04|F.|(2)">§F(2) of this regulation</cite> is that a child born to a mother eligible for and receiving Medical Assistance on the date of the child's birth shall be considered to have applied for Medical Assistance and to have been found eligible for Medical Assistance on the date of his birth, and to remain eligible for Medical Assistance for a period of 1 year.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>For the purpose of establishing eligibility, the applicant or an authorized representative shall complete and sign the application.</text>
+        <text>A deemed newborn is eligible for receiving Medical Assistance if, at the time of birth, the child’s mother was covered by Medicaid in another state, as a child under CHIP, or under an 1115 waiver.</text>
       </para>
       <para>
         <num>(5)</num>
+        <text>For the purpose of establishing eligibility, the applicant or an authorized representative shall complete and sign the application.</text>
+      </para>
+      <para>
+        <num>(6)</num>
         <text>In the case of a child applicant younger than 18 years old, a parent of the child shall sign the application, except in the following situations:</text>
         <para>
           <num>(a)</num>
@@ -1779,24 +1779,24 @@
         </para>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(7)</num>
         <text>The date of application shall be the date on which a written, telephonic, or electronic signed application is received by the Department or its designee.</text>
       </para>
     </para>
     <para>
       <num>G.</num>
-      <text>An individual who has filed a written, telephonic, or electronic application may voluntarily withdraw that application; however, the application shall remain the property of the Department or its designee, and the withdrawal may not affect the requirements for establishing periods under consideration specified in <cite path="10|09|24|.04|H." doc="Maryland Register, Volume 52, Issue 14">§H of this regulation</cite>.</text>
+      <text>An individual who has filed a written, telephonic, or electronic application may voluntarily withdraw that application; however, the application shall remain the property of the Department or its designee, and the withdrawal may not affect the requirements for establishing periods under consideration specified in <cite path="10|09|24|.04|H.">§H of this regulation</cite>.</text>
     </para>
     <para>
       <num>H.</num>
       <text>Period under Consideration.</text>
       <para>
         <num>(1)</num>
-        <text>The Department or its designee shall establish a current period under consideration based on the date of application established pursuant to <cite path="10|09|24|.04|F.|(6)" doc="Maryland Register, Volume 52, Issue 14">§F(6) of this regulation</cite>.</text>
+        <text>The Department or its designee shall establish a current period under consideration based on the date of application established pursuant to <cite path="10|09|24|.04|F.|(6)">§F(6) of this regulation</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The period under consideration shall be for retroactive eligibility, the 1, 2, or 3 months immediately preceding the month of application for Medical Assistance, except as specified in §H(3) and <cite path="10|09|24|.04|N." doc="Maryland Register, Volume 52, Issue 14">§N of this regulation</cite>.</text>
+        <text>The period under consideration shall be for retroactive eligibility, the 1, 2, or 3 months immediately preceding the month of application for Medical Assistance, except as specified in §H(3) and <cite path="10|09|24|.04|N.">§N of this regulation</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1820,7 +1820,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The time standards specified in <cite path="10|09|24|.04|I.|(1)" doc="Maryland Register, Volume 52, Issue 14">§I(1) of this regulation</cite> cover the period from the date of application to the date the Department or its designee sends a written or electronic notice of its decision to the applicant.</text>
+        <text>The time standards specified in <cite path="10|09|24|.04|I.|(1)">§I(1) of this regulation</cite> cover the period from the date of application to the date the Department or its designee sends a written or electronic notice of its decision to the applicant.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1863,7 +1863,7 @@
         <text>Extension of Time Standards.</text>
         <para>
           <num>(a)</num>
-          <text>The time standards specified in <cite path="10|09|24|.04|I.|(1)" doc="Maryland Register, Volume 52, Issue 14">§I(1) of this regulation</cite> shall be extended to allow the applicant sufficient time to complete provision of information when:</text>
+          <text>The time standards specified in <cite path="10|09|24|.04|I.|(1)">§I(1) of this regulation</cite> shall be extended to allow the applicant sufficient time to complete provision of information when:</text>
           <para>
             <num>(i)</num>
             <text>The applicant is actively attempting to establish his eligibility but has been unable to provide the required information through no fault of his own; or</text>
@@ -1875,12 +1875,12 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The Department or its designee shall document the reason for the delay in the applicant's written or electronic record. The extension of time will continue as long as the requirements of <cite path="10|09|24|.04|I.|(4)|(a)" doc="Maryland Register, Volume 52, Issue 14">§I(4)(a) of this regulation</cite> are met. The Department or its designee shall deny Medical Assistance when these requirements cease to be met. When a subsequent application is made, eligibility and period under consideration shall be determined under §I(7), (8), (9), or (10) of this regulation.</text>
+          <text>The Department or its designee shall document the reason for the delay in the applicant's written or electronic record. The extension of time will continue as long as the requirements of <cite path="10|09|24|.04|I.|(4)|(a)">§I(4)(a) of this regulation</cite> are met. The Department or its designee shall deny Medical Assistance when these requirements cease to be met. When a subsequent application is made, eligibility and period under consideration shall be determined under §I(7), (8), (9), or (10) of this regulation.</text>
         </para>
       </para>
       <para>
         <num>(5)</num>
-        <text>The standards of promptness for acting on applications may not be used to deny assistance except as provided in <cite path="10|09|24|.04|I.|(4)|(b)" doc="Maryland Register, Volume 52, Issue 14">§I(4)(b) of this regulation</cite>.</text>
+        <text>The standards of promptness for acting on applications may not be used to deny assistance except as provided in <cite path="10|09|24|.04|I.|(4)|(b)">§I(4)(b) of this regulation</cite>.</text>
       </para>
       <para>
         <num>(6)</num>
@@ -1891,7 +1891,7 @@
         <text>Disposition of Application Following a Decision of Ineligibility. If an applicant is determined ineligible for the current period under consideration:</text>
         <para>
           <num>(a)</num>
-          <text>Due to a nonfinancial factor, the application shall be disposed of and the application date may not be retained. If the applicant reapplies, the process and the period under consideration shall be established under <cite path="10|09|24|.04|I.|(9)" doc="Maryland Register, Volume 52, Issue 14">§I(9) of this regulation</cite>.</text>
+          <text>Due to a nonfinancial factor, the application shall be disposed of and the application date may not be retained. If the applicant reapplies, the process and the period under consideration shall be established under <cite path="10|09|24|.04|I.|(9)">§I(9) of this regulation</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1968,7 +1968,7 @@
       <text>Required Application for Income Benefits.</text>
       <para>
         <num>(1)</num>
-        <text>Applicants and recipients shall apply for all income benefits to which there may be entitlement, except as specified in <cite path="10|09|24|.04|K.|(3)" doc="Maryland Register, Volume 52, Issue 14">§K(3) of this regulation</cite>.</text>
+        <text>Applicants and recipients shall apply for all income benefits to which there may be entitlement, except as specified in <cite path="10|09|24|.04|K.|(3)">§K(3) of this regulation</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1996,7 +1996,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Assistance may not be denied, delayed, or discontinued pending the issuance or verification of the number if the applicant or recipient complies with <cite path="10|09|24|.04|L.|(1)" doc="Maryland Register, Volume 52, Issue 14">§L(1) of this regulation</cite>.</text>
+        <text>Assistance may not be denied, delayed, or discontinued pending the issuance or verification of the number if the applicant or recipient complies with <cite path="10|09|24|.04|L.|(1)">§L(1) of this regulation</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -2021,7 +2021,7 @@
     </para>
     <para>
       <num>N.</num>
-      <text>Retroactive Eligibility for Applicants or Recipients. An applicant or recipient who desires Medical Assistance coverage for a past period shall apply for retroactive coverage. The date of application for retroactive coverage shall be established in accordance with the requirements of <cite path="|10|09|24|.09|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .09B of this chapter</cite>.</text>
+      <text>Retroactive Eligibility for Applicants or Recipients. An applicant or recipient who desires Medical Assistance coverage for a past period shall apply for retroactive coverage. The date of application for retroactive coverage shall be established in accordance with the requirements of <cite path="|10|09|24|.09|B.">Regulation .09B of this chapter</cite>.</text>
     </para>
     <para>
       <num>O.</num>
@@ -2079,9 +2079,7 @@
       <num>S.</num>
       <text>An applicant or recipient shall give consent to verify information needed to establish eligibility to the Department or its designee, by submitting a written, telephonic or electronic application.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.04-1">
     <prefix>Regulation</prefix>
@@ -2331,9 +2329,7 @@
         <text>Reimbursement Schedule. The Department or its designee shall reimburse a fiduciary institution for providing copies of financial records in accordance with the Banks and Banking regulations found in 12 CFR §219.3, including the Reimbursement Schedule at Appendix A.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.05">
     <prefix>Regulation</prefix>
@@ -2635,9 +2631,7 @@
         <text>Effective December 1, 2009, as authorized by the Children's Health Insurance Program Reauthorization Act of 2009 (CHIPRA), the 5-year bar will no longer apply to Medical Assistance or Children's Health Insurance Program eligibility for pregnant women and children who are qualified aliens.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2743,9 +2737,7 @@
         <text>Federal government requires additional documentation.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2803,9 +2795,7 @@
         <text>Routine prenatal or postpartum care.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.05-3">
     <prefix>Regulation</prefix>
@@ -3023,9 +3013,7 @@
         <text>Is found incapable of indicating intent based on medical documentation obtained from a physician, psychologist, or other person licensed by the state in the field of intellectual disabilities.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.05-4">
     <prefix>Regulation</prefix>
@@ -3155,9 +3143,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.05-5">
     <prefix>Regulation</prefix>
@@ -3303,9 +3289,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.06">
     <prefix>Regulation</prefix>
@@ -3547,9 +3531,7 @@
       <num>D.</num>
       <text>Additions to the Household. A new member of the household will be considered in accordance with all applicable regulations of this chapter.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3607,9 +3589,7 @@
         <text>In the case of determining the household size of a pregnant woman, the pregnant woman shall be counted as herself plus the number of children she is expected to deliver.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.07">
     <prefix>Regulation</prefix>
@@ -4289,9 +4269,7 @@
         </table>
       </text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.08">
     <prefix>Regulation</prefix>
@@ -5077,9 +5055,7 @@
         </table>
       </text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.08-1">
     <prefix>Regulation</prefix>
@@ -5265,9 +5241,7 @@
         <text>In the case of an asset held by an individual in common with another individual or individuals in a joint tenancy, tenancy in common, or similar arrangement, the asset, or the affected portion of the asset, shall be considered a transfer when any action is taken, either by the individual or by any other individual, that reduces or eliminates the individual's ownership or control of the asset.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.08-2">
     <prefix>Regulation</prefix>
@@ -5605,9 +5579,7 @@
         <text>If the trust agreement fails to comply with any provision of this section, the full value of the assets of the trust shall be considered available resources of the trust beneficiary for Medical Assistance eligibility purposes.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.08-3">
     <prefix>Regulation</prefix>
@@ -5685,9 +5657,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.08-4">
     <prefix>Regulation</prefix>
@@ -5797,9 +5767,7 @@
       <num>F.</num>
       <text>Estate recovery by the Department is limited as set forth in Regulation .15A-3(5) of this chapter.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.09">
     <prefix>Regulation</prefix>
@@ -5985,9 +5953,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.10">
     <prefix>Regulation</prefix>
@@ -6481,9 +6447,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.10-1">
     <prefix>Regulation</prefix>
@@ -6865,9 +6829,7 @@
       <num>G.</num>
       <text>For services furnished during a calendar year after 1989, the dollar amounts specified under §§C(7) and E(2)(a) and (b) of this regulation shall be increased by the same percentage as the percentage increase in the consumer price index for all urban consumers between September, 1988 and the September preceding the calendar year involved.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.10-2">
     <prefix>Regulation</prefix>
@@ -6945,9 +6907,7 @@
       <num>G.</num>
       <text>The Department may waive the application of <cite path="10|09|24|.10-2|F.">§F of this regulation</cite> if the Department determines that denial of eligibility for long-term care coverage would work an undue hardship.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.11">
     <prefix>Regulation</prefix>
@@ -7157,9 +7117,7 @@
         <text>Notwithstanding the provisions of §D(1)—(4) of this regulation, certification of a deceased person may not continue beyond the date of death.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -7437,18 +7395,14 @@
       <num>D.</num>
       <text>Subsequent Application. A person may reapply when eligibility is not met during the periods established in §C(1) and (3) of this regulation.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.13</num>
     <heading>Hearings.</heading>
     <text>The procedures for the Department or its designee granting a hearing to an applicant or a recipient and the status of benefits pending a hearing are set forth in <cite path="|10.01.04">COMAR 10.01.04</cite>.</text>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.14">
     <prefix>Regulation</prefix>
@@ -7626,9 +7580,7 @@
       <num>G.</num>
       <text>Penalties. A person convicted of the crime of Medicaid fraud is subject to penalties as described in Criminal Law Article, §§<cite doc="Md. Code" path="gcr|8-510">8-510</cite>—<cite doc="Md. Code" path="gcr|8-512">8-512</cite>, Annotated Code of Maryland.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.14-1">
     <prefix>Regulation</prefix>
@@ -7862,9 +7814,7 @@
       <num>L.</num>
       <text>The recipient shall be given notice of an opportunity for a hearing in conformity with <cite path="|10.01.04">COMAR 10.01.04</cite>.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.15">
     <prefix>Regulation</prefix>
@@ -8218,18 +8168,14 @@
         <text>The assignment created by this regulation shall be effective as long as the recipient is eligible for Medical Assistance and remains effective for all services paid by the Program during this period of eligibility, and for those services which were erroneously provided to ineligible persons and paid for by the Program.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.16</num>
     <heading>Interpretive Regulation.</heading>
     <text>Except if the language of a specific regulation indicates an intent by the Department to provide reimbursement for covered services to Program recipients without regard to the availability of federal financial participation, State regulations shall be interpreted in conformity with applicable federal statutes and regulations.</text>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="10|09|24|.17">
     <prefix>Regulation</prefix>
@@ -8275,134 +8221,15 @@
       <num>C.</num>
       <text>A carrier shall comply with the provisions of Health-General Article, §15-144, Annotated Code of Maryland, pertaining to health maintenance organizations.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.18</num>
-    <heading>New reg at end</heading>
-    <text>Text</text>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <annotations>
-    <annotation type="Authority" dest="container"><cite doc="Md. Code" path="get|14">Estates and Trusts Article, §14</cite>.5-1002;<br/>Health-General Article, §§2-104(b), 2-105(b), 15-103, 15-105, 15-121, and 15-401—15-407; Annotated Code of Maryland</annotation>
+    <annotation type="Authority" dest="container"><cite doc="Md. Code" path="get|14">Estates and Trusts Article, §14</cite>.5-1002;<br/>Health-General Article, §§2-104(b), 2-105(b), 15-103, 15-105, 15-121, and 15-401—15-407; Annotated Code of Maryland</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1983-05-01">Effective date: May 1, 1983 (10:6 Md. R. 558)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1993-06-01">Regulations .01, .02, and .06 amended as an emergency provision effective December 1, 1992 (19:25 Md. R. 2198); amended permanently effective June 1, 1993 (20:10 Md. R. 852)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1997-06-02"><cite path="|10|09|24|.02|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .02B</cite> amended effective May 1, 1986 (13:8 Md. R. 898); August 8, 1988 (15:16 Md. R. 1914); May 1, 1989 (16:8 Md. R. 910); December 1, 1992 (19:23 Md. R. 2041); March 24, 1997 (24:6 Md. R. 485); June 2, 1997 (24:11 Md. R. 793)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1997-06-02"><cite path="|10|09|24|.02|B.">Regulation .02B</cite> amended effective May 1, 1986 (13:8 Md. R. 898); August 8, 1988 (15:16 Md. R. 1914); May 1, 1989 (16:8 Md. R. 910); December 1, 1992 (19:23 Md. R. 2041); March 24, 1997 (24:6 Md. R. 485); June 2, 1997 (24:11 Md. R. 793)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1983-09-01">Regulations .02B; .03C; .04; .07B, I, J, L; .08G, H; .09B; .10C, E, F; .11D, E; .12B; .14A; and .15D amended as an emergency provision effective May 1, 1983 (10:11 Md. R. 962); adopted permanently effective September 1, 1983 (10:17 Md. R. 1521)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1998-01-12">Regulations .02B and .05A amended as an emergency provision effective October 3, 1997 (24:22 Md. R. 1550); amended permanently effective January 12, 1998 (25:1 Md. R. 16)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2013-10-14"><cite path="|10|09|24|.02|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .02B</cite> amended effective November 24, 2005 (32:23 Md. R. 1826); December 31, 2007 (34:26 Md. R. 2262); October 14, 2013 (40:20 Md. R. 1652)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1990-08-13"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite> amended as an emergency provision effective May 4, 1990 (17:11 Md. R. 1339); amended permanently effective August 13, 1990 (17:15 Md. R. 1858)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2002-04-01"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-1 adopted effective April 1, 2002 (29:6 Md. R. 567)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2003-06-09"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-1B amended effective June 9, 2003 (30:11 Md. R. 735)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2002-04-01"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-2 adopted effective April 1, 2002 (29:6 Md. R. 567)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2003-01-06"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-2F amended effective January 6, 2003 (29:26 Md. R. 2027)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2004-06-07"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-3 adopted effective June 7, 2004 (31:11 Md. R. 856)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-12-27"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-3 amended effective December 27, 2010 (37:26 Md. R. 1787)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2004-06-07"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-4 adopted effective June 7, 2004 (31:11 Md. R. 856)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-12-27"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-4A amended effective December 27, 2010 (37:26 Md. R. 1787)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2025-07-21"><cite path="|10|09|24|.03" doc="Maryland Register, Volume 52, Issue 14">Regulation .03</cite>-5 adopted effective July 21, 2025 (52:14 Md. R. 856)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.04" doc="Maryland Register, Volume 52, Issue 14">Regulation .04</cite> amended effective May 1, 1986 (13:8 Md. R. 898); May 1, 1989 (16:8 Md. R. 910); June 30, 2008 (35:13 Md. R. 1179); April 19, 2010 (37:8 Md. R. 615)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2001-10-01"><cite path="|10|09|24|.04|J." doc="Maryland Register, Volume 52, Issue 14">Regulation .04J</cite> amended as an emergency provision effective October 1, 2001 (28:24 Md. R. 2125); emergency status expired March 29, 2002</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-07-06">Regulations .04J, .07B, G—N, and .08B, G—L amended as an emergency provision effective March 1, 1984 (11:5 Md. R. 449); emergency status extended at 11:14 Md. R. 1247 (July 6, 1984)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-10-15">Regulations .04J, .07B, G—N, and .08B, G—L amended effective October 15, 1984 (11:20 Md. R. 1742)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-09-20"><cite path="|10|09|24|.04|J." doc="Maryland Register, Volume 52, Issue 14">Regulation .04J</cite> amended effective September 20, 2010 (37:19 Md. R. 1284)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite> repealed and new Regulation .05 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2003-04-14"><cite path="|10|09|24|.05|A." doc="Maryland Register, Volume 52, Issue 14">Regulation .05A</cite> amended effective April 14, 2003 (30:7 Md. R. 487)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.05|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .05C</cite> amended effective April 19, 2010 (37:8 Md. R. 614)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.05|D." doc="Maryland Register, Volume 52, Issue 14">Regulation .05D</cite> amended effective March 11, 1985 (12:5 Md. R. 482); April 19, 2010 (37:8 Md. R. 614)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1997-03-24"><cite path="|10|09|24|.05|E." doc="Maryland Register, Volume 52, Issue 14">Regulation .05E</cite> amended effective March 11, 1985 (12:5 Md. R. 482); March 24, 1997 (24:6 Md. R. 485)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1997-06-02"><cite path="|10|09|24|.05|H." doc="Maryland Register, Volume 52, Issue 14">Regulation .05H</cite> amended effective June 2, 1997 (24:11 Md. R. 793)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-1 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-1B amended effective April 19, 2010 (37:8 Md. R. 614)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-2 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-2 amended effective April 19, 2010 (37:8 Md. R. 614)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-3 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2013-10-14"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-3K amended effective October 14, 2013 (40:20 Md. R. 1652)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-4 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-5 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1986-05-01">Regulations .06, .07M, .08, .10, .11, .12C, and .15 amended effective May 1, 1986 (13:8 Md. R. 898)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.07" doc="Maryland Register, Volume 52, Issue 14">Regulation .07</cite> amended effective April 19, 2010 (37:8 Md. R. 615)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2008-06-30"><cite path="|10|09|24|.07|D." doc="Maryland Register, Volume 52, Issue 14">Regulation .07D</cite>, M amended effective June 30, 2008 (35:13 Md. R. 1179)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1991-10-08"><cite path="|10|09|24|.07|J." doc="Maryland Register, Volume 52, Issue 14">Regulation .07J</cite> amended effective October 8, 1991 (18:18 Md. R. 2005)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1990-02-01"><cite path="|10|09|24|.07|M." doc="Maryland Register, Volume 52, Issue 14">Regulation .07M</cite> amended as an emergency provision effective September 30, 1989 (16:21 Md. R. 2258); adopted permanently effective February 1, 1990 (17:1 Md. R. 69)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-09-10"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended as an emergency provision effective July 1, 1984 (11:13 Md. R. 1173); amended permanently effective September 10, 1984 (11:18 Md. R. 1584)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1986-09-08"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended as an emergency provision effective July 1, 1986 (13:14 Md. R. 1628); adopted permanently effective September 8, 1986 (13:18 Md. R. 2020)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1988-07-01"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended effective August 10, 1987 (14:16 Md. R. 1774); July 1, 1988 (15:13 Md. R. 1554)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1985-11-04">Regulations .07N and .10E amended as an emergency provision effective July 1, 1985 (12:13 Md. R. 1274); adopted permanently effective November 4, 1985 (12:22 Md. R. 2104)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1989-10-30"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended as an emergency provision effective July 1, 1989 (16:14 Md. R. 1565); amended permanently effective October 30, 1989 (16:21 Md. R. 2261)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1990-11-01"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended as an emergency provision effective July 1, 1990 (17:15 Md. R. 1851); adopted permanently effective November 1, 1990 (17:20 Md. R. 2427)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1992-04-01"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended as an emergency provision effective December 10, 1991 (18:26 Md. R. 2827); amended permanently effective April 1, 1992 (19:5 Md. R. 577)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1993-03-29"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended as an emergency provision effective November 25, 1992 (19:25 Md. R. 2199); amended permanently effective March 29, 1993 (20:4 Md. R. 371)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1993-11-01"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended as an emergency provision effective July 22, 1993 (20:16 Md. R. 1275); amended permanently effective November 1, 1993 (20:21 Md. R. 1654)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1994-11-07"><cite path="|10|09|24|.07|N." doc="Maryland Register, Volume 52, Issue 14">Regulation .07N</cite> amended as an emergency provision effective August 10, 1994 (21:18 Md. R. 1506); amended permanently effective November 7, 1994 (21:22 Md. R. 1876)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1992-09-14"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite> amended as an emergency provision effective May 15, 1992 (19:11 Md. R. 1012); emergency status extended at 19:19 Md. R. 1702; amended permanently effective September 14, 1992 (19:18 Md. R. 1656)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1994-04-08"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite> amended as an emergency provision effective April 8, 1994 (21:9 Md. R. 744); emergency provision rescinded retroactively to April 8, 1994 (21:14 Md. R. 1226)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2008-06-30"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite> amended effective June 30, 2008 (35:13 Md. R. 1179)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|10|09|24|.08|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .08B</cite> amended effective September 1, 1993 (20:17 Md. R. 1346); January 12, 1987 (14:1 Md. R. 31); August 22, 1988 (15:17 Md. R. 2049); July 3, 1995 (22:13 Md. R. 967)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1997-06-02"><cite path="|10|09|24|.08|G." doc="Maryland Register, Volume 52, Issue 14">Regulation .08G</cite>, H amended effective June 2, 1997 (24:11 Md. R. 793)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1987-01-12"><cite path="|10|09|24|.08|G." doc="Maryland Register, Volume 52, Issue 14">Regulation .08G</cite>, H, and H-1 amended effective January 12, 1987 (14:1 Md. R. 31)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1988-08-22"><cite path="|10|09|24|.08|G." doc="Maryland Register, Volume 52, Issue 14">Regulation .08G</cite>, H, and I amended effective August 22, 1988 (15:17 Md. R. 2049)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|10|09|24|.08|G." doc="Maryland Register, Volume 52, Issue 14">Regulation .08G</cite>, H, and K amended effective July 3, 1995 (22:13 Md. R. 967)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2002-04-29"><cite path="|10|09|24|.08|G." doc="Maryland Register, Volume 52, Issue 14">Regulation .08G</cite>, I amended as an emergency provision effective October 1, 2001 (29:4 Md. R. 413); emergency status extended at 29:8 Md. R. 696; amended permanently effective April 29, 2002 (29:8 Md. R. 700)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1993-09-01"><cite path="|10|09|24|.08|J." doc="Maryland Register, Volume 52, Issue 14">Regulation .08J</cite>-1 adopted effective September 1, 1993 (20:17 Md. R. 1346)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2013-10-14"><cite path="|10|09|24|.08|J." doc="Maryland Register, Volume 52, Issue 14">Regulation .08J</cite>-1 amended effective October 14, 2013 (40:20 Md. R. 1652)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1988-01-25"><cite path="|10|09|24|.08|L." doc="Maryland Register, Volume 52, Issue 14">Regulation .08L</cite> amended effective June 29, 1987 (14:13 Md. R. 1474); January 25, 1988 (15:2 Md. R. 121)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1989-10-30"><cite path="|10|09|24|.08|L." doc="Maryland Register, Volume 52, Issue 14">Regulation .08L</cite> amended as an emergency provision effective July 1, 1989 (16:14 Md. R. 1565); amended permanently effective October 30, 1989 (16:21 Md. R. 2261)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1987-06-29"><cite path="|10|09|24|.08|M." doc="Maryland Register, Volume 52, Issue 14">Regulation .08M</cite> amended effective June 29, 1987 (14:13 Md. R. 1474)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1990-02-01">Regulations .08 and .10 amended, and new Regulation .10-1 adopted as an emergency provision effective September 30, 1989 (16:21 Md. R. 2259); adopted permanently effective February 1, 1990 (17:1 Md. R. 69) (Regulation .10-1 originally adopted as Regulation .11)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1995-07-03">Regulations .08-1 and .08-2 adopted effective July 3, 1995 (22:13 Md. R. 967)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2002-04-29"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite>-2 amended effective April 29, 2002 (29:8 Md. R. 700)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2005-11-24"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite>-3 adopted effective November 24, 2005 (32:23 Md. R. 1826)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2010-09-20"><cite path="|10|09|24|.09|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .09B</cite>, C amended effective September 20, 2010 (37:19 Md. R. 1284)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2003-11-10"><cite path="|10|09|24|.10" doc="Maryland Register, Volume 52, Issue 14">Regulation .10</cite> amended effective November 10, 2003 (30:22 Md. R. 1580)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1986-09-08"><cite path="|10|09|24|.10|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .10C</cite> and D amended as an emergency provision effective July 1, 1986 (13:14 Md. R. 1628); adopted permanently effective September 8, 1986 (13:18 Md. R. 2020)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1987-07-01"><cite path="|10|09|24|.10|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .10C</cite>, D amended effective July 1, 1987 (14:13 Md. R. 1474)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2009-03-13"><cite path="|10|09|24|.10|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .10C</cite>, D amended as an emergency provision effective March 13, 2009 (36:8 Md. R. 591); emergency status expired July 30, 2009</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2013-10-14"><cite path="|10|09|24|.10|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .10C</cite>, D amended effective July 27, 2009 (36:15 Md. R. 1165); September 20, 2010 (37:19 Md. R. 1284); October 14, 2013 (40:20 Md. R. 1652)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1983-05-09"><cite path="|10|09|24|.10|E." doc="Maryland Register, Volume 52, Issue 14">Regulation .10E</cite> amended as an emergency provision effective May 1, 1983 (10:7 Md. R. 632); adopted permanently effective May 9, 1983 (10:9 Md. R. 791)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1992-11-01"><cite path="|10|09|24|.10" doc="Maryland Register, Volume 52, Issue 14">Regulation .10</cite>-1 amended as an emergency provision effective July 1, 1992 (19:15 Md. R. 1382); amended permanently effective November 1, 1992 (19:21 Md. R. 1891)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2003-11-10"><cite path="|10|09|24|.10" doc="Maryland Register, Volume 52, Issue 14">Regulation .10</cite>-1C amended effective November 10, 2003 (30:22 Md. R. 1580)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1990-11-12"><cite path="|10|09|24|.10" doc="Maryland Register, Volume 52, Issue 14">Regulation .10</cite>-1C, E amended and G adopted effective November 12, 1990 (17:21 Md. R. 2529)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1991-10-08"><cite path="|10|09|24|.10" doc="Maryland Register, Volume 52, Issue 14">Regulation .10</cite>-1D amended effective October 8, 1991 (18:18 Md. R. 2005)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1997-06-02"><cite path="|10|09|24|.11|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .11C</cite> amended effective September 10, 1994 (11:8 Md. R. 1584) June 2, 1997 (24:11 Md. R. 793)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-09-10"><cite path="|10|09|24|.11|E." doc="Maryland Register, Volume 52, Issue 14">Regulation .11E</cite> amended effective September 10, 1984 (11:18 Md. R. 1584)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1988-08-08"><cite path="|10|09|24|.12|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .12B</cite> amended effective August 8, 1988 (15:16 Md. R. 1914)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-09-10"><cite path="|10|09|24|.12|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .12C</cite> amended effective September 10, 1984 (11:18 Md. R. 1584)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2012-03-19"><cite path="|10|09|24|.13" doc="Maryland Register, Volume 52, Issue 14">Regulation .13</cite> repealed and new Regulation .13 adopted effective March 19, 2012 (39:5 Md. R. 382)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1988-08-08"><cite path="|10|09|24|.13|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .13C</cite> amended effective August 8, 1988 (15:16 Md. R. 1914)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1988-08-08"><cite path="|10|09|24|.14" doc="Maryland Register, Volume 52, Issue 14">Regulation .14</cite> amended effective August 8, 1988 (15:16 Md. R. 1914)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1992-12-01"><cite path="|10|09|24|.14" doc="Maryland Register, Volume 52, Issue 14">Regulation .14</cite> amended and recodified to Regulations .14 and .14-1 effective December 1, 1992 (19:23 Md. R. 2041)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-05-01"><cite path="|10|09|24|.14|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .14B</cite> amended as an emergency provision effective May 1, 1984 (11:10 Md. R. 858); emergency status expired August 28, 1984</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-08-29"><cite path="|10|09|24|.14|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .14B</cite> amended effective August 29, 1984 (11:17 Md. R. 1492)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|10|09|24|.15" doc="Maryland Register, Volume 52, Issue 14">Regulation .15</cite> amended effective August 8, 1988 (15:16 Md. R. 1914); July 3, 1995 (22:13 Md. R. 967)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1993-02-01"><cite path="|10|09|24|.15" doc="Maryland Register, Volume 52, Issue 14">Regulation .15</cite> amended as an emergency provision effective October 13, 1992 (19:22 Md. R. 1979); amended permanently effective February 1, 1993 (20:2 Md. R. 113)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1994-04-08"><cite path="|10|09|24|.15" doc="Maryland Register, Volume 52, Issue 14">Regulation .15</cite> amended as an emergency provision effective April 8, 1994 (21:9 Md. R. 744); emergency provision rescinded retroactively to April 8, 1994 (21:14 Md. R. 1226)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2003-02-17"><cite path="|10|09|24|.15|A." doc="Maryland Register, Volume 52, Issue 14">Regulation .15A</cite>-3 amended as an emergency provision effective November 12, 2002 (29:24 Md. R. 1915); amended permanently effective February 17, 2003 (30:3 Md. R. 179)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2007-12-31"><cite path="|10|09|24|.17" doc="Maryland Register, Volume 52, Issue 14">Regulation .17</cite> adopted effective December 31, 2007 (34:26 Md. R. 2262)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2014-01-06" discontinuity="true">Chapter revised effective January 6, 2014 (40:26 Md. R. 2162)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|24|.02|B." doc="Maryland Register, Volume 52, Issue 14">Regulation .02B</cite> amended effective September 11, 2017 (44:18 Md. R. 866); May 20, 2019 (46:10 Md. R. 486); April 4, 2022 (49:7 Md. R. 465)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|09|24|.03|A." doc="Maryland Register, Volume 52, Issue 14">Regulation .03A</cite> amended effective August 5, 2024 (51:15 Md. R. 706)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|24|.03|A." doc="Maryland Register, Volume 52, Issue 14">Regulation .03A</cite>, C amended effective May 20, 2019 (46:10 Md. R. 486)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|24|.03|A." doc="Maryland Register, Volume 52, Issue 14">Regulation .03A</cite>, F amended effective April 4, 2022 (49:7 Md. R. 465)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|24|.03|F." doc="Maryland Register, Volume 52, Issue 14">Regulation .03F</cite> adopted effective May 20, 2019 (46:10 Md. R. 486)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2016-03-28"><cite path="|10|09|24|.04|F." doc="Maryland Register, Volume 52, Issue 14">Regulation .04F</cite> amended effective March 28, 2016 (43:6 Md. R. 406)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2018-12-31"><cite path="|10|09|24|.04" doc="Maryland Register, Volume 52, Issue 14">Regulation .04</cite>-1D amended effective December 31, 2018 (45:26 Md. R. 1243)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2018-05-07"><cite path="|10|09|24|.04" doc="Maryland Register, Volume 52, Issue 14">Regulation .04</cite>-1M adopted effective May 7, 2018 (45:9 Md. R. 461)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2016-07-04"><cite path="|10|09|24|.05" doc="Maryland Register, Volume 52, Issue 14">Regulation .05</cite>-4B amended effective July 4, 2016 (43:13 Md. R. 713)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2016-02-01"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite>-1B amended effective February 1, 2016 (43:2 Md. R. 127)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite>-2B, C amended effective April 10, 2017 (44:7 Md. R. 355); May 20, 2019 (46:10 Md. R. 486)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite>-2C amended effective August 29, 2016 (43:17 Md. R. 954)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|09|24|.08" doc="Maryland Register, Volume 52, Issue 14">Regulation .08</cite>-4 adopted effective April 13, 2015 (42:7 Md. R. 568)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2017-09-11"><cite path="|10|09|24|.10|C." doc="Maryland Register, Volume 52, Issue 14">Regulation .10C</cite>, D amended effective September 11, 2017 (44:18 Md. R. 866)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|09|24|.10" doc="Maryland Register, Volume 52, Issue 14">Regulation .10</cite>-2 adopted effective April 13, 2015 (42:7 Md. R. 568)</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|09|24|.15|A." doc="Maryland Register, Volume 52, Issue 14">Regulation .15A</cite>-3 amended effective April 13, 2015 (42:7 Md. R. 568)</annotation>
-    <annotation type="Authority" dest="container"><cite doc="Md. Code" path="get|14">Estates and Trusts Article, §14</cite>.5-1002;<br/>Health-General Article, §§2-104(b), 2-105(b), 15-103, 15-105, 15-121, and 15-401—15-407; Annotated Code of Maryland</annotation>
-    <annotation type="History" subtype="Administrative History" dest="container" effective="1997-06-02"><cite path="|10|09|24|.02|B.">Regulation .02B</cite> amended effective May 1, 1986 (13:8 Md. R. 898); August 8, 1988 (15:16 Md. R. 1914); May 1, 1989 (16:8 Md. R. 910); December 1, 1992 (19:23 Md. R. 2041); March 24, 1997 (24:6 Md. R. 485); June 2, 1997 (24:11 Md. R. 793)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2013-10-14"><cite path="|10|09|24|.02|B.">Regulation .02B</cite> amended effective November 24, 2005 (32:23 Md. R. 1826); December 31, 2007 (34:26 Md. R. 2262); October 14, 2013 (40:20 Md. R. 1652)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1990-08-13"><cite path="|10|09|24|.03">Regulation .03</cite> amended as an emergency provision effective May 4, 1990 (17:11 Md. R. 1339); amended permanently effective August 13, 1990 (17:15 Md. R. 1858)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2002-04-01"><cite path="|10|09|24|.03">Regulation .03</cite>-1 adopted effective April 1, 2002 (29:6 Md. R. 567)</annotation>
@@ -8415,6 +8242,8 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2010-12-27"><cite path="|10|09|24|.03">Regulation .03</cite>-4A amended effective December 27, 2010 (37:26 Md. R. 1787)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.04">Regulation .04</cite> amended effective May 1, 1986 (13:8 Md. R. 898); May 1, 1989 (16:8 Md. R. 910); June 30, 2008 (35:13 Md. R. 1179); April 19, 2010 (37:8 Md. R. 615)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2001-10-01"><cite path="|10|09|24|.04|J.">Regulation .04J</cite> amended as an emergency provision effective October 1, 2001 (28:24 Md. R. 2125); emergency status expired March 29, 2002</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-07-06">Regulations .04J, .07B, G—N, and .08B, G—L amended as an emergency provision effective March 1, 1984 (11:5 Md. R. 449); emergency status extended at 11:14 Md. R. 1247 (July 6, 1984)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1984-10-15">Regulations .04J, .07B, G—N, and .08B, G—L amended effective October 15, 1984 (11:20 Md. R. 1742)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2010-09-20"><cite path="|10|09|24|.04|J.">Regulation .04J</cite> amended effective September 20, 2010 (37:19 Md. R. 1284)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05">Regulation .05</cite> repealed and new Regulation .05 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2003-04-14"><cite path="|10|09|24|.05|A.">Regulation .05A</cite> amended effective April 14, 2003 (30:7 Md. R. 487)</annotation>
@@ -8430,6 +8259,7 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2013-10-14"><cite path="|10|09|24|.05">Regulation .05</cite>-3K amended effective October 14, 2013 (40:20 Md. R. 1652)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05">Regulation .05</cite>-4 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2007-09-24"><cite path="|10|09|24|.05">Regulation .05</cite>-5 adopted effective September 24, 2007 (34:20 Md. R. 1737)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1986-05-01">Regulations .06, .07M, .08, .10, .11, .12C, and .15 amended effective May 1, 1986 (13:8 Md. R. 898)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|09|24|.07">Regulation .07</cite> amended effective April 19, 2010 (37:8 Md. R. 615)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2008-06-30"><cite path="|10|09|24|.07|D.">Regulation .07D</cite>, M amended effective June 30, 2008 (35:13 Md. R. 1179)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1991-10-08"><cite path="|10|09|24|.07|J.">Regulation .07J</cite> amended effective October 8, 1991 (18:18 Md. R. 2005)</annotation>
@@ -8437,6 +8267,7 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="1984-09-10"><cite path="|10|09|24|.07|N.">Regulation .07N</cite> amended as an emergency provision effective July 1, 1984 (11:13 Md. R. 1173); amended permanently effective September 10, 1984 (11:18 Md. R. 1584)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1986-09-08"><cite path="|10|09|24|.07|N.">Regulation .07N</cite> amended as an emergency provision effective July 1, 1986 (13:14 Md. R. 1628); adopted permanently effective September 8, 1986 (13:18 Md. R. 2020)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1988-07-01"><cite path="|10|09|24|.07|N.">Regulation .07N</cite> amended effective August 10, 1987 (14:16 Md. R. 1774); July 1, 1988 (15:13 Md. R. 1554)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1985-11-04">Regulations .07N and .10E amended as an emergency provision effective July 1, 1985 (12:13 Md. R. 1274); adopted permanently effective November 4, 1985 (12:22 Md. R. 2104)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1989-10-30"><cite path="|10|09|24|.07|N.">Regulation .07N</cite> amended as an emergency provision effective July 1, 1989 (16:14 Md. R. 1565); amended permanently effective October 30, 1989 (16:21 Md. R. 2261)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1990-11-01"><cite path="|10|09|24|.07|N.">Regulation .07N</cite> amended as an emergency provision effective July 1, 1990 (17:15 Md. R. 1851); adopted permanently effective November 1, 1990 (17:20 Md. R. 2427)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1992-04-01"><cite path="|10|09|24|.07|N.">Regulation .07N</cite> amended as an emergency provision effective December 10, 1991 (18:26 Md. R. 2827); amended permanently effective April 1, 1992 (19:5 Md. R. 577)</annotation>
@@ -8457,6 +8288,8 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="1988-01-25"><cite path="|10|09|24|.08|L.">Regulation .08L</cite> amended effective June 29, 1987 (14:13 Md. R. 1474); January 25, 1988 (15:2 Md. R. 121)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1989-10-30"><cite path="|10|09|24|.08|L.">Regulation .08L</cite> amended as an emergency provision effective July 1, 1989 (16:14 Md. R. 1565); amended permanently effective October 30, 1989 (16:21 Md. R. 2261)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="1987-06-29"><cite path="|10|09|24|.08|M.">Regulation .08M</cite> amended effective June 29, 1987 (14:13 Md. R. 1474)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1990-02-01">Regulations .08 and .10 amended, and new Regulation .10-1 adopted as an emergency provision effective September 30, 1989 (16:21 Md. R. 2259); adopted permanently effective February 1, 1990 (17:1 Md. R. 69) (Regulation .10-1 originally adopted as Regulation .11)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="1995-07-03">Regulations .08-1 and .08-2 adopted effective July 3, 1995 (22:13 Md. R. 967)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2002-04-29"><cite path="|10|09|24|.08">Regulation .08</cite>-2 amended effective April 29, 2002 (29:8 Md. R. 700)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2005-11-24"><cite path="|10|09|24|.08">Regulation .08</cite>-3 adopted effective November 24, 2005 (32:23 Md. R. 1826)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2010-09-20"><cite path="|10|09|24|.09|B.">Regulation .09B</cite>, C amended effective September 20, 2010 (37:19 Md. R. 1284)</annotation>
@@ -8485,6 +8318,7 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="1994-04-08"><cite path="|10|09|24|.15">Regulation .15</cite> amended as an emergency provision effective April 8, 1994 (21:9 Md. R. 744); emergency provision rescinded retroactively to April 8, 1994 (21:14 Md. R. 1226)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2003-02-17"><cite path="|10|09|24|.15|A.">Regulation .15A</cite>-3 amended as an emergency provision effective November 12, 2002 (29:24 Md. R. 1915); amended permanently effective February 17, 2003 (30:3 Md. R. 179)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2007-12-31"><cite path="|10|09|24|.17">Regulation .17</cite> adopted effective December 31, 2007 (34:26 Md. R. 2262)</annotation>
+    <annotation type="History" subtype="Administrative History" dest="container" effective="2014-01-06" discontinuity="true">Chapter revised effective January 6, 2014 (40:26 Md. R. 2162)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|24|.02|B.">Regulation .02B</cite> amended effective September 11, 2017 (44:18 Md. R. 866); May 20, 2019 (46:10 Md. R. 486); April 4, 2022 (49:7 Md. R. 465)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|09|24|.03|A.">Regulation .03A</cite> amended effective August 5, 2024 (51:15 Md. R. 706)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|24|.03|A.">Regulation .03A</cite>, C amended effective May 20, 2019 (46:10 Md. R. 486)</annotation>
@@ -8501,7 +8335,5 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2017-09-11"><cite path="|10|09|24|.10|C.">Regulation .10C</cite>, D amended effective September 11, 2017 (44:18 Md. R. 866)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|09|24|.10">Regulation .10</cite>-2 adopted effective April 13, 2015 (42:7 Md. R. 568)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|09|24|.15|A.">Regulation .15A</cite>-3 amended effective April 13, 2015 (42:7 Md. R. 568)</annotation>
-    <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
   </annotations>
-  <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-013-F" type="History" display="false"/>
 </container>
