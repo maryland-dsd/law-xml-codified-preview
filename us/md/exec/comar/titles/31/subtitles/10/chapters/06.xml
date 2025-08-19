@@ -2767,7 +2767,7 @@
         </table>
       </text>
       <text>
-        <table class="layout-table">
+        <table class="layout-table" high-density="true">
           <thead>
             <tr>
               <th>(a)<sup>3</sup></th>
@@ -3079,7 +3079,7 @@
     <heading>Form for Reporting Multiple Policies.</heading>
     <text>The following form is to be used in making reports of multiple policies in accordance with the requirements of <cite path="|31|10|06|.17">Regulation .17 of this chapter</cite>:</text>
     <text>
-      <table class="layout-table">
+      <table class="layout-table" high-density="true">
         <thead>
           <tr>
             <th>(a)<sup>3</sup></th>
@@ -5845,6 +5845,6 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|31|10|06|.31">Regulation .31</cite> adopted effective January 14, 2019 (46:1 Md. R. 13)</annotation>
   </annotations>
   <attachments>
-    <attachment name="31.10.06.30" url="./31.10.06.30.pdf"/>
+    <attachment name="31.10.06.30" url="/us/md/exec/comar/initial-attachments/31.10.06.30.pdf"/>
   </attachments>
 </container>
