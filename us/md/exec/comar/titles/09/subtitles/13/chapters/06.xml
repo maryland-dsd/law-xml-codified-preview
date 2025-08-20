@@ -7,10 +7,15 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Purpose.</heading>
-    <text>CHANGE HERE!.</text>
-    <annotations>
-      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-038-F" type="History" display="false"/>
-    </annotations>
+    <para>
+      <num>A.</num>
+      <text>In the general interest of the public, these standards are promulgated to set forth the minimum acceptable level of performance to be exercised by all individuals practicing professional land surveying and property line surveying in Maryland.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If anything contained in these regulations conflicts with other federal or State requirements, the more stringent requirements shall be followed.</text>
+    </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
