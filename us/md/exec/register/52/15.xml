@@ -109,7 +109,46 @@
         <num>25-090-F</num>
       </container>
       <container>
-        <num>25-080-F</num>
+        <num>25-999-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="05|22|01|attachments|05.22.01-appendix-A" codified:doc="Code of Maryland Regulations" codified:path="05|22|01|attachments|05.22.01-appendix-A">
+          <attachment name="05.22.01-appendix-A" url="/us/md/exec/register/52/15/attachments/05.22.01-appendix-A.pdf"/>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="05|22|01|.06" codified:doc="Code of Maryland Regulations" codified:path="05|22|01|.06">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.06</num>
+            <heading>Form of Notice of Right of First Refusal.</heading>
+            <para>
+              <num>A.</num>
+              <text>The notice delivered to tenants under this chapter shall contain, at minimum, the following information:</text>
+              <para>
+                <num>(1)</num>
+                <text>The sales price proposed in the third-party offer to purchase;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A conspicuous statement that the notice is a solicitation of an offer to purchase and is not intended as and may not be construed as a binding contract of sale; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Any information regarding deadlines for the tenant to submit an offer to purchase.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>The notice delivered to tenants under this chapter shall be in the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C" doc="Code of Maryland Regulations">Appendix C of this subtitle</cite>.</text>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>The Office shall make the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C" doc="Code of Maryland Regulations">Appendix C of this subtitle</cite> available on its public website in a format allowing residential rental property owners to populate the blank sections of the form, download the form, and print the form for delivery to tenants.</text>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>The Office may, from time to time, with the approval of the Secretary, edit or amend the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C" doc="Code of Maryland Regulations">Appendix C of this subtitle</cite> to facilitate compliance with Real Property Article, §§<cite doc="Md. Code" path="grp|8-119">8-119</cite>(d) and <cite doc="Md. Code" path="grp|8-120">8-120</cite>, Annotated Code of Maryland, or other applicable law, as appropriate.</text>
+              <text><cite path="05|22|01|attachments|05.22.01-appendix-A" doc="Code of Maryland Regulations">SEE FORM AT END OF CHAPTER</cite>.</text>
+            </para>
+          </section>
+        </codify:replace>
       </container>
     </container>
   </container>

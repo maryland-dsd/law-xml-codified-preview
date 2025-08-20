@@ -246,9 +246,11 @@
     <para>
       <num>D.</num>
       <text>The Office may, from time to time, with the approval of the Secretary, edit or amend the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C">Appendix C of this subtitle</cite> to facilitate compliance with Real Property Article, §§<cite doc="Md. Code" path="grp|8-119">8-119</cite>(d) and <cite doc="Md. Code" path="grp|8-120">8-120</cite>, Annotated Code of Maryland, or other applicable law, as appropriate.</text>
-      <text>SEE FORM AT END OF CHAPTER.</text>
+      <text><cite path="05|22|01|attachments|05.22.01-appendix-A">SEE FORM AT END OF CHAPTER</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-999-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -286,7 +288,9 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2024-10-14">Effective date: October 14, 2024 (51:20 Md. R. 898)</annotation>
   </annotations>
   <attachments>
-    <attachment name="05.22.01-appendix-A" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-A.pdf"/>
+    <attachment name="05.22.01-appendix-A" url="/us/md/exec/register/52/15/attachments/05.22.01-appendix-A.pdf">
+      <annotation app="2025-08-04" doc="Maryland Register, Volume 52, Issue 15" eff="2025-08-04" path="regulations|final|25-999-F" type="History" display="false"/>
+    </attachment>
     <attachment name="05.22.01-appendix-B" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-B.pdf"/>
     <attachment name="05.22.01-appendix-C" url="/us/md/exec/comar/initial-attachments/05.22.01-appendix-C.pdf"/>
   </attachments>
