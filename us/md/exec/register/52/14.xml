@@ -30,6 +30,25 @@
       </container>
       <container>
         <num>25-023-F</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|09|36" before="annos" codified:doc="Code of Maryland Regulations" codified:path="10|09|36|.12">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.12</num>
+            <heading>New Reg</heading>
+            <para>
+              <num>A.</num>
+              <text>Test Para</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Test Para 2</text>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Test Para 3.</text>
+            </para>
+          </section>
+        </codify:insert>
       </container>
       <container>
         <num>25-025-F</num>
