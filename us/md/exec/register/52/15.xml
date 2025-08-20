@@ -23,20 +23,87 @@
       </container>
       <container>
         <num>25-062-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="08|18|19|.04" codified:doc="Code of Maryland Regulations" codified:path="08|18|19|.04">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.04</num>
+            <heading>Patapsco River North Shore.</heading>
+            <para>
+              <num>A.</num>
+              <text>The Patapsco River north shore areas, with their corresponding speed limits, are set forth in §§B—E of this regulation.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Bear Creek.</text>
+              <para>
+                <num>(1)</num>
+                <text>Upper Bear Creek encompasses the area beginning at a point, at or near Lat. 39° 15.085’  N., Long. 76° 29.320’ W., then running 94° (True) to a point, at or near Lat. 39° 15.080’  N., Long. 76° 29.222’ W., then running 193° (True) to a point, at or near Lat. 39° 14.875’  N., Long. 76° 29.283’ W., and running to the head of the creek, including all tributaries. This area has a 6-knot speed limit Saturdays, Sundays, and State holidays, all year.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Bullneck Creek encompasses the area beginning at a point, at or near Lat. 39° 14.963’  N., Long. 76° 29.845’ W., then running 190° (True) to a point, or near Lat. 39° 14.815’  N., Long. 76° 29.878’ W., and running to the head of the creek. This area has a 6-knot speed limit Saturdays, Sundays, and State holidays, all year.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Bear Creek Bridges encompasses the area beginning at a point 50 yards downstream of the Penninsula Expressway Bridge, at or near Lat. 39° 14.795’  N., Long. 76° 29.315’ W., then running 294° (True) to a point, at or near Lat. 39° 14.890’N., Long. 76° 29.593’ W., and downstream of a line beginning at a point, at or near Lat. 39° 15.085’ N., Long. 76° 29.320’ W., then running 94° (True) to a point, at or near Lat. 39° 15.080’ N., Long. 76° 29.222’ W., then running 195° (True) to a point, at or near Lat. 39° 14.907’ N., Long. 76° 29.283’ W.  This area has a 6-knot speed limit all year.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Peach Orchard Cove encompasses the area beginning at a point, at or near Lat. 39° 14.398’  N., Long. 76° 29.928’ W., then running 33° (True) to a point, at or near Lat. 39° 14.537’  N., Long. 76° 29.813’ W.,  and running to the head of the Cove. This area has a 6-knot speed limit Saturdays, Sundays, and State holidays, all year.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Jones Creek encompasses the area beginning at a point, at or near Lat. 39° 13.192’  N., Long. 76° 27.525’ W., then running 265° (True) to a point, at or near Lat. 39° 13.182’  N., Long. 76° 27.660’ W.,  and running to the head of the creek. This area has a 6-knot speed limit Saturdays, Sundays, and State holidays, all year.</text>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>North Point Creek encompasses the area beginning at a point, at or near Lat. 39° 13.030’  N., Long. 76° 26.535’ W., then running 331° (True) to a point, at or near Lat. 39° 13.145’ N., Long. 76° 26.617’ W., and running to the head of the creek. This area has a 6-knot speed limit Saturdays, Sundays, and State holidays, all year.</text>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>Northwest Branch encompasses the area beginning at the range light at Fort McHenry, at or near Lat. 39° 15.833’  N., Long. 76° 34.652’ W., then running 96° (True) to a point, at or near Lat. 39° 15.803’ N., Long. 76° 34.300’ W., and running to the head of the branch. This area has a 6-knot speed limit all year.</text>
+            </para>
+            <para>
+              <num>F.</num>
+              <text>CHANGE HERE!</text>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="08|18|19" after=".05" codified:doc="Code of Maryland Regulations" codified:path="08|18|19|.05-1">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.05-1</num>
+            <heading>New Regulation</heading>
+            <text>Test regulation</text>
+          </section>
+        </codify:insert>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="08|18|19|annos" codified:doc="Code of Maryland Regulations" codified:path="08|18|19|annos">
+          <annotations>
+            <annotation type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|8-703">8-703</cite> and <cite doc="Md. Code" path="gnr|8-704">8-704</cite>, Annotated Code of Maryland</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="1992-02-03">Effective date: February 3, 1992 (19:2 Md. R. 153)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2014-03-17"><cite path="|08|18|19|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective March 17, 2014 (41:5 Md. R. 342)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2014-03-17"><cite path="|08|18|19|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective March 17, 2014 (41:5 Md. R. 342)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2014-03-17"><cite path="|08|18|19|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective March 17, 2014 (41:5 Md. R. 342)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2000-06-06"><cite path="|08|18|19|.03|A." doc="Code of Maryland Regulations">Regulation .03A</cite> amended effective June 6, 2000 (27:12 Md. R. 1138)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2005-04-11"><cite path="|08|18|19|.03|B." doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective May 24, 1993 (20:10 Md. R. 850); April 11, 2005 (32:7 Md. R. 678)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2012-10-29"><cite path="|08|18|19|.03|C." doc="Code of Maryland Regulations">Regulation .03C</cite> amended effective October 8, 2007 (34:20 Md. R. 1736); March 9, 2009 (36:5 Md. R. 422); October 29, 2012 (39:21 Md. R. 1378)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="1993-05-24"><cite path="|08|18|19|.03|D." doc="Code of Maryland Regulations">Regulation .03D</cite> amended effective May 24, 1993 (20:10 Md. R. 850)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="1995-06-05"><cite path="|08|18|19|.03|E." doc="Code of Maryland Regulations">Regulation .03E</cite> adopted effective June 5, 1995 (22:11 Md. R. 819)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2000-06-26"><cite path="|08|18|19|.03|F." doc="Code of Maryland Regulations">Regulation .03F</cite> adopted effective June 26, 2000 (27:12 Md. R. 1138)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2014-03-17"><cite path="|08|18|19|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended effective March 17, 2014 (41:5 Md. R. 342)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="1995-04-07"><cite path="|08|18|19|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> amended as an emergency provision effective April 7, 1995 (22:9 Md. R. 641); emergency status extended at 22:20 Md. R. 1539; emergency status expired April 7, 1996</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2009-03-09"><cite path="|08|18|19|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> amended effective June 3, 1996 (23:11 Md. R. 809); March 9, 2009 (36:5 Md. R. 422)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2025-08-04"><cite path="|08|18|19|.05" doc="Code of Maryland Regulations">Regulation .05</cite> adopted effective August 4, 2025 (52:15 Md. R. 811)</annotation>
+            <annotation type="History" subtype="Administrative History" dest="container" effective="2025-08-04"><cite path="|08|18|19|.05" doc="Code of Maryland Regulations">Regulation .05</cite>-1 adopted effective August 4, 2025 (52:15 Md. R.)</annotation>
+          </annotations>
+        </codify:replace>
       </container>
       <container>
         <num>25-061-F</num>
       </container>
       <container>
         <num>25-038-F</num>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="09|13|06|.01" codified:doc="Code of Maryland Regulations" codified:path="09|13|06|.01">
-          <section>
-            <prefix>Regulation</prefix>
-            <num>.01</num>
-            <heading>Purpose.</heading>
-            <text>CHANGE HERE!.</text>
-          </section>
-        </codify:replace>
       </container>
       <container>
         <num>25-090-F</num>
