@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <para>
       <num>A.</num>
-      <text>This chapter applies to contested case hearings delegated by the Board to the Office in accordance with <cite doc="Md. Code" path="gsg|10">State Government Article, §10</cite>- 205(a)(1)(ii), Annotated Code of Maryland.</text>
+      <text>This chapter applies to contested case hearings delegated by the Board to the Office in accordance with <cite doc="Md. Code" path="gsg|10">State Government Article, §10</cite>- 205(a)(1)(ii), <cite path="14|35|10|attachments|test-attachment">Annotated Code of Maryland</cite>.</text>
     </para>
     <para>
       <num>B.</num>
@@ -40,14 +40,28 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Renewal of Individual Exchange producer authorization; and</text>
+        <text>Renewal of Individual Exchange producer authorization;</text>
       </para>
       <para>
         <num>(7)</num>
+        <text>Suspension of captive producer authorization;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Revocation of captive producer authorization;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Renewal of captive producer authorization; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
         <text>Denial of Individual Exchange initial navigator certification.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-18" doc="Maryland Register, Volume 52, Issue 16" eff="2025-08-18" path="regulations|final|25-086-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -140,8 +154,14 @@
         <num>(10)</num>
         <text>“Person” has the meaning set forth under <cite path="28.02.01.02|B.|(12)">COMAR 28.02.01.02B(12)</cite>.</text>
       </para>
+      <para>
+        <num>(11)</num>
+        <text>CHANGE HERE!</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-18" doc="Maryland Register, Volume 52, Issue 16" eff="2025-08-18" path="regulations|final|25-086-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -657,4 +677,8 @@
     <annotation type="History" subtype="Administrative History" dest="container" effective="2023-07-10" discontinuity="true">Chapter revised effective July 10, 2023 (50:13 Md. R. 513)</annotation>
     <annotation type="History" subtype="Administrative History" dest="container" effective="2025-08-18"><cite path="|14|35|10|.01|C.">Regulation .01C</cite> amended effective August 18, 2025 (52:16 Md. R. 848)</annotation>
   </annotations>
+  <attachments>
+    <attachment name="test-attachment" url="/us/md/exec/register/52/16/attachments/test-attachment.pdf"/>
+    <annotation app="2025-08-18" doc="Maryland Register, Volume 52, Issue 16" eff="2025-08-18" path="regulations|final|25-086-F" type="History"/>
+  </attachments>
 </container>
