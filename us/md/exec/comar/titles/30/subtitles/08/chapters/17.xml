@@ -68,21 +68,27 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Organization.</heading>
     <text>The designated comprehensive stroke center shall meet the requirements of <cite path="30.08.11.02">COMAR 30.08.11.02</cite>.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Emergency Department.</heading>
     <text>The designated comprehensive stroke center shall meet the requirements of <cite path="30.08.11.03">COMAR 30.08.11.03</cite>.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -141,7 +147,9 @@
         <text>Outcome data.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -164,7 +172,9 @@
       <num>D.</num>
       <text>Have a written plan for triaging patients from the neuroscience intensive care unit and/or the dedicated this unit to make beds available for other stroke patients when necessary or for provision of alternate critical care beds for stroke patients with appropriately trained registered nurse staff.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section cache:ref-path="30|08|17|.06">
     <prefix>Regulation</prefix>
@@ -246,7 +256,9 @@
         <text>Audio/visual communication.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -265,7 +277,9 @@
       <num>C.</num>
       <text>Written documentation demonstrating on-call and back-up on-call schedules for physicians and staff for 24/7 coverage.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -312,7 +326,9 @@
       <num>E.</num>
       <text>A written protocol to accept the inter-facility transfer of acute stroke patients requiring a higher level of care.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -331,14 +347,18 @@
       <num>C.</num>
       <text>Transesophageal or transthorasic echocardiogram.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.10</num>
     <heading>Laboratory/Diagnostic Services.</heading>
     <text>The hospital shall meet the requirements of <cite path="30.08.11.08">COMAR 30.08.11.08</cite>.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -484,7 +504,9 @@
         <text>Be credentialed through the hospital credentialing process.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -530,7 +552,9 @@
       <num>B.</num>
       <text>Continuing education requirements for nurses, nurse practitioners, and physician assistants who care for the acute stroke patients in the neuroscience intensive care unit shall include at least 5 hours of stroke-specific education annually.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -576,21 +600,27 @@
       <num>B.</num>
       <text>Continuing education requirements for nurses, nurse practitioners, and physician assistants who care for the acute stroke patients in the emergency department shall include at least 5 hours of stroke-specific education annually.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.14</num>
     <heading>Continuing Medical Education Requirements for Nurses, Nurse Practitioners, and Physician Assistants in the Stroke Unit.</heading>
     <text>Continuing education requirements for nurses, nurse practitioners and physician assistants who care for the acute stroke patients in the stroke unit shall include a minimum of 5 hours of stroke-specific education annually.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.15</num>
     <heading>Prevention/Public Education.</heading>
     <text>The designated comprehensive stroke center shall meet the requirements of <cite path="30.08.11.12">COMAR 30.08.11.12</cite>.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -661,7 +691,9 @@
       <num>F.</num>
       <text>Have written policies and or protocols delineating the scope of practice and the roles and responsibilities of nurse practitioners and physician assistants providing care to the acute stroke patient in the neuroscience intensive care unit, the emergency department, and the stroke unit.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -703,7 +735,9 @@
       <num>D.</num>
       <text>The hospital shall demonstrate progress towards reducing door-to-device times in 50 percent or more of eligible acute ischemic stroke patients within 90 minutes for direct arriving patients.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -718,7 +752,9 @@
       <num>B.</num>
       <text>Demonstrate participation in clinical research trials in acute stroke care.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>

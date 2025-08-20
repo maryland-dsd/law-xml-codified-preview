@@ -52,7 +52,9 @@
       <num>D.</num>
       <text>Maintain current hospital accreditation by an organization that has been granted deeming authority by the Centers for Medicare &amp; Medicaid Services and approved by the Maryland Department of Health to accredit hospitals in the State.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -86,7 +88,9 @@
         <text>Provide education on the current concepts in emergency and inpatient neurotrauma treatment to prehospital and hospital care clinicians within its geographic service area.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -128,7 +132,9 @@
         <text>Development of and participation in both internal and external continuing medical education (CME) programs in the care and prevention of neuro injuries.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -174,7 +180,9 @@
         <text>An attending neurosurgeon shall meet the requirements in <cite path="|30|08|10|.05">Regulation .05 of this chapter</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -245,7 +253,9 @@
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -331,7 +341,9 @@
       <num>E.</num>
       <text>Neurotrauma nursing staff shall be involved with the centers injury prevention and outreach education programs.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -402,7 +414,9 @@
       <num>F.</num>
       <text>Clinical laboratory service that meets the standards for PARC and Level I trauma center standard as specified in <cite path="30.08.05.15">COMAR 30.08.05.15</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -437,7 +451,9 @@
       <num>E.</num>
       <text>Promote specialty certification for therapists working in the neurotrauma rehabilitation program.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -460,7 +476,9 @@
       <num>D.</num>
       <text>Ongoing continuity of care for patients with traumatic brain and spinal cord injuries provided in affiliated rehabilitation acute or sub-acute facilities, by attending neurotrauma center specialists and sub-specialists.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -474,7 +492,9 @@
       <num>B.</num>
       <text>The neurotrauma center director is responsible for the QM program for neurotrauma patients.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -505,7 +525,9 @@
       <num>F.</num>
       <text>Clinical research trials designed to enhance the trauma system's ability to resuscitate, stabilize, and treat neurotrauma patients in the most cost-effective manner.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -528,7 +550,9 @@
       <num>D.</num>
       <text>Participate in professional continuing education programs and professional meetings.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -543,7 +567,9 @@
       <num>B.</num>
       <text>Resuscitation and treatment protocols/guidelines for spinal cord injury.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>

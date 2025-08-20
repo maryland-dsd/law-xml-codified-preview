@@ -43,7 +43,9 @@
         <text>"STEMI" means coronary vessel narrowing associated with ST-segment elevation myocardial infarction.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -153,7 +155,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -168,7 +172,9 @@
       <num>B.</num>
       <text>The 12 lead EKG in the field has been reviewed by an ED physician, a cardiologist, or both, and determined to be a STEMI.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section cache:ref-path="30|08|16|.04">
     <prefix>Regulation</prefix>
@@ -206,7 +212,9 @@
       <num>D.</num>
       <text>MIEMSS staff may participate in any review conducted by the Maryland Health Care Commission to verify compliance with <cite path="|10.24.17">COMAR 10.24.17</cite>, including reviewing application materials, and participating in any on-site visits.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>

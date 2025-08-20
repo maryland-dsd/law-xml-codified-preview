@@ -44,7 +44,9 @@
       <num>D.</num>
       <text>Have a designated eye trauma center nurse manager who has authority and responsibility for nursing and patient care services.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -67,7 +69,9 @@
       <num>B.</num>
       <text>Ophthalmic subspecialty coverage on call and available 24 hours a day for vitreoretinal, oculoplastics, and anterior segment surgery.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -89,7 +93,9 @@
       <num>B.</num>
       <text>A nurse working in the eye trauma center, adult and pediatric ED RN involved with eye trauma triage and care in that setting, and pre/post op and OR eye surgery staff shall have at least 4 hours of continuing education in ophthalmic emergencies every 2 years.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -271,7 +277,9 @@
       <num>E.</num>
       <text>A hospital shall have CT scan and ocular echography available 24 hours a day.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -322,7 +330,9 @@
         <text>Loop closure.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -337,7 +347,9 @@
       <num>B.</num>
       <text>Monitor the progress of eye trauma prevention programs in cooperation with State quality monitoring activities.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -352,7 +364,9 @@
       <num>B.</num>
       <text>Conduct research and submit to MIEMSS a summary of publications that may span topics of prevention, interventions, outcomes, or costs of treatment.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -375,7 +389,9 @@
       <num>D.</num>
       <text>Other appropriate allied health personnel.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>

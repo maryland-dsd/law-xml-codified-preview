@@ -31,7 +31,9 @@
         <text>"Hand Therapy Certification Commission (HTCC)" means an independent, nonprofit accrediting body for the testing and credentialing of hand therapists.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -73,6 +75,10 @@
           <para>
             <num>(iv)</num>
             <text>Anesthesia;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Change Here!</text>
           </para>
         </para>
       </para>
@@ -145,7 +151,10 @@
         <text>Timely submission of data to the MIEMSS State trauma registry.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="30|08|14|.03">
     <prefix>Regulation</prefix>
@@ -219,7 +228,9 @@
       <num>F.</num>
       <text>A call roster for the hand and upper extremity physician trauma team shall be published and available in the emergency department and operating room.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -245,7 +256,9 @@
       <num>C.</num>
       <text>Nursing staff caring for hand and upper extremity trauma patients shall at a minimum have 8 hours of continuing medical education in hand trauma related topics every 2 years.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -659,7 +672,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -745,7 +760,9 @@
         <text>A monthly ethics in medicine forum to discuss ethical considerations that confront today's physician.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -772,7 +789,9 @@
       <num>E.</num>
       <text>Monitoring the progress of prevention programs in cooperation with State monitoring programs.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -803,7 +822,9 @@
         <text>Prepare documentation of ongoing research grants.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -842,7 +863,9 @@
       <num>E.</num>
       <text>An ACGME accredited fellowship program.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1004,7 +1027,9 @@
       <num>C.</num>
       <text>External Continuing Education. External continuing education programs concerning the care and treatment of hand and upper extremity trauma injury including attendance at external symposia and lectures are required.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1055,7 +1080,9 @@
       <num>H.</num>
       <text>Extramural hospital house staff program agreements for rotation in the hand and upper extremity trauma center.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>

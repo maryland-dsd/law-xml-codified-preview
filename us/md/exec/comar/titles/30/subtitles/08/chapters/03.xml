@@ -75,7 +75,9 @@
         <text>The designated trauma or specialty referral center shall have reasonable time to comply with the emergency standard.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -89,7 +91,9 @@
       <num>B.</num>
       <text>In the absence of extenuating circumstances, a health care provider shall transport a patient to the closest appropriate trauma or specialty referral center, consistent with the triage protocols.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -103,7 +107,9 @@
       <num>B.</num>
       <text>A designated trauma or specialty referral center may not advertise services or capabilities for the treatment of patients above the trauma care level or specialty for which it has been designated.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>

@@ -48,7 +48,9 @@
       <num>G.</num>
       <text>Fails to cooperate in providing documentation and interviews with appropriate staff for MIEMSS' investigation of complaints.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -82,7 +84,9 @@
       <num>D.</num>
       <text>At the conclusion of MIEMSS' investigation, MIEMSS shall report its findings, in writing, to the chief executive officer of the trauma or specialty referral center, including requirements for corrective action, if MIEMSS determines that corrective action is appropriate.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -112,7 +116,9 @@
       <num>D.</num>
       <text>A request for records maintained by MIEMSS shall be processed under Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-401">1-401</cite> and <cite doc="Md. Code" path="gho|14-506">14-506</cite>, Annotated Code of Maryland, and <cite doc="Md. Code" path="ggp">General Provisions Article, Title 4, Subtitle 3, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -139,7 +145,9 @@
       <num>E.</num>
       <text>Revoke a trauma or specialty referral center's designation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -205,7 +213,9 @@
         <text>If MIEMSS determines that the trauma or specialty referral center has not satisfactorily complied with the plan, MIEMSS may take further disciplinary action against the trauma or specialty referral center under <cite path="|30|08|13|.06">Regulation .06 of this chapter</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <section cache:ref-path="30|08|13|.06">
     <prefix>Regulation</prefix>
@@ -587,7 +597,9 @@
       <num>I.</num>
       <text>A party aggrieved by a final agency decision of the EMS Board may seek judicial review in accordance with <cite doc="Md. Code" path="gsg|10-222">State Government Article, §10-222, Annotated Code of Maryland</cite>, and the Maryland Rules of Civil Procedure.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
+    </annotations>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>
