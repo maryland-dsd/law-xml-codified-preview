@@ -1,0 +1,1270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 51, Issue 1" codify:doc="Code of Maryland Regulations">
+  <num>51-1</num>
+  <meta>
+    <stub/>
+    <effective>2024-01-22</effective>
+    <citations>
+      <citation type="register" url="./51-1.pdf">51:1</citation>
+    </citations>
+    <history>
+      <published>2024-01-12</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="final">
+      <container>
+        <num>23-256-F</num>
+      </container>
+      <container>
+        <num>23-232-F</num>
+      </container>
+      <container>
+        <num>23-231-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="08|02|11|.01" codified:doc="Code of Maryland Regulations" codified:path="08|02|11|.01">
+          <section cache:ref-path="08|02|11|.01">
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Trout Fishing and Management Areas.</heading>
+            <para>
+              <num>A.</num>
+              <text>Basic Statewide Trout Fishing. Except as listed in §§B—I of this regulation, the following shall be in effect for trout fishing in all nontidal waters of the State:</text>
+              <para>
+                <num>(1)</num>
+                <text>Open season — year around;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Fishing hours — from 5:30 p.m. to 10 p.m.;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Creel and possession limits (all species of trout) in aggregate — daily: 2, possession: 4;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>A trout is part of the daily creel and possession limit if it cannot freely swim away from a person;</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Minimum size (all species of trout) — no minimum size restriction.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Put-and-Take Trout Fishing Areas.</text>
+              <para>
+                <num>(1)</num>
+                <text>Open Season. Except as provided in <cite path="08|02|11|.01|I." doc="Code of Maryland Regulations">§I of this regulation</cite>, put-and-take trout fishing areas are closed to all fishing from 10 p.m. of the first date to 5:30 a.m. of the last date, during the period listed in the following schedule:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Closure 0 — No closure; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Closure 1 — From the first Sunday after March 4 to the last Saturday in March.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Fishing Hours.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Except as provided in §B(2)(b) and (c) and <cite path="08|02|11|.01|I." doc="Code of Maryland Regulations">§I of this regulation</cite>, the fishing hours are from 5:30 a.m. to 10 p.m.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>There are no time restrictions for fishing in impoundments of 5 acres or more.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>In areas designated as Closure 1 in <cite path="08|02|11|.01|B.|(5)" doc="Code of Maryland Regulations">§B(5) of this regulation</cite>, the fishing hours on the last Saturday in March are from 6:30 a.m. to 10 p.m.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Creel and Possession Limits.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Brook trout v Daily: 0, Possession: 0.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>All other species of trout in aggregate — Daily: 5, Possession: 10.</text>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Public and private ponds in which State-supported fishing rodeos are held may be designated as put-and-take trout fishing areas on the day of the rodeo and are subject to the provisions in §B(1)—(3) of this regulation.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Except as provided in <cite path="08|02|11|.01|C.|(1)" doc="Code of Maryland Regulations">§C(1) of this regulation</cite> the following areas are designated as put-and-take trout fishing areas and are subject to the provisions in §B(1)—(3) of this regulation:</text>
+                <text>
+                  <table>
+                    <thead>
+                      <tr>
+                        <th/>
+                        <th>Closure Periods</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td data-vertical-align="middle">(a) Allegany County:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Evitts Creek mainstem upstream of Interstate 68</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Lake Habeeb (Rocky Gap Lake)</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Flintstone Creek watershed</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Wills Creek mainstem upstream of the U.S. Army Corps of Engineers Flood Control Project at The Narrows above Cumberland</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(v) Fifteen Mile Creek watershed</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vi) North Jennings Run watershed</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vii) Jennings Run mainstem downstream of the confluence of North Jennings Run</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(viii) Battie Mixon Ponds</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ix) Dans Mountain Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(x) North Branch Potomac River from the Allegany County line downstream to the Upper Potomac River Commission Wastewater Treatment Plant discharge in Westernport</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xi) Evitts Creek Ponds</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xii) Georges Creek mainstem from the upper extent of Town Park in Westernport upstream to Neff Run</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xiii) Orchard Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xiv) White Sulfur Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xv) Cotton Cove Pond in Lion's Park Glendening Recreational Complex at Frostburg</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xvi) Lion's Park Pond in Frostburg</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(c) Baltimore County and Baltimore City:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Patapsco River mainstem from the B &amp; O Viaduct upstream to Ilchester Road</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Little Falls mainstem from Wiseburg Road upstream to Valley Mill Road</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Gunpowder Falls mainstem from a red post located 1.6 miles downstream of Corbett Road downstream to the hiker/biker bridge located approximately 1 mile downstream of Phoenix Road; and, from Cromwell Bridge downstream to the Interstate 95 bridge</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Little Gunpowder Falls mainstem from Jericho Road upstream to Maryland Route 165</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(v) Gwynn Oak Park Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vi) Gwynns Falls mainstem below Maryland Route 140</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vii) Stansbury Park Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(viii) Avalon Pond (Lost Lake)</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(d) Calvert and Charles Counties:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Calvert Cliffs Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Hughesville Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Hutchins Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Myrtle Grove Wildlife Management area  all ponds</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(v) Wheatley Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(e) Caroline and Queen Anne's Counties:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Tuckahoe Creek and impoundment above the abandoned stone railroad bridge upstream of Maryland Route 404</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(f) Carroll County:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Piney Run mainstem downstream from Arrington Road</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Westminster Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Farm Museum Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Piney Run Reservoir</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(v) Taneytown Rod and Gun Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vi) South Branch Patapsco River mainstem from West Friendship Road (Howard County side) and Main Street (Carroll County side) downstream to its confluence with the North Branch Patapsco River</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vii) Liberty Reservoir</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(viii) Little Pipe Creek from Shepherds Mill Road downstream to the Maryland Route 75 bridge</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(g) Cecil County:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Principio Creek mainstem upstream of Maryland Route 7</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Rising Sun Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Big Elk Creek mainstem from the bridge at Maryland Route 277 upstream to the Pennsylvania state line</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Howards Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(h) Frederick County:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Fishing Creek mainstem upstream of Fishing Creek Reservoir including Steep Creek</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Owens Creek mainstem from Buck Lantz Road downstream to Roddy Road</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Friends Creek watershed</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Middle Creek mainstem from the Maryland Route 17 bridge at the junction of Bittle Road upstream to the confluence of Spruce Run</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(v) Cunningham Falls Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vi) Frank Bentz Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vii) Rainbow Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(viii) Urbana Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ix) Middletown Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(x) Whiskey Springs Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xi) Hamburg Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xii) Woodsboro Community Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xiii) Whittier Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Garrett County:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Savage River mainstem from Savage River Reservoir upstream to Poplar Lick</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Youghiogheny River mainstem upstream of the junction of Muddy Creek and from the upstream side of the Maryland Route 42 bridge downstream 0.4 miles to a site 50 yards downstream of Maple Street (at the confluence of Minnow Run)</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Bear Creek mainstem from the corner of Fish Hatchery Road and Rabbit Hollow Road downstream to the confluence with the Youghiogheny River at Friendsville.</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Mill Run mainstem downstream of uppermost bridge of Mill Run Road</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(v) Muddy Creek mainstem</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vi) Savage Reservoir</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vii) New Germany Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(viii) Piney Reservoir</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ix) Broadford Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(x) Herrington Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xi) North Branch Potomac River mainstem from Jennings Randolph Lake upstream approximately 6 miles to the lower boundary of Potomac State Forest; from the uppermost boundary of Potomac State Forest at Wallman upstream approximately 8.5 miles to the bridge at Old Wilson Road; from a red post located approximately 100 yards above the upstream concrete abutments at Barnum, West Virginia, downstream to a red post located below a pool known as Blue Hole, approximately 1/3 mile upstream of Bench Mark 1110 on the Westernport U.S.G.S. Quadrangle, and from Piney Swamp Run downstream to the Allegany County line</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xii) Accident Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xiii) Little Youghiogheny River mainstem, from Maryland Route 219 downstream to the Youghiogheny River</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xiv) Herrington Creek mainstem</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xv) Deep Creek Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xvi) Jennings Randolph Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xvii) CHANGING</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(j) Harford County:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Deer Creek mainstem from 1 mile south of Rocks State Park upstream to the bridge at Maryland Route 23</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Little Gunpowder Falls mainstem from Jericho Road upstream to Maryland Route 165</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Bynum Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(k) Howard County, Montgomery County, and Prince George's County:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Northwest Branch watershed upstream of Maryland Route 410 to Norwood Road</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Izaak Walton Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Pine Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Centennial Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(v) Lake Elkhorn</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vi) Melwood Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vii) Lake Needwood</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(viii) Tucker Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ix) Cosca Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(x) Martin Luther King, Jr. Park Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xi) Patuxent River mainstem from base of Rocky Gorge Reservoir Dam in Laurel downstream to the Baltimore and Ohio Railroad crossing</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xii) South Branch Patapsco River mainstem from West Friendship Road (Howard County side) and Main Street (Carroll County Side) downstream to its confluence with the North Branch Patapsco River</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xiii) Great Seneca Creek from Maryland Route 28 upstream to Maryland Route 355</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xiv) Greenbelt Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xv) Schoolhouse Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xvi) Lake Artemesia</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xvii) Allen's Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xviii) Laurel Lakes</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(xix) Warfield Park Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(l) Washington County:</td>
+                        <td/>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(i) Beaver Creek from the downstream side of the bridges located on the private farm lane below the Albert Powell State Trout Hatchery downstream to Black Rock Creek; and from Beaver Creek Road downstream to the confluence with Antietam Creek</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ii) Sideling Hill Creek watershed</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iii) Blairs Valley Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(iv) Indian Springs Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(v) Greenbrier Lake</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vi) Licking Creek mainstem</td>
+                        <td data-text-align="center" data-vertical-align="middle">1</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(vii) Israel Creek</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(viii) Sharpsburg Community Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle" class="text-indent-1">(ix) Antietam Creek mainstem from upstream boundary of Devil's Backbone Park to the mouth of Beaver Creek</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(m) Wicomico County: Beaverdam Creek in Salisbury from Schumaker Dam downstream to the bridge crossing at Memorial Plaza Road</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                      <tr>
+                        <td data-vertical-align="middle">(n) Worcester County: Shad Landing Pond</td>
+                        <td data-text-align="center" data-vertical-align="middle">0</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>Catch-and-Return Trout Fishing Areas.</text>
+              <para>
+                <num>(1)</num>
+                <text>Owens Creek.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Special provisions in effect on this area:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>From June 1 through the last day of February, a person may not keep or have any trout in possession while fishing, or fish with any barbed hook; and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>A person may not possess or use any natural or live bait, or any device enhanced with a scent and capable of catching fish.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The area subject to the provisions of <cite path="08|02|11|.01|C.|(1)|(a)" doc="Code of Maryland Regulations">§C(1)(a) of this regulation</cite> is Owens Creek mainstem from Buck Lantz Road downstream to Roddy Road.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>North Branch Potomac River.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Special provisions in effect on this area:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Open season — no closed season;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Creel and possession limits, all trout species in aggregate: daily — 0, possession — 0; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>A person may not fish with any barbed hook.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The area subject to the provisions of <cite path="08|02|11|.01|C.|(2)|(a)" doc="Code of Maryland Regulations">§C(2)(a) of this regulation</cite> is the North Branch Potomac River from the Upper Potomac River Commission Wastewater Treatment Plant discharge at Westernport downstream to the Maryland Route 956 bridge at Pinto.</text>
+                </para>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Areas Limited to Use of Artificial Lures Only.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Special provisions in effect on these areas:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>A person may not have any trout in possession while fishing in these areas. All trout which are caught shall be released and returned to the water.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>A person may fish only with artificial lures, including artificial flies.</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>In these areas, a person may not possess or use any natural or live bait, or any device enhanced with a scent and capable of catching fish.</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>The open season for artificial lure fishing is January 1 through December 31, inclusive.</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>A person may not fish with any barbed hook.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Areas subject to the provisions of this section are:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Patuxent River, Howard and Montgomery counties. The mainstem of the Patuxent River from the crossing of Maryland Route 97 upstream to the crossing of Maryland Route 27 and Cabin Branch from its confluence with the Patuxent River upstream to Hipsley Mill Road.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Morgan Run, Carroll County. From bridge on London Bridges Road upstream to bridge on Maryland Route 97.</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Paint Branch and Tributaries, Montgomery County upstream of Fairland Road.</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Gunpowder Falls, Baltimore County. Mainstem, from Prettyboy Reservoir Dam downstream to Bluemount Road.</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>North Branch Potomac River from an overhead cable and red bank post located approximately 345 yards below the Jennings Randolph Reservoir spillway downstream approximately 1 mile to a red post, located approximately 100 yards above the upstream concrete abutments at Barnum, West Virginia, and from a red post located below a pool known as Blue Hole approximately 1/3 mile upstream of Bench Mark 1110 on the Westernport U.S.G.S. Quadrangle, downstream approximately 4 miles to the confluence of Piney Swamp Run.</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>Youghiogheny River, Garrett County. Mainstem beginning at a red post approximately 100 yards upstream of the Deep Creek Lake tailrace and extending downstream 4 miles to the Sang Run Bridge.</text>
+                  </para>
+                  <para>
+                    <num>(vii)</num>
+                    <text>Little Hunting Creek, Frederick County. Mainstem from a red post located approximately 1/4 mile downstream of Maryland Route 806, upstream to include all waters of Little Hunting Creek within the boundaries of Cunningham Falls State Park.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Areas Limited to Artificial Fly Fishing Only.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Special provisions in effect on these areas:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>A person may not have any trout in possession while fishing in these areas. All trout which are caught shall be released and returned to the water.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>A person may fish only with artificial flies and streamers constructed in a normal fashion using natural or synthetic materials, or both, which may include feathers, fur, hair, tinsel, thread, fiber, plastic, cork, wire, and rubber, on a single hook with the components wound on or about the hook. A person may not use molded replicas of insects, earthworms, fish eggs, fish, or any invertebrate or vertebrate, either singly or in combination with the other materials, or other lures commonly described as spinners, spoons, or plugs made of metal, plastic, wood, rubber, or a similar substance or a combination of these.</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>A person may fish only with conventional fly fishing tackle, including fly rods, fly reels, and fly line with a leader or monofilament line attached. Any method of angling when the fly is cast directly from the reel is prohibited. The use of centerpin, spinning, spincast, and casting reels is prohibited.</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>In these areas, a person may not possess or use any natural or live bait, or any device enhanced with a scent and capable of catching fish.</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>The open season is January 1 through December 31, inclusive.</text>
+                  </para>
+                  <para>
+                    <num>(vi)</num>
+                    <text>A person may not fish with any barbed hook.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Areas subject to provisions of this section are:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Big Hunting Creek, Frederick County. All waters of Big Hunting Creek and its tributaries within Cunningham Falls State Park and Catoctin Mountain Park except Owens Creek, Little Hunting Creek, Cunningham Falls Lake, and Frank Bentz Pond;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Beaver Creek, Washington County. From the confluence with Black Rock Creek downstream approximately 1 mile to a red post located 0.1 mile above Beaver Creek Road; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Patuxent River, Montgomery and Howard Counties. From red bank posts located on both sides of the river approximately 400 yards below Brighton Dam downstream to Mink Hollow Road.</text>
+                  </para>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>Trophy Trout Fishing Areas.</text>
+              <para>
+                <num>(1)</num>
+                <text>Savage River mainstem from the downstream side of the Route 135 bridge upstream for a distance of approximately 2.7 miles to the lower suspension bridge (Allegany Bridge) is a trophy trout fishing area. The following apply:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Open season — no closed season.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Creel limit all trout species in aggregate — daily: 2, possession: 4.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Minimum size: brook trout — 12 inches; brown trout — 18 inches; all other species of trout — no minimum size.</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>A person may not have in possession any trout smaller than the minimum size limit in effect for this area.</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>A person may fish only with artificial lures, including artificial flies. Treble hooks are prohibited. Each artificial lure is restricted to a single hook with a single hook point.</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>In these areas, a person may not possess or use any natural or live bait, or any device enhanced with a scent and capable of catching fish.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Savage River mainstem from the Savage River Reservoir Dam downstream to the lower suspension bridge (Allegany Bridge) is a trophy trout fishing area. The following apply:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Open season — no closed season</text>
+                </para>
+                <para>
+                  <num proof="done">(c)</num>
+                  <text>Minimum size: brook trout — 12 inches; brown trout — 18 inches; all other species of trout — no minimum size.</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>A person may fish only with artificial flies.</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>In these areas, a person may not possess or use any natural or live bait, or any device enhanced with a scent and capable of catching fish. Section C(4)(a)(ii)—(iv), of this regulation shall apply to this special trout management area.</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>A person may not have in possession any trout smaller than the minimum size limit in effect for this area.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>Areas Limited to Fishing by Persons Younger than 16 Years Old, Persons 65 Years Old or Older, and Blind Persons.</text>
+              <para>
+                <num>(1)</num>
+                <text>Special provisions in effect on these areas:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Fishing in these areas is limited to persons under 16 years old, persons 65 years old and older, and blind persons;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Section B(1)—(3) of this regulation shall apply to these special trout management areas.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Areas subject to provisions of this section:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Laurel Run (Moscow), Allegany County.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Pangborn Pond, Washington County.</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Rising Sun Pond from March 1 through May 15.</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Boonsboro Pond, Washington County.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>F.</num>
+              <text>Areas Limited to Fishing by Persons under 16 Years Old and Blind Persons.</text>
+              <para>
+                <num>(1)</num>
+                <text>Special provisions in effect on these areas.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Fishing in these areas is limited to individuals under 16 years old and blind persons.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Section B(1)—(3) of this regulation shall apply to these special trout management areas.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Areas subject to provisions of this section:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Carroll Creek from a red post located approximately 300 yards upstream of Baughmans Lane downstream to the dam at College Avenue;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Little Tonoloway Creek within Weidmeyer Park in Hancock;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Glades Park Pond on Liberty Street in Oakland;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>George's Creek within Town Park in Westernport;</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Little Antietam Creek at Keedysville, from Coffman Farms Road downstream to Maryland Route 34; and</text>
+                </para>
+                <para>
+                  <num>(f)</num>
+                  <text>Grantsville Parkview Pond off Hershberger Lane.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>G.</num>
+              <text>Delayed Harvest Trout Fishing Areas and Requirements.</text>
+              <para>
+                <num>(1)</num>
+                <text>Group I Delayed Harvest Trout Fishing Areas and Restrictions.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Group I Fishing Areas.</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Catoctin and Little Catoctin Creek (Frederick County) from U.S. Route 40 near its intersection with Maryland Route 17 within Doubs Meadow Park downstream to the lower park boundary near Myersville.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Catoctin Creek (Frederick County) from the southernmost boundary of Catoctin Creek Park upstream to 200 feet north of the Sumantown Road Bridge.</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Middle Patuxent River (Howard County) from U.S. Route 29 downstream to Murray Hill Road.</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Town Creek mainstem (Allegany County) within Green Ridge State Forest, from a red post located approximately 3/4 mile downstream of the upper ford on lower Town Creek Road, just south of the Wagner Road intersection, downstream to a red post located just upstream of the lower ford on Lower Town Creek Road (Mallory Place), and from a post located approximately 1/2 mile downstream of Maniford Road to a red post located approximately 1-3/4 miles downstream (Bull Ring Ranch).</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>South Branch Patapsco River from West Friendship Road (Howard County) and Main Street (Carroll County) upstream approximately 1.1 mile to the upper boundary of the Hugg Thomas Wildlife Management Area.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Season, Creel, and Possession Limits for Group I Fishing Areas.;alskdfj;sldfjlkdfj</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>From June 1 through September 30, inclusive, the daily creel limit is five trout and the possession limit is ten trout (all species of trout in aggregate); and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>From October 1 through May 31, inclusive, a person may not have any trout in possession while fishing in these areas, and shall immediately release any trout caught to the water from which the trout was taken.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Bait Restrictions for Group I Fishing Areas.</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>From June 1 through September 30, inclusive, no special bait, lure, or tackle restrictions are in effect.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>From October 1 through May 31, inclusive, in these areas, a person may not possess or use any natural or live bait, or any device enhanced with a scent and capable of catching fish.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>From October 1 through May 31, inclusive, in these areas, a person may not fish with any barbed hook.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Group II Delayed Harvest Trout Fishing Areas and Restrictions.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Group II Fishing Areas.</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Casselman River mainstem (Garrett County) from a boundary marked by two red posts on both stream banks located on the south side of the Interstate 68 eastbound bridge downstream to the Pennsylvania state line.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>North Branch Potomac River mainstem (Garrett County) from the lowermost boundary of the Potomac State Forest near Lostland Run to the uppermost boundary of the Potomac State Forest at Wallman.</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>Youghiogheny River mainstem (Garrett County) below Friendsville from a site located 50 yards downstream of Maple Street (at the confluence of Minnow Run) downstream 1.8 miles to the powerline crossing upstream of the Youghiogheny Reservoir.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Season, Creel, and Possession Limits for Group II Fishing Areas.</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>From June 16 through September 30, inclusive, the daily creel limit is five trout and the possession limit is ten trout (all species of trout in aggregate).</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>From October 1 through June 15, inclusive, a person may not have any trout in possession while fishing in these areas, and shall immediately release any trout caught to the water from which the trout was taken.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Bait Restrictions for Group II Fishing Areas.</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>From June 16 through September 30, inclusive, no special bait, lure, or tackle restrictions are in effect.</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>From October 1 through June 15, inclusive, in these areas, a person may not possess or use any natural or live bait, or any device enhanced with a scent and capable of catching fish.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>From October 1 through June 15, inclusive, in these areas, a person may not fish with any barbed hook.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>H.</num>
+              <text>Special Restrictions for Brook Trout.</text>
+              <para>
+                <num>(1)</num>
+                <text>Nontidal Waters East of Interstate 81. A person may not have brook trout in possession while fishing in nontidal waters of the State located east of Interstate 81.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Savage River.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Special provisions in effect on this area:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>A person may use only artificial flies and lures;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>A person may not possess or use any natural or live bait, or any device enhanced with a scent and capable of catching fish; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>A person may not have brook trout in possession while fishing in this area.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The area subject to the provisions of <cite path="08|02|11|.01|H.|(2)|(a)" doc="Code of Maryland Regulations">§H(2)(a) of this regulation</cite> is the Savage River mainstem and tributaries upstream of the Savage River Reservoir dam, excluding impoundments and Put-and-Take Trout Fishing Areas (Savage River Reservoir, Savage River from Savage River Reservoir upstream to Poplar Lick Run, and New Germany Lake).</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>I.</num>
+              <text>Youth Trout Fishing Day.</text>
+              <para>
+                <num>(1)</num>
+                <text>Youth trout fishing day is the Saturday before the last Saturday in March in areas designated as Closure 1 or Closure 2 in <cite path="08|02|11|.01|B." doc="Code of Maryland Regulations">§B of this regulation</cite>.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Fishing Hours. The fishing hours on youth trout fishing day are from 6:30 a.m. to 10 p.m.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Fishing in the areas during the date and times described in this section is limited to individuals younger than 16 years old.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Creel and Possession Limits.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Brook trout — Daily: 0, Possession: 0.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>All other species of trout in aggregate — Daily: 2, Possession: 2.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>J.</num>
+              <text>Special Restrictions for Beaver Creek. A person may not have any brown trout in possession while fishing in Beaver Creek, from the confluence with Antietam Creek upstream to the Albert Powell State Trout Hatchery.</text>
+            </para>
+          </section>
+        </codify:replace>
+      </container>
+      <container>
+        <num>23-186-F</num>
+      </container>
+      <container>
+        <num>23-249-F-I</num>
+      </container>
+      <container codify:applicability="2024-02-01">
+        <num>23-241-F</num>
+      </container>
+      <container>
+        <num>23-189-F</num>
+      </container>
+      <container>
+        <num>23-247-F</num>
+      </container>
+      <container>
+        <num>23-999-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="05|22|01|attachments|05.22.01-appendix-B" codified:doc="Code of Maryland Regulations" codified:path="05|22|01|attachments|05.22.01-appendix-B">
+          <attachment name="05.22.01-appendix-B" url="/us/md/exec/register/51/1/attachments/05.22.01-appendix-B.pdf"/>
+        </codify:replace>
+        <codify:remove history="false" doc="Code of Maryland Regulations" path="05|22|01|attachments|05.22.01-appendix-A" warning="false" codified:doc="Code of Maryland Regulations" codified:path="05|22|01"/>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="05|22|01|.02" codified:doc="Code of Maryland Regulations" codified:path="05|22|01|.02">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.02</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>In this chapter, the following terms have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Terms Defined.</text>
+              <para>
+                <num>(1)</num>
+                <text>“Commercially reasonable” means terms and pricing that are reasonably consistent with what an experienced real estate professional would expect to see in similar transactions.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>“Department” means the Department of Housing and Community Development, a principal department of the State.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>“Material terms” includes the sales price, settlement date, inspection terms, financing terms, escrow deposit, seller credit to buyer (if any), and seller repairs.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>“Offer to purchase” means a good faith offer for the purchase of a residential rental property for a price that a willing buyer would pay to a willing seller in an arm’s length transaction, with neither party under any compulsion to buy or sell.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>“Office” means the Office of Tenant and Landlord Affairs within the Department of Housing and Community Development.</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>“Secretary” means the Secretary of Housing and Community Development.</text>
+                <text>New Content</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>“Tenant” means an <cite path="05|22|01|attachments|05.22.01-appendix-B" doc="Code of Maryland Regulations">individual</cite> who has occupied a residential rental property for at least 6 months and who is a named lessee in the written lease.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>“Tenant’s exclusive negotiation period” means the period of time prescribed in <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119(c), Annotated Code of Maryland</cite>, after a tenant is notified about the tenant’s right to purchase a residential rental property during which the tenant may negotiate exclusively with the owner to enter into a contract of sale.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="05|22|01|.04" codified:doc="Code of Maryland Regulations" codified:path="05|22|01|.04">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.04</num>
+            <heading>Form of Notice and Counteroffer.</heading>
+            <para>
+              <num>A.</num>
+              <text>The notice delivered to tenants at the commencement of the tenant’s exclusive negotiation period shall contain, at minimum, the following information:</text>
+              <para>
+                <num>(1)</num>
+                <text>The material terms that the owner would agree to incorporate into a contract of sale with the tenant;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A conspicuous statement that the notice is a solicitation of an offer to purchase and is not intended as and may not be construed as a binding contract of sale; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Any information regarding deadlines for the tenant to submit an offer to purchase, including the duration of the tenant’s exclusive negotiation period.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>The material terms stated in the notice delivered to tenants under this chapter:</text>
+              <para>
+                <num>(1)</num>
+                <text>Shall be commercially reasonable and made in good faith;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Shall adhere to generally accepted residential real estate practices; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>May not include restrictions on financing methods or the right of inspection.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>The notice delivered to tenants under this chapter shall be in the</text>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>A counteroffer delivered to tenants under <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119(c)(5)(ii), Annotated Code of Maryland</cite>, shall be in the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-B" doc="Code of Maryland Regulations">Appendix B of this subtitle</cite>.</text>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>The Office shall make the forms provided in Appendix A and <cite path="05|22|01|attachments|05.22.01-appendix-B" doc="Code of Maryland Regulations">Appendix B of this subtitle</cite> available on its public website in a format allowing residential rental property owners to populate the blank sections of the forms, download the forms, and print the forms for delivery to tenants.</text>
+            </para>
+            <para>
+              <num>F.</num>
+              <text>The Office may, from time to time, with the approval of the Secretary, edit or amend the forms provided in Appendix A and <cite path="05|22|01|attachments|05.22.01-appendix-B" doc="Code of Maryland Regulations">Appendix B of this subtitle</cite> to facilitate compliance with Real Property Article, §§<cite doc="Md. Code" path="grp|8-119">8-119</cite>(c) and <cite doc="Md. Code" path="grp|8-120">8-120</cite>, Annotated Code of Maryland, or other applicable law, as appropriate.</text>
+              <text>SEE FORM AT END OF CHAPTER.</text>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:insert doc="Code of Maryland Regulations" path="05|22|01|attachments" codified:doc="Code of Maryland Regulations" codified:path="05|22|01|attachments|new">
+          <attachment name="new" url="/us/md/exec/register/51/1/attachments/newpdf.pdf"/>
+        </codify:insert>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="05|22|01|.05" codified:doc="Code of Maryland Regulations" codified:path="05|22|01|.05">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.05</num>
+            <heading>Notice Requirements for Tenant’s Right of First Refusal.</heading>
+            <para>
+              <num>A.</num>
+              <text>Before accepting an offer to purchase a residential rental property from a third party, the owner of the property shall provide written notice to any tenants of the property of the tenants’ right of first refusal, and give the tenant an opportunity to exercise the right of first refusal <cite path="05|22|01|attachments|new" doc="Code of Maryland Regulations">within 30 days after receipt of the notice, if:</cite></text>
+              <para>
+                <num>(1)</num>
+                <text>The proposed transfer to the third party is not a transfer listed in <cite doc="Md. Code" path="grp|8-119">Real Property Article, §8-119(b), Annotated Code of Maryland</cite>;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The owner intends to accept an offer from a third party to purchase the property for an amount at least 10 percent lower than the lowest price offered to the tenant in any previous notice, offer, or counteroffer made during the tenant’s exclusive negotiation period; or</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The owner, without having offered the property for sale to the public or any third party, receives an offer to purchase the property from a third party.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>A notice sent to a tenant under this chapter shall be delivered by:</text>
+              <para>
+                <num>(1)</num>
+                <text>First-class U.S. Mail, with a certificate of mailing; or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A delivery service providing delivery tracking and confirmation.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>The owner shall send a copy of a notice sent to a tenant under this chapter to the Office by a submission form on the Office’s website.</text>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>The owner shall notify the Office by submission form on the Office’s website if:</text>
+              <para>
+                <num>(1)</num>
+                <text>A tenant delivers a timely written offer to purchase at the same sales price as the third-party offer;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A tenant does not deliver a timely offer to purchase the property at the same sales price as the third-party offer; or</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The owner accepts an offer to purchase from a tenant and enters into a contract of sale, but the contract of sale is terminated before settlement.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="05|22|01|.06" codified:doc="Code of Maryland Regulations" codified:path="05|22|01|.06">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.06</num>
+            <heading>Form of Notice of Right of First Refusal.</heading>
+            <para>
+              <num>A.</num>
+              <text>The notice delivered to tenants under this chapter shall contain, at minimum, the following information:</text>
+              <para>
+                <num>(1)</num>
+                <text>The sales price proposed in the third-party offer to purchase;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>A conspicuous statement that the notice is a solicitation of an offer to purchase and is not intended as and may not be construed as a binding contract of sale; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Any information regarding <cite path="05|22|01|attachments|05.22.01-appendix-C" doc="Code of Maryland Regulations">Appendix C of this subtitle</cite>for the tenant to submit an offer to purchase.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>The notice delivered to tenants under this chapter shall be in the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C" doc="Code of Maryland Regulations">Appendix C of this subtitle</cite>.</text>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>The Office shall make the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C" doc="Code of Maryland Regulations">Appendix C of this subtitle</cite> available on its public website in a format allowing residential rental property owners to populate the blank sections of the form, download the form, and print the form for delivery to tenants.</text>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>The Office may, from time to time, with the approval of the Secretary, edit or amend the form provided in <cite path="05|22|01|attachments|05.22.01-appendix-C" doc="Code of Maryland Regulations">Appendix C of this subtitle</cite> to facilitate compliance with Real Property Article, §§<cite doc="Md. Code" path="grp|8-119">8-119</cite>(d) and <cite doc="Md. Code" path="grp|8-120">8-120</cite>, Annotated Code of Maryland, or other applicable law, as appropriate.</text>
+              <text>SEE FORM AT END OF CHAPTER.</text>
+            </para>
+          </section>
+        </codify:replace>
+      </container>
+    </container>
+  </container>
+</document>
