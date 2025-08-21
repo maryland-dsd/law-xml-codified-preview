@@ -80,9 +80,7 @@
       <num>E.</num>
       <text>Establish procedures and specifications for electronic and hard copy submission of data.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -168,9 +166,7 @@
         <text>Ensuring that the data entered in the State trauma registry is complete and accurate.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -196,9 +192,7 @@
       <num>E.</num>
       <text>If appropriate for quality assurance purposes, designated trauma and specialty centers shall provide EMS providers licensed or certified by the EMS Board under <cite doc="Md. Code" path="ged|13-516">Education Article §13-516, Annotated Code of Maryland</cite>, who have or have had a direct treatment relationship with a patient, follow-up data or information on that patient. Quality assurance information provided under this action is considered to be provided in accordance with <cite path="30.03.04.05">COMAR 30.03.04.05</cite>.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -225,9 +219,7 @@
       <num>E.</num>
       <text>Provide a data resource for research and education.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -261,9 +253,7 @@
       <num>C.</num>
       <text>Designated trauma or specialty care centers shall use the patient criteria described in Regulation .01B and C of this chapter.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="30|08|04|.06">
     <prefix>Regulation</prefix>
@@ -341,9 +331,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>

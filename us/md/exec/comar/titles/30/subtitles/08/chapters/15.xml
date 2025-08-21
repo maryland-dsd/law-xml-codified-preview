@@ -15,9 +15,7 @@
       <num>B.</num>
       <text>Term Defined. "Freestanding emergency medical facility" means a facility licensed by the Maryland Department of Health under Health-General Article, §19-3A-02, Annotated Code of Maryland.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -67,9 +65,7 @@
       <num>C.</num>
       <text>Notwithstanding <cite path="30.08.02.06">COMAR 30.08.02.06</cite>, MIEMSS may designate a freestanding emergency medical facility licensed by the Maryland Department of Health under Health-General Article, §19-3A-02, Annotated Code of Maryland, without conducting an on-site review.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="30|08|15|.03">
     <prefix>Regulation</prefix>
@@ -155,9 +151,7 @@
       <num>E.</num>
       <text>MIEMSS will provide a copy of any determination issued by the EMS Board under this regulation to the Maryland Health Care Commission upon its issuance.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509</cite>; Health-General Article, §19-120(o)(3); Annotated Code of Maryland</annotation>

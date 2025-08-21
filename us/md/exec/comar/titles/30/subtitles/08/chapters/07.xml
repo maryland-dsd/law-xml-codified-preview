@@ -40,18 +40,14 @@
       <num>H.</num>
       <text>New applications.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Exceptions.</heading>
     <text>The criteria listed in <cite path="|30|08|07|.01">Regulation .01 of this chapter</cite> do not apply to burn, perinatal, neonatal, or designated primary stroke specialty referral centers.</text>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -70,18 +66,14 @@
       <num>C.</num>
       <text>Published results of peer-reviewed research.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.04</num>
     <heading>Compliance with Standards.</heading>
     <text>An applicant hospital shall comply with the applicable standards for specialty referral centers in this subtitle.</text>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -139,9 +131,7 @@
         <text>Number of physicians who would provide medical care for that population.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -156,18 +146,14 @@
       <num>B.</num>
       <text>Consider the number, geographic distribution, and resource capabilities of other specialty referral centers.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
     <heading>Population.</heading>
     <text>When considering an applicant hospital, MIEMSS shall take into account the applicant hospital's geographic specialty patient catchment area given the current and projected population density within an area.</text>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -186,18 +172,14 @@
       <num>C.</num>
       <text>Technicians and support staff.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.09</num>
     <heading>Active Research Program.</heading>
     <text>When considering an applicant hospital, MIEMSS may give preference to the applicant with an established and ongoing clinical research program focusing on the specific specialty care area.</text>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -231,9 +213,7 @@
         <text>Consider demonstrated patient outcomes and the recommendations of the site survey team to determine the most qualified applicant if both applicants have been verified through MIEMSS' inspection as meeting the standards for the requested specialty referral center.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -248,9 +228,7 @@
       <num>B.</num>
       <text>Demonstrate that its proposed specialty referral center can generate sufficient patient volume without adversely affecting patient volumes at other existing, designated, or contract specialty referral centers.</text>
     </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-048-F" type="History"/>
-    </annotations>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>

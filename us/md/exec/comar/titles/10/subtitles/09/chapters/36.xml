@@ -1592,26 +1592,6 @@
     </para>
     <annotations/>
   </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.12</num>
-    <heading>New Reg</heading>
-    <para>
-      <num>A.</num>
-      <text>Test Para</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Test Para 2</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Test Para 3.</text>
-    </para>
-    <annotations>
-      <annotation app="2025-07-21" doc="Maryland Register, Volume 52, Issue 14" eff="2025-07-21" path="regulations|final|25-023-F" type="History" display="false"/>
-    </annotations>
-  </section>
   <annotations>
     <annotation type="Authority" dest="container">Health-General Article, §§2-104(b), 15-103, and 15-105, Annotated Code of Maryland</annotation>
     <annotation type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
