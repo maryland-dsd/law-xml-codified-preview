@@ -279,92 +279,92 @@
           <text><em>County Projections	State Projections	Others</em><br/>1970<br/>1975<br/>1980<br/>1990<br/>2000</text>
         </para>
       </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Land Use.</text>
       <para>
-        <num>(a)</num>
-        <text>Maps showing existing land use, zoning, and the adopted comprehensive development plan for the county.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Table No. 2, reflecting existing and zoned land use in acres.</text>
-        <text class="center">
-          <strong>Table No. 2<br/>Land in County</strong>
-        </text>
-        <text>
-          <table class="layout-table">
-            <tbody>
-              <tr>
-                <td/>
-                <td/>
-                <th>County Comprehensive</th>
-              </tr>
-              <tr>
-                <td/>
-                <td/>
-                <th>Plan 1980 or Other</th>
-              </tr>
-              <tr>
-                <td data-text-align="center" data-vertical-align="bottom">
-                  <em>Existing Land Use</em>
-                </td>
-                <td data-text-align="center" data-vertical-align="bottom">
-                  <em>Zoned Land</em>
-                </td>
-                <td data-text-align="center" data-vertical-align="bottom">
-                  <em>Horizon Date</em>
-                </td>
-              </tr>
-              <tr>
-                <td data-text-align="center" data-vertical-align="bottom">
-                  <em>Acres %Total Acreage</em>
-                </td>
-                <td data-text-align="center" data-vertical-align="bottom">
-                  <em>Acres %Total Acreage</em>
-                </td>
-                <td data-text-align="center" data-vertical-align="bottom">
-                  <em>Acres %Total Acreage</em>
-                </td>
-              </tr>
-              <tr>
-                <td>Land Use</td>
-                <td/>
-                <td/>
-              </tr>
-              <tr>
-                <td>Residential, Commercial, Light Industry</td>
-                <td/>
-                <td/>
-              </tr>
-              <tr>
-                <td>Heavy Industry</td>
-                <td/>
-                <td/>
-              </tr>
-              <tr>
-                <td>Agricultural and Open Space</td>
-                <td/>
-                <td/>
-              </tr>
-              <tr>
-                <td>Mines and Quarries</td>
-                <td/>
-                <td/>
-              </tr>
-              <tr>
-                <td>Surface Water</td>
-                <td/>
-                <td/>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>A map showing existing and proposed major public institutions, such as schools, hospitals, correctional facilities, government complexes; and a table showing the approximate populations of these institutions.</text>
+        <num>(3)</num>
+        <text>Land Use.</text>
+        <para>
+          <num>(a)</num>
+          <text>Maps showing existing land use, zoning, and the adopted comprehensive development plan for the county.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Table No. 2, reflecting existing and zoned land use in acres.</text>
+          <text class="center">
+            <strong>Table No. 2<br/>Land in County</strong>
+          </text>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td/>
+                  <td/>
+                  <th>County Comprehensive</th>
+                </tr>
+                <tr>
+                  <td/>
+                  <td/>
+                  <th>Plan 1980 or Other</th>
+                </tr>
+                <tr>
+                  <td data-text-align="center" data-vertical-align="bottom">
+                    <em>Existing Land Use</em>
+                  </td>
+                  <td data-text-align="center" data-vertical-align="bottom">
+                    <em>Zoned Land</em>
+                  </td>
+                  <td data-text-align="center" data-vertical-align="bottom">
+                    <em>Horizon Date</em>
+                  </td>
+                </tr>
+                <tr>
+                  <td data-text-align="center" data-vertical-align="bottom">
+                    <em>Acres %Total Acreage</em>
+                  </td>
+                  <td data-text-align="center" data-vertical-align="bottom">
+                    <em>Acres %Total Acreage</em>
+                  </td>
+                  <td data-text-align="center" data-vertical-align="bottom">
+                    <em>Acres %Total Acreage</em>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Land Use</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Residential, Commercial, Light Industry</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Heavy Industry</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Agricultural and Open Space</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Mines and Quarries</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Surface Water</td>
+                  <td/>
+                  <td/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A map showing existing and proposed major public institutions, such as schools, hospitals, correctional facilities, government complexes; and a table showing the approximate populations of these institutions.</text>
+        </para>
       </para>
     </para>
     <para>

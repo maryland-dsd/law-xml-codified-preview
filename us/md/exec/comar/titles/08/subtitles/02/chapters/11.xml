@@ -16,7 +16,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Fishing hours — from 5:30 p.m. to 10 p.m.;</text>
+        <text>Fishing hours — from 5:30 a.m. to 10 p.m.;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -156,6 +156,18 @@
               </tr>
               <tr>
                 <td data-vertical-align="middle" class="text-indent-1">(xvi) Lion's Park Pond in Frostburg</td>
+                <td data-text-align="center" data-vertical-align="middle">0</td>
+              </tr>
+              <tr>
+                <td data-vertical-align="middle">(b) Anne Arundel County:</td>
+                <td/>
+              </tr>
+              <tr>
+                <td data-vertical-align="middle" class="text-indent-1">(i) Severn Run mainstem upstream of Maryland Route 3</td>
+                <td data-text-align="center" data-vertical-align="middle">1</td>
+              </tr>
+              <tr>
+                <td data-vertical-align="middle" class="text-indent-1">(ii) Lake Waterford</td>
                 <td data-text-align="center" data-vertical-align="middle">0</td>
               </tr>
               <tr>
@@ -407,7 +419,7 @@
                 <td data-text-align="center" data-vertical-align="middle">0</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle" class="text-indent-1">(xvii) CHANGING</td>
+                <td data-vertical-align="middle" class="text-indent-1">(xvii) Snowy Creek mainstem</td>
                 <td data-text-align="center" data-vertical-align="middle">0</td>
               </tr>
               <tr>
@@ -754,7 +766,11 @@
           <text>Open season — no closed season</text>
         </para>
         <para>
-          <num proof="done">(c)</num>
+          <num>(b)</num>
+          <text>Creel limit all trout species in aggregate — daily: 2, possession: 4.</text>
+        </para>
+        <para>
+          <num>(c)</num>
           <text>Minimum size: brook trout — 12 inches; brown trout — 18 inches; all other species of trout — no minimum size.</text>
         </para>
         <para>
@@ -883,7 +899,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Season, Creel, and Possession Limits for Group I Fishing Areas.;alskdfj;sldfjlkdfj</text>
+          <text>Season, Creel, and Possession Limits for Group I Fishing Areas.</text>
           <para>
             <num>(i)</num>
             <text>From June 1 through September 30, inclusive, the daily creel limit is five trout and the possession limit is ten trout (all species of trout in aggregate); and</text>
@@ -1023,9 +1039,7 @@
       <num>J.</num>
       <text>Special Restrictions for Beaver Creek. A person may not have any brown trout in possession while fishing in Beaver Creek, from the confluence with Antietam Creek upstream to the Albert Powell State Trout Hatchery.</text>
     </para>
-    <annotations>
-      <annotation app="2024-01-22" doc="Maryland Register, Volume 51, Issue 1" eff="2024-01-22" path="regulations|final|23-231-F" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
