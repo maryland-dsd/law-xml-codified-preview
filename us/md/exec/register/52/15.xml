@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 52, Issue 15" codify:doc="Code of Maryland Regulations">
+  <num>52-15</num>
+  <meta>
+    <stub/>
+    <effective>2025-08-04</effective>
+    <citations>
+      <citation type="register" url="./52-15.pdf">52:15</citation>
+    </citations>
+    <history>
+      <published>2025-07-25</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="emergency">
+      <container codify:applicability="2025-06-24" codify:expire="2025-12-21">
+        <num>25-089-E</num>
+      </container>
+    </container>
+    <container name="final">
+      <container>
+        <num>24-208-F</num>
+      </container>
+      <container>
+        <num>25-084-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="08|03|08|.01" codified:doc="Code of Maryland Regulations" codified:path="08|03|08|.01">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>In this chapter, the following terms have the meanings indicated.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Terms Defined.</text>
+              <para>
+                <num>(1)</num>
+                <text>“Administration” means the Wildlife and Heritage Service.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>“Director” means the Director of the Wildlife and Heritage Service.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>“Endangered extirpated species” means any species that was once a viable component of the flora or fauna of the State but for which no naturally occurring populations are known to exist in the State. Most of these species have not been recorded in Maryland since 1950.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>“Endangered species” means any species whose continued existence as a viable component of the State's flora or fauna is determined to be in jeopardy including any species determined to be an "endangered species" pursuant to the federal Endangered Species Act of 1973, 16 U.S.C. §§1531—1543.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>“Harass” means an intentional or negligent act or omission which creates the likelihood of injury to wildlife by annoying wildlife to an extent that significantly disrupts normal behavioral patterns which include, but are not limited to, breeding, feeding, or sheltering. hello</text>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>Harm.</text>
+                <para>
+                  <num>(a)</num>
+                  <text>“Harm” means an act which kills or injures wildlife.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Harm includes an act that significantly modifies or degrades a habitat thereby killing or injuring wildlife by significantly impairing essential behavioral patterns, including breeding, feeding, or sheltering.</text>
+                </para>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>“Incidental taking” means takings of listed species that are incidental to, and not the purpose of, the carrying out of an otherwise lawful activity conducted by a person on private property.</text>
+              </para>
+              <para>
+                <num>(8)</num>
+                <text>“Jeopardize the continued existence of” means to engage in an action which reasonably would be expected, directly or indirectly, to reduce appreciably the likelihood of either the survival or recovery of a listed species in the wild by reducing the reproduction, numbers, or distribution of a listed species or otherwise adversely affecting the species.</text>
+              </para>
+              <para>
+                <num>(9)</num>
+                <text>“Listed species” means a species of flora or fauna deemed endangered, threatened or in need of conservation in this chapter due to any of the following factors:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Present or threatened destruction, modification, or curtailment of the species' habitat or range;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Overutilization for commercial, sporting, scientific, educational, or other purposes;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>Disease or predation;</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>Inadequacy of existing regulatory mechanisms; or</text>
+                </para>
+                <para>
+                  <num>(e)</num>
+                  <text>Other natural or manmade factors affecting the species' continued existence within the State.</text>
+                </para>
+              </para>
+              <para>
+                <num>(10)</num>
+                <text>“Natural heritage area” means any natural community of species designated in Regulation .10 in this chapter.</text>
+              </para>
+              <para>
+                <num>(11)</num>
+                <text>“Person” means any county, municipal corporation, or other political subdivision of the State, an individual, corporation, receiver, trustee, guardian, executor, administrator, fiduciary, or representative.</text>
+              </para>
+              <para>
+                <num>(12)</num>
+                <text>“Site” is property or properties, owned singularly or in combination, that support threatened or endangered species.</text>
+              </para>
+              <para>
+                <num>(13)</num>
+                <text>“Species” means any species of wildlife or plant and reptiles, amphibians, crustaceans, mollusks, and the following finfish: Acipenser brevirostrum, Acipenser oxyrinchus, Alburnops chalybaeus, Catostomus catostomus, Centrarchus macropterus, Enneacanthus chaetodon, Etheostoma sellare, Etheostoma vitreum, Lethenteron appendix, Luxilus chrysocephalus, Margariscus margarita, Notropis bifrenatus, Noturus flavus, Pararhinichthys bowersi, Percina bimaculata, Percina notogramma, Percopsis omiscomaycus, or any part, egg, offspring, or dead body of any of them.</text>
+              </para>
+              <para>
+                <num>(14)</num>
+                <text>“Species in need of conservation” means any species determined by the Secretary to be in need of conservation measures for its continued ability to sustain itself successfully.</text>
+              </para>
+              <para>
+                <num>(15)</num>
+                <text>“Take” means to harass, harm, pursue, hunt, shoot, wound, kill, trap, capture, or collect, or attempt to engage in any such conduct.</text>
+              </para>
+              <para>
+                <num>(16)</num>
+                <text>“Threatened species” means any species of flora or fauna which appears likely, within the foreseeable future, to become endangered including any species determined to be a "threatened species" pursuant to the federal Endangered Species Act of 1973, 16 U.S.C. §§1531—1543.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+      </container>
+      <container>
+        <num>25-062-F</num>
+      </container>
+      <container>
+        <num>25-061-F</num>
+      </container>
+      <container>
+        <num>25-038-F</num>
+      </container>
+      <container>
+        <num>25-090-F</num>
+      </container>
+      <container>
+        <num>25-080-F</num>
+      </container>
+    </container>
+  </container>
+</document>
