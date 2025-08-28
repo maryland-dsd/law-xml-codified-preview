@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 52, Issue 17" codify:doc="Code of Maryland Regulations">
+  <num>52-17</num>
+  <meta>
+    <stub/>
+    <effective>2025-09-01</effective>
+    <citations>
+      <citation type="register" url="./52-17.pdf">52:17</citation>
+    </citations>
+    <history>
+      <published>2025-08-22</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="final">
+      <container>
+        <num>25-070-F</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="05" codified:doc="Code of Maryland Regulations" codified:path="05|24">
+          <container>
+            <prefix>Subtitle</prefix>
+            <num>24</num>
+            <heading>Insert subtitle heading.</heading>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="05|24" codified:doc="Code of Maryland Regulations" codified:path="05|24|01|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>01</num>
+            <heading>Insert chapter heading.</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Insert section heading.</heading>
+            </section>
+            <annotations>
+              <annotation type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+      </container>
+      <container>
+        <num>25-113-F-I</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|32" codified:doc="Code of Maryland Regulations" codified:path="10|32|24|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>24</num>
+            <heading>Insert chapter heading.</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Insert section heading.</heading>
+            </section>
+            <annotations>
+              <annotation type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+      </container>
+      <container>
+        <num>25-116-F</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|32" codified:doc="Code of Maryland Regulations" codified:path="10|32|25|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>25</num>
+            <heading>Insert chapter heading.</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Insert section heading.</heading>
+            </section>
+            <annotations>
+              <annotation type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+      </container>
+      <container codify:applicability="2026-02-22">
+        <num>25-091-F</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10" codified:doc="Code of Maryland Regulations" codified:path="10|69">
+          <container>
+            <prefix>Subtitle</prefix>
+            <num>69</num>
+            <heading>Insert subtitle heading.</heading>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|69" codified:doc="Code of Maryland Regulations" codified:path="10|69|01|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>01</num>
+            <heading>Insert chapter heading.</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Insert section heading.</heading>
+            </section>
+            <annotations>
+              <annotation type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|69" codified:doc="Code of Maryland Regulations" codified:path="10|69|02|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>02</num>
+            <heading>Insert chapter heading.</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Insert section heading.</heading>
+            </section>
+            <annotations>
+              <annotation type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|69" codified:doc="Code of Maryland Regulations" codified:path="10|69|03|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>03</num>
+            <heading>Insert chapter heading.</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Insert section heading.</heading>
+            </section>
+            <annotations>
+              <annotation type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+      </container>
+      <container>
+        <num>25-005-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="11|04|15|.01" codified:doc="Code of Maryland Regulations" codified:path="11|04|15|.01">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.01</num>
+            <heading>Definitions.</heading>
+            <para>
+              <num>A.</num>
+              <text>Amended Text</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>Terms Defined.</text>
+              <para>
+                <num>(1)</num>
+                <text>"Local police department" means:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>The police department of any municipal corporation;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>The police department of any county; and</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>The sheriff's department of any county that has highway traffic patrol responsibilities.</text>
+                </para>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>"Owner" means the registered owner of a motor vehicle or a lessee of a motor vehicle under a lease of 6 months or longer.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>"Recorded image" means an image recorded by a work zone speed control system:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>On:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>A photograph;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>A microphotograph;</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>An electronic image;</text>
+                  </para>
+                  <para>
+                    <num>(iv)</num>
+                    <text>Videotape; or</text>
+                  </para>
+                  <para>
+                    <num>(v)</num>
+                    <text>Any other medium; and</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Showing:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>The rear of a motor vehicle;</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>At least two timed-stamped images of the motor vehicle that include the same stationary object near the motor vehicle; and</text>
+                  </para>
+                  <para>
+                    <num>(iii)</num>
+                    <text>On at least one image or portion of tape, a clear and legible identification of the entire registration plate number of the motor vehicle.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>"State police department" means the Department of State Police and the Maryland Transportation Authority Police.</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>"Work zone" means a segment of a highway:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>That is identified as a temporary traffic control zone by traffic control devices that are placed or installed in general conformance with the State manual and specifications adopted for a uniform system of traffic control devices; and</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Where highway construction, repair, maintenance, utility work, or related activity, including the placement, installation, maintenance, or removal of a work zone traffic control device, is being performed regardless of whether workers are present.</text>
+                </para>
+              </para>
+              <para>
+                <num>(6)</num>
+                <text>"Work zone speed control system" means a device having one or more motor vehicle sensors connected to a camera system capable of producing recorded images of motor vehicles traveling at or above a predetermined speed in or approaching a work zone.</text>
+              </para>
+              <para>
+                <num>(7)</num>
+                <text>"Work zone speed control system operator" means an individual who has been trained and certified to operate a work zone speed control system and who is:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>A police officer;</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>A representative of a local police department;</text>
+                </para>
+                <para>
+                  <num>(c)</num>
+                  <text>A representative of a State police department; or</text>
+                </para>
+                <para>
+                  <num>(d)</num>
+                  <text>A State Highway Administration contractor.</text>
+                </para>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+      </container>
+      <container>
+        <num>25-087-F</num>
+      </container>
+      <container codify:applicability="2025-10-01">
+        <num>24-159-F</num>
+      </container>
+    </container>
+  </container>
+</document>
