@@ -1792,7 +1792,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|10-212">10-212</cite>, <cite doc="Md. Code" path="ged|11-105">11-105</cite>, <cite doc="Md. Code" path="ged|11-201">11-201</cite>—<cite doc="Md. Code" path="ged|11-207">11-207</cite>, and <cite doc="Md. Code" path="ged|16-108">16-108</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|10-212">10-212</cite>, <cite doc="Md. Code" path="ged|11-105">11-105</cite>, <cite doc="Md. Code" path="ged|11-201">11-201</cite>—<cite doc="Md. Code" path="ged|11-207">11-207</cite>, and <cite doc="Md. Code" path="ged|16-108">16-108</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-07-27">Effective date: July 27, 1979 (6:15 Md. R. 1285)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|13.50.02">COMAR 13.50.02</cite> to 13B.02.01</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-01-12">Regulations <cite path="|13B|02|01|.01">.01</cite>—<cite path="|13B|02|01|.05">.05</cite> repealed and new Regulations <cite path="|13B|02|01|.01">.01</cite>—<cite path="|13B|02|01|.21">.21</cite> adopted effective January 12, 1998 (25:1 Md. R. 16)</annotation>

@@ -1008,7 +1008,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|5-301">5-301</cite>—<cite doc="Md. Code" path="gag|5-314">5-314</cite> and <cite doc="Md. Code" path="gag|9-302">9-302</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|5-301">5-301</cite>—<cite doc="Md. Code" path="gag|5-314">5-314</cite> and <cite doc="Md. Code" path="gag|9-302">9-302</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-01-13">Effective date: January 13, 1978 (5:1 Md. R. 19)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Regulations .01B, J; .06; .07A, C; .12A; and .16 amended effective February</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">10, 1986 (13:3 Md. R. 273)</annotation>

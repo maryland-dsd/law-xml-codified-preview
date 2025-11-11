@@ -20,6 +20,7 @@
           <num>1</num>
           <heading>Short title.</heading>
           <text>This chapter may be cited as the *name of County, City or Town* Public Ethics *Law or Ordinance*.</text>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -41,6 +42,7 @@
             <num>(d)</num>
             <text>It is the intention of the *Council or other legislative body* that this chapter, except its provisions for criminal sanctions, be liberally construed to accomplish this purpose.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -274,6 +276,7 @@
               <text>Is not a rental property or a time share.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -441,6 +444,7 @@
               <text>Assess a late fee of $10 per day up to a maximum of $1,000 for a failure to file a timely lobbyist registration or lobbyist report required under §8 of this chapter.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -715,6 +719,7 @@
             <num>(h)</num>
             <text>An official or employee may not retaliate against an individual for reporting or participating in an investigation of a potential violation of the local ethics law or ordinance.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1191,6 +1196,7 @@
               <text>The *County, City, or Town* Ethics Commission may take appropriate enforcement action to ensure compliance with this section.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1220,6 +1226,7 @@
             <num>(c)</num>
             <text>The Commission shall maintain all disclosure statements filed under this section as public records available for public inspection and copying as provided in §6(e) of this chapter.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1490,6 +1497,7 @@
             <num>(o)</num>
             <text>The Commission shall make lobbying registrations and reports available during normal business hours for examination and copying subject to reasonable fees and procedures established by the Commission.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1594,12 +1602,14 @@
               <text>These papers and documents shall be available for inspection upon request by the Commission or the *Council or other legislative body* after reasonable notice.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
           <num>10</num>
           <heading>Severability.</heading>
           <text>If any section, sentence, clause, or phrase of this chapter is held invalid or unconstitutional by any court of competent jurisdiction, the ruling shall not affect the validity of the remaining portions of this chapter.</text>
+          <annotations/>
         </section>
         <annotations>
           <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-205">5-205</cite> and <cite doc="Md. Code" path="ggp|5-206">5-206</cite>, and Title 5, Subtitle 8, Annotated Code of Maryland</annotation>
@@ -1618,6 +1628,7 @@
           <num>1</num>
           <heading>Short title.</heading>
           <text>This chapter may be cited as the * County, City or Town* Public Ethics *Law or Ordinance.*</text>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1671,6 +1682,7 @@
               <text>Is not a rental property or a time share.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1716,6 +1728,7 @@
             <num>(f)</num>
             <text>The Commission may adopt other policies and procedures to assist in the implementation of the Commission’s programs established in this chapter.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1995,6 +2008,7 @@
             <num>(j)</num>
             <text>An official or employee may not retaliate against an individual for reporting or participating in an investigation of a potential violation of the local ethics law or ordinance.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2470,6 +2484,7 @@
               <text>The *County, City, or Town* Ethics Commission may take appropriate enforcement action to ensure compliance with this section.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2536,6 +2551,7 @@
             <num>(g)</num>
             <text>The Commission shall maintain all disclosure statements filed under this section as public records available for public inspection and copying as provided in §5(c) and (d) of this chapter.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2596,6 +2612,7 @@
             <num>(e)</num>
             <text>The Commission shall maintain the registrations and reports filed under this section as public records available for public inspection and copying for four years after receipt by the Commission.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2610,6 +2627,7 @@
             <num>(b)</num>
             <text>Significantly reduce the availability of qualified persons for public service.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2720,6 +2738,7 @@
             <num>(g)</num>
             <text>A finding of a violation of this chapter by the Commission is public information.</text>
           </para>
+          <annotations/>
         </section>
         <annotations>
           <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-205">5-205</cite> and <cite doc="Md. Code" path="ggp|5-206">5-206</cite>, and Title 5, Subtitle 8, Annotated Code of Maryland</annotation>

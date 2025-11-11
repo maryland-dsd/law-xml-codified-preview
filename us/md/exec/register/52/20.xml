@@ -462,7 +462,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|01|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|01|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-301">8-301</cite>—<cite doc="Md. Code" path="gho|8-315">8-315</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a), <cite doc="Md. Code" path="gho|8-701">8-701</cite>, <cite doc="Md. Code" path="gho|8-7">8-7</cite>A-01, Article 1116(b)(2), and 8-703; Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite> and <cite doc="Md. Code" path="gtg|10-739">10-739</cite>(b)(<cite doc="Md. Code" path="gtg|1">1</cite>); Annotated Code of Maryland; Ch. 486, Acts of 2012; Chs. 281 and 282, Acts of 2013; Chs. 385 and 386, Acts of 2016; and Chs. 234 and 234, Acts of 2017</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-301">8-301</cite>—<cite doc="Md. Code" path="gho|8-315">8-315</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a), <cite doc="Md. Code" path="gho|8-701">8-701</cite>, <cite doc="Md. Code" path="gho|8-7">8-7</cite>A-01, Article 1116(b)(2), and 8-703; Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite> and <cite doc="Md. Code" path="gtg|10-739">10-739</cite>(b)(<cite doc="Md. Code" path="gtg|1">1</cite>); Annotated Code of Maryland; Ch. 486, Acts of 2012; Chs. 281 and 282, Acts of 2013; Chs. 385 and 386, Acts of 2016; and Chs. 234 and 234, Acts of 2017</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-05-05"><cite path="|10|27|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite>, C amended effective May 5, 1978 (5:9 Md. R. 684)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-01-07"><cite path="|10|27|01|.02|A." doc="Code of Maryland Regulations">Regulation .02A</cite> amended effective January 7, 1976 (3:1 Md. R. 40)</annotation>
@@ -941,7 +941,7 @@
               </annotations>
             </section>
             <annotations>
-              <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite> and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-02, Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite> and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-02, Annotated Code of Maryland</annotation>
               <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
               <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-08-26">Regulations <cite path="|10|27|28|.01" doc="Code of Maryland Regulations">.01</cite> — <cite path="|10|27|28|.06" doc="Code of Maryland Regulations">.06</cite> adopted as an emergency provision effective August 26, 2025 (52:20 Md. R. 999)</annotation>
             </annotations>
@@ -1715,7 +1715,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="07|02|07|annos" codified:doc="Code of Maryland Regulations" codified:path="07|02|07|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Criminal Law Article, §§<cite doc="Md. Code" path="gcr|3-601">3-601</cite>, <cite doc="Md. Code" path="gcr|3-602">3-602</cite>, and <cite doc="Md. Code" path="gcr|3-602">3-602</cite>.1; Family Law Article, Title 5, Subtitle 7; Human Services Article, §§<cite doc="Md. Code" path="ghu|1-202">1-202</cite> and <cite doc="Md. Code" path="ghu|4-207">4-207</cite>; <br/>Annotated Code of Maryland<br/>Chs. 398 and 399, Acts of 2011 (Agency Note: 42 U.S.C. 5106a(b)(2); 45 CFR §1340.20)</annotation>
+            <annotation managed="false" type="Authority" dest="container">Criminal Law Article, §§<cite doc="Md. Code" path="gcr|3-601">3-601</cite>, <cite doc="Md. Code" path="gcr|3-602">3-602</cite>, and <cite doc="Md. Code" path="gcr|3-602">3-602</cite>.1; Family Law Article, Title 5, Subtitle 7; Human Services Article, §§<cite doc="Md. Code" path="ghu|1-202">1-202</cite> and <cite doc="Md. Code" path="ghu|4-207">4-207</cite>; <br/>Annotated Code of Maryland<br/>Chs. 398 and 399, Acts of 2011 (Agency Note: 42 U.S.C. 5106a(b)(2); 45 CFR §1340.20)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1973-02-01">Effective date: February 1, 1973</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1977-01-05"><cite path="|07|02|07|.03|B." doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective January 5, 1977 (4:1 Md. R. 15)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1977-08-17">Chapter revised effective August 17, 1977 (4:17 Md. R. 1293)</annotation>
@@ -1854,7 +1854,7 @@
         </codify:insert>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="08|03|04|annos" codified:doc="Code of Maryland Regulations" codified:path="08|03|04|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|1-104">1-104</cite>, <cite doc="Md. Code" path="gnr|10-205">10-205</cite>, <cite doc="Md. Code" path="gnr|10-206">10-206</cite>, <cite doc="Md. Code" path="gnr|10-301">10-301</cite>, <cite doc="Md. Code" path="gnr|10-308">10-308</cite>, <cite doc="Md. Code" path="gnr|10-309">10-309</cite>, <cite doc="Md. Code" path="gnr|10-404">10-404</cite>—<cite doc="Md. Code" path="gnr|10-409">10-409</cite>, <cite doc="Md. Code" path="gnr|10-415">10-415</cite>,<br/>10-416, 10-418, 10-902, and 10-903; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>; Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|1-104">1-104</cite>, <cite doc="Md. Code" path="gnr|10-205">10-205</cite>, <cite doc="Md. Code" path="gnr|10-206">10-206</cite>, <cite doc="Md. Code" path="gnr|10-301">10-301</cite>, <cite doc="Md. Code" path="gnr|10-308">10-308</cite>, <cite doc="Md. Code" path="gnr|10-309">10-309</cite>, <cite doc="Md. Code" path="gnr|10-404">10-404</cite>—<cite doc="Md. Code" path="gnr|10-409">10-409</cite>, <cite doc="Md. Code" path="gnr|10-415">10-415</cite>,<br/>10-416, 10-418, 10-902, and 10-903; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-06-03">Regulations <cite path="|08|03|04|.02" doc="Code of Maryland Regulations">.02</cite>—<cite path="|08|03|04|.05" doc="Code of Maryland Regulations">.05</cite> were previously codified as Regulations .14, .21, .26, and Regulations <cite path="|08|03|04|.06" doc="Code of Maryland Regulations">.06</cite>—<cite path="|08|03|04|.10" doc="Code of Maryland Regulations">.10</cite> were previously codified as Regulations .30, .51, .52, .55, and .67, respectively, under <cite path="|08.03.01" doc="Code of Maryland Regulations">COMAR 08.03.01</cite> Wildlife Conservation. This recodification was effective June 3, 1985 (12:11 Md. R. 1047)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-06-03">For the history of these regulations before June 3, 1985, see the Administrative History which follows <cite path="|08.03.01" doc="Code of Maryland Regulations">COMAR 08.03.01</cite>.</annotation>
@@ -2359,7 +2359,7 @@
         </codify:insert>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="09|33|02|annos" codified:doc="Code of Maryland Regulations" codified:path="09|33|02|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§<cite doc="Md. Code" path="gle|11-301">11-301</cite>—<cite doc="Md. Code" path="gle|11-304">11-304</cite>, <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206, Annotated Code of Maryland</cite></annotation>
+            <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§<cite doc="Md. Code" path="gle|11-301">11-301</cite>—<cite doc="Md. Code" path="gle|11-306">11-306</cite>, <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206, Annotated Code of Maryland</cite></annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-05-19">Effective date: May 19, 1986 (13:10 Md. R. 1158)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|24.03.03" doc="Code of Maryland Regulations">COMAR 24.03.03</cite> to <cite path="|24.03.02" doc="Code of Maryland Regulations">COMAR 24.03.02</cite></annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|24.03.02" doc="Code of Maryland Regulations">COMAR 24.03.02</cite> to <cite path="|09.33.02" doc="Code of Maryland Regulations">COMAR 09.33.02</cite>, May 1996</annotation>
@@ -3204,7 +3204,7 @@
         </codify:insert>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|05|02|annos" codified:doc="Code of Maryland Regulations" codified:path="10|05|02|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §19-3B-01 et seq., Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §19-3B-01 et seq., Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-08-23">Effective date: August 23, 1999 (26:17 Md. R. 1322)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15" discontinuity="true">Chapter revised effective February 15, 2016 (43:3 Md. R. 272)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-08"><cite path="|10|05|02|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective December 8, 2016 (43:24 Md. R. 1350)</annotation>
@@ -3615,7 +3615,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|07|01|annos" codified:doc="Code of Maryland Regulations" codified:path="10|07|01|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-307.2, 19-308, 19-308.6, 19-308.8, 19-318—19-320, 19-323, 19-342, 19-349.1, and 19-380—19-385; Insurance Article, Title 4, Subtitle 4; <cite doc="Md. Code" path="gps|14-110">Public Safety Article, §14-110</cite>.1; Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-307.2, 19-308, 19-308.6, 19-308.8, 19-318—19-320, 19-323, 19-342, 19-349.1, and 19-380—19-385; Insurance Article, Title 4, Subtitle 4; <cite doc="Md. Code" path="gps|14-110">Public Safety Article, §14-110</cite>.1; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1946-12-19">Effective date: December 19, 1946</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1959-03-20">Amended effective March 20, 1959</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1964-09-01">Amended effective September 1, 1964</annotation>
@@ -4924,7 +4924,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|09|05|annos" codified:doc="Code of Maryland Regulations" codified:path="10|09|05|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b), 15-103, and 15-105, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b), 15-103, and 15-105, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-01-01">Effective date: January 1, 1976 (2:29 Md. R. 1740)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-10-13">Regulations <cite path="|10|09|05|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|09|05|.10" doc="Code of Maryland Regulations">.10</cite> amended effective October 13, 1976 (3:21 Md. R. 1206)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-02-01">Regulations .01I, .04A, .05, and .06B amended as an emergency provision effective February 1, 1982 (9:2 Md. R. 110); emergency status extended at 9:11 Md. R. 1122 and 9:17 Md. R. 1697 (Emergency provisions are temporary and are not printed in COMAR)</annotation>
@@ -5452,7 +5452,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|01|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|01|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-301">8-301</cite>—<cite doc="Md. Code" path="gho|8-315">8-315</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a), <cite doc="Md. Code" path="gho|8-701">8-701</cite>, <cite doc="Md. Code" path="gho|8-7">8-7</cite>A-01, Article 1116(b)(2), and 8-703; Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite> and <cite doc="Md. Code" path="gtg|10-739">10-739</cite>(b)(<cite doc="Md. Code" path="gtg|1">1</cite>); Annotated Code of Maryland; Ch. 486, Acts of 2012; Chs. 281 and 282, Acts of 2013; Chs. 385 and 386, Acts of 2016; and Chs. 234 and 234, Acts of 2017</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-301">8-301</cite>—<cite doc="Md. Code" path="gho|8-315">8-315</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a), <cite doc="Md. Code" path="gho|8-701">8-701</cite>, <cite doc="Md. Code" path="gho|8-7">8-7</cite>A-01, Article 1116(b)(2), and 8-703; Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite> and <cite doc="Md. Code" path="gtg|10-739">10-739</cite>(b)(<cite doc="Md. Code" path="gtg|1">1</cite>); Annotated Code of Maryland; Ch. 486, Acts of 2012; Chs. 281 and 282, Acts of 2013; Chs. 385 and 386, Acts of 2016; and Chs. 234 and 234, Acts of 2017</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-05-05"><cite path="|10|27|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite>, C amended effective May 5, 1978 (5:9 Md. R. 684)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-01-07"><cite path="|10|27|01|.02|A." doc="Code of Maryland Regulations">Regulation .02A</cite> amended effective January 7, 1976 (3:1 Md. R. 40)</annotation>
@@ -5697,7 +5697,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|05|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|05|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, and <cite doc="Md. Code" path="gho|8-601">8-601</cite>—<cite doc="Md. Code" path="gho|8-603">8-603</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, and <cite doc="Md. Code" path="gho|8-601">8-601</cite>—<cite doc="Md. Code" path="gho|8-603">8-603</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-10-10">Regulations <cite path="|10|27|05|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|05|.10" doc="Code of Maryland Regulations">.10</cite> adopted as an emergency provision effective March 14, 1983 (10:11 Md. R. 970); emergency status expired July 13, 1983; adopted permanently effective October 10, 1983 (10:20 Md. R. 1787)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-06-26"><cite path="|10|27|05|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective September 2, 1991 (18:17 Md. R. 1919); April 10, 1995 (22:7 Md. R. 536); June 26, 2000 (27:12 Md. R. 1140)</annotation>
@@ -5820,7 +5820,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|06|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|06|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; <cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205(a)(1), </cite>(3), (4), and (5); Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; <cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205(a)(1), </cite>(3), (4), and (5); Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-12-01">Effective date: December 1, 1979 (6:21 Md. R. 1709)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-03">Regulations <cite path="|10|27|06|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|06|.09" doc="Code of Maryland Regulations">.09</cite> repealed and new Regulations <cite path="|10|27|06|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|06|.08" doc="Code of Maryland Regulations">.08</cite> adopted effective April 3, 2000 (27:6 Md. R. 642)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-06-17"><cite path="|10|27|06|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective June 17, 2019 (46:12 Md. R. 544)</annotation>
@@ -6037,7 +6037,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|07|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|07|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gfl|2-301">Family Law Article, §2-301</cite>; Health-General Article, §§4-208(a), 4-212, §4-403, 5-601(c)—(e), 5-608(c), 10-616, 10-628, 13-701, and 13-704; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), (2), (4), and (5), and 8-302; Transportation Article, §§<cite doc="Md. Code" path="gtr|13-616">13-616</cite>(a) and (b), Annotated Code of Maryland; Ch. 342, Acts of 2015; Ch. 468, Acts of 2015</annotation>
+            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gfl|2-301">Family Law Article, §2-301</cite>; Health-General Article, §§4-208(a), 4-212, §4-403, 5-601(c)—(e), 5-608(c), 10-616, 10-628, 13-701, and 13-704; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), (2), (4), and (5), and 8-302; Transportation Article, §§<cite doc="Md. Code" path="gtr|13-616">13-616</cite>(a) and (b), Annotated Code of Maryland; Ch. 342, Acts of 2015; Ch. 468, Acts of 2015</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-03-06">Effective date: March 6, 1981 (8:5 Md. R. 473)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-29"><cite path="|10|27|07|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective August 29, 1994 (21:17 Md. R. 1439)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-06-07"><cite path="|10|27|07|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective June 7, 1993 (20:11 Md. R. 913)</annotation>
@@ -6394,7 +6394,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|09|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|09|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite> and <cite doc="Md. Code" path="gho|8-316">8-316</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite> and <cite doc="Md. Code" path="gho|8-316">8-316</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-02-20">Effective date: February 20, 1989 (16:3 Md. R. 343)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-10-25"><cite path="|10|27|09|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective October 25, 1993 (20:21 Md. R. 1654)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-03" discontinuity="true">Regulations <cite path="|10|27|09|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|09|.03" doc="Code of Maryland Regulations">.03</cite> repealed and new Regulations <cite path="|10|27|09|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|09|.03" doc="Code of Maryland Regulations">.03</cite> adopted effective April 3, 2000 (27:6 Md. R. 642)</annotation>
@@ -6728,7 +6728,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|10|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|10|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|2">2</cite>) and <cite doc="Md. Code" path="gho|8-316">8-316</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|2">2</cite>) and <cite doc="Md. Code" path="gho|8-316">8-316</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-02-20">Effective date: February 20, 1989 (16:3 Md. R. 343)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-10-25"><cite path="|10|27|10|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective October 25, 1993 (20:21 Md. R. 1655)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-05-02" discontinuity="true">Regulations <cite path="|10|27|10|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|10|.03" doc="Code of Maryland Regulations">.03</cite> repealed and new Regulations <cite path="|10|27|10|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|10|.04" doc="Code of Maryland Regulations">.04</cite> adopted effective May 2, 2011 (38:9 Md. R. 553)</annotation>
@@ -6765,7 +6765,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|16|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|16|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-102">8-102</cite> and <cite doc="Md. Code" path="gho|8-205">8-205</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-102">8-102</cite> and <cite doc="Md. Code" path="gho|8-205">8-205</cite>; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-11-15">Regulations <cite path="|10|27|16|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|16|.10" doc="Code of Maryland Regulations">.10</cite> adopted as an emergency provision effective August 2, 1999; adopted permanently effective November 15, 1999 (26:23 Md. R. 1777)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
@@ -6793,7 +6793,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|20|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|20|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; <cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205</cite>; Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; <cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205</cite>; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-10-07">Effective date: October 7, 1996 (23:20 Md. R. 1423)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-11-15">Regulations <cite path="|10|27|20|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|20|.04" doc="Code of Maryland Regulations">.04</cite> repealed and new Regulations <cite path="|10|27|20|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|20|.06" doc="Code of Maryland Regulations">.06</cite> adopted effective November 15, 1999 (26:23 Md. R. 1777)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|20|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective October 27, 2003 (30:21 Md. R. 1529); July 2, 2018 (45:13 Md. R. 667)</annotation>
@@ -6976,7 +6976,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|21|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|21|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite> and <cite doc="Md. Code" path="gho|8-312">8-312</cite>; Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite> and <cite doc="Md. Code" path="gho|8-312">8-312</cite>; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-12-13">Effective date: December 13, 1999 (26:25 Md. R. 1898)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-04-28">Regulations <cite path="|10|27|21|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|21|.08" doc="Code of Maryland Regulations">.08</cite> repealed and new Regulations <cite path="|10|27|21|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|27|21|.08" doc="Code of Maryland Regulations">.08</cite> adopted effective April 28, 2003 (30:8 Md. R. 542)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-09-25"><cite path="|10|27|21|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective September 25, 2006 (33:19 Md. R. 1561)</annotation>
@@ -7129,7 +7129,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|27|25|annos" codified:doc="Code of Maryland Regulations" codified:path="10|27|25|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; <cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205(a)(1) </cite>and (2); Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; <cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205(a)(1) </cite>and (2); Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-05-30">Effective date: May 30, 2011 (38:11 Md. R. 671)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|25|.05|E." doc="Code of Maryland Regulations">Regulation .05E</cite> adopted effective October 13, 2025 (52:20 Md. R. 1002)</annotation>
           </annotations>
@@ -7339,7 +7339,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|53|05|annos" codified:doc="Code of Maryland Regulations" codified:path="10|53|05|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-01—8-6B-29; Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-01—8-6B-29; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-01-16">Effective date: January 16, 1984 (11:1 Md. R. 44)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-08-05"><cite path="|10|53|05|.01|J." doc="Code of Maryland Regulations">Regulation .01J</cite>, O, P amended and Y adopted effective August 5, 1991 (18:15 Md. R. 1727)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-03-14"><cite path="|10|53|05|.01|Y." doc="Code of Maryland Regulations">Regulation .01Y</cite> amended effective March 14, 1994 (21:5 Md. R. 404)</annotation>
@@ -7630,7 +7630,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|57|02|annos" codified:doc="Code of Maryland Regulations" codified:path="10|57|02|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|20-205">20-205</cite>, <cite doc="Md. Code" path="gho|20-301">20-301</cite>, <cite doc="Md. Code" path="gho|20-302">20-302</cite>, <cite doc="Md. Code" path="gho|20-303">20-303</cite>, <cite doc="Md. Code" path="gho|20-305">20-305</cite>—<cite doc="Md. Code" path="gho|20-307">20-307</cite>, <cite doc="Md. Code" path="gho|20-310">20-310</cite>, <cite doc="Md. Code" path="gho|20-311">20-311</cite>, and <cite doc="Md. Code" path="gho|20-404">20-404</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|20-205">20-205</cite>, <cite doc="Md. Code" path="gho|20-301">20-301</cite>, <cite doc="Md. Code" path="gho|20-302">20-302</cite>, <cite doc="Md. Code" path="gho|20-303">20-303</cite>, <cite doc="Md. Code" path="gho|20-305">20-305</cite>—<cite doc="Md. Code" path="gho|20-307">20-307</cite>, <cite doc="Md. Code" path="gho|20-310">20-310</cite>, <cite doc="Md. Code" path="gho|20-311">20-311</cite>, and <cite doc="Md. Code" path="gho|20-404">20-404</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07">Regulations <cite path="|10|57|02|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|57|02|.06" doc="Code of Maryland Regulations">.06</cite> adopted as an emergency provision effective January 7, 2008 (35:9 Md. R. 894); adopted permanently effective April 7, 2008 (35:7 Md. R. 749)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19" discontinuity="true">Chapter revised effective April 19, 2010 (37:8 Md. R. 617)</annotation>
@@ -7939,7 +7939,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|57|03|annos" codified:doc="Code of Maryland Regulations" codified:path="10|57|03|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|20-205">20-205</cite>, <cite doc="Md. Code" path="gho|20-301">20-301</cite>, <cite doc="Md. Code" path="gho|20-302">20-302</cite>.1, 20-303, 20-305, 20-307, 20-310, and 20-311, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|20-205">20-205</cite>, <cite doc="Md. Code" path="gho|20-301">20-301</cite>, <cite doc="Md. Code" path="gho|20-302">20-302</cite>.1, 20-303, 20-305, 20-307, 20-310, and 20-311, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19">Chapter, Continuing Education, recodified to <cite path="|10.57.04" doc="Code of Maryland Regulations">COMAR 10.57.04</cite> effective April 19, 2010 (37:8 Md. R. 617)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19" discontinuity="true">Regulations <cite path="|10|57|03|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|57|03|.12" doc="Code of Maryland Regulations">.12</cite> adopted under a new Chapter, <cite path="|10.57.03" doc="Code of Maryland Regulations">COMAR 10.57.03</cite>, Certification — Residential Child and Youth Care Practitioners, effective April 19, 2010 (37:8 Md. R. 617)</annotation>
@@ -8053,7 +8053,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|57|05|annos" codified:doc="Code of Maryland Regulations" codified:path="10|57|05|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-212">1-212</cite>, <cite doc="Md. Code" path="gho|20-205">20-205</cite>, and <cite doc="Md. Code" path="gho|20-213">20-213</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-212">1-212</cite>, <cite doc="Md. Code" path="gho|20-205">20-205</cite>, and <cite doc="Md. Code" path="gho|20-213">20-213</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07">Regulations <cite path="|10|57|05|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|57|05|.02" doc="Code of Maryland Regulations">.02</cite> adopted as an emergency provision effective January 7, 2008 (35:9 Md. R. 894); adopted permanently effective April 7, 2008 (35:7 Md. R. 749)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19" discontinuity="true">Chapter revised and recodified from <cite path="|10.57.04" doc="Code of Maryland Regulations">COMAR 10.57.04</cite> to <cite path="|10.57.05" doc="Code of Maryland Regulations">COMAR 10.57.05</cite> effective April 19, 2010 (37:8 Md. R. 617)</annotation>
@@ -8187,7 +8187,7 @@
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|57|07|annos" codified:doc="Code of Maryland Regulations" codified:path="10|57|07|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">
-              <cite doc="Md. Code" path="gho|20-206">Health Occupations Article, §20-206, Annotated Code of Maryland</cite>
+              <cite doc="Md. Code" path="gho|20-206">Health Occupations Article, §20-206, Annotated Code of Maryland</cite>
             </annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07">Regulations <cite path="|10|57|07|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|57|07|.04" doc="Code of Maryland Regulations">.04</cite> adopted as an emergency provision effective January 7, 2008 (35:9 Md. R. 894); adopted permanently effective April 7, 2008 (35:7 Md. R. 749)</annotation>
@@ -9045,7 +9045,7 @@
         <codify:replace history="false" doc="Code of Maryland Regulations" path="11|03|01|annos" codified:doc="Code of Maryland Regulations" codified:path="11|03|01|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">
-              <cite doc="Md. Code" path="gtr">Transportation Article, Annotated Code of Maryland</cite>
+              <cite doc="Md. Code" path="gtr">Transportation Article, Annotated Code of Maryland</cite>
             </annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-11-26">Effective date: November 26, 1975 (2:27 Md. R. 1628)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-06-09">Chapter revised effective June 9, 1976 (3:12 Md. R. 643)</annotation>
@@ -9153,7 +9153,7 @@
         <codify:replace history="false" doc="Code of Maryland Regulations" path="11|03|01|annos" codified:doc="Code of Maryland Regulations" codified:path="11|03|01|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">
-              <cite doc="Md. Code" path="gtr">Transportation Article, Annotated Code of Maryland</cite>
+              <cite doc="Md. Code" path="gtr">Transportation Article, Annotated Code of Maryland</cite>
             </annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-11-26">Effective date: November 26, 1975 (2:27 Md. R. 1628)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-06-09">Chapter revised effective June 9, 1976 (3:12 Md. R. 643)</annotation>
@@ -9245,7 +9245,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="13B|02|01|annos" codified:doc="Code of Maryland Regulations" codified:path="13B|02|01|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|10-212">10-212</cite>, <cite doc="Md. Code" path="ged|11-105">11-105</cite>, <cite doc="Md. Code" path="ged|11-201">11-201</cite>—<cite doc="Md. Code" path="ged|11-207">11-207</cite>, and <cite doc="Md. Code" path="ged|16-108">16-108</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|10-212">10-212</cite>, <cite doc="Md. Code" path="ged|11-105">11-105</cite>, <cite doc="Md. Code" path="ged|11-201">11-201</cite>—<cite doc="Md. Code" path="ged|11-207">11-207</cite>, and <cite doc="Md. Code" path="ged|16-108">16-108</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-07-27">Effective date: July 27, 1979 (6:15 Md. R. 1285)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|13.50.02" doc="Code of Maryland Regulations">COMAR 13.50.02</cite> to 13B.02.01</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-01-12">Regulations <cite path="|13B|02|01|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|13B|02|01|.05" doc="Code of Maryland Regulations">.05</cite> repealed and new Regulations <cite path="|13B|02|01|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|13B|02|01|.21" doc="Code of Maryland Regulations">.21</cite> adopted effective January 12, 1998 (25:1 Md. R. 16)</annotation>
@@ -9723,7 +9723,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="13B|02|02|annos" codified:doc="Code of Maryland Regulations" codified:path="13B|02|02|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|11-105">11-105</cite>, <cite doc="Md. Code" path="ged|11-201">11-201</cite>—<cite doc="Md. Code" path="ged|11-207">11-207</cite>, and <cite doc="Md. Code" path="ged|15-106">15-106</cite>.1, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|11-105">11-105</cite>, <cite doc="Md. Code" path="ged|11-201">11-201</cite>—<cite doc="Md. Code" path="ged|11-207">11-207</cite>, and <cite doc="Md. Code" path="ged|15-106">15-106</cite>.1, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1980-07-01">Effective date: July 1, 1980 (7:13 Md. R. 1280)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|13.50.04" doc="Code of Maryland Regulations">COMAR 13.50.04</cite> to 13B.02.02</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-14">Regulations <cite path="|13B|02|02|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|13B|02|02|.14" doc="Code of Maryland Regulations">.14</cite>, Minimum Requirements for Degree-Granting 4-Year Colleges and Universities, repealed effective December 14, 1987 (14:25 Md. R. 2661)</annotation>
@@ -9757,7 +9757,7 @@
         <num>25-127-F</num>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="14|35|21|annos" codified:doc="Code of Maryland Regulations" codified:path="14|35|21|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gin|31-106">Insurance Article §31-106(c)(1)(iv)</cite>; Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gin|31-106">Insurance Article §31-106(c)(1)(iv)</cite>; Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13">Regulations <cite path="|14|35|21|.01" doc="Code of Maryland Regulations">.01</cite> — <cite path="|14|35|21|.07" doc="Code of Maryland Regulations">.07</cite> adopted as an emergency provision effective July 11, 2025 (52:16 Md. R. 845); adopted permanently effective October 13, 2025 (52:20 Md. R. 1003)</annotation>
           </annotations>
@@ -10068,7 +10068,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="31|10|51|annos" codified:doc="Code of Maryland Regulations" codified:path="31|10|51|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Insurance Article, §§<cite doc="Md. Code" path="gin|2-109">2-109</cite>(a)(<cite doc="Md. Code" path="gin|1">1</cite>) and <cite doc="Md. Code" path="gin|15-144">15-144</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Insurance Article, §§<cite doc="Md. Code" path="gin|2-109">2-109</cite>(a)(<cite doc="Md. Code" path="gin|1">1</cite>) and <cite doc="Md. Code" path="gin|15-144">15-144</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27">Effective date: Effective December 27, 2021 (48:26 Md. R. 1113)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13">Chapter revised effective October 13, 2025 (52:20 Md. R. 1003)</annotation>
           </annotations>
@@ -10157,7 +10157,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="33|13|06|annos" codified:doc="Code of Maryland Regulations" codified:path="33|13|06|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gel|2-102">Election Law Article, §2-102(b)(4) </cite>and Title 13, Subtitle 2, Part IV, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gel|2-102">Election Law Article, §2-102(b)(4) </cite>and Title 13, Subtitle 2, Part IV, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-18">Regulations <cite path="|33|13|06|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|33|13|06|.05" doc="Code of Maryland Regulations">.05</cite> adopted effective October 18, 2010 (37:21 Md. R. 1439)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-29"><cite path="|33|13|06|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective February 29, 2016 (43:4 Md. R. 336)</annotation>

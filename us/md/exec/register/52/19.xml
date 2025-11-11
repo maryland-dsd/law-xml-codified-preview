@@ -1065,7 +1065,7 @@
               </para>
             </section>
             <annotations>
-              <annotation managed="false" type="Authority" dest="container">Business Regulations Article, §§4-205, 4-301, and 4-303, Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="Authority" dest="container">Business Regulations Article, §§4-205, 4-301, and 4-303, Annotated Code of Maryland</annotation>
               <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29">Effective date: September 29, 2025 (52:19 Md. R. 956)</annotation>
             </annotations>
           </container>
@@ -2120,7 +2120,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|32|06|annos" codified:doc="Code of Maryland Regulations" codified:path="10|32|06|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-606">1-606</cite>, <cite doc="Md. Code" path="gho|14-205">14-205</cite>, and <cite doc="Md. Code" path="gho|14-5">14-5</cite>C-01 — 14-5C-23, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|1-221">1-221</cite>, <cite doc="Md. Code" path="gho|1-606">1-606</cite>, <cite doc="Md. Code" path="gho|14-205">14-205</cite>, and <cite doc="Md. Code" path="gho|14-5">14-5</cite>C-01—14-5C-23, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-01">Effective date: December 1, 2008 (35:24 Md. R. 2078)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-05"><cite path="|10|32|06|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective October 1, 2009 (36:17 Md. R. 1311); amended permanently effective October 5, 2009 (36:20 Md. R. 1528)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|32|06|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective March 5, 2012 (39:4 Md. R. 337)</annotation>
@@ -2375,7 +2375,7 @@
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|04|annos" codified:doc="Code of Maryland Regulations" codified:path="10|34|04|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">
-              <cite doc="Md. Code" path="gho|12-205">Health Occupations Article, §12-205(a)(3)(ii), Annotated Code of Maryland</cite>
+              <cite doc="Md. Code" path="gho|12-205">Health Occupations Article, §12-205(a)(3)(ii), Annotated Code of Maryland</cite>
             </annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-05-04">Effective date: May 4, 1979 (6:9 Md. R. 728)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-02-19"><cite path="|10|34|04|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective February 19, 1990 (17:3 Md. R. 298)</annotation>
@@ -2413,7 +2413,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|34|07|annos" codified:doc="Code of Maryland Regulations" codified:path="10|34|07|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|12-205">12-205</cite> and <cite doc="Md. Code" path="gho|12-403">12-403</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|12-205">12-205</cite> and <cite doc="Md. Code" path="gho|12-403">12-403</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1980-03-21">Effective date: March 21, 1980 (7:6 Md. R. 608)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-09-10"><cite path="|10|34|07|.03" doc="Code of Maryland Regulations">Regulation .03</cite> adopted effective September 10, 1984 (11:18 Md. R. 1585)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-02-19" discontinuity="true">Chapter revised effective February 19, 1990 (17:3 Md. R. 298)</annotation>
@@ -2830,7 +2830,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="11|05|03|annos" codified:doc="Code of Maryland Regulations" codified:path="11|05|03|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|6-201">6-201</cite> and <cite doc="Md. Code" path="gtr|6-211">6-211</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|6-201">6-201</cite> and <cite doc="Md. Code" path="gtr|6-211">6-211</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-09-03">Effective date: September 3, 1975 (2:20 Md. R. 1300)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1980-06-01">Chapter revised effective June 1, 1980 (7:11 Md. R. 1038)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-10-15"><cite path="|11|05|03|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective October 15, 1990 (17:20 Md. R. 2429)</annotation>
@@ -2947,7 +2947,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="15|03|08|annos" codified:doc="Code of Maryland Regulations" codified:path="15|03|08|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|11-204">11-204</cite>.1—11-204.7, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|11-204">11-204</cite>.1—11-204.7, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-12">Effective date: October 12, 1992 (19:20 Md. R. 1818)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|15|03|08|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective October 2, 2000 (27:19 Md. R. 1728); September 29, 2025 (52:19 Md. R. 957)</annotation>
           </annotations>
@@ -2972,7 +2972,7 @@
         </codify:insert>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="33|05|01|annos" codified:doc="Code of Maryland Regulations" codified:path="33|05|01|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|3-101">3-101</cite>, <cite doc="Md. Code" path="gel|3-202">3-202</cite>.1, and 3-204.1, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|3-101">3-101</cite>, <cite doc="Md. Code" path="gel|3-202">3-202</cite>.1, and 3-204.1, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-17">Regulations <cite path="|33|05|01|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|33|05|01|.03" doc="Code of Maryland Regulations">.03</cite> adopted as an emergency provision effective February 1, 2000 (27:6 Md. R. 635); adopted permanently effective April 17, 2000 (27:7 Md. R. 708)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-10-14"><cite path="|33|05|01|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended as an emergency provision effective July 3, 2002 (29:18 Md. R. 1440); amended permanently effective October 14, 2002 (29:20 Md. R. 1595)</annotation>
@@ -3017,7 +3017,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="33|07|11|annos" codified:doc="Code of Maryland Regulations" codified:path="33|07|11|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|10-202">10-202</cite>, <cite doc="Md. Code" path="gel|10">10</cite>–<cite doc="Md. Code" path="gel|203">203</cite>, and <cite doc="Md. Code" path="gel|10">10</cite>–<cite doc="Md. Code" path="gel|205">205</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|10-202">10-202</cite>, <cite doc="Md. Code" path="gel|10">10</cite>–<cite doc="Md. Code" path="gel|203">203</cite>, and <cite doc="Md. Code" path="gel|10">10</cite>–<cite doc="Md. Code" path="gel|205">205</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-27">Effective date: November 27, 2023 (50:23 Md. R. 1005)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|33|07|11|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective September 29, 2025 (52:19 Md. R. 957)</annotation>
           </annotations>
@@ -3039,7 +3039,7 @@
         </codify:insert>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="33|10|01|annos" codified:doc="Code of Maryland Regulations" codified:path="33|10|01|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|9-102">9-102</cite>, <cite doc="Md. Code" path="gel|9-105">9-105</cite>, and <cite doc="Md. Code" path="gel|11-201">11-201</cite>, and Title 9, Subtitle 2, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|9-102">9-102</cite>, <cite doc="Md. Code" path="gel|9-105">9-105</cite>, and <cite doc="Md. Code" path="gel|11-201">11-201</cite>, and Title 9, Subtitle 2, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-04-11">Regulations <cite path="|33|10|01|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|33|10|01|.07" doc="Code of Maryland Regulations">.07</cite> and Regulations <cite path="|33|10|01|.09" doc="Code of Maryland Regulations">.09</cite>—<cite path="|33|10|01|.29" doc="Code of Maryland Regulations">.29</cite> adopted effective April 11, 2016 (43:7 Md. R. 452)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-02-10"><cite path="|33|10|01|.17|F." doc="Code of Maryland Regulations">Regulation .17F</cite> amended effective February 10, 2020 (47:3 Md. R. 173)</annotation>
@@ -3088,7 +3088,7 @@
         </codify:insert>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="33|11|01|annos" codified:doc="Code of Maryland Regulations" codified:path="33|11|01|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|2-304">2-304</cite>, <cite doc="Md. Code" path="gel|2-305">2-305</cite>, <cite doc="Md. Code" path="gel|3-202">3-202</cite>.1, 9-303, 9-305, 9-306, 11-301, 11-302, and 11-30, and 11-304, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|2-304">2-304</cite>, <cite doc="Md. Code" path="gel|2-305">2-305</cite>, <cite doc="Md. Code" path="gel|3-202">3-202</cite>.1, 9-303, 9-305, 9-306, 11-301, 11-302, and 11-30, and 11-304, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-17">Regulations .01, .02 adopted as an emergency provision effective February 1, 2000 (27:6 Md. R. 637); adopted permanently effective April 17, 2000 (27:7 Md. R. 709)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-13"><cite path="|33|11|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective May 31, 2010 (37:11 Md. R. 768); August 19, 2013 (40:16 Md. R. 1346); September 16, 2013 (40:18 Md. R. 1480); January 13, 2020 (47:1 Md. R. 19); December 13, 2021 (48:25 Md. R. 1081)</annotation>
@@ -3295,7 +3295,7 @@
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="33|11|03|annos" codified:doc="Code of Maryland Regulations" codified:path="33|11|03|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|2-305">2-305</cite>, <cite doc="Md. Code" path="gel|9-303">9-303</cite>, <cite doc="Md. Code" path="gel|9-305">9-305</cite>, <cite doc="Md. Code" path="gel|9-306">9-306</cite>, <cite doc="Md. Code" path="gel|9-310">9-310</cite>, <cite doc="Md. Code" path="gel|11-301">11-301</cite>, <cite doc="Md. Code" path="gel|11-302">11-302</cite>, and <cite doc="Md. Code" path="gel|11-304">11-304</cite>, Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), <cite doc="Md. Code" path="gel|2-305">2-305</cite>, <cite doc="Md. Code" path="gel|9-303">9-303</cite>, <cite doc="Md. Code" path="gel|9-305">9-305</cite>, <cite doc="Md. Code" path="gel|9-306">9-306</cite>, <cite doc="Md. Code" path="gel|9-310">9-310</cite>, <cite doc="Md. Code" path="gel|11-301">11-301</cite>, <cite doc="Md. Code" path="gel|11-302">11-302</cite>, and <cite doc="Md. Code" path="gel|11-304">11-304</cite>, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-17">Regulations <cite path="|33|11|03|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|33|11|03|.08" doc="Code of Maryland Regulations">.08</cite> adopted as an emergency provision effective February 1, 2000 (27:6 Md. R. 637); adopted permanently effective April 17, 2000 (27:7 Md. R. 709)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-11-24"><cite path="|33|11|03|.01|A." doc="Code of Maryland Regulations">Regulation .01A</cite> amended effective November 24, 2003 (30:23 Md. R. 1655)</annotation>
@@ -3355,7 +3355,7 @@
         </codify:insert>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="33|12|04|annos" codified:doc="Code of Maryland Regulations" codified:path="33|12|04|annos">
           <annotations>
-            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), and <cite doc="Md. Code" path="gel|12-106">12-106</cite>(a), Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), and <cite doc="Md. Code" path="gel|12-106">12-106</cite>(a), Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-04-17">Regulations <cite path="|33|12|04|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|33|12|04|.06" doc="Code of Maryland Regulations">.06</cite> adopted as an emergency provision effective February 1, 2000 (27:6 Md. R. 637); adopted permanently effective April 17, 2000 (27:7 Md. R. 709)</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|33|12|04|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended as an emergency provision effective October 22, 2004 (31:23 Md. R. 1650); amended permanently effective February 14, 2005 (32:3 Md. R. 290)</annotation>
@@ -3723,7 +3723,7 @@
               </para>
             </section>
             <annotations>
-              <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), and <cite doc="Md. Code" path="gel|10-301">10-301</cite>.1, Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), and <cite doc="Md. Code" path="gel|10-301">10-301</cite>.1, Annotated Code of Maryland</annotation>
               <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29">Effective date: September 29, 2025 (52:19 Md. R. 957)</annotation>
             </annotations>
           </container>

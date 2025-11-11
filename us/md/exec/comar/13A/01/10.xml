@@ -107,7 +107,7 @@
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|2-205">Education Article §2-205, Annotated Code of Maryland</cite>; Federal Statutory Reference: 42 U.S.C. § 2000d</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|2-205">Education Article §2-205, Annotated Code of Maryland</cite>; Federal Statutory Reference: 42 U.S.C. § 2000d</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15">Effective date: September 15, 2025 (52:18 Md. R. 924)</annotation>
   </annotations>
   <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-121-F" type="History" display="false"/>

@@ -2844,7 +2844,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Criminal Law Article, §§<cite doc="Md. Code" path="gcr|3-601">3-601</cite>, <cite doc="Md. Code" path="gcr|3-602">3-602</cite>, and <cite doc="Md. Code" path="gcr|3-602">3-602</cite>.1; Family Law Article, Title 5, Subtitle 7; Human Services Article, §§<cite doc="Md. Code" path="ghu|1-202">1-202</cite> and <cite doc="Md. Code" path="ghu|4-207">4-207</cite>; <br/>Annotated Code of Maryland<br/>Chs. 398 and 399, Acts of 2011 (Agency Note: 42 U.S.C. 5106a(b)(2); 45 CFR §1340.20)</annotation>
+    <annotation managed="false" type="Authority" dest="container">Criminal Law Article, §§<cite doc="Md. Code" path="gcr|3-601">3-601</cite>, <cite doc="Md. Code" path="gcr|3-602">3-602</cite>, and <cite doc="Md. Code" path="gcr|3-602">3-602</cite>.1; Family Law Article, Title 5, Subtitle 7; Human Services Article, §§<cite doc="Md. Code" path="ghu|1-202">1-202</cite> and <cite doc="Md. Code" path="ghu|4-207">4-207</cite>; <br/>Annotated Code of Maryland<br/>Chs. 398 and 399, Acts of 2011 (Agency Note: 42 U.S.C. 5106a(b)(2); 45 CFR §1340.20)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1973-02-01">Effective date: February 1, 1973</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1977-01-05"><cite path="|07|02|07|.03|B.">Regulation .03B</cite> amended effective January 5, 1977 (4:1 Md. R. 15)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1977-08-17">Chapter revised effective August 17, 1977 (4:17 Md. R. 1293)</annotation>

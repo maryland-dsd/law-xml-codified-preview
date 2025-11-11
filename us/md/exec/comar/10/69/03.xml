@@ -318,7 +318,7 @@
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§ <cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-208">8-208</cite>, <cite doc="Md. Code" path="gho|8-508">8-508</cite>, <cite doc="Md. Code" path="gho|8-601">8-601</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|02">02</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>D-01 through 8-6D-15, 8-701, 8-708, and 8-710, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§ <cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-208">8-208</cite>, <cite doc="Md. Code" path="gho|8-508">8-508</cite>, <cite doc="Md. Code" path="gho|8-601">8-601</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|02">02</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>D-01 through 8-6D-15, 8-701, 8-708, and 8-710, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-22">Effective date: February 22, 2026 (52:17 Md. R. 875)</annotation>
   </annotations>
   <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" type="History" display="false"/>

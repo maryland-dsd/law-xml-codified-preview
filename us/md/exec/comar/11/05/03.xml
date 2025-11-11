@@ -970,7 +970,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|6-201">6-201</cite> and <cite doc="Md. Code" path="gtr|6-211">6-211</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|6-201">6-201</cite> and <cite doc="Md. Code" path="gtr|6-211">6-211</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-09-03">Effective date: September 3, 1975 (2:20 Md. R. 1300)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1980-06-01">Chapter revised effective June 1, 1980 (7:11 Md. R. 1038)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-10-15"><cite path="|11|05|03|.02|B.">Regulation .02B</cite> amended effective October 15, 1990 (17:20 Md. R. 2429)</annotation>

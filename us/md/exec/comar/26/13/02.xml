@@ -1098,7 +1098,7 @@
       <text>The following materials are not solid wastes for the purpose of this chapter:</text>
       <para>
         <num>(1)</num>
-        <text>Domestic sewage, as defined in <cite path="26|13|02|.04|B.">§B of this regulation</cite>, and, except as prohibited by <cite path="26.13.10.33">COMAR 26.13.10.33</cite> and Clean Water Act requirements at 40 CFR §403.4(b), any mixture of domestic sewage and other wastes that passes through a sewer system to a publicly owned treatment works for treatment;</text>
+        <text>Domestic sewage, as defined in <cite path="26|13|02|.04|B.">§B of this regulation</cite>, and, except as prohibited by <cite path="26.13.10.33">COMAR 26.13.10.33</cite> and Clean Water Act requirements at 40 CFR §403.5(b), any mixture of domestic sewage and other wastes that passes through a sewer system to a publicly owned treatment works for treatment;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -3862,7 +3862,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Procedure. The test is conducted in a draft-free area that can be ventilated and in which the atmosphere can be cleared between each test. The self-pressurized container being tested is placed at a distance of 6 inches from the ignition source and the spray is jetted into the top third of the flame with the valve opened fully for periods of 15 to 20 seconds. The length of the flame projection from the candle position is read on the horizontal scale. Three or more readings are taken on each sample and the average of the readings is taken as the result of the test. Samples are also tested with the container valve in partially open positions to test for "burning back" to the valve.</text>
+        <text>Procedure. The test is conducted in a draft-free area that can be ventilated and in which the atmosphere can be cleared between each test. The self-pressurized container being tested is placed at a distance of 6 inches from the ignition source and the spray is jetted into the top third of the flame with the valve opened fully for periods of 15 to 20 seconds. The length of the flame projection from the candle position is read on the horizontal scale. Three or more readings are taken on each sample and the average of the readings is taken as the result of the test. Samples are also tested with the container valve in partially open positions to test for “burning back” to the valve.</text>
       </para>
     </para>
     <para>
@@ -3976,7 +3976,7 @@
     <heading>Toxicity Characteristic.</heading>
     <para>
       <num>A.</num>
-      <text>A solid waste, except manufactured gas plant waste, exhibits the characteristic of toxicity if, using the Toxicity Characteristic Leaching Procedure, Test Method 1311 in "Test Methods for Evaluating Solid Waste, Physical/Chemical Methods", EPA Publication SW-846, which is incorporated by reference in <cite path="26.13.01.05|A.|(4)">COMAR 26.13.01.05A(4)</cite>, the extract from a representative sample of the waste contains any of the contaminants listed in Table 1 at the concentration equal to or greater than the respective value given in that table. When the waste contains less than 0.5 percent filterable solids, the waste itself, after filtering using the methodology outlined in Test Method 1311, is considered to be the extract for the purpose of this section.</text>
+      <text>A solid waste, except manufactured gas plant waste, exhibits the characteristic of toxicity if, using the Toxicity Characteristic Leaching Procedure, Test Method 1311 in “Test Methods for Evaluating Solid Waste, Physical/Chemical Methods”, EPA Publication SW-846, which is incorporated by reference in <cite path="26.13.01.05|A.|(4)">COMAR 26.13.01.05A(4)</cite>, the extract from a representative sample of the waste contains any of the contaminants listed in Table 1 at the concentration equal to or greater than the respective value given in that table. When the waste contains less than 0.5 percent filterable solids, the waste itself, after filtering using the methodology outlined in Test Method 1311, is considered to be the extract for the purpose of this section.</text>
     </para>
     <para>
       <num>B.</num>
@@ -10869,7 +10869,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|6-905">Environment Article, §6-905</cite>.3 and Title 7, Subtitle 2, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gen|6-905">Environment Article, §6-905</cite>.3 and Title 7, Subtitle 2, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-04-03">Regulations <cite path="|26|13|02|.01">.01</cite>—<cite path="|26|13|02|.17">.17</cite> adopted as an emergency provision effective November 18, 1980 (7:25 Md. R. S-1); adopted permanently effective April 3, 1981 (8:7 Md. R. 642)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-02-13">Regulations .02C, F; .04A, B, D; .05D, .06B, .15, .16, and .17E, F amended, .05F adopted, and .07C repealed effective February 13, 1984 (11:3 Md. R. 202)</annotation>

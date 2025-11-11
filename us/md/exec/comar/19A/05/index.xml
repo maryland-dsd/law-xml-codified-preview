@@ -20,6 +20,7 @@
           <num>1</num>
           <heading>Short title.</heading>
           <text>This document may be cited as the [______] County Board of Education Ethics Regulations.</text>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -41,6 +42,7 @@
             <num>(d)</num>
             <text>It is the intention of the Board that this chapter be liberally construed to accomplish this purpose.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -265,6 +267,7 @@
               <text>Is not a rental property or a time share.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -419,6 +422,7 @@
               </para>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -683,6 +687,7 @@
             <num>(h)</num>
             <text>An official or employee may not retaliate against an individual for reporting or participating in an investigation of a potential violation of the local ethics law or ordinance.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1159,6 +1164,7 @@
               <text>The Board may take appropriate enforcement action to ensure compliance with this section.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1424,6 +1430,7 @@
               <text>The Panel shall compute and make available the total amount reported by all lobbyists for their lobbying activities during the reporting period.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1437,6 +1444,7 @@
             <num proof="done">(B)</num>
             <text>A person who violates this chapter is subject to the provisions or sanctions in [______].</text>
           </para>
+          <annotations/>
         </section>
         <annotations>
           <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-205">5-205</cite> and <cite doc="Md. Code" path="ggp|5-206">5-206</cite> and Title 5, Subtitle 8, Annotated Code of Maryland</annotation>
@@ -1522,6 +1530,7 @@
               </para>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1555,6 +1564,7 @@
               <text>Conduct an information program regarding the purposes and application of this chapter.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -1815,6 +1825,7 @@
             <num>(i)</num>
             <text>An official or employee may not retaliate against an individual for reporting or participating in an investigation of a potential violation of the local ethics law or ordinance.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2286,6 +2297,7 @@
               <text>The Panel or Board of Education may take appropriate enforcement action to ensure compliance with this section.</text>
             </para>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2352,6 +2364,7 @@
             <num>(g)</num>
             <text>The Panel or office designated by the Panel shall maintain all disclosure statements filed under this section as public records available for public inspection and copying as provided in §4(e) and (f) of this chapter.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2412,6 +2425,7 @@
             <num>(e)</num>
             <text>The Panel or office designated by the Panel shall maintain the registrations and reports filed under this section as public records available for public inspection and copying.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2426,6 +2440,7 @@
             <num proof="done">(B)</num>
             <text>Significantly reduce the availability of qualified persons for public service.</text>
           </para>
+          <annotations/>
         </section>
         <section>
           <prefix>Section</prefix>
@@ -2443,6 +2458,7 @@
             <num proof="done">(c)</num>
             <text>A finding of a violation of this chapter by the Board is public information.</text>
           </para>
+          <annotations/>
         </section>
         <annotations>
           <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-205">5-205</cite> and <cite doc="Md. Code" path="ggp|5-206">5-206</cite> and Title 5, Subtitle 8, Annotated Code of Maryland</annotation>

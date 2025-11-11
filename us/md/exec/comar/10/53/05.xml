@@ -475,7 +475,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-01—8-6B-29; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>B-01—8-6B-29; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-01-16">Effective date: January 16, 1984 (11:1 Md. R. 44)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-08-05"><cite path="|10|53|05|.01|J.">Regulation .01J</cite>, O, P amended and Y adopted effective August 5, 1991 (18:15 Md. R. 1727)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-03-14"><cite path="|10|53|05|.01|Y.">Regulation .01Y</cite> amended effective March 14, 1994 (21:5 Md. R. 404)</annotation>

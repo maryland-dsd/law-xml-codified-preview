@@ -2740,7 +2740,7 @@
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">
-      <cite doc="Md. Code" path="gen">Environment Article, Title 7, Subtitle 2, Annotated Code of Maryland</cite>
+      <cite doc="Md. Code" path="gen">Environment Article, Title 7, Subtitle 2, Annotated Code of Maryland</cite>
     </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-04-03"><cite path="|26|13|06|.01">Regulation .01</cite> adopted as an emergency provision effective November 18, 1980 (7:25 Md. R. S-1); adopted permanently effective April 3, 1981 (8:7 Md. R. 642)</annotation>

@@ -2015,7 +2015,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1970-07-01">Effective date: July 1, 1970</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-05-05">Regulations <cite path="|10|50|01|.01">.01</cite>—<cite path="|10|50|01|.12">.12</cite> repealed and new Regulations <cite path="|10|50|01|.01">.01</cite>—<cite path="|10|50|01|.06">.06</cite> adopted effective May 5, 1986 (13:9 Md. R. 1030)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-03-20"><cite path="|10|50|01|.03">Regulation .03</cite> amended effective March 20, 1989 (16:5 Md. R. 629)</annotation>
