@@ -6,137 +6,269 @@
       <adopted>2026-01-02</adopted>
     </history>
   </meta>
-  <codify:replace history="false" doc="Code of Maryland Regulations" path="08|02|03|annos" codified:doc="Code of Maryland Regulations" codified:path="08|02|03|annos">
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="02|02|02|.01" codified:doc="Code of Maryland Regulations" codified:path="02|02|02|.01">
+    <section>
+      <prefix>Regulation</prefix>
+      <num>.01</num>
+      <heading>Editorial Change.</heading>
+      <para>
+        <num>A.</num>
+        <text>Scope. This regulation governs applications for initial registration as a broker-dealer in Maryland.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>National Association of Securities Dealers (NASD) Members. An applicant that is already a member of, or has applied for membership in, the NASD shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>File with the Central Registration Depository System (CRD) the information required by Form BD (Uniform Application for Broker-Dealer Registration) and the fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>File with the Commissioner other information the Commissioner may reasonably require.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Non-NASD Members.</text>
+        <para>
+          <num>(1)</num>
+          <text>An applicant that is not a member of, or has not applied for membership in, the NASD shall file with the Commissioner an application upon Form BD (Uniform Application for Broker-Dealer Registration).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The application shall contain:</text>
+          <para>
+            <num>(a)</num>
+            <text>A financial statement prepared in accordance with 17 CFR §240.17a-5(d) (SEC Rule 17a-5(d), Annual Filing of Audited Financial Statements), which is incorporated by reference, as of a date within 90 days of the date on which the statement is filed;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If the applicant is a corporation, a resolution authorizing the filing of the application;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>A statement or certificate showing compliance with, or exemption from, the examination requirement of <cite path="|02|02|02|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06 of this chapter</cite>; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Other information the Commissioner may reasonably require.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Completion of Filing. An application for initial registration as a broker-dealer is not considered filed for purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-405">Corporations and Associations Article, §11-405, Annotated Code of Maryland</cite>, until:</text>
+        <para>
+          <num>(1)</num>
+          <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06 of this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The required fee and all required submissions have been received by the Commissioner;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If the applicant is seeking membership in the NASD, the applicant is approved as a member of the NASD; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The applicant has submitted any other information the Commissioner has requested.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="02|02|02|.04" codified:doc="Code of Maryland Regulations" codified:path="02|02|02|.04">
+    <section>
+      <prefix>Regulation</prefix>
+      <num>.04</num>
+      <heading>Initial Registration as Agent.</heading>
+      <para>
+        <num>A.</num>
+        <text>Scope. This regulation governs applications for initial registration as a broker-dealer agent in Maryland.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Agents of NASD Members. An applicant for initial registration as an agent for a broker-dealer that is a member of the NASD shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>File with the CRD the information required by Form U-4 (Uniform Application for Securities Industry Registration or Transfer) and the fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>File with the Commissioner other information the Commissioner may reasonably require.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Agents of Non-NASD Members.</text>
+        <para>
+          <num>(1)</num>
+          <text>An applicant for initial registration as an agent for a broker-dealer that is not an NASD member shall file an application with the Commissioner upon Form U-4 (Uniform Application for Securities Industry Registration or Transfer).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The application shall contain:</text>
+          <para>
+            <num>(a)</num>
+            <text>A statement or certificate showing compliance with or exemption from the examination requirement of <cite path="|02|02|02|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06 of this chapter</cite>;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Other information the Commissioner may reasonably require.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Completion of Filing. An application for initial registration as an agent is not considered filed for purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-405">Corporations and Associations Article, §11-405, Annotated Code of Maryland</cite>, until:</text>
+        <para>
+          <num>(1)</num>
+          <text>The applicant has complied with the examination requirement of <cite path="|02|02|02|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06 of this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If the applicant has applied for registration with the NASD, the applicant is approved by the NASD as a representative; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The applicant has submitted any other information the Commissioner has requested.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="02|02|02|.06" codified:doc="Code of Maryland Regulations" codified:path="02|02|02|.06">
+    <section cache:ref-path="02|02|02|.06">
+      <prefix>Regulation</prefix>
+      <num>.06</num>
+      <heading>Examination Requirement for Broker-Dealers and Agents.</heading>
+      <para>
+        <num>A.</num>
+        <text>Examination Requirement. An applicant for registration as a broker-dealer or as a broker-dealer agent in Maryland shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Pass, with a score of 70 percent or better, the appropriate examination designated in <cite path="02|02|02|.06|B." proof="needed" doc="Code of Maryland Regulations">§B of this regulation</cite> within 2 years before the date of application; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Qualify for an exemption from the examination requirement under <cite path="02|02|02|.06|C." proof="needed" doc="Code of Maryland Regulations">§C of this regulation</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>SRO Examinations. An applicant for initial registration as a broker-dealer or broker-dealer agent shall take the appropriate examination or examinations designated and administered by a self-regulatory organization.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Exemption. An applicant for registration as a broker-dealer or broker-dealer agent is exempt from the examination requirement of this regulation if the applicant:</text>
+        <para>
+          <num>(1)</num>
+          <text>Is a member firm or is a registered representative with the NASD; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Has been continuously engaged in the securities business for a period of at least 2 years immediately preceding the date of application.</text>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="02|02|02|.08" codified:doc="Code of Maryland Regulations" codified:path="02|02|02|.08">
+    <section cache:ref-path="02|02|02|.08">
+      <prefix>Regulation</prefix>
+      <num>.08</num>
+      <heading>Financial Requirements for Broker-Dealers.</heading>
+      <para>
+        <num>A.</num>
+        <text>Terms Defined. For purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-409">Corporations and Associations Article, §11-409, Annotated Code of Maryland</cite>, and this regulation, the terms "net capital" and "aggregate indebtedness" have the meanings stated in 17 CFR §240.15c3-1 (SEC Rule 15c3-1, Net Capital Requirements for Brokers and Dealers), which is incorporated by reference.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Broker-Dealers Subject to §15 of the Securities Exchange Act of 1934. A broker-dealer that is registered in Maryland and that is subject to §15 of the Securities Exchange Act of 1934 shall maintain the net capital required by 17 CFR §240.15c3-1 (SEC Rule 15c3-1 Net Capital Requirements for Brokers and Dealers), which is incorporated by reference.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Broker-Dealers Not Subject to §15 of the Securities Exchange Act of 1934.</text>
+        <para>
+          <num>(1)</num>
+          <text>A broker-dealer that is registered in Maryland and that is not subject to §15 of the Securities Exchange Act of 1934 shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Maintain a net capital of not less than $15,000; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Not permit its aggregate indebtedness to exceed 2000 percent of its net capital.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A registered broker-dealer that deals exclusively in securities exempt under the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-601">Corporations and Associations Article, §11-601(1) </cite>or (2), Annotated Code of Maryland, is exempt from the requirement of <cite path="02|02|02|.08|C.|(1)|(b)" proof="needed" doc="Code of Maryland Regulations">§C(1)(b) of this regulation</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Exemption. The Commissioner by order may exempt a registered broker-dealer from the requirements of this regulation.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="02|02|02|.09" codified:doc="Code of Maryland Regulations" codified:path="02|02|02|.09">
+    <section cache:ref-path="02|02|02|.09">
+      <prefix>Regulation</prefix>
+      <num>.09</num>
+      <heading>Financial Reporting Requirements for Broker-Dealers.</heading>
+      <para>
+        <num>A.</num>
+        <text>Financial Reports. A broker-dealer registered in Maryland shall file financial reports with the Commissioner as required by this regulation.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>NASD Members. Unless otherwise ordered by the Commissioner, a broker-dealer that is a member of the NASD may satisfy its obligations under this regulation and the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-411">Corporations and Associations Article, §11-411(c), Annotated Code of Maryland</cite>, by filing with the NASD an annual financial statement prepared in accordance with 17 CFR §240.17a-5(d) (SEC Rule 17a-5(d), Annual Filing of Audited Financial Statements), which is incorporated by reference.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Non-NASD Members. A broker-dealer that is not a member of the NASD shall file with the Commissioner an annual financial statement prepared in accordance with 17 CFR §240.17a-5(d) (SEC Rule 17a-5(d), Annual Filing of Audited Financial Statements), which is incorporated by reference.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Filing of Reports.</text>
+        <para>
+          <num>(1)</num>
+          <text>Time for Filing. A broker-dealer required to file a financial statement under <cite path="02|02|02|.09|C." proof="needed" doc="Code of Maryland Regulations">§C of this regulation</cite> shall file the financial statement within 45 days after the end of the broker-dealer's fiscal year.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Extensions of Time.</text>
+          <para>
+            <num>(a)</num>
+            <text>A broker-dealer may request an extension of time to file a financial statement. The request shall state the reason for the extension of time and shall contain an undertaking to file the statement on or before a specified date.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A request for an extension of time shall be considered granted unless the Commissioner, within 10 days after the receipt of the request, denies the request and notifies the broker-dealer of the denial.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If an extension of time for filing a financial statement is granted, the financial statement shall report the financial condition of the broker-dealer as of a date within 90 days of the date that the financial statement is filed.</text>
+          </para>
+        </para>
+      </para>
+    </section>
+  </codify:replace>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="02|02|02|annos" codified:doc="Code of Maryland Regulations" codified:path="02|02|02|annos">
     <annotations>
-      <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-206">4-206</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>, <cite doc="Md. Code" path="gnr|4-745">4-745</cite>, <cite doc="Md. Code" path="gnr|4-803">4-803</cite>, <cite doc="Md. Code" path="gnr|4-804">4-804</cite>, <cite doc="Md. Code" path="gnr|4-809">4-809</cite>, and <cite doc="Md. Code" path="gnr|4-810">4-810</cite>, Annotated Code of Maryland</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-03-24">Effective date: March 24, 1975 (2:8 Md. R. 555)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-12-04"><cite path="|08|02|03|.01|B." proof="needed" doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective March 30, 1977 (4:7 Md. R. 578); May 23, 1983 (10:10 Md. R. 872); December 30, 1985 (12:26 Md. R. 2543); December 4, 1995 (22:24 Md. R. 1894)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-04-04"><cite path="|08|02|03|.01|B." proof="needed" doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective April 4, 1985 (12:9 Md. R. 806); emergency status expired June 29, 1985</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-09-15"><cite path="|08|02|03|.01|B." proof="needed" doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective September 15, 1995 (22:20 Md. R. 1538); emergency status expired December 31, 1995</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-06-01"><cite path="|08|02|03|.01|B." proof="needed" doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective June 1, 1996 (23:13 Md. R. 937); emergency status expired October 31, 1996</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-09-08"><cite path="|08|02|03|.01|B." proof="needed" doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective April 2, 1997 (24:9 Md. R. 653); amended permanently effective September 8, 1997 (24:18 Md. R. 1295)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.01|B." proof="needed" doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective July 23, 2001 (28:14 Md. R. 1320); November 11, 2002 (29:22 Md. R. 1720); April 14, 2003 (30:7 Md. R. 486); February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-03-22"><cite path="|08|02|03|.01|D." proof="needed" doc="Code of Maryland Regulations">Regulation .01D</cite> amended effective April 1, 1976 (3:8 Md. R. 424); October 17, 1980 (7:21 Md. R. 1994); January 17, 1983 (10:1 Md. R. 27); August 15, 1983 (10:16 Md. R. 1450); September 10, 1984 (11:18 Md. R.1583); March 28, 1994 (21:6 Md. R. 466); October 10, 1994 (21:20 Md. R. 1731); March 22, 1999 (26:6 Md. R. 483)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-10">Regulations .01D, I, J, and .05 amended as an emergency provision effective August 10, 1994 (21:18 Md. R. 1505)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|02|03|.01|D." proof="needed" doc="Code of Maryland Regulations">Regulation .01D</cite> amended as an emergency provision effective March 31, 2004 (31:8 Md. R. 643); amended permanently effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.01|D." proof="needed" doc="Code of Maryland Regulations">Regulation .01D</cite> amended effective February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.01|G." proof="needed" doc="Code of Maryland Regulations">Regulation .01G</cite> repealed effective February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-12-04"><cite path="|08|02|03|.01|H." proof="needed" doc="Code of Maryland Regulations">Regulation .01H</cite> amended effective April 1, 1976 (3:6 Md. R. 357); March 30, 1977 (4:7 Md. R. 578);  April 7, 1978 (5:7 Md. R. 521); May 4, 1979 (6:9 Md. R. 726); October 17, 1980 (7:21 Md. R. 1994); May 24, 1982 (9:10 Md. R. 1019); August 15, 1983 (10:16 Md. R. 1450); May 6, 1985 (12:9 Md. R. 810); December 4, 1995 (22:24 Md. R. 1894)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-07-25"><cite path="|08|02|03|.01|H." proof="needed" doc="Code of Maryland Regulations">Regulation .01H</cite> amended as an emergency provision effective February 10, 1988 (15:5 Md. R. 612); adopted permanently effective July 25, 1988 (15:15 Md. R. 1808)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-09-14"><cite path="|08|02|03|.01|H." proof="needed" doc="Code of Maryland Regulations">Regulation .01H</cite> amended as an emergency provision effective September 14, 1995 (22:20 Md. R. 1538); emergency status expired March 14, 1996</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-06-17"><cite path="|08|02|03|.01|H." proof="needed" doc="Code of Maryland Regulations">Regulation .01H</cite> amended as an emergency provision effective April 1, 1996 (23:8 Md. R. 602); amended permanently effective June 17, 1996 (23:12 Md. R. 868)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-23"><cite path="|08|02|03|.01|H." proof="needed" doc="Code of Maryland Regulations">Regulation .01H</cite> amended effective March 24, 2000 (27:5 Md. R. 582); July 23, 2001 (28:14 Md. R. 1320)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|02|03|.01|H." proof="needed" doc="Code of Maryland Regulations">Regulation .01H</cite> amended as an emergency provision effective March 31, 2004 (31:8 Md. R. 643); amended permanently effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-10-20"><cite path="|08|02|03|.01|I." proof="needed" doc="Code of Maryland Regulations">Regulation .01I</cite> amended as an emergency provision effective July 24, 1978 (5:16 Md. R. 1252); adopted permanently effective October 20, 1978 (5:21 Md. R. 1586)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-03-22"><cite path="|08|02|03|.01|I." proof="needed" doc="Code of Maryland Regulations">Regulation .01I</cite> amended effective March 30, 1977 (4:7 Md. R. 578); August 15, 1983 (10:16 Md. R. 1456); September 10, 1984 (11:18 Md. R. 1583); March 28, 1994 (21:6 Md. R. 466); October 10, 1994 (21:20 Md. R. 1731); March 22, 1999 (26:6 Md. R. 483)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|02|03|.01|I." proof="needed" doc="Code of Maryland Regulations">Regulation .01I</cite> amended as an emergency provision effective March 31, 2004 (31:8 Md. R. 643); amended permanently effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.01|I." proof="needed" doc="Code of Maryland Regulations">Regulation .01I</cite> amended effective February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-02-09"><cite path="|08|02|03|.01|J." proof="needed" doc="Code of Maryland Regulations">Regulation .01J</cite> amended effective May 9, 1975 (2:12 Md. R. 865); April 1, 1976 (3:6 Md. R. 357); as an emergency provision May 17, 1976 (3:12 Md. R. 641), permanently adopted effective August 18, 1976 (3:17 Md. R. 914); March 30, 1977 (4:7 Md. R. 578); August 3, 1977 (4:16 Md. R. 1210); April 7, 1978 (5:7 Md. R. 521); as an emergency provision effective June 29, 1978 (5:14 Md. R. 1131); adopted permanently effective September 22, 1978 (5:19 Md. R. 1444); amended effective March 7, 1980 (7:5 Md. R. 473); October 17, 1980 (7:21 Md. R. 1994); amended as an emergency provision effective June 24, 1981 (8:14 Md. R. 1251), adopted permanently effective September 28, 1981 (8:19 Md. R. 1565); amended effective February 1, 1982 (9:2 Md. R. 113); May 24, 1982 (9:10 Md. R. 1019); August 16, 1982 (9:16 Md. R. 1602); September 13, 1982 (9:18 Md. R. 1800); October 11, 1982 (9:20 Md. R. 1981); January 17, 1983 (10:1 Md. R. 27); March 14, 1983 (10:5 Md. R. 465); March 28, 1983 (10:6 Md. R. 554); April 25, 1983 (10:8 Md. R. 724); August 15, 1983 (10:16 Md. R. 1450); October 10, 1983 (10:20 Md. R. 1785); January 16, 1984 (11:1 Md. R. 41); April 9, 1984 (11:7 Md. R. 622); May 6, 1985 (12:9 Md. R. 810); February 9, 1987 (14:3 Md. R. 271)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-11-14"><cite path="|08|02|03|.01|J." proof="needed" doc="Code of Maryland Regulations">Regulation .01J</cite> amended as an emergency provision effective June 23, 1987 (14:15 Md. R. 1655); emergency status expired October 23, 1987; amended as an emergency provision effective April 1, 1988 (15:9 Md. R. 1106); amended permanently effective November 14, 1988 (15:23 Md. R. 2658)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-01"><cite path="|08|02|03|.01|J." proof="needed" doc="Code of Maryland Regulations">Regulation .01J</cite> amended effective September 5, 1988 (15:18 Md. R. 2145); April 16, 1990 (17:7 Md. R. 847); February 4, 1991 (18:2 Md. R. 148); January 1, 1993 (19:18 Md. R. 1655); March 28, 1994 (21:6 Md. R. 466); June 6, 1994 (21:11 Md. R. 950); October 10, 1994 (21:20 Md. R. 1731); June 17, 1996 (23:12 Md. R. 869); March 22, 1999 (26:6 Md. R. 483); June 26, 2000 (27:12 Md. R. 1138); July 23, 2001 (28:14 Md. R. 1320); August 20, 2001 (28:16 Md. R. 1481); April 1, 2002 (29:6 Md. R. 566)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-12-04"><cite path="|08|02|03|.01|J." proof="needed" doc="Code of Maryland Regulations">Regulation .01J</cite> amended as an emergency provision effective June 30, 1995 (22:15 Md. R. 1110); amended permanently effective December 4, 1995 (22:24 Md. R. 1894)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-11-13"><cite path="|08|02|03|.01|J." proof="needed" doc="Code of Maryland Regulations">Regulation .01J</cite> amended as an emergency provision effective November 13, 1995 (22:25 Md. R. 1958); emergency status expired December 31, 1995</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|02|03|.01|J." proof="needed" doc="Code of Maryland Regulations">Regulation .01J</cite> amended as an emergency provision effective March 31, 2004 (31:8 Md. R. 643) amended permanently effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.01|J." proof="needed" doc="Code of Maryland Regulations">Regulation .01J</cite> amended February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-07-04"><cite path="|08|02|03|.01|K." proof="needed" doc="Code of Maryland Regulations">Regulation .01K</cite> amended as an emergency provision effective April 7, 1983 (10:9 Md. R. 788); emergency status extended to June 20, 1983 (10:11 Md. R. 962); adopted permanently effective July 4, 1983 (10:13 Md. R. 1179)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-03-14"><cite path="|08|02|03|.02" proof="needed" doc="Code of Maryland Regulations">Regulation .02</cite> repealed effective March 14, 1983 (10:4 Md. R. 315)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-09"><cite path="|08|02|03|.02" proof="needed" doc="Code of Maryland Regulations">Regulation .02</cite> adopted effective January 9, 1989 (15:27 Md. R. 3127)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-01"><cite path="|08|02|03|.02" proof="needed" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective April 1, 2002 (29:6 Md. R. 566)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-07-07"><cite path="|08|02|03|.02" proof="needed" doc="Code of Maryland Regulations">Regulation .02</cite> amended as an emergency provision effective April 1, 2003 (30:8 Md. R. 537); amended permanently effective July 7, 2003 (30:13 Md. R. 853)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-06-17"><cite path="|08|02|03|.02|B." proof="needed" doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective June 17, 1996 (23:12 Md. R. 869)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-03-28"><cite path="|08|02|03|.03" proof="needed" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective September 10, 1984 (11:18 Md. R. 1583); March 28, 1994 (21:6 Md. R. 466)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-03-22"><cite path="|08|02|03|.03" proof="needed" doc="Code of Maryland Regulations">Regulation .03</cite> repealed and new Regulation .03 adopted effective March 22, 1999 (26:6 Md. R. 483)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-04-14"><cite path="|08|02|03|.03|A." proof="needed" doc="Code of Maryland Regulations">Regulation .03A</cite> amended effective April 14, 2003 (30:7 Md. R. 486)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|02|03|.03" proof="needed" doc="Code of Maryland Regulations">Regulation .03</cite> repealed and new Regulation .03 adopted as an emergency provision effective March 31, 2004 (31:8 Md. R. 643); adopted permanently effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.03|D." proof="needed" doc="Code of Maryland Regulations">Regulation .03D</cite> amended effective February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-03-28"><cite path="|08|02|03|.04" proof="needed" doc="Code of Maryland Regulations">Regulation .04</cite> adopted effective March 28, 1983 (10:6 Md. R. 555)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|02|03|.04" proof="needed" doc="Code of Maryland Regulations">Regulation .04</cite> repealed and new Regulation .04 adopted as an emergency provision effective March 31, 2004 (31:8 Md. R. 643); adopted permanently effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.04|E." proof="needed" doc="Code of Maryland Regulations">Regulation .04E</cite> adopted effective February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|02|03|.04-1" proof="needed" doc="Code of Maryland Regulations">Regulation .04-1</cite> adopted as an emergency provision effective March 31, 2004 (31:8 Md. R. 643); adopted permanently effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.04-1" proof="needed" doc="Code of Maryland Regulations">Regulation .04-1</cite> repealed effective February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-03-28"><cite path="|08|02|03|.05" proof="needed" doc="Code of Maryland Regulations">Regulation .05</cite> adopted effective March 28, 1994 (21:6 Md. R. 466)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-10"><cite path="|08|02|03|.05" proof="needed" doc="Code of Maryland Regulations">Regulation .05</cite> amended as an emergency provision effective August 10, 1994 (21:18 Md. R. 1505)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-10-10"><cite path="|08|02|03|.05" proof="needed" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective October 10, 1994 (21:20 Md. R. 1731)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-09-15"><cite path="|08|02|03|.05" proof="needed" doc="Code of Maryland Regulations">Regulation .05</cite> amended as an emergency provision effective September 15, 1995 (22:20 Md. R. 1538); emergency status expired December 31, 1995</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-04-12"><cite path="|08|02|03|.05|A." proof="needed" doc="Code of Maryland Regulations">Regulation .05A</cite> amended effective July 23, 2001 (28:14 Md. R. 1320); April 1, 2002 (29:6 Md. R. 566); April 12, 2004 (31:7 Md. R. 582)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-11"><cite path="|08|02|03|.05|B." proof="needed" doc="Code of Maryland Regulations">Regulation .05B</cite> amended effective November 11, 2002 (29:22 Md. R. 1720)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-12-04"><cite path="|08|02|03|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06</cite> adopted as an emergency provision effective June 30, 1995 (22:15 Md. R. 1110); adopted permanently effective December 4, 1995 (22:24 Md. R. 1894)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|02|03|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06</cite> amended as an emergency provision effective March 31, 2004 (31:8 Md. R. 643); amended permanently effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-23"><cite path="|08|02|03|.06|D." proof="needed" doc="Code of Maryland Regulations">Regulation .06D</cite> adopted effective July 23, 2001 (28:14 Md. R. 1321)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-11-13"><cite path="|08|02|03|.07" proof="needed" doc="Code of Maryland Regulations">Regulation .07</cite> adopted as an emergency provision effective September 15, 1995 (22:20 Md. R. 1538); Regulation .07A emergency text amended effective November 13, 1995 (22:25 Md. R. 1958); emergency status expired December 31, 1995</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-06-17"><cite path="|08|02|03|.07" proof="needed" doc="Code of Maryland Regulations">Regulation .07</cite> adopted effective June 17, 1996 (23:12 Md. R. 869)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-01"><cite path="|08|02|03|.07" proof="needed" doc="Code of Maryland Regulations">Regulation .07</cite> amended effective August 20, 2001 (28:16 Md. R. 1481); April 1, 2002 (29:6 Md. R. 566)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-06-17"><cite path="|08|02|03|.08" proof="needed" doc="Code of Maryland Regulations">Regulation .08</cite> adopted effective June 17, 1996 (23:12 Md. R. 869)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-23"><cite path="|08|02|03|.08" proof="needed" doc="Code of Maryland Regulations">Regulation .08</cite> amended effective July 23, 2001 (28:14 Md. R. 1320)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-07-07"><cite path="|08|02|03|.08|B." proof="needed" doc="Code of Maryland Regulations">Regulation .08B</cite> amended as an emergency provision effective April 1, 2003 (30:8 Md. R. 537); amended permanently effective July 7, 2003 (30:13 Md. R. 853)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-07-28"><cite path="|08|02|03|.08|E." proof="needed" doc="Code of Maryland Regulations">Regulation .08E</cite> adopted as an emergency provision effective March 21, 1997 (24:8 Md. R. 613); adopted permanently effective July 28, 1997 (24:15 Md. R. 1061)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-01"><cite path="|08|02|03|.08|E." proof="needed" doc="Code of Maryland Regulations">Regulation .08E</cite> adopted effective April 1, 2002 (29:6 Md. R. 566)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-11"><cite path="|08|02|03|.08|E." proof="needed" doc="Code of Maryland Regulations">Regulation .08E</cite> amended effective November 11, 2002 (29:22 Md. R. 1720)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-07-07"><cite path="|08|02|03|.08|E." proof="needed" doc="Code of Maryland Regulations">Regulation .08E</cite> amended as an emergency provision effective April 1, 2003 (30:8 Md. R. 537); amended permanently effective July 7, 2003 (30:13 Md. R. 853)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-04-12"><cite path="|08|02|03|.08" proof="needed" doc="Code of Maryland Regulations">Regulation .08</cite> amended and recodified to Regulation .09, and new Regulation .08 adopted effective April 12, 2004 (31:7 Md. R. 582)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.09|A." proof="needed" doc="Code of Maryland Regulations">Regulation .09A</cite> amended effective February 14, 2005 (32:3 Md. R. 289)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-11-24" discontinuity="true">Chapter revised effective November 24, 2005 (32:23 Md. R. 1825)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|08|02|03|.01|A." proof="needed" doc="Code of Maryland Regulations">Regulation .01A</cite> amended effective February 25, 2008 (35:4 Md. R. 512)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01"><cite path="|08|02|03|.01|B." proof="needed" doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective March 23, 2009 (36:6 Md. R. 487); March 27, 2017 (44:6 Md. R. 324); February 7, 2022 (49:3 Md. R. 138); April 1, 2024 (51:6 Md. R. 269)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-16"><cite path="|08|02|03|.01|C." proof="needed" doc="Code of Maryland Regulations">Regulation .01C</cite> amended as an emergency provision effective June 1, 2008 (35:13 Md. R. 1174); emergency status extended to December 16, 2008 (35:23 Md. R. 2011); emergency status expired December 16, 2008</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23"><cite path="|08|02|03|.01|C." proof="needed" doc="Code of Maryland Regulations">Regulation .01C</cite> amended effective March 23, 2009 (36:6 Md. R. 487)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-31"><cite path="|08|02|03|.01|C." proof="needed" doc="Code of Maryland Regulations">Regulation .01C</cite> amended as an emergency provision effective August 31, 2023 (50:19 Md. R. 852); emergency status expired December 31, 2023</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01"><cite path="|08|02|03|.01|C." proof="needed" doc="Code of Maryland Regulations">Regulation .01C</cite> amended effective April 1, 2024 (51:6 Md. R. 269)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-01"><cite path="|08|02|03|.03" proof="needed" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective March 23, 2009 (36:6 Md. R. 487); January 1, 2014 (40:25 Md. R. 2067)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-30"><cite path="|08|02|03|.03|A." proof="needed" doc="Code of Maryland Regulations">Regulation .03A</cite>, E amended effective March 30, 2015 (42:6 Md. R. 510)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-03-22"><cite path="|08|02|03|.03|B." proof="needed" doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective March 22, 2021 (48:6 Md. R. 237)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-03-22"><cite path="|08|02|03|.03|E." proof="needed" doc="Code of Maryland Regulations">Regulation .03E</cite> amended effective March 25, 2019 (46:6 Md. R. 345); March 22, 2021 (48:6 Md. R. 237)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-02-26"><cite path="|08|02|03|.05|D." proof="needed" doc="Code of Maryland Regulations">Regulation .05D</cite> amended effective February 26, 2007 (34:4 Md. R. 399)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-01"><cite path="|08|02|03|.06" proof="needed" doc="Code of Maryland Regulations">Regulation .06</cite> amended effective January 1, 2014 (40:25 Md. R. 2067)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-30"><cite path="|08|02|03|.06|A." proof="needed" doc="Code of Maryland Regulations">Regulation .06A</cite>, D amended effective March 30, 2015 (42:6 Md. R. 510)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-25"><cite path="|08|02|03|.06|B." proof="needed" doc="Code of Maryland Regulations">Regulation .06B</cite> amended effective March 25, 2019 (46:6 Md. R. 345)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01"><cite path="|08|02|03|.07" proof="needed" doc="Code of Maryland Regulations">Regulation .07</cite> amended effective April 1, 2024 (51:6 Md. R. 269)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-02-26"><cite path="|08|02|03|.07|A." proof="needed" doc="Code of Maryland Regulations">Regulation .07A</cite>, B amended effective February 26, 2007 (34:4 Md. R. 399)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28"><cite path="|08|02|03|.07|B." proof="needed" doc="Code of Maryland Regulations">Regulation .07B</cite>, D amended effective March 28, 2016 (43:6 Md. R. 404)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|08|02|03|.07|D." proof="needed" doc="Code of Maryland Regulations">Regulation .07D</cite> amended effective October 19, 2009 (36:21 Md. R. 1590); October 31, 2011 (38:22 Md. R. 1345); January 1, 2014 (40:25 Md. R. 2067); March 30, 2015 (42:6 Md. R. 510); January 1, 2018 (44:26 Md. R. 1214); March 21, 2022 (49:6 Md. R. 404)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|08|02|03|.07|E." proof="needed" doc="Code of Maryland Regulations">Regulation .07E</cite> amended effective October 5, 2020 (47:20 Md. R. 874); March 22, 2021 (48:6 Md. R. 237); March 21, 2022 (49:6 Md. R. 404)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23"><cite path="|08|02|03|.07|G." proof="needed" doc="Code of Maryland Regulations">Regulation .07G</cite> amended effective March 23, 2009 (36:6 Md. R. 487)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-17"><cite path="|08|02|03|.07|H." proof="needed" doc="Code of Maryland Regulations">Regulation .07H</cite> amended effective March 17, 2025 (52:4 Md. R. 236)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26"><cite path="|08|02|03|.08|B." proof="needed" doc="Code of Maryland Regulations">Regulation .08B</cite> amended effective March 26, 2018 (45:6 Md. R. 317)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26"><cite path="|08|02|03|.08|C." proof="needed" doc="Code of Maryland Regulations">Regulation .08C</cite> adopted effective March 26, 2018 (45:6 Md. R. 317)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-09-28"><cite path="|08|02|03|.09" proof="needed" doc="Code of Maryland Regulations">Regulation .09</cite> amended effective March 23, 2009 (36:6 Md. R. 488); April 4, 2011 (38:7 Md. R. 429); January 1, 2014 (40:25 Md. R. 2067); September 28, 2015 (42:19 Md. R. 1228)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-02-07"><cite path="|08|02|03|.09|A." proof="needed" doc="Code of Maryland Regulations">Regulation .09A</cite> amended effective February 25, 2008 (35:4 Md. R. 512); March 27, 2017 (44:6 Md. R. 324); February 7, 2022 (49:3 Md. R. 138)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-01"><cite path="|08|02|03|.09|B." proof="needed" doc="Code of Maryland Regulations">Regulation .09B</cite> amended effective March 27, 2017 (44:6 Md. R. 324); July 1, 2019 (46:13 Md. R. 589)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-02-26"><cite path="|08|02|03|.10" proof="needed" doc="Code of Maryland Regulations">Regulation .10</cite> repealed and new Regulation .10 adopted effective February 26, 2007 (34:4 Md. R. 399)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-16"><cite path="|08|02|03|.10" proof="needed" doc="Code of Maryland Regulations">Regulation .10</cite> amended as an emergency provision effective June 1, 2008 (35:13 Md. R. 1174); emergency status extended to December 16, 2008 (35:23 Md. R. 2011); emergency status expired December 16, 2008</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-01"><cite path="|08|02|03|.10" proof="needed" doc="Code of Maryland Regulations">Regulation .10</cite> amended effective March 23, 2009 (36:6 Md. R. 488); January 1, 2014 (40:25 Md. R. 2067)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01"><cite path="|08|02|03|.10|A." proof="needed" doc="Code of Maryland Regulations">Regulation .10A</cite> amended effective April 1, 2024 (51:6 Md. R. 269)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-03-22"><cite path="|08|02|03|.10|B." proof="needed" doc="Code of Maryland Regulations">Regulation .10B</cite> amended effective September 28, 2015 (42:19 Md. R. 1228); March 22, 2021 (48:6 Md. R. 237)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-03-22"><cite path="|08|02|03|.10|C." proof="needed" doc="Code of Maryland Regulations">Regulation .10C</cite> repealed effective March 22, 2021 (48:6 Md. R. 237)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-31"><cite path="|08|02|03|.10|E." proof="needed" doc="Code of Maryland Regulations">Regulation .10E</cite> amended effective February 8, 2010 (37:3 Md. R. 175); October 31, 2011 (38:22 Md. R. 1345)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|08|02|03|.11|A." proof="needed" doc="Code of Maryland Regulations">Regulation .11A</cite> amended effective February 25, 2008 (35:4 Md. R. 512)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-16"><cite path="|08|02|03|.11|A." proof="needed" doc="Code of Maryland Regulations">Regulation .11A</cite> amended as an emergency provision effective June 1, 2008 (35:13 Md. R. 1174); emergency status extended to December 16, 2008 (35:23 Md. R. 2011); emergency status expired December 16, 2008</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-10"><cite path="|08|02|03|.11|A." proof="needed" doc="Code of Maryland Regulations">Regulation .11A</cite> amended effective January 1, 2014 (40:25 Md. R. 2067); March 27, 2017 (44:6 Md. R. 324); September 25, 2017 (44:19 Md. R. 896); February 7, 2022 (49:3 Md. R. 138); July 10, 2023 (50:13 Md. R. 511)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|08|02|03|.11|A." proof="needed" doc="Code of Maryland Regulations">Regulation .11A</cite>, C amended effective March 23, 2009 (36:6 Md. R. 488); October 19, 2009 (36:21 Md. R. 1590)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-25"><cite path="|08|02|03|.11|B." proof="needed" doc="Code of Maryland Regulations">Regulation .11B</cite> amended effective March 25, 2019 (46:6 Md. R. 345)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28"><cite path="|08|02|03|.12|A." proof="needed" doc="Code of Maryland Regulations">Regulation .12A</cite> amended effective March 28, 2016 (43:6 Md. R. 404)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01"><cite path="|08|02|03|.12|B." proof="needed" doc="Code of Maryland Regulations">Regulation .12B</cite> amended effective April 1, 2024 (51:6 Md. R. 269)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|08|02|03|.12|C." proof="needed" doc="Code of Maryland Regulations">Regulation .12C</cite> amended effective October 19, 2009 (36:21 Md. R. 1590)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-10"><cite path="|08|02|03|.12|D." proof="needed" doc="Code of Maryland Regulations">Regulation .12D</cite> amended effective March 27, 2017 (44:6 Md. R. 324); September 25, 2017 (44:19 Md. R. 896); July 10, 2023 (50:13 Md. R. 511)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-16"><cite path="|08|02|03|.13|B." proof="needed" doc="Code of Maryland Regulations">Regulation .13B</cite> amended as an emergency provision effective June 1, 2008 (35:13 Md. R. 1174); emergency status extended to December 16, 2008 (35:23 Md. R. 2011); emergency status expired December 16, 2008</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01"><cite path="|08|02|03|.13|B." proof="needed" doc="Code of Maryland Regulations">Regulation .13B</cite> amended effective March 23, 2009 (36:6 Md. R. 488); March 22, 2021 (48:6 Md. R. 237); April 1, 2024 (51:6 Md. R. 269)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-03-22"><cite path="|08|02|03|.13|C." proof="needed" doc="Code of Maryland Regulations">Regulation .13C</cite> adopted effective March 22, 2021 (48:6 Md. R. 237)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-16"><cite path="|08|02|03|.14" proof="needed" doc="Code of Maryland Regulations">Regulation .14</cite> amended as an emergency provision effective June 1, 2008 (35:13 Md. R. 1174); emergency status extended to December 16, 2008 (35:23 Md. R. 201); emergency status expired December 16, 2008</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-02"><cite path="|08|02|03|.14" proof="needed" doc="Code of Maryland Regulations">Regulation .14</cite> amended effective March 23, 2009 (36:6 Md. R. 488); February 8, 2010 (37:3 Md. R. 175); October 31, 2011 (38:22 Md. R. 1345); April 2, 2012 (39:6 Md. R. 407)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-01"><cite path="|08|02|03|.14|A." proof="needed" doc="Code of Maryland Regulations">Regulation .14A</cite> amended effective January 1, 2014 (40:25 Md. R. 2067)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|08|02|03|.14|A." proof="needed" doc="Code of Maryland Regulations">Regulation .14A</cite>, E amended effective February 25, 2008 (35:4 Md. R. 512)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28"><cite path="|08|02|03|.14|B." proof="needed" doc="Code of Maryland Regulations">Regulation .14B</cite> amended effective February 7, 2011 (38:3 Md. R. 152); March 28, 2016 (43:6 Md. R. 404)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-31"><cite path="|08|02|03|.14|B." proof="needed" doc="Code of Maryland Regulations">Regulation .14B</cite> amended as an emergency provision effective August 31, 2023 (50:19 Md. R. 852); emergency status expired December 31, 2023</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01"><cite path="|08|02|03|.14|B." proof="needed" doc="Code of Maryland Regulations">Regulation .14B</cite> amended effective April 1, 2024 (51:6 Md. R. 269)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-10"><cite path="|08|02|03|.14|B." proof="needed" doc="Code of Maryland Regulations">Regulation .14B</cite>, E amended effective July 10, 2023 (50:13 Md. R. 511)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-03-27"><cite path="|08|02|03|.14|B." proof="needed" doc="Code of Maryland Regulations">Regulation .14B</cite>—D amended effective March 27, 2017 (44:6 Md. R. 324)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-03-22"><cite path="|08|02|03|.14|B." proof="needed" doc="Code of Maryland Regulations">Regulation .14B</cite>, G amended effective March 22, 2021 (48:6 Md. R. 237)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26"><cite path="|08|02|03|.14|C." proof="needed" doc="Code of Maryland Regulations">Regulation .14C</cite> amended effective March 26, 2018 (45:6 Md. R. 317)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-30"><cite path="|08|02|03|.14|E." proof="needed" doc="Code of Maryland Regulations">Regulation .14E</cite> amended effective March 30, 2015 (42:6 Md. R. 510)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-07-26"><cite path="|08|02|03|.14|F." proof="needed" doc="Code of Maryland Regulations">Regulation .14F</cite> amended effective July 26, 2010 (37:15 Md. R. 998)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-07-07"><cite path="|08|02|03|.15" proof="needed" doc="Code of Maryland Regulations">Regulation .15</cite> adopted effective July 7, 2014 (41:13 Md. R. 751)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-01"><cite path="|08|02|03|.15|D." proof="needed" doc="Code of Maryland Regulations">Regulation .15D</cite> amended effective March 28, 2016 (43:6 Md. R. 404): October 10, 2016 (43:20 Md. R. 1109); July 1, 2019 (46:13 Md. R. 589)</annotation>
-      <annotation managed="false" type="History" subtype="Administrative History" dest="container" discontinuity="true">Annotation: An amendment to Regulation .01J promulgated at 14:2 Md. R. 126 was declared invalid by the Department of Natural Resources and is not reflected in the 1987 COMAR supplement.</annotation>
+      <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gca|11-203">Corporations and Associations Article, §11-203, </cite>Annotated Code of Maryland</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1965-06-01">Effective date: June 1, 19652</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-01-17">Regulations <cite path="|02|02|02|.01" proof="needed" doc="Code of Maryland Regulations">.01</cite>—<cite path="|02|02|02|.06" proof="needed" doc="Code of Maryland Regulations">.06</cite> and new Regulations <cite path="|02|02|02|.01" proof="needed" doc="Code of Maryland Regulations">.01</cite>—<cite path="|02|02|02|.10" proof="needed" doc="Code of Maryland Regulations">.10</cite> adopted effective January 17, 1994 (21:1 Md. R. 26)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.01|B." proof="needed" doc="Code of Maryland Regulations">Regulation .01B</cite>, D amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.04|B." proof="needed" doc="Code of Maryland Regulations">Regulation .04B</cite>, D amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-15"><cite path="|02|02|02|.08|B." proof="needed" doc="Code of Maryland Regulations">Regulation .08B</cite>, C amended effective June 15, 1998 (25:12 Md. R. 944)</annotation>
     </annotations>
   </codify:replace>
 </document>
