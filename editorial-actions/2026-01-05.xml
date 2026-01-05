@@ -6,55 +6,193 @@
       <adopted>2026-01-05</adopted>
     </history>
   </meta>
-  <codify:replace history="false" doc="Code of Maryland Regulations" path="02|02|02|.02" codified:doc="Code of Maryland Regulations" codified:path="02|02|02|.02">
-    <section>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="08|02|02|.04" codified:doc="Code of Maryland Regulations" codified:path="08|02|02|.04">
+    <section cache:ref-path="08|02|02|.04">
       <prefix>Regulation</prefix>
-      <num>.02</num>
-      <heading>Renewal Registration as Broker-Dealer EDITORIAL CHANGE!</heading>
+      <num>.04</num>
+      <heading>Container and Tagging Requirements for the Lake.</heading>
       <para>
         <num>A.</num>
-        <text>Scope. This regulation governs applications for renewal registration as a broker-dealer in Maryland.</text>
-      </para>
-      <para>
-        <num>B.</num>
-        <text>NASD Members. An applicant that is a member of the NASD shall:</text>
+        <text>Definition.</text>
         <para>
           <num>(1)</num>
-          <text>File with the CRD the fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>; and</text>
+          <text>In this regulation, the following term has the meaning indicated.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>File with the Commissioner other information the Commissioner may reasonably require.</text>
+          <text>Term Defined. “Growing area” means the location, defined by the specific NOAA code for the area in which the harvest occurred.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Containers.</text>
+        <para>
+          <num>(1)</num>
+          <text>Soft-shell clams of the species Mya arenaria harvested for commercial purposes shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Be stored prior to leaving the growing area from which they were harvested in a rectangular shaped container with dimensions that do not exceed 20 inches long by 12-½ inches wide by 11-¼ inches deep (inside measurements), which may be filled to a level even with the top of the basket from side to side and end to end; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Remain in the original container until a tag is no longer required on the container in accordance with <cite path="08|02|02|.04|C.|(3)|(d)" doc="Code of Maryland Regulations">§C(3)(d) of this regulation</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Soft-shell clams of the genus Tagelus harvested for commercial purposes shall be stored prior to leaving the growing area from which they were harvested in a container of any size or dimension.</text>
         </para>
       </para>
       <para>
         <num>C.</num>
-        <text>Non-NASD Members.</text>
+        <text>Tagging — Mya Arenaria.</text>
         <para>
           <num>(1)</num>
-          <text>An applicant that is not a member of the NASD shall file with the Commissioner an application upon Form 200 (Renewal of Registration of Non-NASD Broker-Dealer).</text>
+          <text>An individual shall complete and affix a Department-issued tag to each container of soft-shell clams of the species Mya arenaria prior to leaving the growing area from which they were harvested.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The application shall contain:</text>
+          <text>An individual may use a tag not supplied by the Department if:</text>
           <para>
             <num>(a)</num>
-            <text>A financial statement prepared in accordance with 17 CFR §240.17a-5(d) (SEC Rule 17a-5(d), Annual Filing of Audited Financial Statements), which is incorporated by reference;</text>
+            <text>The individual:</text>
+            <para>
+              <num>(i)</num>
+              <text>Is licensed and certified to sell shellfish by the Maryland Department of Health in accordance with <cite path="|10.15.04" doc="Code of Maryland Regulations">COMAR 10.15.04</cite> and <cite path="|10.15.07" doc="Code of Maryland Regulations">10.15.07</cite>; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Follows the tagging requirements of the National Shellfish Sanitation Program Model Ordinance, incorporated by reference by the Maryland Department of Health in <cite path="10.15.07.01" doc="Code of Maryland Regulations">COMAR 10.15.07.01</cite>; and</text>
+            </para>
           </para>
           <para>
             <num>(b)</num>
-            <text>The fee required by the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-407">Corporations and Associations Article, §11-407, Annotated Code of Maryland</cite>; and</text>
+            <text>Each tag the individual uses contains the statement “Wild Shellfish”, the state in which the harvest occurred, and, in the order specified, the following information:</text>
+            <para>
+              <num>(i)</num>
+              <text>The harvester’s license number as assigned by the Department;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>The date of harvest, including the year;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>The name of the river, region, or the National Oceanic and Atmospheric Administration code for the area in which the harvest occurred;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>The type and quantity of shellfish; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>The statement “THIS TAG IS REQUIRED TO BE ATTACHED UNTIL CONTAINER IS EMPTY OR IS RETAGGED AND THEREAFTER KEPT ON FILE FOR 90 DAYS” in bold capitalized type.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Tags:</text>
+          <para>
+            <num>(a)</num>
+            <text>Shall be durable and waterproof;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Shall be at least 5-½ x 2-¾ inches in size;</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>Other information the Commissioner may reasonably require.</text>
+            <text>Shall be completed legibly in indelible ink;</text>
           </para>
+          <para>
+            <num>(d)</num>
+            <text>Shall stay affixed to the container until the container is in the possession of a person who is licensed and certified to sell shellfish by the Maryland Department of Health in accordance with <cite path="|10.15.04" doc="Code of Maryland Regulations">COMAR 10.15.04</cite> and <cite path="|10.15.07" doc="Code of Maryland Regulations">10.15.07</cite>; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>May not be reused.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>In addition to the tagging requirements of this regulation, a person who is licensed and certified to sell shellfish by the Maryland Department of Health in accordance with <cite path="|10.15.04" doc="Code of Maryland Regulations">COMAR 10.15.04</cite> and <cite path="|10.15.07" doc="Code of Maryland Regulations">10.15.07</cite> shall follow the tagging requirements of the National Shellfish Sanitation Program Model Ordinance, incorporated by reference by the Maryland Department of Health in <cite path="10.15.07.01" doc="Code of Maryland Regulations">COMAR 10.15.07.01</cite>.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>An individual shall only possess one type of tag, wild shellfish or farm-raised shellfish, while harvesting soft-shell clams.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>An individual may not use a:</text>
+          <para>
+            <num>(a)</num>
+            <text>Farm-raised shellfish tag to tag wild shellfish; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Wild shellfish tag to tag farm-raised shellfish.</text>
+          </para>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>If a tidal fish licensee obtains tags from the Department, the licensee shall be assessed an annual surcharge for the costs incurred by the Department for the tags.</text>
         </para>
       </para>
       <para>
         <num>D.</num>
-        <text>Completion of Filing. An application for renewal registration as a broker-dealer is not considered filed for purposes of the Maryland Securities Act, <cite doc="Md. Code" path="gca|11-406">Corporations and Associations Article, §11-406, Annotated Code of Maryland</cite>, until the required fee and all required submissions have been received by the Commissioner.</text>
+        <text>Exemptions.</text>
+        <para>
+          <num>(1)</num>
+          <text>Soft-shell clams harvested recreationally for the person’s own use and consumption are exempt from the requirements of <cite path="08|02|02|.04|B." doc="Code of Maryland Regulations">§B of this regulation</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Soft-shell clams harvested from a lease and stored and tagged in accordance with <cite path="08.02.23.04" doc="Code of Maryland Regulations">COMAR 08.02.23.04</cite> are exempt from the requirements of §§B and C of this regulation.</text>
+        </para>
       </para>
     </section>
+  </codify:replace>
+  <codify:replace history="false" doc="Code of Maryland Regulations" path="08|02|02|annos" codified:doc="Code of Maryland Regulations" codified:path="08|02|02|annos">
+    <annotations>
+      <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-1001">4-1001</cite>, <cite doc="Md. Code" path="gnr|4-1004">4-1004</cite>, <cite doc="Md. Code" path="gnr|4-1007">4-1007</cite>, <cite doc="Md. Code" path="gnr|4-1027">4-1027</cite>, <cite doc="Md. Code" path="gnr|4-1033">4-1033</cite>, <cite doc="Md. Code" path="gnr|4-1036">4-1036</cite>, <cite doc="Md. Code" path="gnr|4-1037">4-1037</cite>, and <cite doc="Md. Code" path="gnr|4-1039">4-1039</cite>, Annotated Code of Maryland</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-07-23">Effective date: July 23, 1975 (2:16 Md. R. 1138)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-11-09"><cite path="|08|02|02|.01|A." doc="Code of Maryland Regulations">Regulation .01A</cite> amended effective August 15, 1983 (10:16 Md. R. 1450); October 19, 1987 (14:21 Md. R. 2222); June 24, 1991 (18:12 Md. R. 1337); November 9, 1992 (19:22 Md. R. 1987)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-06-14"><cite path="|08|02|02|.01|A." doc="Code of Maryland Regulations">Regulation .01A</cite> amended as an emergency provision effective June 14, 1987 (14:14 Md. R. 1563); emergency status expired October 12, 1987</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-08-15"><cite path="|08|02|02|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective December 21, 1981 (8:25 Md. R. 1994); August 15, 1983 (10:16 Md. R. 1450)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|08|02|02|.03|B." doc="Code of Maryland Regulations">Regulation .03B</cite> amended effective April 7, 2008 (35:7 Md. R. 747)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-06-30"><cite path="|08|02|02|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended effective June 30, 1978 (5:13 Md. R. 1042)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-06-14"><cite path="|08|02|02|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended as an emergency provision effective June 14, 1987 (14:14 Md. R. 1563); emergency status expired October 12, 1987</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-11-09"><cite path="|08|02|02|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended effective October 19, 1987 (14:21 Md. R. 2222); June 12, 1989 (16:11 Md. R. 1218); November 9, 1992 (19:22 Md. R. 1987)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|08|02|02|.04|C." doc="Code of Maryland Regulations">Regulation .04C</cite> amended effective April 7, 2008 (35:7 Md. R. 747)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-03-28"><cite path="|08|02|02|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> amended as an emergency provision effective December 8, 1993 (20:26 Md. R. 2023); amended permanently effective March 28, 1994 (21:6 Md. R. 466)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-08-18"><cite path="|08|02|02|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended as an emergency provision effective June 3, 1976 (3:13 Md. R. 719); amended permanently effective August 18, 1976 (3:17 Md. R. 914)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-09-01"><cite path="|08|02|02|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended as an emergency provision effective September 1, 1983 (10:19 Md. R. 1683); emergency status expired October 31, 1983</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-11-18"><cite path="|08|02|02|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective November 18, 1996 (23:23 Md. R. 1555)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|02|.06" doc="Code of Maryland Regulations">Regulation .06</cite> amended effective February 14, 2005 (32:3 Md. R. 289)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-12-01"><cite path="|08|02|02|.06|B." doc="Code of Maryland Regulations">Regulation .06B</cite>, C amended as an emergency provision effective May 18, 1978 (5:11 Md. R. 878); adopted permanently effective December 1, 1978 (5:24 Md. R. 1796)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-06-01">Regulations .06B, C and .07 amended, and .10 and .11 adopted as an emergency provision effective June 1, 1989 (16:11 Md. R. 1216)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|08|02|02|.06|B." doc="Code of Maryland Regulations">Regulation .06B</cite>, C amended effective May 28, 1990 (17:10 Md. R. 1218); April 15, 1991 (18:7 Md. R. 771); April 7, 2008 (35:7 Md. R. 747)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-09-07"><cite path="|08|02|02|.06|C." doc="Code of Maryland Regulations">Regulation .06C</cite> amended as an emergency provision effective September 7, 1994 (21:20 Md. R. 1729); emergency status expired October 1, 1994</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|08|02|02|.07" doc="Code of Maryland Regulations">Regulation .07</cite> amended effective May 28, 1990 (17:10 Md. R. 1218); April 7, 2008 (35:7 Md. R. 747)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-11-09"><cite path="|08|02|02|.07|B." doc="Code of Maryland Regulations">Regulation .07B</cite>, C amended effective April 15, 1991 (18:7 Md. R. 771); November 9, 1992 (19:22 Md. R. 1987)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-12-01"><cite path="|08|02|02|.07|C." doc="Code of Maryland Regulations">Regulation .07C</cite>, D adopted as an emergency provision effective May 18, 1978 (5:11 Md. R. 878); adopted permanently effective December 1, 1978 (5:24 Md. R. 1796)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-08-15"><cite path="|08|02|02|.08" doc="Code of Maryland Regulations">Regulation .08</cite> amended effective August 15, 1983 (10:16 Md. R. 1450)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|08|02|02|.08|B." doc="Code of Maryland Regulations">Regulation .08B</cite>, C amended effective April 7, 2008 (35:7 Md. R. 747)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-09-21"><cite path="|08|02|02|.09" doc="Code of Maryland Regulations">Regulation .09</cite> adopted effective September 21, 1986 (13:19 Md. R. 2119)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-10-11"><cite path="|08|02|02|.09" doc="Code of Maryland Regulations">Regulation .09</cite> amended as an emergency provision effective September 10, 2004 (31:20 Md. R. 1482); adopted permanently effective October 11, 2004 (31:20 Md. R. 1484)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|08|02|02|.09|C." doc="Code of Maryland Regulations">Regulation .09C</cite> amended effective April 7, 2008 (35:7 Md. R. 747); October 19, 2009 (36:21 Md. R. 1590)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|08|02|02|.09|F." doc="Code of Maryland Regulations">Regulation .09F</cite> amended effective April 7, 2008 (35:7 Md. R. 747)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-05-28"><cite path="|08|02|02|.10" doc="Code of Maryland Regulations">Regulation .10</cite> adopted effective May 28, 1990 (17:10 Md. R. 1218)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|08|02|02|.10" doc="Code of Maryland Regulations">Regulation .10</cite> amended effective April 7, 2008 (35:7 Md. R. 747)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-11-09"><cite path="|08|02|02|.10|A." doc="Code of Maryland Regulations">Regulation .10A</cite> amended effective April 15, 1991 (18:7 Md. R. 771); November 9, 1992 (19:22 Md. R. 1987)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-05-28"><cite path="|08|02|02|.11" doc="Code of Maryland Regulations">Regulation .11</cite> adopted effective May 28, 1990 (17:10 Md. R. 1218)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|08|02|02|.11" doc="Code of Maryland Regulations">Regulation .11</cite> repealed effective April 7, 2008 (35:7 Md. R. 747)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-11-09"><cite path="|08|02|02|.11|A." doc="Code of Maryland Regulations">Regulation .11A</cite> and B amended effective April 15, 1991 (18:7 Md. R. 771); November 9, 1992 (19:22 Md. R. 1987)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-04-13"><cite path="|08|02|02|.12" doc="Code of Maryland Regulations">Regulation .12</cite> adopted effective April 13, 1992 (19:7 Md. R. 744)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-09-06"><cite path="|08|02|02|.12" doc="Code of Maryland Regulations">Regulation .12</cite> amended effective August 16, 1993 (20:16 Md. R. 1276); September 6, 2010 (37:18 Md. R. 1213)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-01-29"><cite path="|08|02|02|.12|B." doc="Code of Maryland Regulations">Regulation .12B</cite>, C amended effective January 29, 2018 (45:2 Md. R. 68)</annotation>
+      <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13" discontinuity="true">Chapter revised effective November 13, 2023 (50:22Md. R. 973)</annotation>
+    </annotations>
   </codify:replace>
 </document>

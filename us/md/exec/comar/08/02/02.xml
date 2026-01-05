@@ -129,7 +129,7 @@
   <section cache:ref-path="08|02|02|.04">
     <prefix>Regulation</prefix>
     <num>.04</num>
-    <heading>Container and Tagging Requirements.</heading>
+    <heading>Container and Tagging Requirements for the Lake.</heading>
     <para>
       <num>A.</num>
       <text>Definition.</text>
@@ -270,7 +270,9 @@
         <text>Soft-shell clams harvested from a lease and stored and tagged in accordance with <cite path="08.02.23.04">COMAR 08.02.23.04</cite> are exempt from the requirements of §§B and C of this regulation.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Editor Action 2026-01-05" eff="2026-01-05" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|02|.05">
     <prefix>Regulation</prefix>
@@ -545,5 +547,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-09-06"><cite path="|08|02|02|.12">Regulation .12</cite> amended effective August 16, 1993 (20:16 Md. R. 1276); September 6, 2010 (37:18 Md. R. 1213)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-01-29"><cite path="|08|02|02|.12|B.">Regulation .12B</cite>, C amended effective January 29, 2018 (45:2 Md. R. 68)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13" discontinuity="true">Chapter revised effective November 13, 2023 (50:22Md. R. 973)</annotation>
+    <annotation app="2026-01-05" doc="Editor Action 2026-01-05" eff="2026-01-05" path="" type="History" display="false"/>
   </annotations>
 </container>
