@@ -6,7 +6,7 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
-    <heading>Initial Registration as Broker-Dealer EDITORIAL CHANGE!.</heading>
+    <heading>Initial Registration as Broker-Dealer.</heading>
     <para>
       <num>A.</num>
       <text>Scope. This regulation governs applications for initial registration as a broker-dealer in Maryland.</text>
@@ -75,9 +75,7 @@
         <text>The applicant has submitted any other information the Commissioner has requested.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-01-03" doc="Editor Action 2026-01-03" eff="2026-01-03" path="" type="History" display="false"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>

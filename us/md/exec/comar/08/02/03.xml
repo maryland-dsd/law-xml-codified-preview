@@ -48,6 +48,10 @@
             <num>(iii)</num>
             <text>12 inches height; or</text>
           </para>
+          <para>
+            <num>(iv)</num>
+            <text>EDITORIAL CHANGE!</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
@@ -195,7 +199,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Editor Action 2026-01-05" eff="2026-01-05" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2378,7 +2384,9 @@
         <text>A violation of the restrictions set by the Secretary in accordance with this section is a violation of this regulation.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Editor Action 2026-01-05" eff="2026-01-05" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|03|.15">
     <prefix>Regulation</prefix>
@@ -2648,5 +2656,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-07-07"><cite path="|08|02|03|.15">Regulation .15</cite> adopted effective July 7, 2014 (41:13 Md. R. 751)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-01"><cite path="|08|02|03|.15|D.">Regulation .15D</cite> amended effective March 28, 2016 (43:6 Md. R. 404): October 10, 2016 (43:20 Md. R. 1109); July 1, 2019 (46:13 Md. R. 589)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" discontinuity="true">Annotation: An amendment to Regulation .01J promulgated at 14:2 Md. R. 126 was declared invalid by the Department of Natural Resources and is not reflected in the 1987 COMAR supplement.</annotation>
+    <annotation app="2026-01-05" doc="Editor Action 2026-01-05" eff="2026-01-05" path="" type="History" display="false"/>
   </annotations>
 </container>
