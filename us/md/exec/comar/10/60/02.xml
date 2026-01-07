@@ -559,7 +559,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-215-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|60|02|.06">
     <prefix>Regulation</prefix>

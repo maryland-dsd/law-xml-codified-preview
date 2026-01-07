@@ -38,16 +38,16 @@
           <p>This version of the laws and codes on this website is dedicated to the public domain under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> license.</p>
         </rights>
         <days-after-publication>180</days-after-publication>
-        <after-date>2026-07-04</after-date>
+        <after-date>2026-07-06</after-date>
       </license>
     </licenses>
     <history-start>2025-08-18</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="maryland-dsd/law-xml" commit="e450a975b9eceff3c360d2b11203d7f5d1f3ed81"/>
+        <repository name="maryland-dsd/law-xml" commit="ab1d6f509dcf7cb34d1c06f24a3f9bb033e6e507"/>
       </repositories>
       <platform version="2.18.5" reproducible="false"/>
-      <build-date>2026-01-05</build-date>
+      <build-date>2026-01-07</build-date>
       <codified-date>2026-01-05</codified-date>
     </build>
   </meta>
@@ -56,9 +56,7 @@
     <heading>Maryland Register</heading>
     <xi:include href="./us/md/exec/register/52/index.xml"/>
   </collection>
-  <collection name="editorial-actions">
-    <xi:include href="./editorial-actions/2026-01-05.xml"/>
-  </collection>
+  <collection name="editorial-actions"/>
   <annotations>
     <annotation>
       <subheading>Code of Maryland Regulations</subheading>

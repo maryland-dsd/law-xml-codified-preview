@@ -29,7 +29,9 @@
       <num>B.</num>
       <text>Nothing in this regulation shall be deemed to alter a rail transit vehicle or high-rail vehicle operator’s or any safety-sensitive employee’s duty to comply with any other provisions of the RTA concerning rail safety.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-01-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|final|25-181-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
