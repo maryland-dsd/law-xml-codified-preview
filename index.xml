@@ -44,7 +44,7 @@
     <history-start>2025-08-18</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="maryland-dsd/law-xml" commit="7dd389eeeb1c4d4dff17470d6604d4fa6384a8bc"/>
+        <repository name="maryland-dsd/law-xml" commit="28007b90b857a9594fae4790a9e4a7fd4d0379af"/>
       </repositories>
       <platform version="2.18.7" reproducible="false"/>
       <build-date>2026-01-19</build-date>
@@ -56,7 +56,7 @@
     <heading>Maryland Register</heading>
     <xi:include href="./us/md/exec/register/52/index.xml"/>
   </collection>
-  <collection name="editorial-actions">
+  <collection name="editorial-actions" display="false">
     <xi:include href="./editorial-actions/2026-01-19.xml"/>
   </collection>
   <annotations>
