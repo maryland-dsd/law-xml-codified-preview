@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="Maryland Register, Volume 53, Issue 1" codify:doc="Code of Maryland Regulations">
+  <num>53-1</num>
+  <meta>
+    <stub/>
+    <effective>2026-01-19</effective>
+    <citations>
+      <citation type="register" url="./53-1.pdf">53:1</citation>
+    </citations>
+    <history>
+      <published>2026-01-09</published>
+    </history>
+  </meta>
+  <container name="regulations">
+    <container name="final">
+      <container>
+        <num>25-242-F</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="01|02|04" before="annos" codified:doc="Code of Maryland Regulations" codified:path="01|02|04|.22">
+          <section cache:ref-path="01|02|04|.22">
+            <prefix>Regulation</prefix>
+            <num>.22</num>
+            <heading>Late Fee Waiver or Suspension.</heading>
+            <para>
+              <num>A.</num>
+              <text>A charitable organization may request the Secretary of State to waive or suspend a late fee.</text>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>A request to waive or suspend a late fee must:</text>
+              <para>
+                <num>(1)</num>
+                <text>Be in writing;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Explain the cause or causes of the charitable organization’s late filing; and</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>To the extent such late filing was reasonably preventable, explain what has been or will be done to prevent future late filings.</text>
+              </para>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>In addition to the written request submitted in accordance with <cite path="01|02|04|.22|B." doc="Code of Maryland Regulations">§B of this regulation</cite>, the Secretary of State may consider, among other factors and without limitation, the following when determining whether to grant a request to waive or suspend some or all of a late fee:</text>
+              <para>
+                <num>(1)</num>
+                <text>Whether the charitable organization has submitted all required outstanding annual reports to the Secretary of State;</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Whether the charitable organization’s registration history includes previous late filings;</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>Whether the charitable organization already paid some of the late fee;</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>Whether the charitable organization previously asked for and was granted a late fee waiver or suspension; and</text>
+              </para>
+              <para>
+                <num>(5)</num>
+                <text>Whether the charitable organization has the ability to pay the late fee.</text>
+              </para>
+            </para>
+            <para>
+              <num>D.</num>
+              <text>If the Secretary of State makes a determination to waive or suspend some of the late fee, the charitable organization must pay any remaining late fee within 30 days of notification of the Secretary’s decision.</text>
+            </para>
+            <para>
+              <num>E.</num>
+              <text>Failure of a charitable organization to fully comply after being granted partial waiver or suspension of a late fee will result in revocation of the late fee waiver or suspension.</text>
+            </para>
+            <para>
+              <num>F.</num>
+              <text>A partial or complete denial of a late fee waiver or suspension request is not an adverse action under <cite path="01.02.03.05" doc="Code of Maryland Regulations">COMAR 01.02.03.05</cite>.</text>
+            </para>
+          </section>
+        </codify:insert>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="01|02|04|annos" codified:doc="Code of Maryland Regulations" codified:path="01|02|04|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|6-204">Business Regulation Article, §6-204, </cite>Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-02-10">Effective date: February 10, 1978 (5:3 Md. R. 134)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-09-09">Regulations <cite path="|01|02|04|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|01|02|04|.04" doc="Code of Maryland Regulations">.04</cite>, .11, .14, .16, and .17 amended effective September 9, 1985 (12:18 Md. R. 1764)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-03-02"><cite path="|01|02|04|.01|L." doc="Code of Maryland Regulations">Regulation .01L</cite> adopted effective March 2, 1992 (19:4 Md. R. 471)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-10-03"><cite path="|01|02|04|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective October 3, 1988 (15:20 Md. R. 2332)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-10-03"><cite path="|01|02|04|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> amended effective October 3, 1988 (15:20 Md. R. 2332)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-10-03"><cite path="|01|02|04|.04|E." doc="Code of Maryland Regulations">Regulation .04E</cite> amended effective October 3, 1988 (15:20 Md. R. 2332)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-09-09"><cite path="|01|02|04|.05" doc="Code of Maryland Regulations">Regulation .05</cite> repealed effective September 9, 1985 (12:18 Md. R. 1764)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-10-03"><cite path="|01|02|04|.09" doc="Code of Maryland Regulations">Regulation .09</cite> amended effective October 3, 1988 (15:20 Md. R. 2332)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-10-03"><cite path="|01|02|04|.10" doc="Code of Maryland Regulations">Regulation .10</cite> amended effective October 3, 1988 (15:20 Md. R. 2332)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-04-11"><cite path="|01|02|04|.14" doc="Code of Maryland Regulations">Regulation .14</cite> repealed effective April 11, 1994 (21:7 Md. R. 529)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-04-11"><cite path="|01|02|04|.17" doc="Code of Maryland Regulations">Regulation .17</cite> repealed effective April 11, 1994 (21:7 Md. R. 529)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-02-15"><cite path="|01|02|04|.17|A." doc="Code of Maryland Regulations">Regulation .17A</cite> amended effective February 15, 1982 (9:3 Md. R. 220)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-09-09"><cite path="|01|02|04|.18" doc="Code of Maryland Regulations">Regulation .18</cite> repealed effective September 9, 1985 (12:18 Md. R. 1764)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-09-08"><cite path="|01|02|04|.19|G." doc="Code of Maryland Regulations">Regulation .19G</cite> adopted effective September 8, 1986 (13:18 Md. R. 2018)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-05-05"><cite path="|01|02|04|.20" doc="Code of Maryland Regulations">Regulation .20</cite> adopted and existing Regulation .20 renumbered as Regulation .21 effective May 5, 1986 (13:9 Md. R. 1023)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-09-08"><cite path="|01|02|04|.20" doc="Code of Maryland Regulations">Regulation .20</cite> amended effective September 8, 1986 (13:18 Md. R. 2018)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-03-02"><cite path="|01|02|04|.20-1" doc="Code of Maryland Regulations">Regulation .20-1</cite> adopted effective March 2, 1992 (19:4 Md. R. 471)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-11-13" discontinuity="true">Chapter revised effective November 13, 2000 (27:22 Md. R. 2059)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective August 8, 2022 (49:16 Md. R. 757)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.02|D." doc="Code of Maryland Regulations">Regulation .02D</cite> adopted effective August 8, 2022 (49:16 Md. R. 757)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective August 8, 2022 (49:16 Md. R. 757)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-06-06"><cite path="|01|02|04|.03|D." doc="Code of Maryland Regulations">Regulation .03D</cite> amended effective June 6, 2016 (43:11 Md. R. 633)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.10" doc="Code of Maryland Regulations">Regulation .10</cite> amended effective August 8, 2022 (49:16 Md. R. 757)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.19" doc="Code of Maryland Regulations">Regulation .19</cite> amended effective August 8, 2022 (49:16 Md. R. 757)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|01|02|04|.20-1" doc="Code of Maryland Regulations">Regulation .20-1</cite> amended effective August 8, 2022 (49:16 Md. R. 757)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-09-12"><cite path="|01|02|04|.20-1A" doc="Code of Maryland Regulations">Regulation .20-1A</cite> amended effective September 12, 2016 (43:18 Md. R. 1017)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|01|02|04|.22" doc="Code of Maryland Regulations">Regulation .22</cite> adopted effective January 19, 2026 (53:1 Md. R. 20)</annotation>
+          </annotations>
+        </codify:replace>
+      </container>
+      <container>
+        <num>25-211-F</num>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|18|06|.02" codified:doc="Code of Maryland Regulations" codified:path="10|18|06|.02">
+          <section>
+            <prefix>Regulation</prefix>
+            <num>.02</num>
+            <heading>Permit and License Requirements.</heading>
+            <para>
+              <num>A.</num>
+              <text>To qualify for participation in MADAP, a pharmacy shall first obtain a permit from:</text>
+              <para>
+                <num>(1)</num>
+                <text>The State Board of Pharmacy, pursuant to <cite doc="Md. Code" path="gho">Health Occupations Article, Title 12, Annotated Code of Maryland</cite>; or</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>The appropriate agency in the state in which the pharmacy is located.</text>
+              </para>
+            </para>
+            <para>
+              <num>B.</num>
+              <text>A pharmacy that provides compounded prescriptions for home intravenous therapy shall be licensed under the provisions of <cite path="|10.34.19" doc="Code of Maryland Regulations">COMAR 10.34.19</cite>.</text>
+            </para>
+            <para>
+              <num>C.</num>
+              <text>To qualify for participation in MADAP, a health care practitioner shall be:</text>
+              <para>
+                <num>(1)</num>
+                <text>Licensed; and</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Legally authorized to practice medicine in accordance with applicable state and federal laws.</text>
+              </para>
+            </para>
+          </section>
+        </codify:replace>
+        <codify:replace history="false" doc="Code of Maryland Regulations" path="10|18|06|annos" codified:doc="Code of Maryland Regulations" codified:path="10|18|06|annos">
+          <annotations>
+            <annotation managed="false" type="Authority" dest="container">Health General Article, §§2-104(b) and(i), 2-105(a) and (b), and 18-102(a), Annotated Code of Maryland</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-02-17">Regulations <cite path="|10|18|06|.01" doc="Code of Maryland Regulations">.01</cite>—<cite path="|10|18|06|.12" doc="Code of Maryland Regulations">.12</cite> adopted as an emergency provision effective November 27, 2002 (29:25 Md. R. 1979); adopted permanently effective February 17, 2003 (30:3 Md. R. 180)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-10-11"><cite path="|10|18|06|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective August 11, 2004 (31:18 Md. R. 1348); amended permanently effective October 11, 2004 (31:20 Md. R. 1485)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16"><cite path="|10|18|06|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective March 16, 2015 (42:5 Md. R. 486)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-10-11"><cite path="|10|18|06|.04" doc="Code of Maryland Regulations">Regulation .04</cite> repealed and new Regulation .04 adopted as an emergency provision effective August 11, 2004 (31:18 Md. R. 1348); adopted permanently effective October 11, 2004 (31:20 Md. R. 1485)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-02-16"><cite path="|10|18|06|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> amended as an emergency provision effective November 14, 2003 (30:24 Md. R. 1737); amended permanently effective February 16, 2004 (31:3 Md. R. 207)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16"><cite path="|10|18|06|.04|C." doc="Code of Maryland Regulations">Regulation .04C</cite> adopted effective March 16, 2015 (42:5 Md. R. 486)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-10-11"><cite path="|10|18|06|.04-1" doc="Code of Maryland Regulations">Regulation .04-1</cite> adopted as an emergency provision effective August 11, 2004 (31:18 Md. R. 1348); adopted permanently effective October 11, 2004 (31:20 Md. R. 1485)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-10-11"><cite path="|10|18|06|.04-2" doc="Code of Maryland Regulations">Regulation .04-2</cite> adopted as an emergency provision effective August 11, 2004 (31:18 Md. R. 1348); adopted permanently effective October 11, 2004 (31:20 Md. R. 1485)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-05-26"><cite path="|10|18|06|.04-2" doc="Code of Maryland Regulations">Regulation .04-2</cite> amended as an emergency provision effective January 1, 2014 (41:4 Md. R. 298); amended permanently effective May 26, 2014 (41:10 Md. R. 561)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-09-15"><cite path="|10|18|06|.04-2" doc="Code of Maryland Regulations">Regulation .04-2</cite> amended effective September 15, 2014 (41:18 Md. R. 1010)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-06-18"><cite path="|10|18|06|.05|A." doc="Code of Maryland Regulations">Regulation .05A</cite> amended as an emergency provision effective February 20, 2007 (34:7 Md. R. 694); amended permanently effective June 18, 2007 (34:12 Md. R. 1067)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-05-26"><cite path="|10|18|06|.05|B." doc="Code of Maryland Regulations">Regulation .05B</cite> amended as an emergency provision effective January 1, 2014 (41:4 Md. R. 298); amended permanently effective May 26, 2014 (41:10 Md. R. 561)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-02-16"><cite path="|10|18|06|.06|A." doc="Code of Maryland Regulations">Regulation .06A</cite> amended as an emergency provision effective November 14, 2003 (30:24 Md. R. 1737); amended permanently effective February 16, 2004 (31:3 Md. R. 207)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16"><cite path="|10|18|06|.06|A." doc="Code of Maryland Regulations">Regulation .06A</cite> amended effective March 16, 2015 (42:5 Md. R. 486)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16"><cite path="|10|18|06|.12|A." doc="Code of Maryland Regulations">Regulation .12A</cite> amended effective March 16, 2015 (42:5 Md. R. 486)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28" discontinuity="true">Chapter revised effective March 28, 2016 (43:6 Md. R. 408)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|18|06|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective May 20, 2019 (46:10 Md. R. 488)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-19"><cite path="|10|18|06|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective January 19, 2026 (53:1 Md. R. 20)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|18|06|.03|A." doc="Code of Maryland Regulations">Regulation .03A</cite> amended effective May 20, 2019 (46:10 Md. R. 488)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|18|06|.04|B." doc="Code of Maryland Regulations">Regulation .04B</cite> amended effective May 20, 2019 (46:10 Md. R. 488)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|18|06|.04-1" doc="Code of Maryland Regulations">Regulation .04-1</cite> amended effective May 20, 2019 (46:10 Md. R. 488)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|18|06|.04-2" doc="Code of Maryland Regulations">Regulation .04-2</cite> repealed effective May 20, 2019 (46:10 Md. R. 488)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-10-14"><cite path="|10|18|06|.05|B." doc="Code of Maryland Regulations">Regulation .05B</cite> amended effective May 20, 2019 (46:10 Md. R. 488), October 14, 2024 (51:20 Md. R. 899)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-10-14"><cite path="|10|18|06|.08" doc="Code of Maryland Regulations">Regulation .08</cite> amended effective October 14, 2024 (51:20 Md. R. 899)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|18|06|.09|A." doc="Code of Maryland Regulations">Regulation .09A</cite> amended effective May 20, 2019 (46:10 Md. R. 488)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-10-14"><cite path="|10|18|06|.10" doc="Code of Maryland Regulations">Regulation .10</cite> amended effective October 14, 2024 (51:20 Md. R. 899)</annotation>
+            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|18|06|.11|B." doc="Code of Maryland Regulations">Regulation .11B</cite> amended effective May 20, 2019 (46:10 Md. R. 488)</annotation>
+          </annotations>
+        </codify:replace>
+      </container>
+      <container>
+        <num>25-229-F</num>
+      </container>
+      <container>
+        <num>25-230-F</num>
+      </container>
+      <container>
+        <num>25-212-F</num>
+      </container>
+      <container>
+        <num>25-213-F</num>
+      </container>
+      <container>
+        <num>25-223-F</num>
+      </container>
+      <container>
+        <num>25-224-F</num>
+      </container>
+      <container>
+        <num>25-214-F</num>
+      </container>
+      <container>
+        <num>25-201-F</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|33" codified:doc="Code of Maryland Regulations" codified:path="10|33|02">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>02</num>
+            <heading>Insert chapter heading.</heading>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|33" codified:doc="Code of Maryland Regulations" codified:path="10|33|03">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>03</num>
+            <heading>Insert chapter heading.</heading>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|33" codified:doc="Code of Maryland Regulations" codified:path="10|33|04">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>04</num>
+            <heading>Insert chapter heading.</heading>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|33" codified:doc="Code of Maryland Regulations" codified:path="10|33|05">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>05</num>
+            <heading>Insert chapter heading.</heading>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|33" codified:doc="Code of Maryland Regulations" codified:path="10|33|06">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>06</num>
+            <heading>Insert chapter heading.</heading>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|33" codified:doc="Code of Maryland Regulations" codified:path="10|33|07">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>07</num>
+            <heading>Insert chapter heading.</heading>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|33" codified:doc="Code of Maryland Regulations" codified:path="10|33|08">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>08</num>
+            <heading>Insert chapter heading.</heading>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+      </container>
+      <container>
+        <num>25-225-F-I</num>
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="10|44" codified:doc="Code of Maryland Regulations" codified:path="10|44|36">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>36</num>
+            <heading>Insert chapter heading.</heading>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+            </annotations>
+          </container>
+        </codify:insert>
+      </container>
+      <container>
+        <num>25-065-F</num>
+      </container>
+      <container>
+        <num>25-128-F</num>
+      </container>
+    </container>
+  </container>
+</document>
