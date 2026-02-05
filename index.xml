@@ -44,7 +44,7 @@
     <history-start>2025-08-18</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="maryland-dsd/law-xml" commit="f9a6acdcf9cf844c3b70cbc6ec66c053863b7d05"/>
+        <repository name="maryland-dsd/law-xml" commit="82893ed64cfbcf613f20db98d516c3b72e38314e"/>
       </repositories>
       <platform version="2.18.10" reproducible="false"/>
       <build-date>2026-02-05</build-date>
