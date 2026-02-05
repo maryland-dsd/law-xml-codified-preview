@@ -408,54 +408,6 @@
     </para>
     <annotations/>
   </section>
-  <section cache:ref-path="10|32|21|.03-2">
-    <prefix>Regulation</prefix>
-    <num>.03-2</num>
-    <heading>Naturopathic Doctors Formulary Council and Board Duties.</heading>
-    <para>
-      <num>A.</num>
-      <text>Council Duties.</text>
-      <para>
-        <num>(1)</num>
-        <text>The Council shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Develop and recommend to the Board a formulary for use by licensed naturopathic doctors;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Annually review the formulary adopted by the Board under <cite path="10|32|21|.03-2|B.|(2)">§B(2) of this regulation</cite> to determine if any changes are necessary for compliance with current prescribing standards or the practice of naturopathic medicine;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Otherwise review the formulary at the direction of the Board; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Make recommendations to the Board based on the reviews conducted under this regulation.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The Board shall adopt a formulary based on the Council's recommendations under this regulation.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Board Duties.</text>
-      <para>
-        <num>(1)</num>
-        <text>The Board may modify or reject any recommendation of the Council regarding the formulary.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The formulary adopted by the Board shall be in accordance with <cite doc="Md. Code" path="gho|14-5">Health Occupations Article, §14-5</cite>F-04.1, Annotated Code of Maryland.</text>
-      </para>
-    </para>
-    <annotations>
-      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
-    </annotations>
-  </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03-1</num>
@@ -567,6 +519,54 @@
     <para>
       <num>F.</num>
       <text>The Board shall provide staff for the Council.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|32|21|.03-2">
+    <prefix>Regulation</prefix>
+    <num>.03-2</num>
+    <heading>Naturopathic Doctors Formulary Council and Board Duties.</heading>
+    <para>
+      <num>A.</num>
+      <text>Council Duties.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Council shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Develop and recommend to the Board a formulary for use by licensed naturopathic doctors;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Annually review the formulary adopted by the Board under <cite path="10|32|21|.03-2|B.|(2)">§B(2) of this regulation</cite> to determine if any changes are necessary for compliance with current prescribing standards or the practice of naturopathic medicine;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Otherwise review the formulary at the direction of the Board; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Make recommendations to the Board based on the reviews conducted under this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Board shall adopt a formulary based on the Council's recommendations under this regulation.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Board Duties.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board may modify or reject any recommendation of the Council regarding the formulary.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The formulary adopted by the Board shall be in accordance with <cite doc="Md. Code" path="gho|14-5">Health Occupations Article, §14-5</cite>F-04.1, Annotated Code of Maryland.</text>
+      </para>
     </para>
     <annotations>
       <annotation app="2026-01-19" doc="Maryland Register, Volume 53, Issue 1" eff="2026-01-19" path="regulations|final|25-214-F" type="History" display="false"/>
