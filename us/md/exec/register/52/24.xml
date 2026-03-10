@@ -1047,11 +1047,11 @@
               <text>Definitions.</text>
               <para>
                 <num>(1)</num>
-                <text>For the purpose of this regulation, "related corporation" means a member of a controlled group of corporations as the term is defined in the Internal Revenue Code.</text>
+                <text>For the purpose of this regulation, “related corporation” means a member of a controlled group of corporations as the term is defined in the Internal Revenue Code.</text>
               </para>
               <para>
                 <num>(2)</num>
-                <text>For purposes of this regulation, an individual is considered "concurrently employed" by two or more related corporations if the individual performs services for covered wages for the common paymaster for some portion of each calendar year.</text>
+                <text>For purposes of this regulation, an individual is considered “concurrently employed” by two or more related corporations if the individual performs services for covered wages for the common paymaster for some portion of each calendar year.</text>
               </para>
             </para>
             <para>
@@ -1125,11 +1125,11 @@
               <text>Professional Employer Organization.</text>
               <para>
                 <num>(1)</num>
-                <text>"Professional employer organization" means an employing unit which places all or part of a client company's workers on its payroll or payrolls and, by written agreement, assigns or leases the workers to the client company.</text>
+                <text>“Professional employer organization” means an employing unit which places all or part of a client company's workers on its payroll or payrolls and, by written agreement, assigns or leases the workers to the client company.</text>
               </para>
               <para>
                 <num>(2)</num>
-                <text>"Professional employer organization" does not mean a temporary help firm within the meaning of this subtitle.</text>
+                <text>“Professional employer organization” does not mean a temporary help firm within the meaning of this subtitle.</text>
               </para>
             </para>
             <para>
@@ -3548,8 +3548,8 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|10|03|.06|A." doc="Code of Maryland Regulations">Regulation .06A</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
           </annotations>
         </codify:replace>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="10|10|04|.01" warning="false" codified:doc="Code of Maryland Regulations" codified:path="10|10|04|.01"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="10|10|04|.02" warning="false" codified:doc="Code of Maryland Regulations" codified:path="10|10|04|.02"/>
+        <codify:remove history="false" doc="Code of Maryland Regulations" path="10|10|04|.01" warning="false" codified:doc="Code of Maryland Regulations" codified:path="10|10|04"/>
+        <codify:remove history="false" doc="Code of Maryland Regulations" path="10|10|04|.02" warning="false" codified:doc="Code of Maryland Regulations" codified:path="10|10|04"/>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="10|10|04|annos" codified:doc="Code of Maryland Regulations" codified:path="10|10|04|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Health-General Article, §§17-202, 17-204, 17-205, 17-207, 17-209, 17-502, 17-503, and 17-506, Annotated Code of Maryland</annotation>
@@ -4944,7 +4944,7 @@
                 </para>
                 <para>
                   <num>(b)</num>
-                  <text>"Quality assessment plan" includes the ongoing activities that monitor, review, evaluate, and improve the overall quality of the procedures and processes before, during, and after a test is performed.</text>
+                  <text>“Quality assessment plan” includes the ongoing activities that monitor, review, evaluate, and improve the overall quality of the procedures and processes before, during, and after a test is performed.</text>
                 </para>
               </para>
               <para>

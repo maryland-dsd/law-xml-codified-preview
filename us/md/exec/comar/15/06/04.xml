@@ -309,19 +309,19 @@
       <text>The Secretary may issue administrative orders to enforce the provisions of this chapter and Agriculture Article, Title 9.5 (Invasive Plants Prevention and Control), Annotated Code of Maryland, as follows:</text>
       <para>
         <num>(1)</num>
-        <text>Order any person to cease propagating, importing, transferring, selling, purchasing, transporting, or introducing any living part of a prohibited invasive plant in the State;</text>
+        <text>Order any person to cease propagating, importing, transferring, selling, purchasing, transporting, or introducing any living part of a prohibited invasive plant in the State;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Order the condemnation and seizure of any prohibited invasive plant owned or possessed by any person who violates <cite doc="Md. Code" path="gag|9">Agriculture Article, §9</cite>.5-302(b), Annotated Code of Maryland;</text>
+        <text>Order the condemnation and seizure of any prohibited invasive plant owned or possessed by any person who violates <cite doc="Md. Code" path="gag|9">Agriculture Article, §9</cite>.5-302(b), Annotated Code of Maryland;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Order the marking or tagging in a conspicuous manner of a prohibited invasive plant owned or controlled by any person subject to an order of the Secretary under this chapter;</text>
+        <text>Order the marking or tagging in a conspicuous manner of a prohibited invasive plant owned or controlled by any person subject to an order of the Secretary under this chapter;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Order any person, on notice from the Secretary, to dispose of any prohibited invasive plant that is held in violation of this chapter or in violation of <cite doc="Md. Code" path="gag">Agriculture Article, Title 9.5, Annotated Code of Maryland</cite>, in a manner that renders all plant parts nonviable, or allow a person to return a prohibited invasive plant to the out-of-State supplier of the plant, as approved in advance by the Secretary;</text>
+        <text>Order any person, on notice from the Secretary, to dispose of any prohibited invasive plant that is held in violation of this chapter or in violation of <cite doc="Md. Code" path="gag">Agriculture Article, Title 9.5, Annotated Code of Maryland</cite>, in a manner that renders all plant parts nonviable, or allow a person to return a prohibited invasive plant to the out-of-State supplier of the plant, as approved in advance by the Secretary;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -460,28 +460,6 @@
       <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false"/>
     </annotations>
   </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.07</num>
-    <heading>Required Retail Signage for Tier 2 Plants.</heading>
-    <text>A person shall post in a conspicuous place, in proximity to all Tier 2 invasive plant displays, a sign imprinted with the insignia required by this regulation, identifying the plants as Tier 2 invasive plants, consistent with the following:</text>
-    <para>
-      <num>A.</num>
-      <text>The insignia imprinted on any sign shall be a minimum of 5” tall x 7” wide;</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The insignia shall be reproduced in black on a bright yellow background; and</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>The insignia as provided below shall be used:</text>
-      <text>(picture next page)</text>
-    </para>
-    <annotations>
-      <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false"/>
-    </annotations>
-  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|2-103">2-103</cite>(b) and <cite doc="Md. Code" path="gag|9">9</cite>.5-301, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="Emergency Action" dest="container">53:3  25-186-E  (Regulations <cite path="|15|06|04|.01">.01</cite> — <cite path="|15|06|04|.06">.06</cite>) EMERGENCY ACTION IN EFFECT 1/15/2026 — 7/14/2026</annotation>
@@ -499,4 +477,5 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-15"><cite path="|15|06|04|.07">Regulation .07</cite> repealed as an emergency provision effective January 15, 2026 (53:3 Md. R. 120)</annotation>
     <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false"/>
   </annotations>
+  <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false"/>
 </container>
