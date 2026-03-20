@@ -199,6 +199,7 @@
     </para>
     <annotations>
       <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
+      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1125,6 +1126,7 @@
     <annotation managed="false" type="Authority" dest="container">Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|2-105">2-105</cite>.1, and 12-1209, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-12-05">Regulations <cite path="|09|03|16|.01">.01</cite>—<cite path="|09|03|16|.10">.10</cite> adopted as an emergency provision effective December 5, 2025 (52:26 Md. R. 1306)</annotation>
+    <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
   </annotations>
   <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
 </container>

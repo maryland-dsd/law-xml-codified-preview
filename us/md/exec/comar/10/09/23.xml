@@ -548,7 +548,15 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>Environmental lead investigations, as specified in <cite path="26.16.02.04">COMAR 26.16.02.04</cite> and .05 when there is a confirmed elevated blood lead level of 5 micrograms or greater per deciliter;</text>
+          <text>Environmental lead investigations, as specified in <cite path="26.16.02.04">COMAR 26.16.02.04</cite> and .05 when there is a confirmed elevated blood lead level of the lower of the following values:</text>
+          <para>
+            <num>(i)</num>
+            <text>3.5 micrograms or greater per deciliter, the current Maryland elevated blood lead level; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The Centers for Disease Control and Prevention blood lead reference value;</text>
+          </para>
         </para>
         <para>
           <num>(i)</num>
@@ -564,7 +572,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-257-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
