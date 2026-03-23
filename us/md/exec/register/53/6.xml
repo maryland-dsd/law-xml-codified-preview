@@ -442,22 +442,25 @@
                 <text>The owner of an inflatable amusement attraction shall ensure that the Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist is properly filled out and signed at the completion of the daily pre-opening program.</text>
               </para>
             </para>
-            <aftertext proof="needed">J. Daily Inspection Program.</aftertext>
             <para>
-              <num proof="done">(1)</num>
-              <text>An owner shall comply with the requirements of ASTM F2374-22.7.7, except §7.7.4.</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>Worn and damaged components shall be repaired or replaced immediately and before operation.</text>
-            </para>
-            <para>
-              <num>(3)</num>
-              <text>The owner of an inflatable amusement attraction shall ensure that the Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist is properly filled out and signed at the completion of the daily pre-opening program.</text>
-            </para>
-            <para>
-              <num>(4)</num>
-              <text>A copy of the Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist shall be provided to the Commissioner on request.</text>
+              <num>J.</num>
+              <text>Daily Inspection Program.</text>
+              <para>
+                <num>(1)</num>
+                <text>An owner shall comply with the requirements of ASTM F2374-22.7.7, except §7.7.4.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Worn and damaged components shall be repaired or replaced immediately and before operation.</text>
+              </para>
+              <para>
+                <num>(3)</num>
+                <text>The owner of an inflatable amusement attraction shall ensure that the Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist is properly filled out and signed at the completion of the daily pre-opening program.</text>
+              </para>
+              <para>
+                <num>(4)</num>
+                <text>A copy of the Inflatable Amusement Attraction Daily Inspection and Daily Pre-Opening Checklist shall be provided to the Commissioner on request.</text>
+              </para>
             </para>
           </section>
         </codify:replace>
@@ -19342,33 +19345,30 @@
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-31"><cite path="|26|09|02|.11|H." doc="Code of Maryland Regulations">Regulation .11H</cite> amended effective December 31, 2018 (45:26 Md. R. 1249)</annotation>
           </annotations>
         </codify:replace>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.01" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.02" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.03" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.04" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.05" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.06" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.07" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.08" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:remove history="false" doc="Code of Maryland Regulations" path="26|09|03|.09" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03"/>
-        <codify:replace history="false" doc="Code of Maryland Regulations" path="26|09|03|annos" codified:doc="Code of Maryland Regulations" codified:path="26|09|03|annos">
-          <annotations>
-            <annotation managed="false" type="Authority" dest="container">Environment Article, §§<cite doc="Md. Code" path="gen|1-101">1-101</cite>, <cite doc="Md. Code" path="gen|1-404">1-404</cite>, <cite doc="Md. Code" path="gen|2-103">2-103</cite>, and <cite doc="Md. Code" path="gen|2-1002">2-1002</cite>(g), Annotated Code of Maryland</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-07-17">Effective date: July 17, 2008 (35:14 Md. R. 1247)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective January 6, 2014 (40:26 Md. R. 2165)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective May 18, 2009 (36:10 Md. R. 717); January 6, 2014 (40:26 Md. R. 2165)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|26|09|03|.04|A." doc="Code of Maryland Regulations">Regulation .04A</cite> amended as an emergency provision effective December 28, 2009 (37:4 Md. R. 336); amended permanently effective May 3, 2010 (37:9 Md. R. 674)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> amended effective May 18, 2009 (36:10 Md. R. 717); January 6, 2014 (40:26 Md. R. 2165)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective January 6, 2014 (40:26 Md. R. 2165)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-18"><cite path="|26|09|03|.06" doc="Code of Maryland Regulations">Regulation .06</cite> amended effective May 18, 2009 (36:10 Md. R. 717)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|26|09|03|.06|H." doc="Code of Maryland Regulations">Regulation .06H</cite> amended as an emergency provision effective December 28, 2009 (37:4 Md. R. 336); amended permanently effective May 3, 2010 (37:9 Md. R. 674)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-18"><cite path="|26|09|03|.07|G." doc="Code of Maryland Regulations">Regulation .07G</cite>, I amended effective May 18, 2009 (36:10 Md. R. 717)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|26|09|03|.07|G." doc="Code of Maryland Regulations">Regulation .07G</cite> amended as an emergency provision effective December 28, 2009 (37:4 Md. R. 336); amended permanently effective May 3, 2010 (37:9 Md. R. 674)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.09" doc="Code of Maryland Regulations">Regulation .09</cite> amended effective January 6, 2014 (40:26 Md. R. 2165)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-18"><cite path="|26|09|03|.09|E." doc="Code of Maryland Regulations">Regulation .09E</cite> amended effective May 18, 2009 (36:10 Md. R. 717)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-31" discontinuity="true">Chapter revised effective December 31, 2018 (45:26 Md. R. 1249)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30" discontinuity="true">Chapter repealed effective March 30, 2026 (53:6 Md. R. 292)</annotation>
-          </annotations>
+        <codify:replace doc="Code of Maryland Regulations" path="26|09|03" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|09|03">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>03</num>
+            <heading>Offset Projects</heading>
+            <reason>Repealed</reason>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Environment Article, §§<cite doc="Md. Code" path="gen|1-101">1-101</cite>, <cite doc="Md. Code" path="gen|1-404">1-404</cite>, <cite doc="Md. Code" path="gen|2-103">2-103</cite>, and <cite doc="Md. Code" path="gen|2-1002">2-1002</cite>(g), Annotated Code of Maryland</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-07-17">Effective date: July 17, 2008 (35:14 Md. R. 1247)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.01" doc="Code of Maryland Regulations">Regulation .01</cite> amended effective January 6, 2014 (40:26 Md. R. 2165)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.02" doc="Code of Maryland Regulations">Regulation .02</cite> amended effective May 18, 2009 (36:10 Md. R. 717); January 6, 2014 (40:26 Md. R. 2165)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|26|09|03|.04|A." doc="Code of Maryland Regulations">Regulation .04A</cite> amended as an emergency provision effective December 28, 2009 (37:4 Md. R. 336); amended permanently effective May 3, 2010 (37:9 Md. R. 674)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> amended effective May 18, 2009 (36:10 Md. R. 717); January 6, 2014 (40:26 Md. R. 2165)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective January 6, 2014 (40:26 Md. R. 2165)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-18"><cite path="|26|09|03|.06" doc="Code of Maryland Regulations">Regulation .06</cite> amended effective May 18, 2009 (36:10 Md. R. 717)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|26|09|03|.06|H." doc="Code of Maryland Regulations">Regulation .06H</cite> amended as an emergency provision effective December 28, 2009 (37:4 Md. R. 336); amended permanently effective May 3, 2010 (37:9 Md. R. 674)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-18"><cite path="|26|09|03|.07|G." doc="Code of Maryland Regulations">Regulation .07G</cite>, I amended effective May 18, 2009 (36:10 Md. R. 717)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|26|09|03|.07|G." doc="Code of Maryland Regulations">Regulation .07G</cite> amended as an emergency provision effective December 28, 2009 (37:4 Md. R. 336); amended permanently effective May 3, 2010 (37:9 Md. R. 674)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|26|09|03|.09" doc="Code of Maryland Regulations">Regulation .09</cite> amended effective January 6, 2014 (40:26 Md. R. 2165)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-05-18"><cite path="|26|09|03|.09|E." doc="Code of Maryland Regulations">Regulation .09E</cite> amended effective May 18, 2009 (36:10 Md. R. 717)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-31" discontinuity="true">Chapter revised effective December 31, 2018 (45:26 Md. R. 1249)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30" discontinuity="true">Chapter repealed effective March 30, 2026 (53:6 Md. R. 292)</annotation>
+            </annotations>
+          </container>
         </codify:replace>
         <codify:replace history="false" doc="Code of Maryland Regulations" path="26|09|04|.03" codified:doc="Code of Maryland Regulations" codified:path="26|09|04|.03">
           <section>
@@ -21203,7 +21203,7 @@
                 <text>A person may not catch or possess striped bass greater than 24 inches in total length.</text>
               </para>
             </para>
-            <para proof="needed">
+            <para>
               <num>C.</num>
               <text>General Restriction. When fishing in any area described in this regulation, all striped bass in a person’s possession shall meet the size and possession limits set forth in regulation for that area.</text>
             </para>
