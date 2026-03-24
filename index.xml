@@ -44,10 +44,10 @@
     <history-start>2025-08-18</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="maryland-dsd/law-xml" commit="564183076789e07249dbe1b4e210632f6576c652"/>
+        <repository name="maryland-dsd/law-xml" commit="78f821c2f08f89a9b9cc6951eabb7bf6e20de163"/>
       </repositories>
-      <platform version="2.19.2" reproducible="false"/>
-      <build-date>2026-03-23</build-date>
+      <platform version="2.19.3" reproducible="false"/>
+      <build-date>2026-03-24</build-date>
       <codified-date>2026-03-30</codified-date>
     </build>
   </meta>
@@ -59,6 +59,7 @@
   </collection>
   <collection name="editorial-actions" display="false">
     <xi:include href="./editorial-actions/2026-03-11.xml"/>
+    <xi:include href="./editorial-actions/2026-03-24.xml"/>
     <xi:include href="./editorial-actions/2026-03-09.xml"/>
     <xi:include href="./editorial-actions/2026-01-22.xml"/>
   </collection>

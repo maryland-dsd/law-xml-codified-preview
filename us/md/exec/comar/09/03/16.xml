@@ -7,9 +7,8 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>Scope. This chapter governs Kiosks, as such term is defined herein, and the conduct of any person operating a Kiosk in the State.</text>
+    <text>Scope. This chapter governs Kiosks, as such term is defined herein, and the conduct of any person operating a Kiosk in the State.</text>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -198,7 +197,6 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -208,7 +206,7 @@
     <heading>Registration.</heading>
     <para>
       <num>A.</num>
-      <text>Registration  of Operator.</text>
+      <text>Registration of Operator.</text>
       <para>
         <num>(1)</num>
         <text>A person may not operate a Kiosk in the State after January 1, 2026, unless registered as an Operator with the Commissioner.</text>
@@ -475,7 +473,6 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -488,7 +485,7 @@
       <text>Scope.</text>
       <para>
         <num>(1)</num>
-        <text>This regulation governs the procedure by which a User may request a Fee Refund on a transaction the User alleges is a Fraudulent Transaction.</text>
+        <text>This regulation governs the procedure by which a User may request a Fee Refund on a transaction the User alleges is a Fraudulent Transaction.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -812,7 +809,6 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -822,7 +818,7 @@
     <heading>Fraud Prevention.</heading>
     <para>
       <num>A.</num>
-      <text>An Operator  shall maintain restrictions that prevent more than one User of the Operator from using the same virtual currency wallet.</text>
+      <text>An Operator shall maintain restrictions that prevent more than one User of the Operator from using the same virtual currency wallet.</text>
     </para>
     <para>
       <num>B.</num>
@@ -841,7 +837,6 @@
       <text>An Operator shall designate and employ a chief compliance officer.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -851,7 +846,7 @@
     <heading>Communications and Notices.</heading>
     <para>
       <num>A.</num>
-      <text>An Operator shall provide all required notices and communications to a User under this chapter using information the Operator collects from the User under <cite doc="Md. Code" path="gfi|12-1204">Financial Institutions Article, §12-1204 </cite>(c), Annotated Code of Maryland.</text>
+      <text>An Operator shall provide all required notices and communications to a User under this chapter using information the Operator collects from the User under <cite doc="Md. Code" path="gfi|12-1204">Financial Institutions Article, §12-1204 </cite>(c), Annotated Code of Maryland.</text>
     </para>
     <para>
       <num>B.</num>
@@ -886,7 +881,6 @@
       <text>The User’s selection of a preferred method of communication shall not relieve an Operator of any duty to provide information in a manner expressly required by this chapter.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -896,7 +890,7 @@
     <heading>Lighting, Safety, and Signage.</heading>
     <para>
       <num>A.</num>
-      <text>Each Kiosk operated in the State by an Operator shall comply with Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|1-402">1-402</cite> (b), (c) and 1-402.1, Annotated Code of Maryland for each Kiosk it operates.</text>
+      <text>Each Kiosk operated in the State by an Operator shall comply with Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|1-402">1-402</cite> (b), (c) and 1-402.1, Annotated Code of Maryland for each Kiosk it operates.</text>
     </para>
     <para>
       <num>B.</num>
@@ -919,7 +913,6 @@
       <text>Each Kiosk operated in the State shall conspicuously display signage stating: “This Kiosk offers services relating to virtual currencies. The Maryland Commissioner of Financial Regulation will accept all questions or complaints regarding this Kiosk, operated by (name of Operator and NMLS unique identifier) at (address of Commissioner), phone (toll-free phone number of the Commissioner), or https://labor.maryland.gov/finance/ . You may confirm registration of this Kiosk with the Maryland Commissioner of Financial Regulation at (NMLS consumer access website).”</text>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -929,7 +922,7 @@
     <heading>Screen Disclosures.</heading>
     <para>
       <num>A.</num>
-      <text>All required on-screen notices and disclosures under <cite doc="Md. Code" path="gfi|12-1201">Financial Institutions Article §12-1201 </cite>et. seq., Annotated Code of Maryland, and this chapter shall:</text>
+      <text>All required on-screen notices and disclosures under <cite doc="Md. Code" path="gfi|12-1201">Financial Institutions Article §12-1201 </cite>et. seq., Annotated Code of Maryland, and this chapter shall:</text>
       <para>
         <num>(1)</num>
         <text>Remain on the Kiosk screen for a minimum of:</text>
@@ -952,7 +945,6 @@
       <text>For the purposes of calculating the time period a notice or disclosure must remain on a screen pursuant to Part A of this regulation, the words contained in a notice or disclosure include words that require scrolling to view.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -962,7 +954,7 @@
     <heading>Receipts.</heading>
     <para>
       <num>A.</num>
-      <text>In addition to information required by <cite doc="Md. Code" path="gfi|12-1204">Financial Institutions Article, §12-1204, Annotated Code of Maryland</cite>, a Receipt shall include:</text>
+      <text>In addition to information required by <cite doc="Md. Code" path="gfi|12-1204">Financial Institutions Article, §12-1204, Annotated Code of Maryland</cite>, a Receipt shall include:</text>
       <para>
         <num>(1)</num>
         <text>The name of, and contact information for, the Operator, including, but not limited to, the Operator's business address and a customer service telephone number established by the Operator to answer questions and register complaints;</text>
@@ -1049,7 +1041,6 @@
       <text>Compliance with <cite path="09.03.14.16|C.">COMAR 09.03.14.16C</cite> does not relieve an Operator of any additional requirements imposed by this regulation.</text>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -1059,7 +1050,7 @@
     <heading>Annual Report.</heading>
     <para>
       <num>A.</num>
-      <text>An Operator shall prepare an annual report listing the following information for each Kiosk it maintains:</text>
+      <text>An Operator shall prepare an annual report listing the following information for each Kiosk it maintains:</text>
       <para>
         <num>(1)</num>
         <text>Information sufficient to identify that Kiosk;</text>
@@ -1126,7 +1117,6 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
       <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
     </annotations>
   </section>
@@ -1134,7 +1124,6 @@
     <annotation managed="false" type="Authority" dest="container">Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|2-105">2-105</cite>.1, and 12-1209, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Regulations <cite path="|09|03|16|.01">.01</cite>—<cite path="|09|03|16|.10">.10</cite> adopted as an emergency provision effective December 5, 2025 (52:26 Md. R. 1306); adopted permanently effective March 30, 2026 (53:6 Md. R. 286)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
   </annotations>
-  <annotation app="2025-12-05" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-238-E" type="History" display="false"/>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History" display="false"/>
 </container>
