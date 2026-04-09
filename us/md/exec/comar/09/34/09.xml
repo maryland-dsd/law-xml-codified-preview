@@ -91,13 +91,17 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Operate a crematory or perform a cremation while under the influence of alcohol, an illegal drug, or a controlled dangerous substance which has not been prescribed by a physician.</text>
+        <text>Operate a crematory or perform a cremation or alkaline hydrolysis while under the influence of alcohol, an illegal drug, or a controlled dangerous substance which has not been prescribed by a physician.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Business Regulation Article, §§<cite doc="Md. Code" path="gbr|5-204">5-204</cite> and <cite doc="Md. Code" path="gbr|5-310">5-310</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-31">Effective date: March 31, 2014 (41:6 Md. R. 378)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|09|34|09|.02|C.">Regulation .02C</cite> amended effective April 13, 2026 (53:7 Md. R. 327)</annotation>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
   </annotations>
 </container>

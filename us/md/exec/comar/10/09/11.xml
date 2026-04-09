@@ -797,7 +797,13 @@
       <num>C.</num>
       <text>A child who, on the day the child becomes 19 years old, is receiving acute inpatient services under this chapter and who, but for attaining that age, would remain eligible for Medical Assistance benefits, shall continue to receive benefits until the end of the stay for which acute inpatient services are furnished.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>Individuals may be certified for a period of continuous eligibility as described in <cite path="10.09.24.12">COMAR 10.09.24.12</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1008,5 +1014,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-11-10"><cite path="|10|09|11|.10|A.">Regulation .10A</cite> amended effective November 10, 2003 (30:22 Md. R. 1580)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-09-27">Regulations .10A amended as an emergency provision effective July 1, 2004 (31:16 Md. R. 1251); amended permanently effective September 27, 2004 (31:19 Md. R. 1432)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06" discontinuity="true">Chapter revised effective January 6, 2014 (40:26 Md. R. 2162)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|09|11|.11|D.">Regulation .11D</cite> adopted effective April 13, 2026 (53:7 Md. R. 328)</annotation>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
   </annotations>
 </container>

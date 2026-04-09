@@ -48,7 +48,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Commission” means the Alcohol and Tobacco Commission.</text>
+        <text>“Commission” means the Alcohol, Tobacco, and Cannabis Commission.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -60,7 +60,7 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>“Executive Director” means the Executive Director of the Alcohol and Tobacco Commission for the State of Maryland or the Executive Director’s designee.</text>
+        <text>“Executive Director” means the Executive Director of the Alcohol, Tobacco, and Cannabis Commission for the State of Maryland or the Executive Director’s designee.</text>
       </para>
       <para>
         <num>(8)</num>
@@ -83,7 +83,9 @@
         <text>“Sale” means whenever an alcoholic beverage is offered, given, paid for, or bartered for between one or more parties.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-309-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|23|01|.02">
     <prefix>Regulation</prefix>
@@ -1559,10 +1561,6 @@
           <text>The Executive Director reserves the right to request more detailed information, including physical inspection or photograph, if a particular problem or question arises with regard to a specific filing.</text>
         </para>
       </para>
-      <para>
-        <num>(9)</num>
-        <text>Multipacks. Special packs which are only available as multipacks, without nonalcoholic items, are authorized if the component items are not available in regular case lots.</text>
-      </para>
     </para>
     <para>
       <num>C.</num>
@@ -1636,10 +1634,15 @@
         <text>Terms or conditions of sale, including delivery charges, C.O.D. charges, etc., shall be stated on the invoice covering the sale.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-309-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages Article, §§<cite doc="Md. Code" path="gab|1-101">1-101</cite>, <cite doc="Md. Code" path="gab|1-311">1-311</cite>, <cite doc="Md. Code" path="gab|1-312">1-312</cite>, <cite doc="Md. Code" path="gab|1-319">1-319</cite>, <cite doc="Md. Code" path="gab|1-321">1-321</cite>, <cite doc="Md. Code" path="gab|2-124">2-124</cite>, <cite doc="Md. Code" path="gab|2-126">2-126</cite>, <cite doc="Md. Code" path="gab|2-138">2-138</cite>, <cite doc="Md. Code" path="gab|2-216">2-216</cite>, <cite doc="Md. Code" path="gab|2-310">2-310</cite>, <cite doc="Md. Code" path="gab|2-315">2-315</cite>, <cite doc="Md. Code" path="gab|2-402">2-402</cite>, <cite doc="Md. Code" path="gab|2-501">2-501</cite>, <cite doc="Md. Code" path="gab|4-505">4-505</cite>, <cite doc="Md. Code" path="gab|6-202">6-202</cite>,<br/>6-328, and 33-504, Annotated Code of Maryland</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-12-26">Effective date:  December 26, 2022 (49:26 Md. R. 1080)</annotation>
+    <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages Article, §§<cite doc="Md. Code" path="gab|1-101">1-101</cite>, <cite doc="Md. Code" path="gab|1-302">1-302</cite>, <cite doc="Md. Code" path="gab|1-311">1-311</cite>, <cite doc="Md. Code" path="gab|1-312">1-312</cite>, <cite doc="Md. Code" path="gab|1-319">1-319</cite>, <cite doc="Md. Code" path="gab|1-321">1-321</cite>, <cite doc="Md. Code" path="gab|2-124">2-124</cite>, <cite doc="Md. Code" path="gab|2-126">2-126</cite>, <cite doc="Md. Code" path="gab|2-138">2-138</cite>, <cite doc="Md. Code" path="gab|2-216">2-216</cite>, <cite doc="Md. Code" path="gab|2-310">2-310</cite>, <cite doc="Md. Code" path="gab|2-315">2-315</cite>, <cite doc="Md. Code" path="gab|2-402">2-402</cite>, <cite doc="Md. Code" path="gab|2-501">2-501</cite>, <cite doc="Md. Code" path="gab|4-505">4-505</cite>, <cite doc="Md. Code" path="gab|6-202">6-202</cite>,<br/>6-328, and 33-504, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-12-26">Effective date: December 26, 2022 (49:26 Md. R. 1080)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|14|23|01|.01|B.">Regulation .01B</cite> amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|14|23|01|.19|B.">Regulation .19B</cite> amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-309-F" type="History" display="false"/>
   </annotations>
 </container>

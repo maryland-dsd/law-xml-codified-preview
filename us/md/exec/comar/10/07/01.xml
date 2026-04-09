@@ -325,28 +325,18 @@
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Incorporation by Reference.</heading>
-    <text>The Guidelines for the Design and Construction of Hospitals and Outpatient Facilities, The Facilities Guidelines Institute (2014 Edition), is incorporated by reference, with the following exceptions:</text>
+    <text>The following documents are incorporated by reference:</text>
     <para>
       <num>A.</num>
-      <text>2.3 Specific Requirements for Freestanding Emergency Department, pp. 211—213;</text>
+      <text>Guidelines for Design and Construction of Hospitals, The Facilities Guidelines Institute (2022 Edition); and</text>
     </para>
     <para>
       <num>B.</num>
-      <text>3.3 Specific Requirements for Freestanding Outpatient Diagnostic and Treatment Facilities, pp. 295—296;</text>
+      <text>2025 Hospital Accreditation Standards, Elements of Performance, The Joint Commission, (December 15, 2024).</text>
     </para>
-    <para>
-      <num>C.</num>
-      <text>3.4 Specific Requirements for Freestanding Birthing Center, pp. 297—302;</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>3.5 Specific Requirements for Freestanding Urgent Care Centers, pp. 303—306; and</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>3.6 Specific Requirements for Freestanding Cancer Treatment Facilities, pp. 307—309.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-259-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -617,22 +607,24 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If the Department determines that the hospital has not satisfactorily addressed the referred complaint or if the complaint alleges the existence of a life-threatening deficiency, the Department shall conduct an independent investigation. When conducting its independent investigation, the Department shall use:</text>
+        <text>If the Department determines that the hospital has not satisfactorily addressed the referred complaint or if the complaint alleges the existence of a life-threatening deficiency, the Department shall conduct an independent investigation. When conducting its independent investigation, the Department shall use the standards adopted by the Secretary under this subtitle and:</text>
         <para>
           <num>(a)</num>
-          <text>For an accredited hospital, the standards of review of The Joint Commission;</text>
+          <text>For an accredited hospital, the hospital accreditation standards of the accreditation organization that accredits the hospital;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>For an accredited special rehabilitation hospital, the standards of review of the Commission on Accreditation of Rehabilitation Facilities; or</text>
+          <text>For an accredited special rehabilitation hospital, the service standards adopted by the Secretary in <cite path="|10|07|01|.10">Regulation .10 of this chapter</cite>; or</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>For a nonaccredited hospital, the standards adopted by the Secretary under this subtitle.</text>
+          <text>For a nonaccredited hospital, the standards adopted by the Secretary in <cite path="|10|07|01|.09">Regulation .09 of this chapter</cite>.</text>
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-259-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -640,13 +632,15 @@
     <heading>Service Standards — Nonaccredited Hospitals.</heading>
     <para>
       <num>A.</num>
-      <text>Acute General Hospitals and Special Hospitals.  The 2013 Hospital Accreditation Standards (July Update, The Joint Commission, One Renaissance Blvd., Oakbrook, Illinois 60181), is incorporated by reference.</text>
+      <text>Acute General Hospitals and Special Hospitals. Nonaccredited acute general and special hospitals shall comply with The Joint Commission’s Hospital Accreditation Standards.</text>
     </para>
     <para>
       <num>B.</num>
       <text>Waiver Authority. The Secretary may, for good cause, waive compliance with the incorporated Joint Commission standards. The hospital shall justify the need for the waiver in the manner prescribed by the Department.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-259-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2026,7 +2020,7 @@
     <heading>Emergency and Disaster Plan.</heading>
     <para>
       <num>A.</num>
-      <text>A licensed acute general hospital or special hospital shall comply with the Emergency Management standards outlined in the Hospital Accreditation Standards (2009 Edition), pages 47—68 with the exception of standard EM.02.02.13, pages 61—65.</text>
+      <text>A licensed acute general hospital or special hospital shall comply with the Emergency Management standards outlined in The Joint Commission’s Hospital Accreditation Standards.</text>
     </para>
     <para>
       <num>B.</num>
@@ -2044,7 +2038,9 @@
       <num>C.</num>
       <text>A licensee shall have a tracking system to assist the hospital, family members, government representatives, and other authorized stakeholders, to locate and identify patients in the event of displacement due to an emergency or disaster.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-259-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2161,7 +2157,7 @@
       <text>The facility shall be in compliance with:</text>
       <para>
         <num>(1)</num>
-        <text>Guidelines for the Design and Construction of Hospitals and Outpatient Facilities (2014); and</text>
+        <text>The Facilities Guidelines Institute's Guidelines for Design and Construction of Hospitals; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -2172,7 +2168,9 @@
       <num>B.</num>
       <text>Any waiver or other modification of these requirements shall be addressed by the appropriate State or local authority having jurisdiction in accordance with established procedures.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-259-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3220,7 +3218,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-307.2, 19-308, 19-308.6, 19-308.8, 19-318—19-320, 19-342, 19-349.1, and 19-380—19-385; Insurance Article, Title 4, Subtitle 4; <cite doc="Md. Code" path="gps|14-110">Public Safety Article, §14-110</cite>.1; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-307.2, 19-308, 19-308.6, 19-308.8, 19-318—19-320, 19-323, 19-342, 19-349.1, and 19-380—19-385; Insurance Article, Title 4, Subtitle 4; <cite doc="Md. Code" path="gps|14-110">Public Safety Article, §14-110</cite>.1; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1946-12-19">Effective date: December 19, 1946</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1959-03-20">Amended effective March 20, 1959</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1964-09-01">Amended effective September 1, 1964</annotation>
@@ -3233,6 +3231,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-30"><cite path="|10|07|01|.01|B.">Regulation .01B</cite> amended as an emergency provision effective July 1, 2000 (27:15 Md. R. 1396); amended permanently effective October 30, 2000 (27:21 Md. R. 1975)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.01|B.">Regulation .01B</cite> amended effective November 11, 2002 (29:22 Md. R. 1721); April 21, 2008 (35:8 Md. R. 804); June 28, 2010 (37:13 Md. R. 852); April 16, 2012 (39:7 Md. R. 491); March 31, 2014 (41:6 Md. R. 378); March 27, 2017 (44:6 Md. R. 325); April 23, 2018 (45:8 Md. R. 420)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-07-04"><cite path="|10|07|01|.02">Regulation .02</cite> recodified to be Regulation .03 and new Regulation .02 adopted effective July 4, 2016 (43:13 Md. R. 712)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|07|01|.02">Regulation .02</cite> amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-11"><cite path="|10|07|01|.02|D.">Regulation .02D</cite> adopted effective November 11, 2002 (29:22 Md. R. 1721)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-06-28"><cite path="|10|07|01|.02|D.">Regulation .02D</cite> repealed effective June 28, 2010 (37:13 Md. R. 852)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-07-04"><cite path="|10|07|01|.03">Regulation .03</cite> repealed and Regulation .02 recodified to be Regulation .03 effective July 4, 2016 (43:13 Md. R. 712)</annotation>
@@ -3251,8 +3250,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-11"><cite path="|10|07|01|.07|A.">Regulation .07A</cite> amended effective November 11, 2002 (29:22 Md. R. 1721)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-11"><cite path="|10|07|01|.08">Regulation .08</cite> amended effective November 11, 2002 (29:22 Md. R. 1721)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-06-28"><cite path="|10|07|01|.08|B.">Regulation .08B</cite> adopted effective June 28, 2010 (37:13 Md. R. 852)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|07|01|.08|B.">Regulation .08B</cite> amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-06-28"><cite path="|10|07|01|.09">Regulation .09</cite> amended effective June 24, 1991 (18:12 Md. R. 1338); November 11, 2002 (29:22 Md. R. 1721); June 28, 2010 (37:13 Md. R. 852)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-31"><cite path="|10|07|01|.09|A.">Regulation .09A</cite> amended effective February 26, 2007 (34:4 Md. R. 400); March 31, 2014 (41:6 Md. R. 378)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|07|01|.09|A.">Regulation .09A</cite> amended effective February 26, 2007 (34:4 Md. R. 400); March 31, 2014 (41:6 Md. R. 378); April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-11"><cite path="|10|07|01|.10|A.">Regulation .10A</cite> amended effective June 24, 1991 (18:12 Md. R. 1338); November 11, 2002 (29:22 Md. R. 1721)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-12-16">Regulations <cite path="|10|07|01|.11">.11</cite>—<cite path="|10|07|01|.20">.20</cite> adopted as an emergency provision effective August 12, 1985 (12:18 Md. R. 1756), emergency status expired December 10, 1985; adopted permanently effective December 16, 1985 (12:25 Md. R. 2471)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-05-23"><cite path="|10|07|01|.13">Regulation .13</cite> amended effective May 23, 1994 (21:10 Md. R. 844)</annotation>
@@ -3261,7 +3261,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-05-23"><cite path="|10|07|01|.22">Regulation .22</cite> repealed effective May 23, 1994 (21:10 Md. R. 844)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-16"><cite path="|10|07|01|.22">Regulation .22</cite> adopted effective April 16, 2012 (39:7 Md. R. 491)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-02-22"><cite path="|10|07|01|.23">Regulation .23</cite> adopted effective February 22, 1988 (15:4 Md. R. 473)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|10|07|01|.23|A.">Regulation .23A</cite> and C amended as an emergency provision effective June 9, 1988 (15:14 Md. R. 1653); emergency status expired December 9, 1988; adopted permanently effective December 26, 1988 (15:26 Md. R. 2982); March 30, 2026 (53:6 Md. R. 291)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-12-26"><cite path="|10|07|01|.23|A.">Regulation .23A</cite> and C amended as an emergency provision effective June 9, 1988 (15:14 Md. R. 1653); emergency status expired December 9, 1988; adopted permanently effective December 26, 1988 (15:26 Md. R. 2982)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-12-28">Regulations <cite path="|10|07|01|.24">.24</cite>—<cite path="|10|07|01|.26">.26</cite> adopted effective December 28, 1987 (14:26 Md. R. 2746)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-31"><cite path="|10|07|01|.24">Regulation .24</cite> amended effective March 1, 2004 (31:4 Md. R. 315); March 31, 2014 (41:6 Md. R. 378)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|07|01|.24|C.">Regulation .24C</cite> amended as an emergency provision effective May 6, 2025 (52:11 Md. R. 531); adopted permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
@@ -3275,9 +3275,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-05-23">Regulations <cite path="|10|07|01|.27">.27</cite>—<cite path="|10|07|01|.31">.31</cite> repealed effective May 23, 1994 (21:10 Md. R. 844)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-03-13"><cite path="|10|07|01|.27">Regulation .27</cite> adopted effective March 13, 2006 (33:5 Md. R. 520)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-06-28"><cite path="|10|07|01|.28">Regulation .28</cite> adopted effective June 28, 2010 (37:13 Md. R. 852)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|07|01|.28|A.">Regulation .28A</cite> amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-31"><cite path="|10|07|01|.29">Regulation .29</cite> adopted effective March 31, 2014 (41:6 Md. R. 378)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.29|F.">Regulation .29F</cite> adopted effective April 23, 2018 (45:8 Md. R. 420)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-07-04"><cite path="|10|07|01|.30">Regulation .30</cite> adopted effective July 4, 2016 (43:13 Md. R. 712)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|07|01|.30|A.">Regulation .30A</cite> amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-03-27"><cite path="|10|07|01|.31">Regulation .31</cite> adopted effective March 27, 2017 (44:6 Md. R. 325)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-06-28"><cite path="|10|07|01|.32|D.">Regulation .32D</cite> amended effective November 11, 2002 (29:22 Md. R. 1721); June 28, 2010 (37:13 Md. R. 852)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-03-13"><cite path="|10|07|01|.32-1">Regulation .32-1</cite> adopted effective March 13, 2006 (33:5 Md. R. 520)</annotation>
@@ -3291,5 +3293,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|07|01|.37">Regulation .37</cite> adopted effective April 23, 2018 (45:8 Md. R. 420)</annotation>
     <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-064-F" type="History" display="false"/>
     <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-311-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-259-F-I" type="History" display="false"/>
   </annotations>
 </container>

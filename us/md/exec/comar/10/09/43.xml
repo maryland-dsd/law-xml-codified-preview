@@ -868,7 +868,13 @@
       <num>C.</num>
       <text>A child who, on the day the child becomes 19 years old, is receiving acute inpatient services under MCHP Premium and who, but for attaining that age, is otherwise eligible for MCHP Premium, shall remain eligible for MCHP Premium until the end of the stay for which acute inpatient services are furnished.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>Individuals may be certified for a period of continuous eligibility as described in <cite path="10.09.24.12">COMAR 10.09.24.12</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -963,31 +969,9 @@
         <text>The Department shall evaluate claims of hardship and notify the applicant of the decision within 30 days of receipt of the written claim of hardship.</text>
       </para>
     </para>
-    <para>
-      <num>F.</num>
-      <text>Consequences of Nonpayment.</text>
-      <para>
-        <num>(1)</num>
-        <text>If payment is not waived or due date adjusted due to hardship, the applicant shall make payment in full not later than 30 days after the date of issuance of a request for payment.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>If the applicant fails to comply with <cite path="10|09|43|.13|F.|(1)">§F(1) of this regulation</cite>:</text>
-        <para>
-          <num>(a)</num>
-          <text>The individual shall have eligibility terminated, effective the first day of the month following the month for which payment was due; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The case shall be referred to the Central Collections Unit of the Department of Budget and Management for collection.</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>An individual whose eligibility was terminated due to failure to pay the Department as specified in <cite path="10|09|43|.13|D.|(2)|(d)">§D(2)(d) of this regulation</cite> is ineligible for participation in MCHP Premium until 90 days from the notice date of termination or the date payment has been made in full, whichever is sooner.</text>
-      </para>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1202,5 +1186,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-11-10"><cite path="|10|09|43|.14">Regulation .14</cite> amended effective November 10, 2003 (30:22 Md. R. 1580)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-11-10"><cite path="|10|09|43|.15|D.">Regulation .15D</cite> amended effective November 10, 2003 (30:22 Md. R. 1580)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06" discontinuity="true">Chapter revised effective January 6, 2014 (40:26 Md. R. 2162)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|09|43|.10|D.">Regulation .10D</cite> adopted effective April 13, 2026 (53:7 Md. R. 328)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|09|43|.13|F.">Regulation .13F</cite> amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
   </annotations>
 </container>

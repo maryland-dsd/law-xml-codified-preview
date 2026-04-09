@@ -162,7 +162,7 @@
       </para>
       <para>
         <num>(14-1)</num>
-        <text>“Continuing care retirement community (CCRC)” means an entity that obtains certificate of registration issued by the Maryland Department of Aging in accordance with <cite path="|32.02.01">COMAR 32.02.01</cite> and pursuant to its authority under <cite doc="Md. Code" path="70B">Article 70B, Annotated Code of Maryland</cite>.</text>
+        <text>“Continuing care retirement community (CCRC)” means an entity that obtains certificate of registration issued by the Maryland Department of Aging in accordance with <cite path="|32.02.01">COMAR 32.02.01</cite> and pursuant to its authority under <cite doc="Md. Code" path="70B" proof="needed">Article 70B, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(15)</num>
@@ -374,15 +374,7 @@
       </para>
       <para>
         <num>(45-1)</num>
-        <text>“Postpartum period” means:</text>
-        <para>
-          <num>(a)</num>
-          <text>The period of time beginning on the date a pregnancy ends and ending on the last day of the month in which the 60-day period ends; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Effective for 5 years beginning April 1, 2022, the period of time beginning on the date a pregnancy ends and ending on the last day of the 12th month following the end of pregnancy.</text>
-        </para>
+        <text>“Postpartum period” means the period of time beginning on the date a pregnancy ends and ending on the last day of the 12th month following the end of pregnancy.</text>
       </para>
       <para>
         <num>(46)</num>
@@ -533,7 +525,9 @@
         <text>“Tuberculosis hospital” means an institution which falls within the jurisdiction of Health-General Article, §19-307(a)(1), Annotated Code of Maryland, and is licensed pursuant to <cite path="|10.07.01">COMAR 10.07.01</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3624,10 +3618,14 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>“Income tax” means federal, state, or local taxes either paid or withheld from income of a self-employed person not to exceed the tax table amount for the number of known dependents.</text>
+        <text>“Federal Supplemental Nutrition Assistance Program (SNAP)”, formerly the Food Stamp Program, has the meaning stated in <cite path="07.03.17.01">COMAR 07.03.17.01</cite>.</text>
       </para>
       <para>
         <num>(4)</num>
+        <text>“Income tax” means federal, state, or local taxes either paid or withheld from income of a self-employed person not to exceed the tax table amount for the number of known dependents.</text>
+      </para>
+      <para>
+        <num>(5)</num>
         <text>“Modified Adjusted Gross Income (MAGI) based income” means income calculated using the same financial methodologies used to determine modified adjusted gross income as defined in 42 CFR 435.603 , with the following exceptions:</text>
         <para>
           <num>(a)</num>
@@ -3668,10 +3666,34 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>When a member of a MAGI exempt assistance unit works for less than 12 months but receives an annual salary, is self-employed, or has irregular or seasonal earning, the amount to be considered is one-half the expected annual income based on the prior year's gross income;</text>
+        <text>For participants currently enrolled in both the Program and SNAP:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Program may renew the individual’s Medicaid eligibility using household income as determined by SNAP without conducting a separate income determination; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An individual is determined eligible when the participant is:</text>
+          <para>
+            <num>(i)</num>
+            <text>Younger than 19 years old and has a SNAP verified income at or below 200 percent of the federal poverty level for individuals in a MAGI coverage group;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Younger than 19 years old and has a SNAP verified income at or below 300 percent of the federal benefit rate for individuals in a MAGI exempt coverage group; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Between 19 to 64 years old and has a SNAP verified income at or below 138 percent of the federal poverty level for individuals in a MAGI coverage group;</text>
+          </para>
+        </para>
       </para>
       <para>
         <num>(4)</num>
+        <text>When a member of a MAGI exempt assistance unit works for less than 12 months but receives an annual salary, is self-employed, or has irregular or seasonal earning, the amount to be considered is one-half the expected annual income based on the prior year's gross income; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
         <text>For a deceased individual, the income to be considered is that which was available up to and including the month of death. When there are other individuals in the assistance unit or MAGI household unit, the deceased individual's income will be averaged over the unit's established period under consideration.</text>
       </para>
     </para>
@@ -4185,95 +4207,97 @@
           </thead>
           <tbody>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">1</td>
-              <td data-text-align="center" data-vertical-align="middle">$ 4,200</td>
-              <td data-text-align="center" data-vertical-align="middle">$ 350</td>
+              <td>1</td>
+              <td>$ 4,200</td>
+              <td>$ 350</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">2</td>
-              <td data-text-align="center" data-vertical-align="middle">4,700</td>
-              <td data-text-align="center" data-vertical-align="middle">392</td>
+              <td>2</td>
+              <td>4,700</td>
+              <td>392</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">3</td>
-              <td data-text-align="center" data-vertical-align="middle">5,200</td>
-              <td data-text-align="center" data-vertical-align="middle">434</td>
+              <td>3</td>
+              <td>5,200</td>
+              <td>434</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">4</td>
-              <td data-text-align="center" data-vertical-align="middle">5,700</td>
-              <td data-text-align="center" data-vertical-align="middle">475</td>
+              <td>4</td>
+              <td>5,700</td>
+              <td>475</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">5</td>
-              <td data-text-align="center" data-vertical-align="middle">6,252</td>
-              <td data-text-align="center" data-vertical-align="middle">521</td>
+              <td>5</td>
+              <td>6,252</td>
+              <td>521</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">6</td>
-              <td data-text-align="center" data-vertical-align="middle">6,876</td>
-              <td data-text-align="center" data-vertical-align="middle">573</td>
+              <td>6</td>
+              <td>6,876</td>
+              <td>573</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">7</td>
-              <td data-text-align="center" data-vertical-align="middle">7,740</td>
-              <td data-text-align="center" data-vertical-align="middle">645</td>
+              <td>7</td>
+              <td>7,740</td>
+              <td>645</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">8</td>
-              <td data-text-align="center" data-vertical-align="middle">8,508</td>
-              <td data-text-align="center" data-vertical-align="middle">709</td>
+              <td>8</td>
+              <td>8,508</td>
+              <td>709</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">9</td>
-              <td data-text-align="center" data-vertical-align="middle">9,192</td>
-              <td data-text-align="center" data-vertical-align="middle">766</td>
+              <td>9</td>
+              <td>9,192</td>
+              <td>766</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">10</td>
-              <td data-text-align="center" data-vertical-align="middle">9,912</td>
-              <td data-text-align="center" data-vertical-align="middle">826</td>
+              <td>10</td>
+              <td>9,912</td>
+              <td>826</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">11</td>
-              <td data-text-align="center" data-vertical-align="middle">10,632</td>
-              <td data-text-align="center" data-vertical-align="middle">886</td>
+              <td>11</td>
+              <td>10,632</td>
+              <td>886</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">12</td>
-              <td data-text-align="center" data-vertical-align="middle">11,352</td>
-              <td data-text-align="center" data-vertical-align="middle">946</td>
+              <td>12</td>
+              <td>11,352</td>
+              <td>946</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">13</td>
-              <td data-text-align="center" data-vertical-align="middle">12,048</td>
-              <td data-text-align="center" data-vertical-align="middle">1,004</td>
+              <td>13</td>
+              <td>12,048</td>
+              <td>1,004</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">14</td>
-              <td data-text-align="center" data-vertical-align="middle">12,756</td>
-              <td data-text-align="center" data-vertical-align="middle">1,063</td>
+              <td>14</td>
+              <td>12,756</td>
+              <td>1,063</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">15</td>
-              <td data-text-align="center" data-vertical-align="middle">13,488</td>
-              <td data-text-align="center" data-vertical-align="middle">1,124</td>
+              <td>15</td>
+              <td>13,488</td>
+              <td>1,124</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">16</td>
-              <td data-text-align="center" data-vertical-align="middle">14,208</td>
-              <td data-text-align="center" data-vertical-align="middle">1,184</td>
+              <td>16</td>
+              <td>14,208</td>
+              <td>1,184</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">Each Additional Person</td>
-              <td data-text-align="center" data-vertical-align="middle">732</td>
-              <td data-text-align="center" data-vertical-align="middle">61</td>
+              <td>Each Additional Person</td>
+              <td>732</td>
+              <td>61</td>
             </tr>
           </tbody>
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|24|.08">
     <prefix>Regulation</prefix>
@@ -4977,48 +5001,48 @@
           </thead>
           <tbody>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">1</td>
-              <td data-text-align="center" data-vertical-align="middle">2,500</td>
+              <td>1</td>
+              <td>2,500</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">2</td>
-              <td data-text-align="center" data-vertical-align="middle">3,000</td>
+              <td>2</td>
+              <td>3,000</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">3</td>
-              <td data-text-align="center" data-vertical-align="middle">3,100</td>
+              <td>3</td>
+              <td>3,100</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">4</td>
-              <td data-text-align="center" data-vertical-align="middle">3,200</td>
+              <td>4</td>
+              <td>3,200</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">5</td>
-              <td data-text-align="center" data-vertical-align="middle">3,300</td>
+              <td>5</td>
+              <td>3,300</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">6</td>
-              <td data-text-align="center" data-vertical-align="middle">3,400</td>
+              <td>6</td>
+              <td>3,400</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">7</td>
-              <td data-text-align="center" data-vertical-align="middle">3,500</td>
+              <td>7</td>
+              <td>3,500</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">8</td>
-              <td data-text-align="center" data-vertical-align="middle">3,600</td>
+              <td>8</td>
+              <td>3,600</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">9</td>
-              <td data-text-align="center" data-vertical-align="middle">3,700</td>
+              <td>9</td>
+              <td>3,700</td>
             </tr>
             <tr>
-              <td data-text-align="center" data-vertical-align="middle">10</td>
-              <td data-text-align="center" data-vertical-align="middle">3,800</td>
+              <td>10</td>
+              <td>3,800</td>
             </tr>
             <tr>
               <td>Each Additional Individual</td>
-              <td data-text-align="center" data-vertical-align="middle">100</td>
+              <td>100</td>
             </tr>
           </tbody>
         </table>
@@ -5059,7 +5083,9 @@
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|24|.08-1">
     <prefix>Regulation</prefix>
@@ -7123,7 +7149,7 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="10|09|24|.12">
     <prefix>Regulation</prefix>
     <num>.12</num>
     <heading>Post-Eligibility Requirements.</heading>
@@ -7399,7 +7425,73 @@
       <num>D.</num>
       <text>Subsequent Application. A person may reapply when eligibility is not met during the periods established in §C(1) and (3) of this regulation.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>Continuous Eligibility for Children.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department shall establish continuous eligibility periods for individuals who are:</text>
+        <para>
+          <num>(a)</num>
+          <text>Younger than 19 years old; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Eligible and enrolled for mandatory or optional coverage.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Individuals who are in a period of continuous eligibility shall, with the exception of the circumstances in <cite path="10|09|24|.12|E.|(4)">§E(4) of this regulation</cite>, maintain coverage despite any change in circumstance that would otherwise preclude eligibility.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The period of continuous eligibility shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Begin on the first day of the month in which initial eligibility was determined or a renewal of eligibility is approved as a result of redetermination; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Remain in effect for a 12-month period or for individuals covered under <cite path="|10.09.62">COMAR 10.09.62</cite>, until birth.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An individual’s eligibility may be redetermined during their continuous eligibility period if one or more of the following changes in circumstances occur:</text>
+        <para>
+          <num>(a)</num>
+          <text>The individual attains the maximum age specified in <cite path="10|09|24|.12|E.|(1)|(a)">§E(1)(a) of this regulation</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The individual or the individual’s representative requests a voluntary termination of eligibility;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The individual ceases to meet the residency requirements established in <cite path="|10|09|24|.05-3">Regulation .05-3 of this chapter</cite>;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The individual dies; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Department or its designee determines that eligibility was erroneously granted at the most recent determination, redetermination, or renewal of eligibility due to one or more of the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>Agency error; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Fraud, abuse, or perjury attributed to the individual or the individual’s representative.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -8323,7 +8415,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-02-17"><cite path="|10|09|24|.15|A.">Regulation .15A</cite>-3 amended as an emergency provision effective November 12, 2002 (29:24 Md. R. 1915); amended permanently effective February 17, 2003 (30:3 Md. R. 179)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-12-31"><cite path="|10|09|24|.17">Regulation .17</cite> adopted effective December 31, 2007 (34:26 Md. R. 2262)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06" discontinuity="true">Chapter revised effective January 6, 2014 (40:26 Md. R. 2162)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|24|.02|B.">Regulation .02B</cite> amended effective September 11, 2017 (44:18 Md. R. 866); May 20, 2019 (46:10 Md. R. 486); April 4, 2022 (49:7 Md. R. 465)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|09|24|.02|B.">Regulation .02B</cite> amended effective September 11, 2017 (44:18 Md. R. 866); May 20, 2019 (46:10 Md. R. 486); April 4, 2022 (49:7 Md. R. 465); April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|09|24|.03|A.">Regulation .03A</cite> amended effective August 5, 2024 (51:15 Md. R. 706)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|24|.03|A.">Regulation .03A</cite>, C amended effective May 20, 2019 (46:10 Md. R. 486)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-04-04"><cite path="|10|09|24|.03|A.">Regulation .03A</cite>, F amended effective April 4, 2022 (49:7 Md. R. 465)</annotation>
@@ -8333,12 +8425,15 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-31"><cite path="|10|09|24|.04-1D">Regulation .04-1D</cite> amended effective December 31, 2018 (45:26 Md. R. 1243)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-05-07"><cite path="|10|09|24|.04-1M">Regulation .04-1M</cite> adopted effective May 7, 2018 (45:9 Md. R. 461)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-07-04"><cite path="|10|09|24|.05-4B">Regulation .05-4B</cite> amended effective July 4, 2016 (43:13 Md. R. 713)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|09|24|.07|B.">Regulation .07B</cite>, F amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-01"><cite path="|10|09|24|.08-1B">Regulation .08-1B</cite> amended effective February 1, 2016 (43:2 Md. R. 127)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|24|.08-2B">Regulation .08-2B</cite>, C amended effective April 10, 2017 (44:7 Md. R. 355); May 20, 2019 (46:10 Md. R. 486)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|09|24|.08-2C">Regulation .08-2C</cite> amended effective August 29, 2016 (43:17 Md. R. 954)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|09|24|.08-4">Regulation .08-4</cite> adopted effective April 13, 2015 (42:7 Md. R. 568)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-09-11"><cite path="|10|09|24|.10|C.">Regulation .10C</cite>, D amended effective September 11, 2017 (44:18 Md. R. 866)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|09|24|.10-2">Regulation .10-2</cite> adopted effective April 13, 2015 (42:7 Md. R. 568)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|09|24|.12|E.">Regulation .12E</cite> adopted effective April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|09|24|.15|A.">Regulation .15A</cite>-3 amended effective April 13, 2015 (42:7 Md. R. 568)</annotation>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
   </annotations>
 </container>

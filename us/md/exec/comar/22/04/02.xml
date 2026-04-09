@@ -8,25 +8,13 @@
     <num>.01</num>
     <heading>Determination by the Board of Trustees.</heading>
     <text>If the eligibility of an individual for membership in the Employees' Pension System or the Teachers' Pension System is unclear, the Board of Trustees shall determine whether the individual is a member of the Employees' Pension System or the Teachers' Pension System.</text>
-    <annotations/>
-  </section>
-  <section cache:ref-path="22|04|02|.02">
-    <prefix>Regulation</prefix>
-    <num>.02</num>
-    <heading>Optional Membership.</heading>
-    <para>
-      <num>A.</num>
-      <text>Membership in the Teachers' Pension System is optional for an individual who is appointed as a lecturer in the Overseas Division of University College.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>An election to participate in the Teachers’ Pension System by an individual described in <cite path="22|04|02|.02|A.">§A of this regulation</cite> shall be made within 90 days of commencement of employment and is a one-time irrevocable election.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.03</num>
+    <num>.02</num>
     <heading>Continuation of Membership.</heading>
     <para>
       <num>A.</num>
@@ -52,15 +40,13 @@
         <text>A recommendation of the Executive Director to remove an employee, enrolled for a period of 6 months or more after October 1, 1972, shall be submitted to the Board of Trustees for approval.</text>
       </para>
     </para>
-    <para>
-      <num>C.</num>
-      <text>An individual may continue as a member of the Teachers' Retirement System or the Teachers' Pension System if the individual is promoted or transferred to a position in an excluded educational category.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="22|04|02|.04">
+  <section cache:ref-path="22|04|02|.03">
     <prefix>Regulation</prefix>
-    <num>.04</num>
+    <num>.03</num>
     <heading>Membership in the Employees' Pension System.</heading>
     <para>
       <num>A.</num>
@@ -127,7 +113,7 @@
       <text>The following individuals shall be excluded from membership in the Employees' Pension System:</text>
       <para>
         <num>(1)</num>
-        <text>Subject to <cite path="22|04|02|.04|C.">§C of this regulation</cite>, a contractual, emergency, or temporary extra employee of a participating employer;</text>
+        <text>Subject to <cite path="22|04|02|.03|C.">§C of this regulation</cite>, a contractual, emergency, or temporary extra employee of a participating employer;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -162,7 +148,9 @@
       <num>C.</num>
       <text>The fact that a participating employer permitted an individual to enroll in the Employees’ Pension System shall not be relevant to the determination of whether the individual is a contractual, emergency, or temporary extra employee who is excluded from membership.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">State Personnel and Pensions Article, §§<cite doc="Md. Code" path="gsp|21-108">21-108</cite>, <cite doc="Md. Code" path="gsp|21-110">21-110</cite>, <cite doc="Md. Code" path="gsp|22-207">22-207</cite>, <cite doc="Md. Code" path="gsp|23-205">23-205</cite>, and <cite doc="Md. Code" path="gsp|23-209">23-209</cite>, Annotated Code of Maryland</annotation>
@@ -172,5 +160,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-08-04"><cite path="|22|04|02|.04">Regulation .04</cite> amended effective August 4, 2014 (41:15 Md. R. 892)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-09"><cite path="|22|04|02|.04|A.">Regulation .04A</cite> amended effective September 6, 1999 (26:18 Md. R. 1377); October 9, 2017 (44:20 Md. R. 946)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-01"><cite path="|22|04|02|.05">Regulation .05</cite> adopted as an emergency provision effective June 1, 1998 (25:14 Md. R. 1130); emergency status expired December 1, 1998</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13" discontinuity="true">Chapter revised effective April 13, 2026 (53:7 Md. R 329)</annotation>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
   </annotations>
+  <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
 </container>
