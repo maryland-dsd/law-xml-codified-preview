@@ -3,7 +3,7 @@
   <prefix>Chapter</prefix>
   <num>02</num>
   <heading>HIV and CD4+ Investigations and Case Reporting</heading>
-  <section>
+  <section cache:ref-path="10|18|02|.01">
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
@@ -28,7 +28,23 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Laboratory reporting of a test result for HIV infection or CD4+ count; and</text>
+        <text>Laboratory reporting of a test result for:</text>
+        <para>
+          <num>(a)</num>
+          <text>HIV detection;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>HIV viral load;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>CD4+ cell count or percentage; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>HIV genotype sequence; and</text>
+        </para>
       </para>
       <para>
         <num>(4)</num>
@@ -47,24 +63,72 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>A laboratory's report of HIV infection or CD4+ count.</text>
+          <text>A laboratory’s report of a test result for:</text>
+          <para>
+            <num>(i)</num>
+            <text>HIV detection;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>HIV viral load;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>CD4+ cell count or percentage; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>HIV genotype sequence infection or CD4+ count.</text>
+          </para>
         </para>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Except as noted in §C or D of this regulation, this chapter applies to all instances of laboratory testing of specimens from a human body for HIV infection or CD4+ count.</text>
+      <text>Except as noted in <cite path="10|18|02|.01|C.">§C of this regulation</cite>, this chapter applies to all instances of laboratory testing of specimens from a human body for:</text>
+      <para>
+        <num>(1)</num>
+        <text>HIV detection;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>HIV viral load;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>CD4+ cell count or percentage; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>HIV genotype sequence.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
       <text>This chapter does not apply if the specimen from a human body is:</text>
       <para>
         <num>(1)</num>
-        <text>Not tested for HIV infection or CD4+ count;</text>
+        <text>Not tested for:</text>
+        <para>
+          <num>(a)</num>
+          <text>HIV detection;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>HIV viral load;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>CD4+ cell count or percentage; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>HIV genotype sequence;</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Tested for HIV infection solely for the purpose of determining the suitability of the source individual as a prospective donor of blood, semen, or tissue;</text>
+        <text>Tested for HIV detection solely for the purpose of determining the suitability of the source individual as a prospective donor of blood, semen, or tissue;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -72,7 +136,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Tested for HIV or CD4+ count as part of research conducted by an institution within Maryland under the following conditions:</text>
+        <text>Tested for HIV detection as part of research conducted by an institution within Maryland under the following conditions:</text>
         <para>
           <num>(a)</num>
           <text>All personal identifiers are removed from the specimen before testing;</text>
@@ -92,7 +156,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Tested for HIV or CD4+ count as part of research conducted under a research protocol approved by an institutional review board of an institution located outside of Maryland;</text>
+        <text>Tested for HIV detection as part of research conducted under a research protocol approved by an institutional review board of an institution located outside of Maryland;</text>
       </para>
       <para>
         <num>(6)</num>
@@ -100,14 +164,12 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>Tested for HIV or CD4+ count as part of a research project that has been approved under <cite path="|10|18|02|.02">Regulation .02 of this chapter</cite> for an exemption.</text>
+        <text>Tested for HIV detection as part of a research project that has been approved under <cite path="|10|18|02|.02">Regulation .02 of this chapter</cite> for an exemption.</text>
       </para>
     </para>
-    <para>
-      <num>D.</num>
-      <text>If the director of a medical laboratory has submitted one report of HIV infection from a patient as required under <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite> and another specimen from the same patient shows evidence of HIV infection, it is not necessary for the director to submit another report of HIV infection for the patient.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|18|02|.02">
     <prefix>Regulation</prefix>
@@ -162,7 +224,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>If the application is complete and the research protocol meets the specified criteria, the Director shall grant an exemption from the requirements set forth in <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite> for any specimen tested for HIV infection or CD4+ lymphocyte count under the research project approved for exemption.</text>
+        <text>If the application is complete and the research protocol meets the specified criteria, the Director shall grant an exemption from the requirements set forth in <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite> for any specimen tested for HIV detection under the research project approved for exemption.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -183,7 +245,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Responsibilities of the Principal Investigator. If a research project is granted an exemption under <cite path="10|18|02|.02|C.">§C of this regulation</cite>, the principal investigator of the research project shall send to each laboratory to which specimens collected under the research protocol will be sent to be tested for HIV or CD4+ count a copy of the notification from the Director issued pursuant to <cite path="10|18|02|.02|C.|(3)|(a)">§C(3)(a) of this regulation</cite> to verify that the project has been exempted from the reporting requirements of <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite>.</text>
+      <text>Responsibilities of the Principal Investigator. If a research project is granted an exemption under <cite path="10|18|02|.02|C.">§C of this regulation</cite>, the principal investigator of the research project shall send to each laboratory to which specimens collected under the research protocol will be sent to be tested for HIV detection a copy of the notification from the Director issued pursuant to <cite path="10|18|02|.02|C.|(3)|(a)">§C(3)(a) of this regulation</cite> to verify that the project has been exempted from the reporting requirements of <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite>.</text>
     </para>
     <para>
       <num>E.</num>
@@ -194,7 +256,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A principal investigator, laboratory director, or other individual is not required to report positive HIV test results, CD4+ counts less than 200 per cubic millimeter, or both, if the test is done as part of the research project and the individual tested:</text>
+        <text>A principal investigator, laboratory director, or other individual is not required to report HIV detection test results if the test is done as part of the research project and the individual tested:</text>
         <para>
           <num>(a)</num>
           <text>Meets the criteria for participation in the research project set forth in the research protocol submitted under <cite path="10|18|02|.02|B.|(1)">§B(1) of this regulation</cite>; and</text>
@@ -205,9 +267,11 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="10|18|02|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Definitions.</heading>
@@ -255,7 +319,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>If neither §B(6)(a) or (b) of this regulation is available, material from an individual already held by the medical laboratory, in the following order of preference:</text>
+          <text>If neither §B(5)(a) nor <cite path="10|18|02|.03|B.|(5)|(b)">§B(5)(b) of this regulation</cite> is available, material from an individual already held by the medical laboratory, in the following order of preference:</text>
           <para>
             <num>(i)</num>
             <text>A patient specimen;</text>
@@ -331,7 +395,9 @@
         <text>“Secretary” means the Secretary of Health or the Secretary's designee.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -425,15 +491,19 @@
         <text>Submit a report to the health officer for the jurisdiction where the laboratory is located, within 48 hours after an examination of a specimen from a human body shows one of the following:</text>
         <para>
           <num>(a)</num>
-          <text>A positive result on a test designed to confirm in a sample the presence of HIV infection in accordance with Health-General Article, §18-207(b)(1), Annotated Code of Maryland;</text>
+          <text>A result on a test designed to detect in a sample the presence of HIV in accordance with Health-General Article, §18-207(b)(1), Annotated Code of Maryland, including negative results;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A test result showing a level of HIV viral load in an individual not known to be HIV negative; or</text>
+          <text>A quantitative or qualitative HIV viral load test result, including undetectable;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>A CD4+ count in an individual not known to be HIV negative;</text>
+          <text>A CD4+ cell test result, count, or percentage in an individual not known to be HIV negative; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>An HIV genotype sequence test result;</text>
         </para>
       </para>
       <para>
@@ -453,7 +523,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Type and result of laboratory test, that is, HIV infection, HIV viral load, or CD4+ count;</text>
+          <text>Type and result of laboratory test, that is, HIV detection, HIV viral load, CD4+ cell count or percentage, or HIV genotype sequence;</text>
         </para>
         <para>
           <num>(d)</num>
@@ -489,14 +559,18 @@
       <num>D.</num>
       <text>This regulation does not relieve a physician of the duty to report as set forth in Health-General Article, §§18-201.1 and 18-202.1, Annotated Code of Maryland.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
     <heading>Out-of-State Laboratories.</heading>
-    <text>An out-of-State laboratory that holds a permit to operate issued by Maryland and performs HIV or CD4+ tests shall submit the report required under <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite> to the Secretary.</text>
-    <annotations/>
+    <text>An out-of-State laboratory that holds a permit to operate issued by Maryland and performs HIV detection, HIV viral load, CD4+ cell count or percentage, or HIV genotype sequence tests shall submit the report required under <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite> to the Secretary.</text>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -504,7 +578,7 @@
     <heading>Responsibility of Health Officer.</heading>
     <para>
       <num>A.</num>
-      <text>This regulation establishes requirements for follow-up by the health officer of a report of HIV or AIDS or newborn HIV exposure or laboratory report of HIV infection or CD4+ count.</text>
+      <text>This regulation establishes requirements for follow-up by the health officer of a report of HIV or AIDS or newborn HIV exposure or laboratory report of HIV detection, HIV viral load, CD4+ cell count or percentage, or HIV genotype sequence.</text>
     </para>
     <para>
       <num>B.</num>
@@ -519,34 +593,52 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Laboratory director's obligation to report a test result of HIV infection or CD4+ count under Health-General Article, §18-205, Annotated Code of Maryland, and <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite>.</text>
+        <text>Laboratory director’s obligation to report a test result of HIV detection, HIV viral load, CD4+ cell count or percentage, or HIV genotype sequence under Health-General Article, §18-205, Annotated Code of Maryland, and <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite>.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>Upon receipt of a report from a physician pursuant to <cite path="|10|18|02|.04">Regulation .04 of this chapter</cite>, a clinical or infection control practitioner pursuant to <cite path="|10|18|02|.05">Regulation .05 of this chapter</cite>, or a laboratory director pursuant to <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite>, the health officer shall:</text>
+      <text>Upon receipt of a report from a physician pursuant to <cite path="|10|18|02|.04">Regulation .04 of this chapter</cite>, a clinical or infection control practitioner pursuant to <cite path="|10|18|02|.05">Regulation .05 of this chapter</cite>, the health officer shall:</text>
       <para>
         <num>(1)</num>
         <text>Determine whether the case of HIV, the case of AIDS, or the newborn HIV exposure has been reported previously;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Complete the case investigation if the patient has HIV or AIDS or is a newborn HIV exposure and the case of HIV or the case of AIDS or the newborn HIV exposure has not been reported previously;</text>
+        <text>Complete the case investigation if the patient has HIV or AIDS or is a newborn HIV exposure and the case of HIV or the case of AIDS or the newborn HIV exposure has not been reported previously; and</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Submit the HIV/AIDS case report as set forth in Health-General Article, §18-207, Annotated Code of Maryland, to the Department if the case of HIV or the case of AIDS or the newborn HIV exposure has not been reported previously; and</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Take action as specified in <cite path="|10.18.04">COMAR 10.18.04</cite>.</text>
+        <text>Submit the HIV/AIDS case report as set forth in Health-General Article, §18-207, Annotated Code of Maryland, to the Department if the case of HIV or the case of AIDS or the newborn HIV exposure has not been reported previously.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
+      <text>Upon receipt of a test result report from a laboratory director pursuant to <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite>, the health officer shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Determine whether the report matches to a case of HIV, a case of AIDS, or a newborn HIV exposure that has been reported previously, and submit the report to the Department if the report matches;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Complete a case investigation if the report indicates the patient has HIV or AIDS or is a newborn HIV exposure and the case of HIV or the case of AIDS or the newborn HIV exposure has not been reported previously;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Submit the case report, as set forth in Health-General Article, §18-207, Annotated Code of Maryland, to the Department if the case of HIV or the case of AIDS or the newborn HIV exposure has not been reported previously; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Retain a nonmatching report for up to 4 years, rematching the report, not less than annually, to test result reports and to cases of HIV or cases of AIDS or newborn HIV exposures that had not been reported previously, to identify new matches, and submit the report to the Department if the report matches.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
       <text>A health officer may not transmit to the Secretary information about a case of HIV or AIDS by facsimile or another electronic method unless directed by the Secretary to submit the information by electronic method.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -561,15 +653,19 @@
       <text>Except for a designated anonymous HIV test site, a person that ordered the laboratory examination shall make available to the health officer or the Secretary the information necessary to compile an HIV/AIDS case report, according to Regulations .04 and .05 of this chapter, upon receipt of one of the following:</text>
       <para>
         <num>(1)</num>
-        <text>A positive result on a test designed to confirm in a sample the presence of HIV infection in accordance with Health-General Article, §18-207(b)(1), Annotated Code of Maryland;</text>
+        <text>A result on a test designed to detect in a sample the presence of HIV in accordance with Health-General Article, §18-207(b)(1), Annotated Code of Maryland, including negative results;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The report that an HIV viral load test was performed on an individual not known to be HIV negative; or</text>
+        <text>A qualitative or quantitative HIV viral load test result, including undetectable;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>A CD4+ count on an individual not known to be HIV negative.</text>
+        <text>A CD4+ cell test result, count, or percentage in an individual not known to be HIV negative; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An HIV genotype sequence test result.</text>
       </para>
     </para>
     <para>
@@ -604,7 +700,9 @@
         <text>Section C(1) of this regulation does not apply to a disclosure by the Secretary to another governmental agency performing its lawful duties pursuant to State or federal law where the Secretary determines that the agency to whom the information is disclosed will maintain the confidentiality of the disclosure.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b), 4-101, 4-102, 18-102, 18-103, 18-201.1, 18-202.1, 18-205, 18-207, and 18-215;<br/><cite doc="Md. Code" path="gsg|10-617">State Government Article, §10-617</cite>; Annotated Code of Maryland</annotation>

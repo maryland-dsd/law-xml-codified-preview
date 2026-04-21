@@ -576,7 +576,7 @@
       <text>Exceptions.</text>
       <para>
         <num>(1)</num>
-        <text>A person who proposes to construct an installation that is not subject to NSR Source requirements in <cite path="|26.11.17">COMAR 26.11.17</cite> and who is unable to comply with the requirements of <cite path="26|11|06|.06|B.|(2)">§B(2) of this regulation</cite>, may request an exception from the Department.</text>
+        <text>A person who proposes to construct an installation that is not subject to NSR Source requirements in <cite path="|26.11.17">COMAR 26.11.17</cite> and who is unable to comply with the requirements of §§B(1)(b) or B(2)(c) of this regulation, may request an exception from the Department.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -595,7 +595,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>A description of the air pollution control methods or equipment that may be available to achieve compliance with <cite path="26|11|06|.06|B.|(2)">§B(2) of this regulation</cite>, the cost of the equipment or control methods, and information showing why the control methods are not reasonable for this installation;</text>
+          <text>A description of the air pollution control methods or equipment that may be available to achieve compliance with §§B(1)(b) or B(2)(c) of this regulation, the cost of the equipment or control methods, and information showing why the control methods are not reasonable for this installation;</text>
         </para>
         <para>
           <num>(e)</num>
@@ -603,23 +603,23 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>Other information that is requested by the Department and that relates to the Department's determination to grant or deny an exception to the requirements of <cite path="26|11|06|.06|B.|(2)">§B(2) of this regulation</cite>.</text>
+          <text>Other information that is requested by the Department and that relates to the Department's determination to grant or deny an exception to the requirements of §§B(1)(b) or B(2)(c) of this regulation.</text>
         </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>The Department may grant an exception to <cite path="26|11|06|.06|B.|(2)">§B(2) of this regulation</cite> if it determines that:</text>
+        <text>The Department may grant an exception to §§B(1)(b) or B(2)(c) of this regulation if it determines that:</text>
         <para>
           <num>(a)</num>
-          <text>Control methods, if any, necessary to meet the requirements of §B(2) are not reasonable for the installation;</text>
+          <text>Control methods, if any, necessary to meet the requirements of §§B(1)(b) or B(2)(c) are not reasonable for the installation;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The applicant has the ability to operate and maintain the equipment and has the production controls necessary to meet the alternative VOC emission standard established by the Department instead of the requirements of §B(2); and</text>
+          <text>The applicant has the ability to operate and maintain the equipment and has the production controls necessary to meet the alternative VOC emission standard established by the Department instead of the requirements of §§B(1)(b) or B(2)(c); and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Emissions from the installation will not interfere with reasonable further progress as defined in Regulation .11A(2) of this regulation if the exception is granted.</text>
+          <text>Emissions from the installation will not interfere with reasonable further progress if the exception is granted.</text>
         </para>
       </para>
       <para>
@@ -671,7 +671,9 @@
         <text>The Department shall submit an exception to the U.S. Environmental Protection Agency for approval as a revision to the State Implementation Plan.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|11|06|.07">
     <prefix>Regulation</prefix>

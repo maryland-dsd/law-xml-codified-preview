@@ -86,6 +86,10 @@
           <text>Hours as an instructor only once per license renewal period for each training course; and</text>
         </para>
       </para>
+      <para>
+        <num>(5)</num>
+        <text>For licensees applying for renewal for the first time, the Board shall grant 5 hours of approved training for each full 6-month period that the licensee participated in training or work experience listed in <cite path="10|60|03|.01|C.|(7)">§C(7) of this regulation</cite> within the license renewal period.</text>
+      </para>
     </para>
     <para>
       <num>E.</num>
@@ -123,7 +127,9 @@
         <text>The Board shall maintain a list of all approved providers.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-14" doc="Editor Action 2026-04-14" eff="2026-04-14" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
