@@ -255,7 +255,7 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="36|10|10|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Requirements.</heading>
@@ -295,10 +295,14 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>“Responsible gambling awareness materials” means a sticker, a brochure, a wallet card, or other material that conveys only problem gambling resource information.</text>
+          <text>“Online advertisement” means an advertisement that appears on a website, an application in social media, or otherwise on the internet that is intended to encourage sports wagering.</text>
         </para>
         <para>
           <num>(f)</num>
+          <text>“Responsible gambling awareness materials” means a sticker, a brochure, a wallet card, or other material that conveys only problem gambling resource information.</text>
+        </para>
+        <para>
+          <num>(g)</num>
           <text>“Underage warning message” means the phrase: No bettor under the age of 21 is permitted to participate in sports wagering.</text>
         </para>
       </para>
@@ -352,19 +356,75 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>Ensure that the gambling assistance message is conspicuous and readable; and</text>
+        <text>Ensure that an advertisement for sports wagering, video lottery terminal, or table game play does not include language that suggests an outcome is guaranteed or without risk; and</text>
       </para>
       <para>
         <num>(11)</num>
-        <text>Ensure that an advertisement for sports wagering, video lottery terminal, or table game play does not include language that suggests an outcome is guaranteed or without risk.</text>
+        <text>Ensure that advertisements for sports wagering includes a gambling assistance message that complies:</text>
+        <para>
+          <num>(a)</num>
+          <text>For signs, direct mail materials, posters, and other printed advertisements the font height of the gambling assistance message shall be the greater of:</text>
+          <para>
+            <num>(i)</num>
+            <text>The same size as the majority of the text in the advertisement; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Three percent of the height or width, whichever is greater, of the advertisement;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For billboards, the font height of the gambling assistance message shall be at least 5 percent of the height or width, whichever is greater, of the face of the billboard;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For video and television advertisements:</text>
+          <para>
+            <num>(i)</num>
+            <text>The gambling assistance message shall be visible for the entire duration of the advertisement, with a font size at least 3 percent of the image height or width;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The gambling assistance message shall appear from the first instance sports wagering or a licensed operator is displayed or mentioned for not less than 3 seconds, and again on a final screen for the final 3 seconds of the advertisement;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The font height shall be at least 3 percent of the height or width, whichever is greater, of the image during the advertisement; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The font height shall be at least 8 percent of the height or width, whichever is greater, of the image on the final screen; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>For websites and social media:</text>
+          <para>
+            <num>(i)</num>
+            <text>The gambling assistance message shall be posted on each webpage or profile page, and on any gaming-related advertisement posted on those pages;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The font height of the gambling assistance message shall be at least the same size as the majority of the text used on the webpage or profile page; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>For advertisements posted on the webpage or profile page, the font height shall comply with the requirements in <cite path="36|10|10|.03|B.|(11)|(a)">§B(11)(a) of this regulation</cite>.</text>
+          </para>
+        </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">State Government Article, §§<cite doc="Md. Code" path="gsg|9-1">9-1</cite>A-<cite doc="Md. Code" path="gsg|24">24</cite> and <cite doc="Md. Code" path="gsg|9-1">9-1</cite>E-01—9-1E-15, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13">Regulations <cite path="|36|10|10|.01">.01</cite>—<cite path="|36|10|10|.03">.03</cite> adopted as an emergency provision effective August 5, 2021 (48:18 Md. R. 690); adopted permanently effective January 13, 2022 (49:1 Md. R. 16)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|10|10|.03">Regulation .03</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|10|.03|B.">Regulation .03B</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
   </annotations>
 </container>

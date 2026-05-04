@@ -549,7 +549,23 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Effective November 1, 2023, any currently licensed appraiser, certified appraiser, and appraiser trainee applying for license or certificate renewal shall successfully complete during the preceding 3-year license cycle a minimum of 3 hours of appraisal education related to racial discrimination and implicit bias.</text>
+          <text>For licenses and certificates expiring on or after March 1, 2026:</text>
+          <para>
+            <num>(i)</num>
+            <text>Any currently licensed appraiser, certified appraiser, and appraiser trainee shall complete a 7-hour course the first time they meet the AQB education requirement for Valuation Bias and Fair Housing Laws and Regulations Outline; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>All currently licensed appraisers, certified appraisers, and appraiser trainees applying for license or certificate renewal shall successfully complete during the preceding 3-year license cycle a 4-hour Valuation Bias and Fair Housing Laws and Regulations course.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If obtaining a new credential or upgrading an existing credential individuals shall complete an 8-hour course to meet AQB education requirements in Valuation Bias and Fair Housing Laws and Regulations Outline that includes 7 hours of instruction and a 1-hour exam; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Every 2 calendar years thereafter, the course length must be at least 4 hours.</text>
         </para>
       </para>
       <para>
@@ -669,7 +685,10 @@
       <num>G.</num>
       <text>The Commission may not grant a licensee or certificate holder credit for completion of the same continuing education course offering within the appraiser’s continuing education cycle, with the exception of the 7-Hour National USPAP Update Course, or its AQB-approved equivalent.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:8  26-056-E  (Regulations .04) EMERGENCY ACTION IN EFFECT 1/14/2026 — 7/13/2026</annotation>
+      <annotation app="2026-01-14" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|emergency|26-056-E" type="History" display="false" exp="2026-07-13"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -711,9 +730,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-17"><cite path="|09|19|02|.04|A.">Regulation .04A</cite> amended effective March 17, 2014 (41:5 Md. R. 343)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-08-24"><cite path="|09|19|02|.04|A.">Regulation .04A</cite>, B amended as an emergency provision effective January 1, 1998 (25:2 Md. R. 73); emergency status expired June 30, 1998; amended permanently effective August 24, 1998 (25:17 Md. R. 1360)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-03-31"><cite path="|09|19|02|.04|A.">Regulation .04A</cite>, B amended effective March 31, 2003 (30:6 Md. R. 420)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-14"><cite path="|09|19|02|.04|B.">Regulation .04B</cite> amended as an emergency provision effective January 14, 2026 (53:8 Md. R. 354)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-05-15"><cite path="|09|19|02|.04|B.">Regulation .04B</cite>, D amended effective May 15, 2023 (50:9 Md. R. 378)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-01-01"><cite path="|09|19|02|.04|D.">Regulation .04D</cite>, E amended effective January 1, 2015 (41:23 Md. R. 1372)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-01-07"><cite path="|09|19|02|.04|F.">Regulation .04F</cite> adopted effective January 7, 2013 (39:26 Md. R. 1663)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-01-01"><cite path="|09|19|02|.04|G.">Regulation .04G</cite> adopted effective January 1, 2015 (41:23 Md. R. 1372)</annotation>
+    <annotation app="2026-01-14" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|emergency|26-056-E" type="History" display="false" exp="2026-07-13"/>
   </annotations>
 </container>

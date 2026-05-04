@@ -519,8 +519,10 @@
     <prefix>Regulation</prefix>
     <num>.23</num>
     <heading>Broker Supervision Course.</heading>
-    <text>A licensee who is designated as a broker, branch office manager, or team leader shall complete a 3 clock-hour course that includes the requirements of broker supervision under <cite path="09.11.06.01|B.|(8)|(i)">COMAR 09.11.06.01B(8)(i)</cite> within 90 days of the effective date of the designation if the licensee has not completed that course during the previous four years.</text>
-    <annotations/>
+    <text>A licensee who is designated as a broker, branch office manager, or team leader shall complete a 1.5 clock-hour course that includes the requirements of broker supervision under <cite path="09.11.06.01|B.|(8)|(i)">COMAR 09.11.06.01B(8)(i)</cite> within 90 days of the effective date of the designation if the licensee has not completed that course during the previous four years.</text>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-204-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article, §§<cite doc="Md. Code" path="gbo|17-208">17-208</cite>, <cite doc="Md. Code" path="gbo|17-303">17-303</cite>, <cite doc="Md. Code" path="gbo|17-306">17-306</cite>, <cite doc="Md. Code" path="gbo|17-315">17-315</cite>, and <cite doc="Md. Code" path="gbo|17-528">17-528</cite>, Annotated Code of Maryland</annotation>
@@ -585,5 +587,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-06-01" discontinuity="true">Chapter revised effective June 1, 2017 (44:8 Md. R. 401)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-06-01">Chapter Regulations renumbered to correct prior Final Action effective June 1, 2017 (44:8 Md. R. 401)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-14"><cite path="|09|11|01|.13">Regulation .13</cite> repealed and new Regulation .13 adopted effective January 14, 2019 (46:1 Md. R. 11)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|09|11|01|.23">Regulation .23</cite> amended effective April 27, 2026 (53:8 Md. R. 355)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-204-F" type="History" display="false"/>
   </annotations>
 </container>

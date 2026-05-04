@@ -249,7 +249,19 @@
     </para>
     <para>
       <num>D.</num>
-      <text>The performance bond for a Class A-1 sports wagering facility license is $6,000,000.</text>
+      <text>The performance bond for a Class A-1 sports wagering facility license is:</text>
+      <para>
+        <num>(1)</num>
+        <text>$2,000,000 for annual sports wagering revenue of $0 to $2,000,000;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>$4,000,000 for annual sports wagering revenue of $2,000,001 to $4,000,000; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>$6,000,000 $4,000,000 for annual sports wagering revenue above $4,000,000.</text>
+      </para>
     </para>
     <para>
       <num>E.</num>
@@ -327,7 +339,9 @@
         <text>The Commission may transfer the sports wagering facility license to the new designee after the Commission determines the new designee meets all applicable requirements for a sports wagering facility license, and issues the license.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -782,12 +796,13 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13">Regulations <cite path="|36|10|04|.01">.01</cite>—<cite path="|36|10|04|.11">.11</cite> adopted as an emergency provision effective August 5, 2021 (48:18 Md. R. 690); adopted permanently effective January 13, 2022 (49:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|04|.02|G.">Regulation .02G</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|04|.03|D.">Regulation .03D</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|10|04|.03|D.">Regulation .03D</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529); April 27, 2026 (53:8 Md. R 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-25"><cite path="|36|10|04|.03|E.">Regulation .03E</cite>—G adopted as an emergency provision effective January 26, 2022 (49:5 Md. R. 364); adopted permanently effective July 25, 2022 (49:15 Md. R. 740)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|04|.04|D.">Regulation .04D</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|04|.05|D.">Regulation .05D</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|04|.06|C.">Regulation .06C</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|04|.06|D.">Regulation .06D</cite> adopted as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); adopted permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-25"><cite path="|36|10|04|.08|A.">Regulation .08A</cite> amended as an emergency provision effective January 26, 2022 (49:5 Md. R. 364); amended permanently effective July 25, 2022 (49:15 Md. R. 740)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
   </annotations>
 </container>

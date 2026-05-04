@@ -1768,7 +1768,19 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Make a video recording or photograph of any event capable of being captured by the surveillance system; and</text>
+        <text>Make a video recording or photograph of any event capable of being captured by the surveillance system; and provide the recording:</text>
+        <para>
+          <num>(a)</num>
+          <text>In a compact disc;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Using a secure drive; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Another method approved by the Commission; and</text>
+        </para>
       </para>
       <para>
         <num>(6)</num>
@@ -1783,7 +1795,9 @@
       <num>L.</num>
       <text>An entrance to a surveillance monitor room may not be visible from the gaming floor.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="36|03|10|.12">
     <prefix>Regulation</prefix>
@@ -1848,7 +1862,11 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Facility closure protocols; and</text>
+            <text>Facility closure protocols; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>An electronic format equipped with software that documents changes made by each user; and</text>
           </para>
         </para>
         <para>
@@ -1864,11 +1882,15 @@
           <text>Maintained by monitor room employees in:</text>
           <para>
             <num>(i)</num>
-            <text>A book with bound numbered pages that cannot be readily removed; or</text>
+            <text>A book with bound numbered pages that cannot be readily removed;</text>
           </para>
           <para>
             <num>(ii)</num>
             <text>An electronic format equipped with software that prevents modification of an entry after it has been initially entered into the system; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>An electronic format equipped with software that documents changes made by each user; and</text>
           </para>
         </para>
         <para>
@@ -2009,7 +2031,9 @@
       <num>F.</num>
       <text>A surveillance department employee may not transfer to any other department in the facility without the prior written approval of the Commission.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="36|03|10|.13">
     <prefix>Regulation</prefix>
@@ -7212,7 +7236,13 @@
       <num>J.</num>
       <text>A trolley storage area utilized to store cash storage or table game drop boxes prior to the count process shall meet the design standards for a count room under <cite path="|36|03|10|.44">Regulation .44 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>K.</num>
+      <text>Except for security officers, the drop and count team members assigned to the collection of cash storage or table game drop boxes shall wear a one-piece, pocketless jumpsuit.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -8082,7 +8112,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-07"><cite path="|36|03|10|.10">Regulation .10</cite> amended effective January 7, 2016 (42:26 Md. R. 1597)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-23"><cite path="|36|03|10|.11|C.">Regulation .11C</cite> amended effective October 23, 2017 (44:21 Md. R. 985)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02"><cite path="|36|03|10|.11|D.">Regulation .11D</cite> amended effective January 2, 2017 (43:26 Md. R 1450)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|03|10|.12|C.">Regulation .12C</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|03|10|.11|J.">Regulation .11J</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|03|10|.12|C.">Regulation .12C</cite> amended effective July 7, 2025 (52:13 Md. R. 657); April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|03|10|.14|C.">Regulation .14C</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-19"><cite path="|36|03|10|.16">Regulation .16</cite> amended effective October 19, 2020 (47:21 Md. R. 905)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-07"><cite path="|36|03|10|.16|B.">Regulation .16B</cite> amended effective January 7, 2016 (42:26 Md. R. 1597)</annotation>
@@ -8138,6 +8169,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-30"><cite path="|36|03|10|.43">Regulation .43</cite> amended effective March 30, 2015 (42:6 Md. R. 515)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-10-22"><cite path="|36|03|10|.43|A.">Regulation .43A</cite> amended effective October 22, 2018 (45:21 Md. R. 976)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-07"><cite path="|36|03|10|.43|B.">Regulation .43B</cite>, G amended effective January 7, 2016 (42:26 Md. R. 1597)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|03|10|.43|K.">Regulation .43K</cite> adopted effective April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-09-26"><cite path="|36|03|10|.44|A.">Regulation .44A</cite> amended effective September 26, 2016 (43:19 Md. R. 1073)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-09-26"><cite path="|36|03|10|.45">Regulation .45</cite> amended effective September 26, 2016 (43:19 Md. R. 1073)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-10-22"><cite path="|36|03|10|.45|C.">Regulation .45C</cite> amended effective October 22, 2018 (45:21 Md. R. 976)</annotation>
@@ -8147,5 +8179,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-03-13"><cite path="|36|03|10|.50">Regulation .50</cite> adopted effective March 13, 2017 (44:5 Md. R. 294)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-23"><cite path="|36|03|10|.51">Regulation .51</cite> adopted effective October 23, 2017 (44:21 Md. R. 985)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|03|10|.52">Regulation .52</cite> adopted effective July 7, 2025 (52:13 Md. R. 657)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
   </annotations>
 </container>

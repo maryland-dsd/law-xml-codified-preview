@@ -45,13 +45,23 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The merchandise, prizes, tickets, tokens, or other objects that are awarded by a skills-based amusement device may be accumulated and exchanged for non-cash merchandise or prizes that have a wholesale value of not more than the minimal value.</text>
+      <text>The individual merchandise, prizes, tickets, tokens, or other objects that are awarded by a skill-based amusement device may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Have a wholesale value that does not exceed the minimal value; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be accumulated and exchanged for non-cash merchandise or prizes that do not exceed $599.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
       <text>If a registered skills-based device owner offers a device described in <cite path="36|08|04|.01|A.">§A of this regulation</cite>, the Commission may take enforcement action as provided in <cite path="|36|08|04|.03">Regulation .03 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -137,6 +147,8 @@
     <annotation managed="false" type="Authority" dest="container">Criminal Law Article, §§<cite doc="Md. Code" path="gcr|12-301">12-301</cite> and <cite doc="Md. Code" path="gcr|12-301">12-301</cite>.1, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-01">Effective date: January 1, 2017 (43:23 Md. R. 1281)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|08|04|.01">Regulation .01</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|08|04|.01|B.">Regulation .01B</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07">Regulation.03 adopted effective July 7, 2025 (52:13 Md. R. 657)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
   </annotations>
 </container>

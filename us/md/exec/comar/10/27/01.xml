@@ -48,15 +48,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Certified Nursing Assistant.</text>
-        <para>
-          <num>(a)</num>
-          <text>“Certified nursing assistant” means an individual, regardless of title, who routinely performs nursing tasks delegated by a registered nurse or licensed practice nurse for compensation.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>“Certified nursing assistant” does not mean a certified medication technician.</text>
-        </para>
+        <text>“Certified nursing assistant (CNA)” has the meaning stated in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-01, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -88,7 +80,7 @@
       </para>
       <para>
         <num>(12)</num>
-        <text>“Educational qualifications” means that at the time the applicant graduated from a registered nursing or licensed practical nursing education program, that program was substantially equivalent to the registered nursing or practical nursing education programs approved in this State.</text>
+        <text>“Direct patient care” means healthcare activities that involve direct interaction between a healthcare professional and a patient.</text>
       </para>
       <para>
         <num>(13)</num>
@@ -100,7 +92,63 @@
       </para>
       <para>
         <num>(15)</num>
-        <text>“Geriatric nursing assistant” means a certified nursing assistant who has successfully completed the requirements for geriatric nursing assistant mandated under federal law and the regulations of the Board.</text>
+        <text>Entry-level Registered Nursing Education Program.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Entry-level registered nursing education program” means a registered nursing education program that is the initial entry point for formal registered nursing education that, upon successful completion, qualifies an individual with no prior registered nursing education to obtain licensure as a registered nurse.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Entry-level registered nursing education program” does not include degree completion programs, including but not limited to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Associate of Applied Science Degree in Nursing to Baccalaureate of Science Degree in Nursing (AAS-BSN);</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Associate of Degree in Nursing to Baccalaureate of Science Degree in Nursing (ADN-BSN);</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Associate of Applied Science Degree in Nursing to Masters of Science Degree in Nursing (AAS-MSN);</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Associate Degree in Nursing to Masters of Science Degree in Nursing (ADN-MSN);</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Baccalaureate of Science Degree in Nursing to Masters of Science Degree in Nursing (BSN-MSN);</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Baccalaureate of Science Degree in Nursing to Doctor of Philosophy (BSN-PHD);</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>Baccalaureate of Science Degree in Nursing to Doctor of Education (BSN-EDD);</text>
+          </para>
+          <para>
+            <num>(viii)</num>
+            <text>Baccalaureate of Science Degree in Nursing to Doctor of Nursing Practice (BSN-DNP);</text>
+          </para>
+          <para>
+            <num>(ix)</num>
+            <text>Masters of Science Degree in Nursing to Doctor of Philosophy (MSN-PHD);</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text>Masters of Science Degree in Nursing to Doctor of Education (MSN-EDD);</text>
+          </para>
+          <para>
+            <num>(xi)</num>
+            <text>Masters of Science Degree in Nursing to Doctor of Nursing Practice (MSN-DNP); or</text>
+          </para>
+          <para>
+            <num>(xii)</num>
+            <text>Masters of Science Degree in Nursing to Post Masters Certificate/Post Graduate Certificate.</text>
+          </para>
+        </para>
       </para>
       <para>
         <num>(16)</num>
@@ -116,15 +164,7 @@
       </para>
       <para>
         <num>(19)</num>
-        <text>“Nursing assistant” means either:</text>
-        <para>
-          <num>(a)</num>
-          <text>A certified nursing assistant; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A geriatric nursing assistant.</text>
-        </para>
+        <text>“Nursing assistant” means an individual certified by the Board as a certified nursing assistant.</text>
       </para>
       <para>
         <num>(20)</num>
@@ -217,6 +257,7 @@
     </para>
     <annotations>
       <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|26-004-F" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -688,11 +729,11 @@
       <text>An applicant for the registered nurse licensure examination shall:</text>
       <para>
         <num>(1)</num>
-        <text>Complete satisfactorily and meet all requirements for a diploma or degree from a registered nursing education program approved by the Board; or</text>
+        <text>Complete satisfactorily and meet all requirements for a diploma or degree from an entry-level registered nursing education program approved by the Board</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Have a diploma or degree from a registered nursing education program in another state, territory, or country determined by the Board to be substantially equivalent to the registered nursing education program approved in this State at the time of the applicant's graduation.</text>
+        <text>Have a diploma or degree from an entry-level registered nursing education program in another state, territory, or country determined by the Board to be substantially equivalent to the registered nursing education program approved in this State at the time of the applicant's graduation.</text>
       </para>
     </para>
     <para>
@@ -717,125 +758,15 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Applicants who are unable to prove written and oral competency in the English language in accordance with Health Occupation Article, §8-302(e)(2) or (4), Annotated Code of Maryland, shall submit evidence of proficiency in listening, reading, speaking, and writing the English language by obtaining a minimum passing score on one of the following Board-approved English language competency examinations:</text>
-      <para>
-        <num>(1)</num>
-        <text>Test of English as a Foreign Language Internet Based Test (TOEFL iBT) with minimum passing scores of:</text>
-        <para>
-          <num>(a)</num>
-          <text>Listening — 21;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Reading — 19;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Speaking — 26;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Writing — 19; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Overall score of at least 84;</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>International English Language Testing System (IELTS) with minimum passing scores of:</text>
-        <para>
-          <num>(a)</num>
-          <text>Listening — 6;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Reading — 6;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Speaking — 6;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Writing — 6; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Overall score of at least 6.5;</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Michigan English Test (MET) with minimum passing scores of:</text>
-        <para>
-          <num>(a)</num>
-          <text>Listening — 53;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Reading — 53;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Speaking — 53; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Writing — 53;</text>
-        </para>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Pearson Test of English (PTE) Academic with minimum passing scores of:</text>
-        <para>
-          <num>(a)</num>
-          <text>Listening — 50;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Reading — 50;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Speaking — 50;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Writing — 50; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Overall score of at least 55; or</text>
-        </para>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Occupational English Test (OET) with minimum passing scores of:</text>
-        <para>
-          <num>(a)</num>
-          <text>Listening — 300;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Reading — 300;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Speaking — 300; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Writing — 300.</text>
-        </para>
-      </para>
+      <text>Applicants for registered nurse licensure and licensed practical nurse licensure who take an English proficiency examination approved by the U.S. Department of Health and Human Services in order to demonstrate English language proficiency under <cite doc="Md. Code" path="gho|8-302">Health Occupations Article, § 8-302(e), Annotated Code of Maryland</cite>, shall obtain the minimum passing scores for registered nurses and licensed practical nurses set by the Health Resources and Services Administration of the U.S. Department of Health and Human Services.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>An applicant whose basic nursing education was completed in another country shall have the applicant's transcript evaluated by the Commission on Graduates of Foreign Nursing Schools.</text>
+      <text>An applicant whose entry-level registered nursing education program or licensed practical nursing education program was completed in another country shall have the applicant's transcript evaluated by the Commission on Graduates of Foreign Nursing Schools or a successor organization.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|26-004-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1001,13 +932,13 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="10|27|01|.10">
     <prefix>Regulation</prefix>
     <num>.10</num>
     <heading>Licensure by Endorsement.</heading>
     <para>
       <num>A.</num>
-      <text>An applicant licensed to practice registered nursing or practical nursing in another state, territory, or country is eligible for licensure without examination if the applicant:</text>
+      <text>An applicant who holds an active, unencumbered license to practice registered nursing or practical nursing in another state, territory, or country is eligible for licensure without examination if the applicant:</text>
       <para>
         <num>(1)</num>
         <text>Complies with all of the requirements under <cite path="|10|27|01|.04|A.">Regulation .04A of this chapter</cite>;</text>
@@ -1018,62 +949,104 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Submits the following verifications directly to the Board from the appropriate authority:</text>
-        <para>
-          <num>(a)</num>
-          <text>That at the time that applicant graduated from the nursing education program, it was approved as a registered nursing or licensed practical nursing education program in that state, territory, or country;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>That the applicant meet the educational qualifications of this State at the time of the applicant's graduation from the nursing education program;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Verification of successful completion of the licensure examination under the laws of another state, territory, or country;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>That the examination used for licensure was the:</text>
-          <para>
-            <num>(i)</num>
-            <text>“State Board Test Pool Examination — Registered Nurse or Practical Nurse”, from 1952—1982;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>“National Council Licensure Examination — Registered Nurse or Practical Nurse”, from 1982 to the present;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>“National League for Nursing State-Constructed Board Examination, Registered Nurse or Practical Nurse”, before 1952; or</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>“Canadian Nurses Association Test Service Examination for Registered Nurses” taken before 1982; and</text>
-          </para>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Proof of written and oral competency in the English language in accordance with <cite path="|10|27|01|.05|C.">Regulation .05C of this chapter</cite>.</text>
-        </para>
+        <text>Meets one of the conditions in <cite path="10|27|01|.10|B.">§B of this regulation</cite>; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Whose basic nursing education was completed in another country, has the applicant's transcript evaluated by the Commission on Graduates of Foreign Nursing Schools; and</text>
-      </para>
-      <para>
-        <num>(5)</num>
         <text>Presents evidence of 1,000 hours of active nursing practice within the last 5 years or successful completion of a Board-approved refresher course or preceptor program.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>An applicant who is unable to prove proficiency in the English language in accordance with <cite doc="Md. Code" path="gho|8-302">Health Occupations Article, §8-302(e), Annotated Code of Maryland</cite>, may be required to submit evidence of competency in the English language by obtaining a minimum passing score on a Board-approved English language competency examination in accordance with <cite path="|10|27|01|.05|C.">Regulation .05C of this chapter</cite>.</text>
+      <text>An applicant for licensure as a registered nurse by endorsement shall either:</text>
+      <para>
+        <num>(1)</num>
+        <text>Hold a valid, unencumbered multistate license under the Nurse Licensure Compact; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submit the following evidence directly to the Board from the appropriate authority:</text>
+        <para>
+          <num>(a)</num>
+          <text>Verification that, at the time that applicant graduated from the nursing education program, the nursing education program was:</text>
+          <para>
+            <num>(i)</num>
+            <text>Approved as a registered nursing or licensed practical nursing education program in that state, territory, or country; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Substantially equivalent to the education program approved in this State;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Verification that the applicant passed one of the following licensure examinations under the laws of another state, territory, or country:</text>
+          <para>
+            <num>(i)</num>
+            <text>If completed from 1952 to 1982, the “State Board Test Pool Examination — Registered Nurse or Practical Nurse”;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If completed from 1982 to present, the “National Council Licensure Examination — Registered Nurse or Practical Nurse”;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If completed before, 1952, the “National League for Nursing State-Constructed Board Examination, Registered Nurse or Practical Nurse”; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If completed before 1982, “Canadian Nurses Association Test Service Examination for Registered Nurses”;</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For applicants whose entry-level registered nursing education program or licensed practical nursing education program was completed in another country, a copy of an evaluation of the applicant's transcript by the Commission on Graduates of Foreign Nursing Schools or successor organization; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Except as provided in <cite path="10|27|01|.10|D.|(1)">§D(1) of this regulation</cite>, proof of written and oral competency in the English language, in accordance with <cite doc="Md. Code" path="gho|8-302">Health Occupations Article, § 8-302(e), Annotated Code of Maryland</cite>.</text>
+        </para>
+      </para>
     </para>
     <para>
       <num>C.</num>
+      <text>An applicant for licensure as a registered nurse by endorsement who cannot provide the evidence required under <cite path="10|27|01|.10|B.|(2)">§B(2) of this regulation</cite> may qualify for licensure if the applicant submits evidence, as required by the Board, that the applicant has:</text>
+      <para>
+        <num>(1)</num>
+        <text>Completed satisfactorily and met all requirements for an associate or a baccalaureate degree in registered nursing from a college or university that, at the time of the applicant’s graduation, is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Accredited by a national or regional nursing accreditation agency that is recognized by the Secretary of the U.S. Department of Education or the Council for Higher Education Accreditation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Approved by the board of nursing or other applicable state regulator in the state in which the program is located; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Completed a minimum of 1,000 hours of practice in direct patient care.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>English Language Competency Requirements for Endorsement.</text>
+      <para>
+        <num>(1)</num>
+        <text>An applicant is not required to submit proof of English language competency if the applicant demonstrates that the applicant holds or has held a license to practice registered nursing or licensed practical nursing in another state if that state has an English language competency component for licensure or examination.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Applicants for registered nurse licensure and licensed practical nurse licensure who take an English proficiency examination approved by the U.S. Department of Health and Human Services in order to demonstrate English language proficiency under <cite doc="Md. Code" path="gho|8-302">Health Occupations Article, § 8-302(e), Annotated Code of Maryland</cite>, shall obtain the minimum passing scores for registered nurses and licensed practical nurses set by the Health Resources and Services Administration of the U.S. Department of Health and Human Services.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
       <text>Those applicants who cannot present evidence of 1,000 hours of active nursing practice within the last 5 years, or successful completion of a Board-approved refresher course or preceptor program, may apply for inactive license.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|26-004-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1810,7 +1783,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-301">8-301</cite>—<cite doc="Md. Code" path="gho|8-315">8-315</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a), <cite doc="Md. Code" path="gho|8-701">8-701</cite>, <cite doc="Md. Code" path="gho|8-7">8-7</cite>A-01, Article 1116(b)(2), and 8-703; Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite> and <cite doc="Md. Code" path="gtg|10-739">10-739</cite>(b)(<cite doc="Md. Code" path="gtg|1">1</cite>); Annotated Code of Maryland; Ch. 486, Acts of 2012; Chs. 281 and 282, Acts of 2013; Chs. 385 and 386, Acts of 2016; and Chs. 234 and 234, Acts of 2017</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|1-213">1-213</cite>, <cite doc="Md. Code" path="gho|1">1</cite>–<cite doc="Md. Code" path="gho|230">230</cite>, <cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-201">8-201</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, <cite doc="Md. Code" path="gho|8-301">8-301</cite>—<cite doc="Md. Code" path="gho|8-315">8-315</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a), <cite doc="Md. Code" path="gho|8-701">8-701</cite>, <cite doc="Md. Code" path="gho|8-7">8-7</cite>A-01, Article 1116(b)(2), and 8-703; Tax-General Article, §§<cite doc="Md. Code" path="gtg|10-738">10-738</cite> and <cite doc="Md. Code" path="gtg|10-739">10-739</cite>(b)(<cite doc="Md. Code" path="gtg|1">1</cite>); Annotated Code of Maryland; Ch. 486, Acts of 2012; Chs. 281 and 282, Acts of 2013; Chs. 385 and 386, Acts of 2016; and Chs. 234 and 234, Acts of 2017</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-05-05"><cite path="|10|27|01|.01|B.">Regulation .01B</cite>, C amended effective May 5, 1978 (5:9 Md. R. 684)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-01-07"><cite path="|10|27|01|.02|A.">Regulation .02A</cite> amended effective January 7, 1976 (3:1 Md. R. 40)</annotation>
@@ -1886,19 +1859,20 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-05"><cite path="|10|27|01|.01|B.">Regulation .01B</cite> amended as an emergency provision effective September 7, 2022 (49:21 Md. R. 940); emergency status expired effective March 5, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-31"><cite path="|10|27|01|.01|B.">Regulation .01B</cite> amended as an emergency provision effective May 4, 2023 (50:10 Md. R. 405); emergency status expired effective October 31, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|01|.01|B.">Regulation .01B</cite> amended as an emergency provision effective August 26, 2025 (52:20 Md. R. 999); amended permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|10|27|01|.01|B.">Regulation .01B</cite> amended effective April 27, 2026 (53:8 Md. R. 356</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-08-23"><cite path="|10|27|01|.01|D.">Regulation .01D</cite> adopted effective August 23, 2021 (48:17 Md. R. 669)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-01"><cite path="|10|27|01|.02">Regulation .02</cite> amended effective January 29, 2018 (45:2 Md. R. 69); July 1, 2025 (52:10 Md. R. 436)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.03">Regulation .03</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-03"><cite path="|10|27|01|.03|A.">Regulation .03A</cite>, C amended as an emergency provision effective January 4, 2022 (49:4 Md. R. 297); emergency status expired effective July 3, 2022</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-31"><cite path="|10|27|01|.03|C.">Regulation .03C</cite> amended as an emergency provision effective September 7, 2022 (49:21 Md. R. 940); emergency status expired effective March 5, 2023; Regulation .03C amended as an emergency provision effective May 4, 2023 (50:10 Md. R. 405); emergency status expired effective October 31, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|01|.03|C.">Regulation .03C</cite> amended as an emergency provision effective August 26, 2025 (52:20 Md. R. 999); amended permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.05">Regulation .05</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|10|27|01|.05">Regulation .05</cite> amended effective July 2, 2018 (45:13 Md. R. 667); April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-08-23"><cite path="|10|27|01|.05|C.">Regulation .05C</cite> amended effective August 23, 2021 (48:17 Md. R. 669)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-03"><cite path="|10|27|01|.05|C.">Regulation .05C</cite> amended as an emergency provision effective October 6, 2023 (50:22 Md. R. 972); emergency status expired effective April 3, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|27|01|.05|C.">Regulation .05C</cite> amended effective June 24, 2024 (51:12 Md. R. 619)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.06|F.">Regulation .06F</cite> repealed effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.09|D.">Regulation .09D</cite>, F amended effective July 2, 2018 (45:13 Md. RR. 667)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-08-23"><cite path="|10|27|01|.10">Regulation .10</cite> amended effective August 28, 2017 (44:17 Md. R. 835); July 2, 2018 (45:13 Md. R. 667); August 23, 2021 (48:17 Md. R. 669)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|10|27|01|.10">Regulation .10</cite> amended effective August 28, 2017 (44:17 Md. R. 835); July 2, 2018 (45:13 Md. R. 667); August 23, 2021 (48:17 Md. R. 669); April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.11">Regulation .11</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.12">Regulation .12</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-06-17"><cite path="|10|27|01|.13">Regulation .13</cite> amended effective July 2, 2018 (45:13 Md. R. 667); June 17, 2019 (46:12 Md. R. 544)</annotation>
@@ -1911,5 +1885,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-31"><cite path="|10|27|01|.17|C.">Regulation .17C</cite> amended as an emergency provision effective May 4, 2023 (50:10 Md. R. 405); emergency status expired effective October 31, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|01|.17|C.">Regulation .17C</cite> adopted as an emergency provision effective August 26, 2025 (52:20 Md. R. 999); adopted permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
     <annotation app="2025-10-13" doc="Maryland Register, Volume 52, Issue 20" eff="2025-10-13" path="regulations|final|25-163-F" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|26-004-F" type="History" display="false"/>
   </annotations>
 </container>

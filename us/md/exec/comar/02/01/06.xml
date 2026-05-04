@@ -13,9 +13,11 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Disputes Subject to Arbitration. Disputes arising out of transactions involving consumer goods, services, credit, or realty and which are covered by the Consumer Protection Act, <cite doc="Md. Code" path="gcl">Commercial Law Article, Title 13, Annotated Code of Maryland</cite>, may be arbitrated under these regulations when the consumer-complainant and the business agree to binding arbitration conducted under the arbitration program of the Consumer Protection Division. Unless the agreement to arbitrate stipulates otherwise, the arbitrator may award specific performance and damages, including consequential or incidental damages. Claims for punitive damages may not be arbitrated under any circumstances.</text>
+      <text>Disputes Subject to Arbitration. Disputes arising out of transactions involving consumer goods, services, credit, or realty and which are covered by the Consumer Protection Act, <cite doc="Md. Code" path="gcl">Commercial Law Article, Title 13, Annotated Code of Maryland</cite>, may be arbitrated under these regulations when the consumer-complainant and the business agree to binding arbitration conducted under the arbitration program of the Consumer Protection Division. Unless the agreement to arbitrate stipulates otherwise, the arbitrator may award specific performance and damages, including consequential or incidental damages. Claims for punitive damages and attorney’s fees may not be arbitrated under any circumstances.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -134,17 +136,19 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Notification. The Arbitration Administrator shall, by regular mail, notify the arbitrator of the appointment and the time, date, and location of the arbitration. The arbitrator shall promptly advise the Arbitration Administrator of any conflict or other interest in the matter that would preclude the arbitrator from serving, or of his/her unavailability to hear and decide the arbitration promptly. In this event, the Arbitration Administrator will make another appointment.</text>
+      <text>Notification. The Arbitration Administrator shall send written notice to the arbitrator of the appointment and the time, date, and location of the arbitration. The arbitrator shall promptly advise the Arbitration Administrator of any conflict or other interest in the matter that would preclude the arbitrator from serving, or of his/her unavailability to hear and decide the arbitration promptly. In this event, the Arbitration Administrator will make another appointment.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Request for Disqualification. Any party may seek the disqualification of an arbitrator based upon the standards set forth in <cite path="02|01|06|.05|B.|(1)">§B(1) of this regulation</cite>. The Chief Arbitrator may refer the request to the Chief of the Consumer Protection Division for decision. Any other arbitrator may refer the request to the Chief Arbitrator or, if the Chief Arbitrator has been disqualified previously, to the Chief of the Division. If an arbitrator, the Chief Arbitrator, or the Chief of the Division grants a request for disqualification, the Arbitration Administrator shall appoint another arbitrator to hear the matter.</text>
+      <text>Request for Disqualification. Any party may seek the disqualification of an arbitrator based upon the standards set forth in <cite path="02|01|06|.05|B.|(1)">§B(1) of this regulation</cite>. The Chief Arbitrator may decide whether to grant the request or refer the request to the Chief of the Consumer Protection Division for decision. Any other arbitrator may refer the request to the Chief Arbitrator or, if the Chief Arbitrator has been disqualified previously, to the Chief of the Division. If an arbitrator, the Chief Arbitrator, or the Chief of the Division grants a request for disqualification, the Arbitration Administrator shall appoint another arbitrator to hear the matter.</text>
     </para>
     <para>
       <num>E.</num>
       <text>Substitution of Arbitrator. If an arbitrator is unable to conduct a prompt arbitration hearing or render a prompt decision in an arbitration already conducted due to illness, death, disability, or other reasons, the Arbitration Administrator may, after consultation with the parties, appoint another arbitrator.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -152,17 +156,19 @@
     <heading>Scheduling of Arbitration Hearing.</heading>
     <para>
       <num>A.</num>
-      <text>Location and Time. Arbitrations shall be set by the Arbitration Administrator, to the extent feasible, at a time and location convenient to all parties. Arbitrations may be conducted at the complainant's home or the merchant's place of business, or any other location that will encourage a prompt and fair evaluation of the dispute. If either party desires a specific location for the hearing, that request shall be made in the agreement to arbitrate.</text>
+      <text>Location and Time. Arbitrations shall be set by the Arbitration Administrator, to the extent feasible, at a time and location convenient to all parties. Arbitrations may be conducted at the complainant's home or the merchant's place of business, or any other location that will encourage a prompt and fair evaluation of the dispute. With the written agreement of the parties, the hearing may be conducted via electronic means. If either party desires a specific location for the hearing, that request shall be made in the agreement to arbitrate.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Notice. After the parties agree to arbitrate the dispute, the Arbitration Administrator will schedule promptly a mutually convenient hearing date and mail notice of the date, time and place of the scheduled hearing at least 10 days before the hearing to all parties by certified mail, return receipt requested. The notice of the hearing will include the name of the abritrator selected by the Chief Arbitrator to hear the dispute.</text>
+      <text>Notice. After the parties agree to arbitrate the dispute, the Arbitration Administrator will schedule promptly a mutually convenient hearing date and mail notice of the date, time and place of the scheduled hearing at least 10 calendar days before the hearing to all parties by certified mail, return receipt requested, except that, with the written consent of the parties to the arbitration, the notice may be sent by email to an email address provided by the party to the Arbitration Administrator. The notice of the hearing will include the name of the arbitrator selected by the Chief Arbitrator to hear the dispute.</text>
     </para>
     <para>
       <num>C.</num>
       <text>Postponement. Any request for postponement may be granted by the arbitrator if all parties consent, or if good cause for a postponement is shown to the satisfaction of the Arbitration Administrator. Requests for postponement for cause should be made to the Arbitration Administrator at least 5 days before the hearing, unless the circumstances requiring the postponement do not allow 5 days' notice. Whenever a postponement is granted, the Arbitration Administrator will promptly reschedule the hearing and notify the arbitrator and the parties.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -190,13 +196,15 @@
     </para>
     <para>
       <num>F.</num>
-      <text>Expert Consultants. If the arbitrator determines that consultation with a neutral expert would assist him/her in reaching a fair decision, the arbitrator may request the Arbitration Administrator to obtain the services of an individual with the appropriate experience. The Arbitration Administrator may maintain a list of persons who have specialized skills covering a wide variety of consumer transactions, and who agree to provide expert assistance to the arbitration program when requested, so that requests for expert consultations may be honored with minimum delay. Consultation of an expert shall take place either in the presence of the parties and arbitrator or through the use of a conference call arranged by the arbitrator. The arbitrator shall adjourn and reconvene the hearing if the adjournment is necessary for consultation of the expert.</text>
+      <text>Expert Consultants. If the arbitrator determines that consultation with a neutral expert would assist him/her in reaching a fair decision, the arbitrator may request the Arbitration Administrator to obtain the services of an individual with the appropriate experience. The Arbitration Administrator may maintain a list of persons who have specialized skills covering a wide variety of consumer transactions, and who agree to provide expert assistance to the arbitration program when requested, so that requests for expert consultations may be honored with minimum delay. Consultation of an expert shall take place either in the presence of the parties and arbitrator or through the use of a conference call or electronic meeting arranged by the arbitrator. The arbitrator shall adjourn and reconvene the hearing if the adjournment is necessary for consultation of the expert.</text>
     </para>
     <para>
       <num>G.</num>
       <text>Adjournments and Reopenings. The arbitrator may adjourn an arbitration hearing from time to time as necessary. Notice of the adjournment shall be sent to the Arbitration Administrator who will schedule the adjourned hearing as appropriate. If the arbitrator determines after the close of the hearing, but before an award is made, that further hearing is needed to permit a just decision, the arbitrator may reopen the hearing by giving the parties reasonable notice of the reopening, including the matter or matters to be heard at the reopened hearing. The Arbitration Administrator shall schedule reopened hearings.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -204,13 +212,15 @@
     <heading>Ex Parte Communications.</heading>
     <para>
       <num>A.</num>
-      <text>There shall be no direct communication between the parties to an arbitration and the arbitrator concerning the merits of the dispute other than at the arbitration hearing. Other communications, such as those concerning scheduling or other procedural matters, shall be made to the Chief Arbitrator, or, if the Chief Arbitrator is the arbitrator for the case, to the Arbitration Administrator, who will respond or refer the matter to the arbitrator as appropriate.</text>
+      <text>There shall be no direct communication between the parties to an arbitration and the arbitrator concerning the merits of the dispute other than at the arbitration hearing. Other communications, such as those concerning scheduling or other procedural matters, shall be made to the Arbitration Administrator, who will respond or refer the matter to the arbitrator as appropriate.</text>
     </para>
     <para>
       <num>B.</num>
       <text>If an ex parte communication occurs between a party and the arbitrator, the arbitrator shall notify the other party of the date, time, place, and content of the communication. If the communication occurs after the arbitration hearing and before rendering of the decision, the arbitrator shall reconvene the hearing, at the request of the party who did not engage in the ex parte communication, to permit submission of further evidence and rebuttal by both parties.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -222,9 +232,11 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Transcription. A party may request in writing to the Arbitration Administrator that a verbatim record of all or part of the hearing be made and transcribed. This request shall be received not later than 5 days before the scheduled hearing, and shall include an agreement to pay all costs of transcription. The Arbitration Administrator may require these costs to be advanced by the requesting party. Upon this request, the Arbitration Administrator will arrange for a reporter to be present or for the tape recording of the hearing. Once prepared, the transcript will be made available to all parties on request, and a copy will be preserved by the Arbitration Administrator.</text>
+      <text>Transcription. A party may request in writing to the Arbitration Administrator that a verbatim record of all or part of the hearing be made and transcribed. This request shall be submitted with the agreement to arbitrate, and shall include an agreement to pay all costs of transcription. The Arbitration Administrator may require these costs to be advanced by the requesting party. Upon this request, the Arbitration Administrator will arrange for a reporter to be present or for the  recording of the hearing. Once prepared, the transcript will be made available to all parties on request, and a copy will be preserved by the Arbitration Administrator.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -260,17 +272,23 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Notice. The arbitrator shall promptly submit the arbitration decision to the Arbitration Administrator. The Arbitration Administrator shall promptly deliver to the parties, by certified mail, return receipt requested, a copy of the award, along with an explanation of the parties' rights to appeal under the Maryland Uniform Arbitration Act.</text>
+      <text>Attorney’s Fees. An award may not include attorney’s fees.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Settlement. If the parties settle the dispute before the award, the arbitrator shall set forth the terms of the settlement in an award, which shall have the same effect as any other award.</text>
+      <text>Notice. The arbitrator shall promptly submit the arbitration decision to the Arbitration Administrator. The Arbitration Administrator shall promptly deliver to the parties, by certified mail, return receipt requested, a copy of the award, along with an explanation of the parties' rights to appeal under the Maryland Uniform Arbitration Act.</text>
     </para>
     <para>
       <num>F.</num>
+      <text>Settlement. If the parties settle the dispute before the award, the arbitrator shall set forth the terms of the settlement in an award, which shall have the same effect as any other award.</text>
+    </para>
+    <para>
+      <num>G.</num>
       <text>Enforcement. If there has not been compliance with an award and no timely appeal has been taken, the Consumer Protection Division may seek confirmation of the decision in the appropriate court.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -286,5 +304,13 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-07-15">Regulations <cite path="|02|01|06|.01">.01</cite>—<cite path="|02|01|06|.10">.10</cite> repealed effective July 15, 1985 (12:14 Md. R. 1429)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-07-15" discontinuity="true">Regulations <cite path="|02|01|06|.01">.01</cite>—<cite path="|02|01|06|.11">.11</cite> adopted effective July 15, 1985 (12:14 Md. R. 1429)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-02-27" discontinuity="true">Chapter revised effective February 27, 2006 (33:4 Md. R. 351)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.01|B.">Regulation .01B</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.05|C.">Regulation .05C</cite>, D amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.06">Regulation .06</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.07|F.">Regulation .07F</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.08|A.">Regulation .08A</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.09|B.">Regulation .09B</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.10">Regulation .10</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
   </annotations>
 </container>

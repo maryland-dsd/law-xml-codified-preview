@@ -7,8 +7,10 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Purpose.</heading>
-    <text>This chapter is intended to carry out the provisions of Business Regulation Article, §§<cite doc="Md. Code" path="gbr|2-106">2-106</cite>.3 and 2-106.4, Annotated Code of Maryland, and <cite doc="Md. Code" path="gbo">Business Occupations and Professions Article, Title 17, Annotated Code of Maryland</cite>. In particular, it is intended to set various fees in order to cover the actual documented direct and indirect costs of fulfilling the statutory and regulatory duties of the Real Estate Commission.</text>
-    <annotations/>
+    <text>This chapter is intended to carry out the provisions of Business Regulation Article, §§<cite doc="Md. Code" path="gbr|2-106">2-106</cite>.<cite doc="Md. Code" path="gbr|3">3</cite> and <cite doc="Md. Code" path="gbr|2-106">2-106</cite>.4, Annotated Code of Maryland, and <cite doc="Md. Code" path="gbo">Business Occupations and Professions Article, Title 17, Annotated Code of Maryland</cite>. In particular, it is intended to set various fees in order to cover the actual documented direct and indirect costs of fulfilling the statutory and regulatory duties of the Real Estate Commission.</text>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -53,7 +55,15 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Reinstatement of license/late fee — $168;</text>
+      <text>Reinstatement fees:</text>
+      <para>
+        <num>(1)</num>
+        <text>Reinstatement of license—$168;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>CE Late fee—$75;</text>
+      </para>
     </para>
     <para>
       <num>E.</num>
@@ -79,12 +89,21 @@
         <text>For full history — $84.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>I.</num>
+      <text>CE Course Approval—$25.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article, §§<cite doc="Md. Code" path="gbo|17-213">17-213</cite> and <cite doc="Md. Code" path="gbo|17-403">17-403</cite>; Business Regulation Article, §§<cite doc="Md. Code" path="gbr|2-106">2-106</cite>.3 and 2-106.4; <br/>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article, §§<cite doc="Md. Code" path="gbo|17-213">17-213</cite>, <cite doc="Md. Code" path="gbo|17-314">17-314</cite>, <cite doc="Md. Code" path="gbo|17-315">17-315</cite>, and <cite doc="Md. Code" path="gbo|17-403">17-403</cite>; Business Regulation Article, §§<cite doc="Md. Code" path="gbr|2-106">2-106</cite>.<cite doc="Md. Code" path="gbr|3">3</cite> and <cite doc="Md. Code" path="gbr|2-106">2-106</cite>.4; <br/>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-01">Effective date: March 1, 2009 (36:4 Md. R. 353)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|09|11|09|.02">Regulation .02</cite> amended effective January 2, 2017 (43:26 Md. R. 1443); April 29, 2024 (51:8 Md. R. 366); April 28, 2025 (52:8 Md. R. 357)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-11"><cite path="|09|11|09|.02|A.">Regulation .02A</cite>, B amended effective January 11, 2016 (42:26 Md. R. 1594)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|09|11|09|.02|D.">Regulation .02D</cite> amended effective April 27, 2026 (53:8 Md. R. 355)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|09|11|09|.02|I.">Regulation .02I</cite> adopted effective April 27, 2026 (53:8 Md. R. 355)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" type="History" display="false"/>
   </annotations>
 </container>

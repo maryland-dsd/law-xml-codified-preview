@@ -414,7 +414,7 @@
       <text>A Fill Request Slip shall be a two-part form on which the following information shall be recorded:</text>
       <para>
         <num>(1)</num>
-        <text>The date, time and shift of preparation;</text>
+        <text>The date and time of preparation;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -617,7 +617,9 @@
         <text>If applicable, the electronically stored data and accounting copies of the Fill Slips.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="36|05|03|.05">
     <prefix>Regulation</prefix>
@@ -636,7 +638,7 @@
       <text>A Credit Request Slip shall be a two-part form on which the following information shall be recorded:</text>
       <para>
         <num>(1)</num>
-        <text>The date, time and shift of preparation;</text>
+        <text>The date and time of preparation;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -847,7 +849,9 @@
         <text>The electronically stored data and accounting copies of Credit Slips, if applicable.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2758,6 +2762,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-10-07"><cite path="|36|05|03|.02">Regulation .02</cite> amended effective October 7, 2019 (46:20 Md. R. 848)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-02-16"><cite path="|36|05|03|.03|F.">Regulation .03F</cite> amended effective February 16, 2015 (42:3 Md. R. 319)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-23"><cite path="|36|05|03|.03|H.">Regulation .03H</cite> amended effective October 23, 2017 (44:21 Md. R. 985)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|05|03|.04|C.">Regulation .04C</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|05|03|.05|C.">Regulation .05C</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-02-16"><cite path="|36|05|03|.05|P.">Regulation .05P</cite> amended effective February 16, 2015 (42:3 Md. R. 319)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-09-26"><cite path="|36|05|03|.11">Regulation .11</cite> amended effective January 7, 2016 (42:26 Md. R. 1597); September 26, 2016 (43:19 Md. R. 1073)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-10-22"><cite path="|36|05|03|.11|L.">Regulation .11L</cite> amended effective October 22, 2018 (45:21 Md. R. 976)</annotation>
@@ -2778,5 +2784,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-10-10"><cite path="|36|05|03|.29">Regulation .29</cite> adopted effective October 10, 2016 (43:20 Md. R. 1111)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-10-10"><cite path="|36|05|03|.30">Regulation .30</cite> adopted effective October 10, 2016 (43:20 Md. R. 1111)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-10-10"><cite path="|36|05|03|.31">Regulation .31</cite> adopted effective October 10, 2016 (43:20 Md. R. 1111)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
   </annotations>
 </container>

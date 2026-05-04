@@ -3,7 +3,7 @@
   <prefix>Chapter</prefix>
   <num>10</num>
   <heading>Non-Voting Hours Procedures</heading>
-  <section>
+  <section cache:ref-path="33|07|10|.01">
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Ballot Box Return and Inspection.</heading>
@@ -13,11 +13,19 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Reception Team to Receive. The sealed or locked ballot boxes from the polling places shall be received by a reception team.</text>
+      <text>Reception Team to Receive. The sealed ballot boxes from the polling places shall be received by a reception team.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Marking. Each ballot box shall be marked as having been inspected before it is delivered to a ballot reception team.</text>
+      <text>Marking.</text>
+      <para>
+        <num>(1)</num>
+        <text>Each ballot box shall be marked as having been inspected before it is delivered to a ballot reception team; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each ballot box shall be marked with the batch label prior to certification in <cite path="33|07|10|.01|D.">§D of this regulation</cite>.</text>
+      </para>
     </para>
     <para>
       <num>D.</num>
@@ -27,7 +35,7 @@
         <text>The reception team shall:</text>
         <para>
           <num>(a)</num>
-          <text>Inspect each ballot box and its seal or lock; and</text>
+          <text>Inspect each ballot box and its seal; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -43,19 +51,25 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The seal number, if a seal is used;</text>
+          <text>The seal number;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The condition of seal or lock; and</text>
+          <text>The condition of seal;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Any defects observed.</text>
+          <text>Any defects observed; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The batch label.</text>
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -72,7 +86,9 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>) and <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|2-102">2-102</cite>(b)(<cite doc="Md. Code" path="gel|4">4</cite>), <cite doc="Md. Code" path="gel|2-202">2-202</cite>(b), and <cite doc="Md. Code" path="gel|11-309">11-309</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-29">Effective date: February 29, 2016 (43:3 Md. R. 334)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|33|07|10|.01">Regulation .01</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
   </annotations>
 </container>

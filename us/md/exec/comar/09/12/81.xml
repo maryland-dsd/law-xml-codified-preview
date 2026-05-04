@@ -774,7 +774,9 @@
       <num>DD.</num>
       <text>ASME A17.1-2019/CSA B44-19 (Revision of ASME A17.1-2016 and CSA B44-16) Safety Code for Elevators and Escalators is incorporated by reference.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-17" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-294-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -998,7 +1000,9 @@
       <num>F.</num>
       <text>Inclined Stairway Chairlift. The edge of the lift's foot rest, facing the upper landing, may not extend more than 12 inches above a step or landing as measured vertically.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-17" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-294-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|12|81|.03">
     <prefix>Regulation</prefix>
@@ -1305,7 +1309,9 @@
       <num>C.</num>
       <text>When the Commissioner requires records to be filed electronically, they shall be filed in comma delimited or tab delimited format, except when to do so would pose an undue burden.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-17" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-294-F-I" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|12|81|.07">
     <prefix>Regulation</prefix>
@@ -1481,5 +1487,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|09|12|81|.06|B.">Regulation .06B</cite>, C amended as an emergency provision effective October 15, 2007 (34:23 Md. R. 2019); amended permanently effective February 25, 2008 (35:4 Md. R. 514)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-11-16"><cite path="|09|12|81|.07">Regulation .07</cite> adopted as an emergency provision effective August 21, 2009 (36:19 Md. R. 1433); adopted permanently effective November 16, 2009 (36:23 Md. R. 1816)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-11-16"><cite path="|09|12|81|.08">Regulation .08</cite> adopted as an emergency provision effective August 21, 2009 (36:19 Md. R. 1433); adopted permanently effective November 16, 2009 (36:23 Md. R. 1816)</annotation>
+    <annotation app="2026-06-17" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-294-F-I" type="History" display="false"/>
   </annotations>
 </container>

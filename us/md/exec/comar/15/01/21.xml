@@ -75,78 +75,66 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Program” means the Urban Agriculture Grant Program.</text>
+        <text>“Healthy Food Priority Area” means a census tract in which:</text>
+        <para>
+          <num>(a)</num>
+          <text>At least 25 percent of the residents qualify as low-income according to the most recent U.S. Census Bureau survey; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Accessibility to supermarkets, grocery stores, or other sources of healthy affordable food, including fresh fruits and vegetables, is limited (which may be determined using measurements and indicators that can be found in the Food Access Research Atlas published by the USDA Economic Research Service).</text>
+        </para>
       </para>
       <para>
         <num>(5)</num>
-        <text>“Qualified nonprofit organization” means a nonprofit organization that is organized and operated exclusively for exempt purposes under §501(c)(3) of the United States Code and operates a farm or community garden in an urban area.</text>
+        <text>“Program” means the Urban Agriculture Grant Program.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>“Socially disadvantaged urban farmer” means:</text>
-        <para>
-          <num>(a)</num>
-          <text>An urban agricultural producer belonging to a group that historically has been:</text>
-          <para>
-            <num>(i)</num>
-            <text>Underserved by federal or state agricultural programs; or</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Subject to racial or ethnic prejudice.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>“Socially disadvantaged urban farmer” includes urban agricultural producers who are:</text>
-          <para>
-            <num>(i)</num>
-            <text>African American;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>American Indian, Native American, or Alaska Native;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Hispanic;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>Asian or Pacific Islander; and</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>Women, regardless of race or ethnicity.</text>
-          </para>
-        </para>
+        <text>“Qualified nonprofit organization” means a nonprofit organization that is organized and operated exclusively for exempt purposes under §501(c)(3) of the United States Code and operates a farm or community garden in an urban area.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>“Steward” means the owner of the land or a person who has control and possession of the land through a written lease.</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>“Underserved community” means a census tract in which, according to the most recent U.S. Census Bureau survey, at least:</text>
+        <text>“Safe, environmentally sustainable, and socially responsible practices” include those that:</text>
         <para>
           <num>(a)</num>
-          <text>25 percent of the residents qualify as low-income;</text>
+          <text>Aim to minimize negative impacts on the environment such as practices that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Promote soil health;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Prevent soil erosion; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Manage water resources (e.g., utilize efficient irrigation techniques such as drip irrigation);</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>50 percent of the residents identify as nonwhite; or</text>
+          <text>Ensure fair treatment of workers; and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>15 percent of the residents have limited English proficiency.</text>
+          <text>Support local communities by providing locally produced fruits and vegetables.</text>
         </para>
       </para>
       <para>
+        <num>(8)</num>
+        <text>“Socially disadvantaged urban farmer” means an urban agricultural producer who is a limited resource farmer (e.g., a farmer who has low household income and low gross farm sales), and may include a beginning farmer who is similarly situated.</text>
+      </para>
+      <para>
         <num>(9)</num>
-        <text>“Urban agricultural producer” means any person that annually sells, or normally would have sold, $1,000 or more of farm products in an urban area.</text>
+        <text>“Steward” means the owner of the land or a person who has control and possession of the land through a written lease.</text>
       </para>
       <para>
         <num>(10)</num>
+        <text>“Urban agricultural producer” means any person that annually sells, or normally would have sold, $1,000 or more of farm products in an urban area.</text>
+      </para>
+      <para>
+        <num>(11)</num>
         <text>“Urban area” means an area of the State that is:</text>
         <para>
           <num>(a)</num>
@@ -158,7 +146,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -283,14 +273,16 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>To receive a grant under this program, the applicant shall demonstrate that the funds the person receives will provide a measurable community benefit; and</text>
+        <text>To receive a grant under this program, the applicant shall demonstrate that the funds the person receives will provide a measurable community benefit including, but not limited to, improving local food access; and</text>
       </para>
       <para>
         <num>(3)</num>
         <text>A grant recipient may not use more than 15 percent of the amount of the grant for operating expenses.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -320,7 +312,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Whether, and the degree to which, the project provides urban grown foods to areas designated as an underserved community.</text>
+          <text>Whether, and the degree to which, the project provides urban grown foods to urban areas designated as a Healthy Food Priority Area.</text>
         </para>
       </para>
       <para>
@@ -348,7 +340,9 @@
       <num>B.</num>
       <text>Within 30 days from receipt of an application, the Department shall notify the applicant whether the application has been approved and the amount of the grant funds awarded.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -374,7 +368,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Demonstrate that the project provides a measurable benefit to the community; and</text>
+          <text>Demonstrate that the project provides a measurable community benefit including, but not limited to, improving local food access; and</text>
         </para>
         <para>
           <num>(e)</num>
@@ -406,7 +400,9 @@
         <text>Provide a final report to the Department within 90 days after the end of the grant cycle.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -552,5 +548,10 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|2-2001">2-2001</cite> et seq.; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14">Effective date: April 14, 2025 (52:7 Md. R. 325)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|15|01|21|.02|B.">Regulation .02B</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|15|01|21|.04|B.">Regulation .04B</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|15|01|21|.05|A.">Regulation .05A</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|15|01|21|.06|A.">Regulation .06A</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
   </annotations>
 </container>

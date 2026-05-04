@@ -452,7 +452,15 @@
       <text>A sports wagering licensee shall:</text>
       <para>
         <num>(1)</num>
-        <text>Prior to commencing operations, and annually thereafter, ensure its geolocation system is tested by a Commission approved testing laboratory;</text>
+        <text>Prior to commencing operations, and annually thereafter, ensure:</text>
+        <para>
+          <num>(a)</num>
+          <text>Its geolocation system is tested by a Commission approved testing laboratory; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A report on the annual testing is submitted to the Commission no later than 120 days after the end of the licensee’s fiscal year;</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
@@ -495,7 +503,9 @@
       <num>G.</num>
       <text>In addition to the requirements in this regulation, the Commission may require a sports wagering licensee to implement other geolocation features.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="36|10|18|.05">
     <prefix>Regulation</prefix>
@@ -1064,11 +1074,19 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Ensure that a Commission approved third party described in <cite path="|36|10|18|.02|B.">Regulation .02B of this chapter</cite> conducts the testing required in §B(1) and (2) of this regulation; and</text>
+        <text>Ensure that a Commission approved third party described in <cite path="|36|10|18|.02|B.">Regulation .02B of this chapter</cite> conducts the testing required in §B(1) and (2) of this regulation;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Perform internal quarterly vulnerability scans, and retain documentation of the scan results and the actions taken to resolve identified vulnerabilities.</text>
+        <text>Ensure that the annual reporting requirement required in §B(1)—(3) of this regulation is submitted to the Commission no later than 120 days after the end of the licensee’s fiscal year;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Perform internal quarterly vulnerability scans; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Submit to the Commission documentation of the scan results and the actions taken to resolve identified vulnerabilities.</text>
       </para>
     </para>
     <para>
@@ -1103,15 +1121,20 @@
         <text>Document why remediation action is unnecessary or unsuitable.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">State Government Article, §§<cite doc="Md. Code" path="gsg|9-1">9-1</cite>E-<cite doc="Md. Code" path="gsg|01">01</cite>—9-1E-15, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13">Regulations <cite path="|36|10|18|.01">.01</cite>—<cite path="|36|10|18|.06">.06</cite> adopted as an emergency provision effective August 5, 2021 (48:18 Md. R. 690); adopted permanently effective January 13, 2022 (49:1 Md. R. 16)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|10|18|.04|E.">Regulation .04E</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|18|.04|E.">Regulation .04E</cite>, F, G adopted effective July 7, 2025 (52:13 Md. R. 657)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-25"><cite path="|36|10|18|.05|N.">Regulation .05N</cite> amended as an emergency provision effective January 26, 2022 (49:5 Md. R. 364); amended permanently effective July 25, 2022 (49:15 Md. R. 740)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|18|.05|F.">Regulation .05F</cite> amended effective July 7, 2025 (52:13 Md, R. 657)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-25"><cite path="|36|10|18|.06">Regulation .06</cite> amended as an emergency provision effective January 26, 2022 (49:5 Md. R. 364); amended permanently effective July 25, 2022 (49:15 Md. R. 740)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|10|18|.06|B.">Regulation .06B</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
   </annotations>
 </container>
