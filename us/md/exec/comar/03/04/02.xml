@@ -902,6 +902,10 @@
         </para>
         <para>
           <num>(b)</num>
+          <text>“Contributor” means an individual who contributes to a Maryland Senator Edward J. Kasemeyer Prepaid College Trust Account under <cite doc="Md. Code" path="ged|18-1903">Education Article, §18-1903, Annotated Code of Maryland</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
           <text>Investment Account.</text>
           <para>
             <num>(i)</num>
@@ -913,15 +917,15 @@
           </para>
         </para>
         <para>
-          <num>(c)</num>
-          <text>“Investment option” means the investment portfolios available to account holders in the Maryland College Investment Plan.</text>
-        </para>
-        <para>
           <num>(d)</num>
-          <text>“Qualified designated beneficiary” has the meaning stated in §529(e) of the Internal Revenue Code.</text>
+          <text>“Investment option” means the investment portfolios available to account holders in the Maryland Senator Edward J. Kasemeyer College Investment Plan.</text>
         </para>
         <para>
           <num>(e)</num>
+          <text>“Qualified designated beneficiary” has the meaning stated in §529(e) of the Internal Revenue Code.</text>
+        </para>
+        <para>
+          <num>(f)</num>
           <text>“Qualified higher education expenses” has the meaning stated in §529(e) of the Internal Revenue Code.</text>
         </para>
       </para>
@@ -934,7 +938,7 @@
         <text>Regardless of the number of investment options included in an investment account:</text>
         <para>
           <num>(a)</num>
-          <text>All contributions by an account holder on behalf of one qualified designated beneficiary constitute one investment account; and</text>
+          <text>All contributions by an account holder or contributor on behalf of one qualified designated beneficiary constitute one investment account; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -951,7 +955,7 @@
       <text>Addition Modification.</text>
       <para>
         <num>(1)</num>
-        <text>An account holder is required to add to federal adjusted gross income in computing Maryland taxable income any distribution received from the Maryland College Investment Plan in the taxable year that is not used on behalf of the qualified designated beneficiary for qualified higher education expenses.</text>
+        <text>An account holder is required to add to federal adjusted gross income in computing Maryland taxable income any distribution received from the Maryland Senator Edward J. Kasemeyer College Investment Plan in the taxable year that is not used on behalf of the qualified designated beneficiary for qualified higher education expenses.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -962,7 +966,9 @@
         <text>The cumulative amount of the addition required under this section for the taxable year and all prior taxable years may not exceed the cumulative amount allowed as a subtraction under <cite path="03|04|02|.15|B.">§B of this regulation</cite> and <cite doc="Md. Code" path="gtg|10-208">Tax-General Article, §10-208(o), Annotated Code of Maryland</cite>, for the taxable year and all prior taxable years for contributions made by an account holder to an investment account under which the distribution is received.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-14" doc="Editor Action 2026-05-14" eff="2026-05-14" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="03|04|02|.16">
     <prefix>Regulation</prefix>
@@ -1395,7 +1401,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Tax-General Article, §§<cite doc="Md. Code" path="gtg|2-103">2-103</cite>, <cite doc="Md. Code" path="gtg|10-102">10-102</cite>.1, 10-208, and 10-823, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Tax-General Article, §§<cite doc="Md. Code" path="gtg|2-103">2-103</cite>, <cite doc="Md. Code" path="gtg|10-102">10-102</cite>.<cite doc="Md. Code" path="gtg|1">1</cite>, <cite doc="Md. Code" path="gtg|10-208">10-208</cite>, and <cite doc="Md. Code" path="gtg|10-823">10-823</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-03-13">Regulations <cite path="|03|04|02|.01">.01</cite>—<cite path="|03|04|02|.05">.05</cite> adopted as an emergency provision effective November 3, 1980 (7:23 Md. R. 2159); adopted permanently effective March 13, 1981 (8:4 Md. R. 337)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-09-26">Regulations .01E—H, .02B—I, .04C, and .05A—D amended effective September 26, 1983 (10:19 Md. R. 1689)</annotation>
@@ -1438,5 +1444,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-31"><cite path="|03|04|02|.16|C.">Regulation .16C</cite> amended effective March 31, 2014 (41:6 Md. R. 377)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|03|04|02|.17">Regulation .17</cite> adopted effective March 21, 2022 (49:6 Md. R. 404)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-03-21"><cite path="|03|04|02|.18">Regulation .18</cite> adopted effective March 21, 2022 (49:6 Md. R. 404)</annotation>
+    <annotation app="2026-05-14" doc="Editor Action 2026-05-14" eff="2026-05-14" path="" type="History" display="false"/>
   </annotations>
 </container>

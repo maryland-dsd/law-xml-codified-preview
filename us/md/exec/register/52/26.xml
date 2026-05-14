@@ -1381,7 +1381,7 @@
         </codify:insert>
         <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-238-F" type="History"/>
       </container>
-      <container codify:applicability="2025-11-25" codify:expire="2026-05-24">
+      <container codify:applicability="2025-11-25" codify:expire="2026-11-20">
         <num>25-138-E</num>
         <codify:remove history="false" doc="Code of Maryland Regulations" path="26|04|12|.01" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|04|12"/>
         <codify:remove history="false" doc="Code of Maryland Regulations" path="26|04|12|.02" warning="false" codified:doc="Code of Maryland Regulations" codified:path="26|04|12"/>
@@ -1808,6 +1808,7 @@
             </annotations>
           </container>
         </codify:insert>
+        <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
       </container>
     </container>
     <container name="final">

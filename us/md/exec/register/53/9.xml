@@ -709,17 +709,17 @@
             </para>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.01">
-          <section cache:ref-path="10|39|01|.01">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.10" before="annos" codified:replace-or-insert-action="insert" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.10">
+          <section cache:ref-path="10|39|01|.10">
             <prefix>Regulation</prefix>
-            <num>.01</num>
-            <heading>0 Expiration and Renewal.</heading>
+            <num>.10</num>
+            <heading>Expiration and Renewal.</heading>
             <para>
               <num>A.</num>
               <text>Expiration.</text>
               <para>
                 <num>(1)</num>
-                <text>Unless renewed for an additional two-year term, and except as otherwise provided in <cite path="10|39|01|.01|A.|(2)" doc="Code of Maryland Regulations">§A(2) of this regulation</cite>, a certificate expires in accordance with the following schedule:</text>
+                <text>Unless renewed for an additional two-year term, and except as otherwise provided in <cite path="10|39|01|.10|A.|(2)" doc="Code of Maryland Regulations">§A(2) of this regulation</cite>, a certificate expires in accordance with the following schedule:</text>
                 <para>
                   <num>(a)</num>
                   <text>The certificate of a certificate holder with an odd-numbered birth year expires on the 28th day of the certificate holder’s birth month in an odd-numbered year; and</text>
@@ -766,7 +766,7 @@
                 </para>
                 <para>
                   <num>(d)</num>
-                  <text>If the certificate holder is required to submit to a CHRC in accordance with <cite path="10|39|01|.01|D." doc="Code of Maryland Regulations">§D of this regulation</cite>:</text>
+                  <text>If the certificate holder is required to submit to a CHRC in accordance with <cite path="10|39|01|.10|D." doc="Code of Maryland Regulations">§D of this regulation</cite>:</text>
                   <para>
                     <num>(i)</num>
                     <text>Notice that the certificate holder must submit to a CHRC in order to renew the certificate; and</text>
@@ -814,7 +814,7 @@
                 </para>
                 <para>
                   <num>(d)</num>
-                  <text>Provides satisfactory evidence, as required by the Board, of16 hours of active employment, for compensation, as a nursing assistant within the 2-year period immediately preceding the date of expiration or meet the requirements under <cite path="10|39|01|.01|C.|(2)" doc="Code of Maryland Regulations">§C(2) of this regulation</cite>; and</text>
+                  <text>Provides satisfactory evidence, as required by the Board, of16 hours of active employment, for compensation, as a nursing assistant within the 2-year period immediately preceding the date of expiration or meet the requirements under <cite path="10|39|01|.10|C.|(2)" doc="Code of Maryland Regulations">§C(2) of this regulation</cite>; and</text>
                 </para>
                 <para>
                   <num>(e)</num>
