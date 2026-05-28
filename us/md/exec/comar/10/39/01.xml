@@ -50,14 +50,15 @@
     </para>
     <para>
       <num>G.</num>
-      <text>Performs nursing tasks delegated by an advanced practice registered nurse in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, § 8-6</cite>A-02(d), Annotated Code of Maryland; or</text>
+      <text>Performs nursing tasks delegated by an advanced practice registered nurse in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-02(d), Annotated Code of Maryland; or</text>
     </para>
     <para>
       <num>H.</num>
-      <text>Performs technical tasks delegated by a licensed certified midwife in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, § 8-6</cite>A-02(e), Annotated Code of Maryland.</text>
+      <text>Performs technical tasks delegated by a licensed certified midwife in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-02(e), Annotated Code of Maryland.</text>
     </para>
     <annotations>
       <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -480,7 +481,7 @@
         <text>Verification Requirements.</text>
         <para>
           <num>(a)</num>
-          <text>For graduates of a nursing assistant or acute care nursing assistant training program, an application that has been signed by the administrator or faculty of the training program completed by the applicant;</text>
+          <text>For graduates of a nursing assistant or acute care nursing assistant training program, an application that has been signed by the program coordinator or faculty of the training program completed by the applicant;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -513,7 +514,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>If an applicant fails to meet § A(4) of this regulation, an applicant still seeking certification shall take or re-take an approved nursing assistant training program or approved acute care nursing assistant training program and comply with <cite path="10|39|01|.06|A.|(4)">§A(4) of this regulation</cite>.</text>
+        <text>If an applicant fails to meet <cite path="10|39|01|.06|A.|(4)">§A(4) of this regulation</cite>, an applicant still seeking certification shall take or re-take an approved nursing assistant training program or approved acute care nursing assistant training program and comply with <cite path="10|39|01|.06|A.|(4)">§A(4) of this regulation</cite>.</text>
       </para>
     </para>
     <para>
@@ -525,7 +526,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Pay the required fee; and</text>
+        <text>Pay the required fee to the Board; and</text>
       </para>
       <para>
         <num>(3)</num>
@@ -549,7 +550,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A record of abuse, negligence, or misappropriation of a client’s property or any disciplinary action taken or pending in any state or territory of the United States against the certification of the applicant.</text>
+        <text>A record of abuse, neglect, or misappropriation of a client’s property or any disciplinary action taken or pending in any state or territory of the United States against the certification of the applicant.</text>
       </para>
     </para>
     <para>
@@ -598,6 +599,7 @@
     </para>
     <annotations>
       <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -813,7 +815,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>If the individual applying for renewal does not have 16 hours of active employment as a nursing assistant within the 2-year period immediately preceding the date of individual the individual shall:</text>
+        <text>If the individual applying for renewal does not have 16 hours of active employment as a nursing assistant within the 2-year period immediately preceding the date of expiration the individual shall:</text>
         <para>
           <num>(a)</num>
           <text>If a CNA-I, take and pass a nursing assistant competency evaluation; or</text>
@@ -882,6 +884,7 @@
     </para>
     <annotations>
       <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -901,8 +904,7 @@
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-17, Annotated Code of Maryland; Ch. 486, Acts of 2012<br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
-    <annotation managed="false" type="Emergency Action" dest="container">53:9  26-016-E  (Regulations <cite path="|10|39|01|.01">.01</cite> — <cite path="|10|39|01|.11">.11</cite>) EMERGENCY ACTION IN EFFECT 4/3/2026 —9/30/2026</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-17, Annotated Code of Maryland; Ch. 486, Acts of 2012;<br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-02-05">Effective date: February 5, 2001 (28:2 Md. R. 100)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.01|B.">Regulation .01B</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-02-18">Regulations .02A, .06B, .09B amended as an emergency provision effective November 15, 2001 (28:24 Md. R. 2125); amended permanently effective February 18, 2002 (29:3 Md. R. 221)</annotation>
@@ -930,7 +932,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.08">Regulation .08</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.09">Regulation .09</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.09|A.">Regulation .09A</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-03" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411); amended permanently effective June 8, 2026 (53:11 Md. R. 484)</annotation>
     <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" type="History" display="false" exp="2026-09-30"/>
+    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" type="History" display="false"/>
   </annotations>
 </container>

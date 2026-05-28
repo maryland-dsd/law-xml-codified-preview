@@ -1187,7 +1187,7 @@
       <text>Open Seasons, Creel, Possession, and Size Limits on Game and Fresh Water Fish in Nontidal Waters. Except as otherwise provided in this chapter for specific areas, the following apply Statewide:</text>
       <para>
         <num>(1)</num>
-        <text class="center">Open Seasons.</text>
+        <text>Open Seasons.</text>
         <text>
           <table>
             <thead>
@@ -1206,7 +1206,7 @@
                 <td data-text-align="center">No closed season, except as provided in <cite path="|08|02|11|.01">Regulation .01 of this chapter</cite>.</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle">(c) Catfish, suckers, carp, eel, gudgeon, all species of sunfish, including bluegills, rock bass (commonly known as red eye or goggle-eye), fallfish, crappie, perch (white and yellow)</td>
+                <td data-vertical-align="middle">(c) Catfish, suckers, carp, eel, gudgeon, all species of sunfish, including bluegills, rock bass (commonly known as red eye or goggle-eye), fallfish, crappie, white perch</td>
                 <td data-text-align="center">No closed season</td>
               </tr>
               <tr>
@@ -1230,7 +1230,7 @@
                 <td data-text-align="center">No closed season</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle" class="text-indent-1">(i) Herring</td>
+                <td data-vertical-align="middle">(i) Herring</td>
                 <td data-text-align="center">No open season</td>
               </tr>
               <tr>
@@ -1250,7 +1250,7 @@
                 <td data-text-align="center">No closed season</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle" class="text-indent-1">(l) Fish caught during closed seasons shall be returned to waters of the State immediately after being caught.</td>
+                <td data-vertical-align="middle">(l) Fish caught during closed seasons shall be returned to waters of the State immediately after being caught.</td>
                 <td/>
               </tr>
               <tr>
@@ -1323,7 +1323,7 @@
                 <td/>
               </tr>
               <tr>
-                <td data-vertical-align="middle" class="text-indent-1">(i) American (white) and hickory shad</td>
+                <td data-vertical-align="middle">(i) American (white) and hickory shad</td>
                 <td data-text-align="center" data-vertical-align="middle">Closed season — none permitted</td>
                 <td/>
               </tr>
@@ -1348,7 +1348,7 @@
                 <td data-text-align="center" data-vertical-align="middle">4, only 1 of which may be over 30 inches</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle" class="text-indent-1">(l) Gudgeon</td>
+                <td data-vertical-align="middle">(l) Gudgeon</td>
                 <td data-text-align="center" data-vertical-align="middle">No daily limit</td>
                 <td/>
               </tr>
@@ -1384,12 +1384,22 @@
               </tr>
               <tr>
                 <td data-vertical-align="middle">(s) Yellow Perch</td>
-                <td data-text-align="center" data-vertical-align="middle">10</td>
-                <td data-text-align="center" data-vertical-align="middle">20</td>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>(i) Nontidal streams and rivers</td>
+                <td data-text-align="center">5</td>
+                <td data-text-align="center">5</td>
+              </tr>
+              <tr>
+                <td>(ii) Nontidal lakes and ponds</td>
+                <td data-text-align="center">10</td>
+                <td data-text-align="center">20</td>
               </tr>
               <tr>
                 <td data-vertical-align="middle">(t) Bivalve/shellfish (mussels and clams)</td>
-                <td data-vertical-align="middle">Closed season — none permitted</td>
+                <td data-text-align="center" data-vertical-align="middle">Closed season — none permitted</td>
                 <td/>
               </tr>
               <tr>
@@ -1460,7 +1470,7 @@
                 <td data-vertical-align="middle">No minimum size</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle" class="text-indent-1">(i) Trout (all species)</td>
+                <td data-vertical-align="middle">(i) Trout (all species)</td>
                 <td data-vertical-align="middle">No minimum size</td>
               </tr>
               <tr>
@@ -1472,7 +1482,7 @@
                 <td data-vertical-align="middle">No minimum size</td>
               </tr>
               <tr>
-                <td data-vertical-align="middle" class="text-indent-1">(l) White Perch</td>
+                <td data-vertical-align="middle">(l) White Perch</td>
                 <td data-vertical-align="middle">No minimum size</td>
               </tr>
               <tr>
@@ -1744,7 +1754,9 @@
       <num>P.</num>
       <text>In addition to any requirements in this chapter, gear may only be used in accordance with the requirements in <cite path="|08.02.25">COMAR 08.02.25</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-026-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2277,7 +2289,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-205">4-205</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>.2, 4-219, 4-221, 4-402, 4-602, 4-603, 4-614, 4-616, 4-745, 5-209, and 10-808, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-205">4-205</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>.<cite doc="Md. Code" path="gnr|2">2</cite>, <cite doc="Md. Code" path="gnr|4-219">4-219</cite>, <cite doc="Md. Code" path="gnr|4-221">4-221</cite>, <cite doc="Md. Code" path="gnr|4-402">4-402</cite>, <cite doc="Md. Code" path="gnr|4-602">4-602</cite>, <cite doc="Md. Code" path="gnr|4-603">4-603</cite>, <cite doc="Md. Code" path="gnr|4-614">4-614</cite>, <cite doc="Md. Code" path="gnr|4-616">4-616</cite>, <cite doc="Md. Code" path="gnr|4-745">4-745</cite>, <cite doc="Md. Code" path="gnr|5-209">5-209</cite>, and <cite doc="Md. Code" path="gnr|10-808">10-808</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective dates:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-12-31"><cite path="|08|02|11|.01">Regulation .01</cite> amended effective August 24, 1979 (6:17 Md. R. 1394); December 31, 1984 (11:26 Md. R. 2278)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-01-17"><cite path="|08|02|11|.01|A.">Regulation .01A</cite> amended effective February 19, 1975 (2:4 Md. R. 227); January 1, 1978 (4:23 Md. R. 1731); November 14, 1980 (7:23 Md. R. 2165); January 17, 1983 (10:1 Md. R. 27)</annotation>
@@ -2394,7 +2406,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-17"><cite path="|08|02|11|.04">Regulation .04</cite> amended effective January 1, 2008 (34:24 Md. R. 2157); October 17, 2011 (38:21 Md. R. 1277)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-01"><cite path="|08|02|11|.04">Regulation .04</cite> amended as an emergency provision effective July 1, 2013 (40:15 Md. R. 1221); emergency status expired December 23, 2013</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13"><cite path="|08|02|11|.04">Regulation .04</cite> amended effective December 23, 2013 (40:25 Md. R. 2067); December 22, 2014 (41:25 Md. R. 1477); February 13, 2017 (44:3 Md. R. 188)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-01-22"><cite path="|08|02|11|.04|A.">Regulation .04A</cite> amended effective January 1, 2007 (33:26 Md. R. 1996); January 18, 2016 (43:1 Md. R. 13); November 4, 2019 (46:22 Md. R. 976); January 1, 2021 (47:25 Md. R. 1067); January 22, 2024 (51:1 Md. R. 15)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|08|02|11|.04|A.">Regulation .04A</cite> amended effective January 1, 2007 (33:26 Md. R. 1996); January 18, 2016 (43:1 Md. R. 13); November 4, 2019 (46:22 Md. R. 976); January 1, 2021 (47:25 Md. R. 1067); January 22, 2024 (51:1 Md. R. 15); June 8, 2026 (53:11 Md. R. 484)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-01-01"><cite path="|08|02|11|.04|B.">Regulation .04B</cite> amended effective January 1, 2007 (33:26 Md. R. 1996)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-01-26"><cite path="|08|02|11|.04|C.">Regulation .04C</cite> amended effective January 1, 2003 (29:21 Md. R. 1645); January 1, 2004 (30:21 Md. R. 1528); January 1, 2005 (31:21 Md. R. 1544); January 1, 2006 (32:23 Md. R. 1825); January 1, 2007 (33:26 Md. R. 1996); January 1, 2009 (35:24 Md. R. 2077); January 26, 2009 (36:2 Md. R. 99)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-01-01"><cite path="|08|02|11|.04|C.">Regulation .04C</cite>, K amended effective January 1, 2010 (36:24 Md. R. 1857)</annotation>
@@ -2432,5 +2444,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-17"><cite path="|08|02|11|.11">Regulation .11</cite> repealed effective October 17, 2011 (38:21 Md. R. 1276)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01" discontinuity="true">Annotation: This chapter was formerly <cite path="|08.02.22">COMAR 08.02.22</cite>. It was transferred to <cite path="|08.03.02">COMAR 08.03.02</cite> when the Fisheries Administration was abolished by Ch. 162, Acts of 1981, effective July 1, 1981. It was again transferred to <cite path="|08.02.11">COMAR 08.02.11</cite> in 1984 due to Department reorganization.</annotation>
     <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-241-F" type="History" display="false"/>
+    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-026-F" type="History" display="false"/>
   </annotations>
 </container>

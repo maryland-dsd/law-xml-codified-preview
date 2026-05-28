@@ -1,0 +1,1216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>10</num>
+  <heading>Maryland Public Charter School Program</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose.</heading>
+    <text>The general purpose of the Maryland Public Charter School Program is to establish an alternative means within the existing public school system in order to provide innovative learning opportunities and creative educational approaches to improve the education of students.</text>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Buy back” means a good or service that a public charter school elects to purchase from the local school system.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“In-kind service” means a service offered by the local school system to a public charter school and accepted by the public charter school without charge.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Public charter school” means a public school that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is nonsectarian in all its programs, policies, and operations;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is a school to which parents choose to send their children;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Except as provided in Education Article, §§
+                      <cite doc="Md. Code" path="ged|9-102">9-102</cite>.
+                      <cite doc="Md. Code" path="ged|1">1</cite>,
+                      <cite doc="Md. Code" path="ged|9-102">9-102</cite>.
+                      <cite doc="Md. Code" path="ged|2">2</cite>, and
+                      <cite doc="Md. Code" path="ged|9-102">9-102</cite>.3, Annotated Code of Maryland, is open to all students on a space-available basis and admits students on a lottery basis if more students apply than can be accommodated;
+                    </text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Is a new public school or a conversion of an existing public school;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Provides a program of elementary or secondary education or both;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Operates in pursuit of a specific set of educational objectives;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Is tuition-free;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Is subject to federal and State laws prohibiting discrimination;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Is in compliance with all applicable health and safety laws;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Is in compliance with
+                      <cite doc="Md. Code" path="ged|9-107">Education Article, §9-107, Annotated Code of Maryland</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Operates under the supervision of the public chartering authority from which its charter is granted and in accordance with its charter and, except as provided in Education Article, §§
+                      <cite doc="Md. Code" path="ged|9-104">9-104</cite>.
+                      <cite doc="Md. Code" path="ged|1">1</cite> and
+                      <cite doc="Md. Code" path="ged|9-106">9-106</cite>, Annotated Code of Maryland, the provisions of law and regulation governing other public schools;
+                    </text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Requires students to be physically present on school premises for a period of time substantially similar to that which other public school students spend on school premises; and</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Is created in accordance with
+                      <cite doc="Md. Code" path="ged">Education Article, Title 9, Annotated Code of Maryland</cite>, this chapter, and the appropriate local board policy.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Special education adjustment” means an amount that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Equals the difference between:</text>
+          <para>
+            <num>(i)</num>
+            <text>A local school system’s actual expenditures on special education services and special education transportation during the prior fiscal year; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The local, State, and federal revenue dedicated to those costs that the local school system received the prior fiscal year; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is allocated to meet the needs of students with disabilities in the local school system, including students with disabilities enrolled in public charter schools.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.03">
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Waivers for Public Charter Schools on Federal Military Bases.</heading>
+    <para>
+      <num>A.</num>
+      <text>The State Board may grant a waiver from
+                  <cite doc="Md. Code" path="ged|9-102">Education Article, §9-102(3), Annotated Code of Maryland</cite>, to a public charter school if the public charter school:
+                </text>
+      <para>
+        <num>(1)</num>
+        <text>Is located on property within a federal military base in the State; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Will admit students with parents who are not assigned to the base to at least 35 percent of its total available space as part of the initial cohort of students in a grade.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a public charter school is granted a waiver under
+                  <cite path="13A|02|10|.03|A.">§A of this regulation</cite>, subject to the requirement set forth in
+                  <cite path="13A|02|10|.03|A.|(2)">§A(2) of this regulation</cite>, the public charter school shall:
+                </text>
+      <para>
+        <num>(1)</num>
+        <text>Admit all students on a lottery basis in accordance with
+                    <cite doc="Md. Code" path="ged|9-102">Education Article, §9-102</cite>.2, Annotated Code of Maryland; and
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Take reasonable steps to maintain the 35 percent to 65 percent ratio intended as part of the initial cohort of students in a grade.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.04">
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Admission of Students on a Lottery Basis.</heading>
+    <para>
+      <num>A.</num>
+      <text>A public charter school may give greater weight to a student’s lottery status as part of a lottery held under
+                  <cite doc="Md. Code" path="ged|9-102">Education Article, §9-102(3), Annotated Code of Maryland</cite>, and in accordance with an application submitted under
+                  <cite doc="Md. Code" path="ged|9-104">Education Article, §9-104, Annotated Code of Maryland</cite>, if the student is:
+                </text>
+      <para>
+        <num>(1)</num>
+        <text>Eligible for free or reduced price meals;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A student with disabilities;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A student with limited English proficiency;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Homeless, as defined by the federal McKinney-Vento Homeless Assistance Act; or</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A sibling of a student currently enrolled in the public charter school for which the sibling is applying.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notwithstanding
+                  <cite doc="Md. Code" path="ged|9-102">Education Article, §9-102(3), Annotated Code of Maryland</cite>, a public charter school may give priority to the sibling of a student admitted through the lottery process or a currently enrolled student for any spaces in the school that become available throughout the school year.
+                </text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Geographic Attendance Area.</text>
+      <para>
+        <num>(1)</num>
+        <text>Subject to the approval of the public chartering authority, a public charter school may propose a geographic attendance area with a median income that is equal to or less than the median income of the county for the public charter school.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Subject to
+                    <cite path="13A|02|10|.04|C.|(4)">§C(4) of this regulation</cite>, a public charter school may provide guaranteed placement through a lottery to students who live within the geographic attendance area for up to 35 percent, as proposed by the public charter school and approved by the public chartering authority, of the available space of the public charter school.
+                  </text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Subject to §§C(2) and (4) of this regulation, the public charter school shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Admit students on a lottery basis to its remaining available space; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Take reasonable steps to maintain the ratio intended under
+                      <cite path="13A|02|10|.04|C.|(2)">§C(2) of this regulation</cite> as part of the initial cohort of students accepted through the lottery process.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If a public charter school does not fill 100 percent of its available space under §§C(2) and (3) of this regulation, the public charter school may admit more than the percentage of students established under
+                    <cite path="13A|02|10|.04|C.|(2)">§C(2) of this regulation</cite> from the geographic attendance area established under this regulation.
+                  </text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Guaranteed Placement Through Lottery.</text>
+      <para>
+        <num>(1)</num>
+        <text>Subject to the approval of the public chartering authority,
+                    <cite path="13A|02|10|.04|D.|(2)">§D(2) of this regulation</cite>, and
+                    <cite doc="Md. Code" path="ged|9-104">Education Article,  §9-104, Annotated Code of Maryland</cite>, a public charter school may provide guaranteed placement through a lottery to up to 35 percent, as proposed by the public charter school and approved by the public chartering authority, of the available space of the public charter school to students who attended a public charter school during the previous school year that is operated by the same operator.
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A public charter school shall qualify under
+                    <cite path="13A|02|10|.04|D.|(1)">§D(1) of this regulation</cite> if:
+                  </text>
+        <para>
+          <num>(a)</num>
+          <text>The operator operates two or more public charter schools in the county; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>When combined, the public charter schools operated by the operator form an integrated multiyear academic program.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Subject to
+                    <cite path="13A|02|10|.04|D.|(1)">§D(1) of this regulation</cite>, the public charter school shall:
+                  </text>
+        <para>
+          <num>(a)</num>
+          <text>Admit students on a lottery basis to its remaining available space; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Take reasonable steps to maintain the ratio intended under
+                      <cite path="13A|02|10|.04|D.|(1)">§D(1) of this regulation</cite> as part of the initial cohort of students accepted through the lottery process.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If a public charter school does not fill 100 percent of its available space under §§D(1) and (3) of this regulation, the public charter school may admit more than the percentage of students established under
+                    <cite path="13A|02|10|.04|D.|(1)">§D(1) of this regulation</cite>.
+                  </text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Each local school system shall collaborate with the public charter schools in its jurisdiction to develop, or have the public charter schools develop, a process through which the parent or guardian of a student may apply for admission to every public charter school in the jurisdiction using a single application.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Waiver for Converted Public Charter Schools.</heading>
+    <para>
+      <num>A.</num>
+      <text>A local board may grant a waiver from
+                  <cite doc="Md. Code" path="ged|9-102">Education Article, §9-102(3), Annotated Code of Maryland</cite>, to:
+                </text>
+      <para>
+        <num>(1)</num>
+        <text>A converted public charter school that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Subject to
+                      <cite path="13A|02|10|.05|B.">§B of this regulation</cite>, provides guaranteed placement through a lottery to students who live within the geographic attendance area established by the local board;
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is a low-performing school as identified by the local board;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is above the county average rate for the percentage of students who are eligible for free and reduced price meals; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Meets a strategic need of the local school system, as identified in the local board’s public charter school policy developed under
+                      <cite doc="Md. Code" path="ged|9-110">Education Article, §9-110, Annotated Code of Maryland</cite>, that shall include at least one of the following elements:
+                    </text>
+          <para>
+            <num>(i)</num>
+            <text>Serving a high-need population;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Increasing student performance;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Increasing enrollment; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Increasing student diversity; or</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A converted public charter school that is seeking renewal of an existing charter contract that was granted under
+                    <cite path="13A|02|10|.05|A.|(1)">§A(1) of this regulation</cite>.
+                  </text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a public charter school does not fill 100 percent of its available space under
+                  <cite path="13A|02|10|.05|A.|(1)">§A(1) of this regulation</cite>, the public charter school shall admit students on a lottery basis to its remaining available space.
+                </text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Chartering Authority.</heading>
+    <text>The public chartering authority for the granting of a charter shall be a local board of education.</text>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Applications to Establish Public Charter Schools.</heading>
+    <para>
+      <num>A.</num>
+      <text>Submission of Applications by Eligible Schools and Entities.</text>
+      <para>
+        <num>(1)</num>
+        <text>An application to establish a public charter school shall be submitted to the local board of the county in which the public charter school will be located.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An application to establish a public charter school may be submitted to a local board by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The staff of a public school;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A parent or guardian of a student who attends a public school in the county;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A nonsectarian nonprofit entity;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A nonsectarian institution of higher education in the State; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any combination of persons specified in
+                      <cite path="13A|02|10|.07|A.|(2)">§A(2) of this regulation</cite>.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An application shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>A plan to provide a rigorous program of instruction that includes an equivalent method for satisfying any requirements from which the public charter school operator intends to seek a waiver under
+                      <cite doc="Md. Code" path="ged|9-106">Education Article, §9-106, Annotated Code of Maryland</cite>; and
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A description of how a weighted lottery or the provision of guaranteed placement will be implemented under Education Article, §§
+                      <cite doc="Md. Code" path="ged|9-102">9-102</cite>.
+                      <cite doc="Md. Code" path="ged|2">2</cite> and
+                      <cite doc="Md. Code" path="ged|9-102">9-102</cite>.3, Annotated Code of Maryland.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A public chartering authority may not grant a charter under this chapter to:</text>
+        <para>
+          <num>(a)</num>
+          <text>A private school;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A parochial school;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A home school; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A school that operates fully online.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Timeline for Decision.</text>
+        <para>
+          <num>(a)</num>
+          <text>Except as provided in
+                      <cite path="13A|02|10|.07|A.|(5)|(b)">§A(5)(b) of this regulation</cite>, the local board shall review the application and render a decision within 120 days of receipt of the application and in accordance with the application procedures adopted by the local board.
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For a restructured school:</text>
+          <para>
+            <num>(i)</num>
+            <text>The local board shall review the application and render a decision within 30 days of receipt of the application;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The local board may apply to the State Board for an extension of up to 15 days;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If an extension is not granted, and 30 days have elapsed, the decision may be appealed to the State Board in accordance with
+                        <cite doc="Md. Code" path="ged|4-205">Education Article, §4-205(c), Annotated Code of Maryland</cite>; and
+                      </text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If an extension has been granted, and 45 days have elapsed, the decision may be appealed to the State Board in accordance with
+                        <cite doc="Md. Code" path="ged|4-205">Education Article, §4-205(c), Annotated Code of Maryland</cite>.
+                      </text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Contingent Approval.</text>
+        <para>
+          <num>(a)</num>
+          <text>A public chartering authority may approve an application to operate a public charter school on a contingent basis subject to the conditions of
+                      <cite path="13A|02|10|.07|A.|(6)|(b)">§A(6)(b) of this regulation</cite>.
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The contingent approval granted under
+                      <cite path="13A|02|10|.07|A.|(6)|(a)">§A(6)(a) of this regulation</cite> may be contingent on:
+                    </text>
+          <para>
+            <num>(i)</num>
+            <text>A public charter school’s ability to meet any timelines established by the public chartering authority for the securing of a facility; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Final approval by the public chartering authority regarding the suitability of the facility secured by the public charter school.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Separate Consideration of Weighted Lottery Process.</text>
+      <para>
+        <num>(1)</num>
+        <text>If an application to establish a public charter school includes a description of the implementation of a weighted lottery that gives priority to students in a specific geographic attendance area in accordance with
+                    <cite doc="Md. Code" path="ged|9-102">Education Article, §9-102</cite>.2 or 9-102.3, Annotated Code of Maryland, the public chartering authority may approve or reject this provision separately from the application as a whole.
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A decision of a public chartering authority under
+                    <cite path="13A|02|10|.07|B.|(1)">§B(1) of this regulation</cite> may not be appealed to the State Board.
+                  </text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Inclusion of Staffing Model.</text>
+      <para>
+        <num>(1)</num>
+        <text>An application to establish a public charter school may include a staffing model, including provisions for staff recruitment, training, evaluation, and professional development.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A public charter school may submit a staffing model with a renewal application or with an amendment to an existing charter.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Denial of Application and Appeals.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the local board denies an application to establish a public charter school, the applicant may appeal the decision to the State Board, in accordance with
+                    <cite doc="Md. Code" path="ged|4-205">Education Article, §4-205(c), Annotated Code of Maryland</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The State Board shall render a decision within 120 days of the filing of an appeal.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the local board denies an application to establish a public charter school and the State Board reverses the decision, the State Board shall remand the matter to the local board and may direct the local board to grant a charter and may, if necessary, mediate with the local board and the applicant to implement the charter.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.08">
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Renewal of Certain Public Charter School Contracts.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this regulation, “eligible public charter school” means a public charter school that has been in existence for at least 5 years and demonstrates to the public chartering authority a history of:</text>
+      <para>
+        <num>(1)</num>
+        <text>Sound fiscal management; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Student achievement that exceeds the average in the local school system in which the public charter school is located on:</text>
+        <para>
+          <num>(a)</num>
+          <text>Statewide assessments; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Other measures developed by the State Board.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Submission of Application to Public Chartering Authority:</text>
+      <para>
+        <num>(1)</num>
+        <text>An eligible public charter school may submit to a public chartering authority:</text>
+        <para>
+          <num>(a)</num>
+          <text>An application for renewal of an existing charter contract that incorporates the provisions of
+                      <cite path="13A|02|10|.08|D.">§D of this regulation</cite>; or
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Subject to
+                      <cite path="13A|02|10|.08|B.|(2)">§B(2) of this regulation</cite>, an application for an addendum to an existing charter contract that incorporates the provisions of
+                      <cite path="13A|02|10|.08|D.">§D of this regulation</cite>.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An eligible public charter school may not submit an application under
+                    <cite path="13A|02|10|.08|B.|(1)|(b)">§B(1)(b) of this regulation</cite> more than one time during the duration of an existing charter contract.
+                  </text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If the public chartering authority determines that a public charter school is not an eligible public charter school, the public charter school may appeal the decision to the State Board in accordance with
+                  <cite doc="Md. Code" path="ged|4-205">Education Article, §4-205(c), Annotated Code of Maryland</cite>.
+                </text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If an eligible public charter school and a public chartering authority mutually agree to an alternative means by which the eligible public charter school will satisfy the intent of the policies of the public chartering authority, an eligible public charter school is exempt from:</text>
+      <para>
+        <num>(1)</num>
+        <text>Textbook, instructional program, curriculum, professional development, and scheduling requirements;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A requirement to establish a school community council;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Except for Title I schools, a requirement to establish a school improvement plan;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Except for schools with a school activity fund, a requirement to provide school activity fund disclosure statements; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Except for prekindergarten classes, class size or staffing ratios.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A public chartering authority and an eligible public charter school may jointly develop and mutually agree to a communication process and supervision methodology that flows among the local board, the operator, and the administration of the eligible public charter school.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Assignment of Staff.</text>
+      <para>
+        <num>(1)</num>
+        <text>An eligible public charter school may not be assigned a principal without the written consent of the operator of the eligible public charter school.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Staff Assignment and Transfer.</text>
+        <para>
+          <num>(a)</num>
+          <text>Staff members shall be assigned or transferred to an eligible public charter school if the staff member expresses in writing that the staff member wants to work in that eligible public charter school and the eligible public charter school requests in writing that the staff member be assigned or transferred to the eligible public charter school, provided there is an existing vacancy.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A transfer authorized under
+                      <cite path="13A|02|10|.08|F.|(2)|(a)">§F(2)(a) of this regulation</cite> shall take place as designated by the agreement of the local bargaining unit in the local school system.
+                    </text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Nothing in this regulation may be construed to take precedence over an agreement of a local bargaining unit in a local school system.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Except as otherwise provided in this regulation, an eligible public charter school is subject to the provisions of this chapter.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Certification of Professional Staff Required.</heading>
+    <text>A member of the professional staff of a public charter school shall be subject to the same certification provisions established in regulations for the professional staff of other public schools.</text>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.10">
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Compliance with Laws and Regulations Governing Other Public Schools Required.</heading>
+    <para>
+      <num>A.</num>
+      <text>Subject to
+                  <cite path="13A|02|10|.10|B.">§B of this regulation</cite>, a public charter school shall comply with the provisions of law and regulation governing other public schools.
+                </text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Waiver of Requirements. Subject to
+                  <cite path="13A|02|10|.10|D.">§D of this regulation</cite>, a public charter school may seek a waiver of the requirements under
+                  <cite path="13A|02|10|.10|A.">§A of this regulation</cite> from:
+                </text>
+      <para>
+        <num>(1)</num>
+        <text>A local board for policies that are the policies of the local board; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The State Board for policies that are the policies of the State Board.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If a waiver is denied under this regulation, the local board or the State Board, as appropriate, shall provide the reason for the denial in writing to the public charter school.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A waiver may not be granted from provisions of law or regulation relating to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Audit requirements;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The measurement of student academic achievement, including all assessments required for other public schools and other assessments mutually agreed upon by the public chartering authority and the public charter school; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The health, safety, or civil rights of a student or an employee of the public charter school.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Students with Disabilities and Special Education Compliance Required.</heading>
+    <para>
+      <num>A.</num>
+      <text>A public chartering authority may not grant a charter to a public charter school whose operation would be inconsistent with any public policy initiative, court order, or federal improvement plan governing special education that is applicable to the State.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A public chartering authority shall ensure that the authorizing process for a public charter school and the charter application address the roles and responsibilities of the local board and the applicants and operators of the public charter school with respect to children with disabilities.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The public chartering authority shall ensure that, prior to opening a public charter school, the operators of the school are informed of the human, fiscal, and organizational capacity needed to fulfill the school’s responsibilities related to children with disabilities.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Public Charter School Employees.</heading>
+    <para>
+      <num>A.</num>
+      <text>Employees of a public charter schools:</text>
+      <para>
+        <num>(1)</num>
+        <text>Are public school employees, as defined in Education Article, §§
+                    <cite doc="Md. Code" path="ged|6-401">6-401</cite>(e) and
+                    <cite doc="Md. Code" path="ged|6-501">6-501</cite>(g), Annotated Code of Maryland;
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Are employees of a public school employer, as defined in Education Article, §§
+                    <cite doc="Md. Code" path="ged|6-401">6-401</cite>(f) and
+                    <cite doc="Md. Code" path="ged|6-501">6-501</cite>(h), Annotated Code of Maryland, in the county in which the public charter school is located; and
+                  </text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Shall have the rights granted under Education Article, Title 6, Subtitles 4 and 5, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a collective bargaining agreement under Education Article, Title 6, Subtitles 4 or 5, Annotated Code of Maryland, is already in existence in the county where a public charter school is located, the employee organization, public school employer, and the public charter school may mutually agree to negotiate amendments to the existing agreement to address the needs of the particular public charter school, including amendments to work days, work hours, school year, procedures for transfers that are consistent with the instructional mission of the school, and extra duty assignments.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.13">
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Commensurate Funding.</heading>
+    <para>
+      <num>A.</num>
+      <text>Formula.</text>
+      <para>
+        <num>(1)</num>
+        <text>A local board of education shall calculate commensurate funding for the public charter schools in its jurisdiction using a formula that complies with
+                    <cite doc="Md. Code" path="ged|9-109">Education Article, §9-109, Annotated Code of Maryland</cite>, and this regulation.
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The local board shall identify a preliminary total per pupil allocation for each public charter school by completing all of the following steps in order:</text>
+        <para>
+          <num>(a)</num>
+          <text>Identify all local, State, and federal revenue sources, consistent with
+                      <cite path="13A|02|10|.13|A.|(3)">§A(3) of this regulation</cite>, contained in the local school system’s operating budget;
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Identify the enrollment counts, consistent with
+                      <cite path="13A|02|10|.13|A.|(4)">§A(4) of this regulation</cite>, for the local school system and each public charter school;
+                    </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Divide each local, State, and federal revenue source that is not eligibility based by total enrollment;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Multiply the results from
+                      <cite path="13A|02|10|.13|A.|(2)|(c)">§A(2)(c) of this regulation</cite> by the last enrollment count for each public charter school to determine the base per pupil allocation;
+                    </text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Divide each local, State, and federal revenue source that is eligibility based, with the exception of special education revenue and special education transportation revenue, by eligible enrollment;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Multiply the results from
+                      <cite path="13A|02|10|.13|A.|(2)|(e)">§A(2)(e) of this regulation</cite> by the last enrollment count of eligible students for each public charter school to determine the eligibility per pupil allocation;
+                    </text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Add the results from §A(2)(d) and (f) of this regulation;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Determine the shared cost deduction rate by dividing the sum of the shared cost deductions in
+                      <cite path="13A|02|10|.13|B.">§B of this regulation</cite> by all local, State, and federal revenue sources identified in
+                      <cite path="13A|02|10|.13|A.|(2)|(a)">§A(2)(a) of this regulation</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Multiply the result from
+                      <cite path="13A|02|10|.13|A.|(2)|(g)">§A(2)(g) of this regulation</cite> by the difference between 1.0 and the result in
+                      <cite path="13A|02|10|.13|A.|(2)|(h)">§A(2)(h) of this regulation</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Identify the special education allocation, consistent with
+                      <cite path="13A|02|10|.13|A.|(5)">§A(5) of this regulation</cite>, necessary to implement the individualized education programs of all students with disabilities enrolled at each public charter school;
+                    </text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Add the results from §§A(2)(i) and (j) of this regulation; and</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Multiply the result from
+                      <cite path="13A|02|10|.13|A.|(2)|(k)">§A(2)(k) of this regulation</cite> by the difference between 1.0 and the administrative fee in
+                      <cite path="13A|02|10|.13|C.">§C of this regulation</cite>.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Revenue Sources.</text>
+        <para>
+          <num>(a)</num>
+          <text>The preliminary total per pupil allocation shall be calculated using 100 percent of each revenue source.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any restrictions applicable to a revenue source shall continue to apply notwithstanding this regulation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The concentration of poverty grant program established under
+                      <cite doc="Md. Code" path="ged|5-223">Education Article, §5-223, Annotated Code of Maryland</cite>, is not a revenue source for purposes of this regulation.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Enrollment Counts.</text>
+        <para>
+          <num>(a)</num>
+          <text>The preliminary total per pupil allocation shall be determined using the following data points, as applicable, for the local school system and each public charter school during the prior school year:</text>
+          <para>
+            <num>(i)</num>
+            <text>The enrollment data collected on September 30 or an alternate date set by the Department; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>For a public charter school that is new or expanding, or with the consent of the public charter school, the enrollment data projected by the local school system.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The final total per pupil allocation shall be adjusted, upward or downward, only one time based on the actual enrollment count for each public charter school during the school year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Special Education Allocation.</text>
+        <para>
+          <num>(a)</num>
+          <text>The special education allocation identified in
+                      <cite path="13A|02|10|.13|A.|(2)">§A(2) of this regulation</cite> shall be determined by the local school system based on:
+                    </text>
+          <para>
+            <num>(i)</num>
+            <text>The special education revenue and special education transportation revenue for which each student enrolled in each public charter school is eligible;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Any additional revenue that is necessary to provide the services documented in the individualized education program of each student enrolled in the public charter school; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Equivalent costs for services delivered in other schools within the local school system.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a public charter school elects to delegate the management of special education to the local school system, the special education allocation amount shall be:</text>
+          <para>
+            <num>(i)</num>
+            <text>Excluded from the public charter school’s preliminary total per pupil allocation; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Expended by the local school system to serve the students with disabilities enrolled at the public charter school in accordance with their individualized education programs.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If a public charter school elects to manage special education directly, the special education allocation amount shall be:</text>
+          <para>
+            <num>(i)</num>
+            <text>Included in the public charter school’s preliminary total per pupil allocation; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Expended by the public charter school, including the option for buy backs, to serve the students with disabilities enrolled at the public charter school in accordance with their individualized education programs.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a public charter school fails to timely complete corrective action required for special education noncompliance, the local school system may centralize management of special education with the approval of the Department.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If a public charter school student’s individualized education program can only be implemented in a non-public placement, the student is no longer considered part of the special education allocation at the public charter school.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The local board shall identify a final total per pupil allocation for each public charter school after:</text>
+        <para>
+          <num>(a)</num>
+          <text>Negotiating with the public charter schools in good faith regarding in-kind services, buy backs, and the management of special education; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Subtracting the cost of the negotiated items from the preliminary total per pupil allocation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The local board shall provide each public charter school with a table showing:</text>
+        <para>
+          <num>(a)</num>
+          <text>The calculation of its preliminary total per pupil allocation, including:</text>
+          <para>
+            <num>(i)</num>
+            <text>The base per pupil allocation;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The eligibility per pupil allocation;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The special education allocation;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The amount of the shared cost deductions; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>The amount the administrative fee;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The calculation of its final total per pupil allocation; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To the extent practicable, the per pupil allocation of a comparable public school that is not a public charter school.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Each public charter school shall provide the information necessary for the local school system to comply with reporting requirements in Education Article, §§
+                    <cite doc="Md. Code" path="ged|5-406">5-406</cite> and
+                    <cite doc="Md. Code" path="ged|5-234">5-234</cite>, Annotated Code of Maryland.
+                  </text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Compliance Monitoring.</text>
+        <para>
+          <num>(a)</num>
+          <text>A local board with public charter schools in its jurisdiction shall include a review of compliance with this regulation in the annual audit required by
+                      <cite doc="Md. Code" path="ged|5-109">Education Article, §5-109, Annotated Code of Maryland</cite>.
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Department may periodically review the tables provided by the local board to the public charter schools under
+                      <cite path="13A|02|10|.13|A.|(7)">§A(7) of this regulation</cite> to provide technical assistance and monitor compliance.
+                    </text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Shared Cost Deductions.</text>
+      <para>
+        <num>(1)</num>
+        <text>A local board may apply shared cost deductions when calculating commensurate funding under
+                    <cite path="13A|02|10|.13|A.">§A of this regulation</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each of the following shared cost deductions may be applied by a local board:</text>
+        <para>
+          <num>(a)</num>
+          <text>Retiree benefits;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adult education;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Special education adjustment, not to exceed 10 percent of all local, State, and federal revenue sources identified in
+                      <cite path="13A|02|10|.13|A.|(2)|(a)">§A(2)(a) of this regulation</cite>; and
+                    </text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a public charter school occupies one of the local board’s buildings, debt service.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Administrative Fee.</text>
+      <para>
+        <num>(1)</num>
+        <text>A local board may charge an administrative fee to each public charter school in its jurisdiction.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The administrative fee shall account for the costs related to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Implementation of
+                      <cite doc="Md. Code" path="ged|9-110">Education Article, §9-110(a), Annotated Code of Maryland</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Local superintendent and local board administration;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Special education and student services administration; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Human resources administration.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The administrative fee applied by a local board shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Not exceed 5 percent of each public charter school’s preliminary total per pupil allocation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Be adequately documented, including the specific services rendered, in the table provided to each public charter school under
+                      <cite path="13A|02|10|.13|A.|(7)">§A(7) of this regulation</cite>.
+                    </text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.14">
+    <prefix>Regulation</prefix>
+    <num>.14</num>
+    <heading>Public Charter School Policies.</heading>
+    <para>
+      <num>A.</num>
+      <text>Submission of Public Charter School Policy to the State Board.</text>
+      <para>
+        <num>(1)</num>
+        <text>Each local board shall develop a public charter school policy and provide it to the State Board.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The policy required under
+                    <cite path="13A|02|10|.14|A.|(1)">§A(1) of this regulation</cite> shall include guidelines and procedures regarding:
+                  </text>
+        <para>
+          <num>(a)</num>
+          <text>Evaluation of public charter schools;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Revocation of a charter;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Reporting requirements;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Financial, programmatic, or compliance audits of public charter schools; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Calculation of commensurate funding, including the formula established under
+                      <cite path="|13A|02|10|.13">Regulation .13 of this chapter</cite>.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The policy required under
+                    <cite path="13A|02|10|.14|A.|(1)">§A(1) of this regulation</cite>, including any updates or amendments made to the policy, shall be provided to the Department and made available on request and posted on the website of the local board.
+                  </text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="13A|02|10|.15">
+    <prefix>Regulation</prefix>
+    <num>.15</num>
+    <heading>School Sites or Buildings Available for Public Charter School Use.</heading>
+    <para>
+      <num>A.</num>
+      <text>Notice of Availability of School Sites or Buildings.</text>
+      <para>
+        <num>(1)</num>
+        <text>If, with the approval of the State Superintendent, a local board determines that a school site or building no longer is needed for school purposes and after the county commissioners or county council have provided the required notice under
+                    <cite doc="Md. Code" path="ged|4-115">Education Article, §4-115, Annotated Code of Maryland</cite>, the local board shall inform the public charter schools in the county that the school site or building is available for occupation and use by a public charter school on the terms determined by the local board.
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Each local board:</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall establish a procedure to determine which public charter school may occupy and use an available school site or building if more than one public charter school notifies the local board of an interest in occupying and using a school site or building; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May consider the utilization rate of surrounding school sites and buildings when authorizing a public charter school to occupy a school site or building.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A public charter school that occupies or uses a school site or building under
+                  <cite path="13A|02|10|.15|A.">§A of this regulation</cite> may not sell, dispose of, or otherwise transfer the school site or building.
+                </text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.16</num>
+    <heading>Property Tax Exemption.</heading>
+    <text>Any portion of a building or property occupied and used by a public charter school shall be exempt from property taxes under Tax—Property Article, §7-202, Annotated Code of Maryland, for the duration of the occupation and use of the building or property as a public charter school.</text>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Education Article, §§
+                <cite doc="Md. Code" path="ged|2-205">2-205</cite> and
+                <cite doc="Md. Code" path="ged|9-101">9-101</cite>—
+                <cite doc="Md. Code" path="ged|9-112">9-112</cite>, Annotated Code of Maryland
+              </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25">Effective date: May 25, 2026 (53:10 Md. R. 455)</annotation>
+  </annotations>
+  <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-319-F" type="History" display="false"/>
+</container>

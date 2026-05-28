@@ -3773,10 +3773,12 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Participation in a tracking system:</text>
+      <text>Participation in a bettor tracking system:</text>
       <para>
         <num>(1)</num>
-        <text>Subject to <cite path="36|10|13|.29|B.|(2)">§B(2) of this regulation</cite>, is voluntary;</text>
+        <text>Subject to
+                  <cite path="36|10|13|.29|B.|(2)">§B(2) of this regulation</cite>, is voluntary;
+                </text>
       </para>
       <para>
         <num>(2)</num>
@@ -3819,7 +3821,57 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>A sports wagering licensee may use a player rewards program that allows a bettor to exchange reward credits for complimentary service in accordance with
+                <cite path="|36|10|13|.08">Regulation .08 of  this chapter</cite>.
+              </text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Limitation on Reward Programs at Sports Wagering Facilities.</text>
+      <para>
+        <num>(1)</num>
+        <text>Subject to the limitations in this section, a Class A Sports Wagering Facility Licensee that provides sports wagering services on behalf of a Class B Sports Wagering Facility may allow a bettor to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Use reward credits from the rewards program of the Class A Sports Wagering Facility at the Class B Sports Wagering Facility for non-wagering activity;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Earn reward credits for the reward program of the Class A Sports Wagering Facility at the Class B Sports Wagering Facility; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Use reward credits from the reward program earned at the Class B Sports Wagering Facility at the Class A Sports Wagering Facility.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Class A sports wagering licensee may not allow a bettor to use:</text>
+        <para>
+          <num>(a)</num>
+          <text>The account wallet of a Class A Sports Wagering Facility Licensee for wagering at a Class B Sports Wagering Facility;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Reward credits earned in
+                    <cite path="36|10|13|.29|E.|(1)|(b)">§E(1)(b) of this regulation</cite> to be applied in the bettor’s wallet; and
+                  </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Reward credits of the Class A Sports Wagering Facility for wagering at the Class B Sports Wagering Facility.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A sports wagering licensee shall submit a description of the player reward program to the Commission for review and written approval.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -5034,14 +5086,18 @@
       <text>Sports Wagering Contracts.</text>
       <para>
         <num>(1)</num>
-        <text>Defined Terms. In addition to the terms defined in <cite doc="Md. Code" path="gsg|9-1">State Government Article, §9-1</cite>E-01, Annotated Code of Maryland, and terms defined in this subtitle, in this section the following terms have the meanings indicated:</text>
+        <text>Defined Terms. In addition to the terms defined in
+                  <cite doc="Md. Code" path="gsg|9-1">State Government Article, §9-1</cite>E-01, Annotated Code of Maryland, and terms defined in this subtitle, in this section the following terms have the meanings indicated:
+                </text>
         <para>
           <num>(a)</num>
           <text>“Agent of a regulated gaming entity” includes a marketing firm or other similar entity contracted to perform gaming-related services for a regulated gaming entity.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>“Institution of higher education” has the meaning stated in <cite doc="Md. Code" path="ged|10">Education Article, §10</cite>–101, Annotated Code of Maryland.</text>
+          <text>“Institution of higher education” has the meaning stated in
+                    <cite doc="Md. Code" path="ged|10">Education Article, §10</cite>–101, Annotated Code of Maryland.
+                  </text>
         </para>
         <para>
           <num>(c)</num>
@@ -5098,14 +5154,39 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Notwithstanding any other provision of law, a contract formed in accordance with <cite path="36|10|13|.41|D.|(4)">§D(4) of this regulation</cite> is subject to public inspection in accordance with the Maryland Public Information Act, <cite doc="Md. Code" path="ggp|4-101">General Provisions Article, §4-101, </cite>et seq., Annotated Code of Maryland.</text>
+        <text>Notwithstanding any other provision of law, a contract formed in accordance with
+                  <cite path="36|10|13|.41|D.|(4)">§D(4) of this regulation</cite> is subject to public inspection in accordance with the Maryland Public Information Act,
+                  <cite doc="Md. Code" path="ggp|4-101">General Provisions Article, §4-101, </cite>et seq., Annotated Code of Maryland.
+                </text>
       </para>
       <para>
         <num>(6)</num>
         <text>Mobile sports wagering licensees and online sports wagering operator licensees shall submit written notification to the Commission of any contract it has, or plans to enter into, with a public institution of higher education.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>Signage.</text>
+      <para>
+        <num>(1)</num>
+        <text>A sports wagering licensee shall clearly and conspicuously display the licensee’s branding.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Sports Wagering Facility Operator may not display its branding in a manner that provides greater prominence than the Sports Wagering Facility Licensee’s branding.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A Sports Wagering Facility Licensee may not advertise in a manner that misleads the public.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>All signage shall be approved by the Agency.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -5213,11 +5294,13 @@
       </para>
     </para>
     <para>
-      <num proof="done">C.</num>
-      <text>A sports wagering licensee’s submissions required under <cite path="36|10|13|.45|B.">§B of this regulation</cite> shall include verbatim, the communications it proposes to use to notify bettors of rights and remedies associated with its cessation of operations and wind down.</text>
+      <num>D.</num>
+      <text>A sports wagering licensee’s submissions required under
+                <cite path="36|10|13|.45|B.">§B of this regulation</cite> shall include verbatim, the communications it proposes to use to notify bettors of rights and remedies associated with its cessation of operations and wind down.
+              </text>
     </para>
     <para>
-      <num>D.</num>
+      <num>E.</num>
       <text>The Commission may:</text>
       <para>
         <num>(1)</num>
@@ -5237,34 +5320,67 @@
       </para>
     </para>
     <para>
-      <num>E.</num>
+      <num>F.</num>
       <text>A sports wagering licensee may only notify a bettor after the Commission approves the wind down plan.</text>
     </para>
     <para>
-      <num>F.</num>
+      <num>G.</num>
       <text>At the conclusion of the wind down, a sports wagering licensee shall submit a report to the Commission as notification that it has completed all actions necessary and is terminating all operations in the State.</text>
     </para>
     <para>
-      <num>G.</num>
+      <num>H.</num>
       <text>Nothing in this regulation is intended to change a requirement or obligation imposed under another statute or regulation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Education Article §§<cite doc="Md. Code" path="ged|10-101">10-101</cite> and <cite doc="Md. Code" path="ged|26-801">26-801</cite>; State Government Article, §§<cite doc="Md. Code" path="gsg|9-1">9-1</cite>A-<cite doc="Md. Code" path="gsg|02">02</cite>, <cite doc="Md. Code" path="gsg|9-1">9-1</cite>A-<cite doc="Md. Code" path="gsg|04">04</cite>, <cite doc="Md. Code" path="gsg|9-1">9-1</cite>A-<cite doc="Md. Code" path="gsg|33">33</cite>, <cite doc="Md. Code" path="gsg|9-1">9-1</cite>E-01—9-1E-15; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Education Article §§
+              <cite doc="Md. Code" path="ged|10-101">10-101</cite> and
+              <cite doc="Md. Code" path="ged|26-801">26-801</cite>; State Government Article, §§
+              <cite doc="Md. Code" path="gsg|9-1">9-1</cite>A-
+              <cite doc="Md. Code" path="gsg|02">02</cite>,
+              <cite doc="Md. Code" path="gsg|9-1">9-1</cite>A-
+              <cite doc="Md. Code" path="gsg|04">04</cite>,
+              <cite doc="Md. Code" path="gsg|9-1">9-1</cite>A-
+              <cite doc="Md. Code" path="gsg|33">33</cite>,
+              <cite doc="Md. Code" path="gsg|9-1">9-1</cite>E-01—9-1E-15; Annotated Code of Maryland
+            </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13">Regulations <cite path="|36|10|13|.01">.01</cite>—<cite path="|36|10|13|.44">.44</cite> adopted as an emergency provision effective August 5, 2021 (48:18 Md. R. 690); adopted permanently effective January 13, 2022 (49:1 Md. R. 16)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.06|B.">Regulation .06B</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|36|10|13|.06|P.">Regulation .06P</cite> amended effective November 14, 2022 (49:23 Md. R. 997)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.20|F.">Regulation .20F</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.34">Regulation .34</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|10|13|.34|L.">Regulation .34L</cite> adopted effective April 27, 2026 (53:8 Md. R, 356)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.37">Regulation .37</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.40">Regulation .40</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-25"><cite path="|36|10|13|.40|E.">Regulation .40E</cite> amended as an emergency provision effective January 26, 2022 (49:5 Md. R. 364); amended permanently effective July 25, 2022 (49:15 Md. R. 740)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.40|B.">Regulation .40B</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.41">Regulation .41</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.45">Regulation .45</cite> adopted effective July 7, 2025 (52:13 Md. R. 657)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-13">Regulations
+              <cite path="|36|10|13|.01">.01</cite>—
+              <cite path="|36|10|13|.44">.44</cite> adopted as an emergency provision effective August 5, 2021 (48:18 Md. R. 690); adopted permanently effective January 13, 2022 (49:1 Md. R. 16)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.06|B.">Regulation .06B</cite> amended effective July 7, 2025 (52:13 Md. R. 657)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|36|10|13|.06|P.">Regulation .06P</cite> amended effective November 14, 2022 (49:23 Md. R. 997)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.20|F.">Regulation .20F</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|36|10|13|.29|B.">Regulation .29B</cite> amended effective May 25, 2026 (53:10 Md. R. 459)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|36|10|13|.29|D.">Regulation .29D</cite>, E, F adopted effective May 25, 2026 (53:10 Md. R. 459)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.34">Regulation .34</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|36|10|13|.34|L.">Regulation .34L</cite> adopted effective April 27, 2026 (53:8 Md. R, 356)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.37">Regulation .37</cite> amended effective July 7, 2025 (52:13 Md. R. 657)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.40">Regulation .40</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-25"><cite path="|36|10|13|.40|E.">Regulation .40E</cite> amended as an emergency provision effective January 26, 2022 (49:5 Md. R. 364); amended permanently effective July 25, 2022 (49:15 Md. R. 740)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.40|B.">Regulation .40B</cite> amended effective July 7, 2025 (52:13 Md. R. 657)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.41">Regulation .41</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|36|10|13|.41|E.">Regulation .41E</cite> adopted effective May 25, 2026 (53:10 Md. R. 459)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.45">Regulation .45</cite> adopted effective July 7, 2025 (52:13 Md. R. 657)
+            </annotation>
     <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
   </annotations>
 </container>

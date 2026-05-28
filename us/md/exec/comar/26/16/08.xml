@@ -302,7 +302,9 @@
     <heading>Scheduling an Environmental Investigation.</heading>
     <para>
       <num>A.</num>
-      <text>Pursuant to <cite doc="Md. Code" path="gen|6-304">Environment Article, §6-304, Annotated Code of Maryland</cite>, after the receipt by the Department of a blood lead level test result that diagnoses a child or pregnant woman with EBL, the Department or local health department shall:</text>
+      <text>Pursuant to
+                <cite doc="Md. Code" path="gen|6-304">Environment Article, §6-304, Annotated Code of Maryland</cite>, after the receipt by the Department of a blood lead level test result that diagnoses a child or pregnant woman with EBL, the Department or local health department shall:
+              </text>
       <para>
         <num>(1)</num>
         <text>Not more than 10 business days after the receipt of the blood lead level test result, provide notification of the EBL level to:</text>
@@ -317,19 +319,23 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Except as otherwise provided in <cite path="26|16|08|.05|D.">§D of this regulation</cite>, contact the caregiver or pregnant woman to schedule the on-site assessment portion of the environmental investigation.</text>
+        <text>Except as otherwise provided in
+                  <cite path="26|16|08|.05|D.">§D of this regulation</cite>, contact the caregiver or pregnant woman to schedule the on-site assessment portion of the environmental investigation.
+                </text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The lead paint assessor or local health department representative:</text>
+      <text>The Department or local health department representative:</text>
       <para>
         <num>(1)</num>
-        <text>Shall schedule an on-site assessment for the primary residence of the child or pregnant woman diagnosed with EBL in accordance with the procedures under <cite path="26|16|08|.05|C.">§C of this regulation</cite>; and</text>
+        <text>Shall schedule an on-site assessment for the primary residence of the child or pregnant woman diagnosed with EBL in accordance with the procedures under
+                  <cite path="26|16|08|.05|C.">§C of this regulation</cite>; and
+                </text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If determined necessary by the lead paint risk assessor while conducting the environmental investigation, may schedule an on-site assessment for a secondary property through coordination with the caregiver or pregnant woman.</text>
+        <text>May, if determined necessary by the Department or the local health department representative while conducting the environmental investigation, schedule an on-site assessment for a secondary property through coordination with the caregiver or pregnant woman.</text>
       </para>
     </para>
     <para>
@@ -337,38 +343,45 @@
       <text>Procedures for Scheduling an On-Site Assessment.</text>
       <para>
         <num>(1)</num>
-        <text>The on-site assessment of a primary residence may be scheduled by the lead paint risk assessor or local health department representative in coordination with a local health department representative’s home visit.</text>
+        <text>The on-site assessment of a primary residence may be scheduled by the Department or local health department representative in coordination with a local health department representative’s home visit.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The lead paint risk assessor or local health department representative shall make at least two attempts to contact the caregiver or pregnant woman by telephone to schedule an on-site assessment.</text>
+        <text>The Department or local health department representative shall make at least two attempts to contact the caregiver or pregnant woman by telephone to schedule an on-site assessment.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>If the lead paint risk assessor or local health department representative is unable to establish contact with the caregiver or pregnant woman in accordance with <cite path="26|16|08|.05|C.|(2)">§C(2) of this regulation</cite>, the lead paint risk assessor or local health department representative shall mail a letter through first-class mail to the caregiver or pregnant woman.</text>
+        <text>If the Department or local health department representative is unable to establish contact with the caregiver or pregnant woman in accordance with
+                  <cite path="26|16|08|.05|C.|(2)">§C(2) of this regulation</cite>, the Department or local health department representative shall mail a letter through first-class mail to the caregiver or pregnant woman.
+                </text>
       </para>
       <para>
         <num>(4)</num>
-        <text>The lead paint risk assessor or local health department representative shall include, at a minimum, all of the following information in the letter required under <cite path="26|16|08|.05|C.|(3)">§C(3) of this regulation</cite>:</text>
+        <text>The Department or local health department representative shall include, at a minimum, all of the following information in the letter required under
+                  <cite path="26|16|08|.05|C.|(3)">§C(3) of this regulation</cite>:
+                </text>
         <para>
           <num>(a)</num>
-          <text>The lead paint risk assessor or local health department representative’s intention to schedule an on-site assessment of the primary residence of the child or pregnant woman with EBL;</text>
+          <text>The Department’s or local health department representative’s intention to schedule an on-site assessment of the primary residence of the child or pregnant woman with EBL;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Notice that the letter constitutes the final attempt by the lead paint risk assessor or local health department representative to schedule the on-site assessment of the primary residence;</text>
+          <text>Notice that the letter constitutes the final attempt by the Department or local health department representative to schedule the on-site assessment of the primary residence;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The latest calendar date that the caregiver or pregnant woman may contact the lead paint risk assessor or local health department representative to schedule an on-site assessment of the primary residence;</text>
+          <text>The latest calendar date that the caregiver or pregnant woman may contact the Department or local health department representative to schedule an on-site assessment of the primary residence;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Notice that failure to contact the lead paint risk assessor or local health department representative to schedule an on-site assessment of the primary residence may result in the child’s or pregnant woman’s case being closed by the Department or local health department without an environmental investigation; and</text>
+          <text>Notice that failure to contact the Department or local health department representative to schedule an on-site assessment of the primary residence may result in the child’s or pregnant woman’s case being closed by the Department or local health department without an environmental investigation; and</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>If the child or pregnant woman is known or believed by the Department or local health department to reside at an affected property, information regarding the tenant’s rights under Environment Article, §§<cite doc="Md. Code" path="gen|6-815">6-815</cite> and <cite doc="Md. Code" path="gen|6-819">6-819</cite>, Annotated Code of Maryland.</text>
+          <text>If the child or pregnant woman is known or believed by the Department or local health department to reside at an affected property, information regarding the tenant’s rights under Environment Article, §§
+                    <cite doc="Md. Code" path="gen|6-815">6-815</cite> and
+                    <cite doc="Md. Code" path="gen|6-819">6-819</cite>, Annotated Code of Maryland.
+                  </text>
         </para>
       </para>
     </para>
@@ -377,7 +390,9 @@
       <text>Failure to Schedule an On-Site Assessment.</text>
       <para>
         <num>(1)</num>
-        <text>If the caregiver or pregnant woman does not respond to the attempts to schedule the on-site assessment of a primary residence made in accordance with <cite path="26|16|08|.05|C.">§C of this regulation</cite>, the Department or local health department may:</text>
+        <text>If the caregiver or pregnant woman does not respond to the attempts to schedule the on-site assessment of a primary residence made in accordance with
+                  <cite path="26|16|08|.05|C.">§C of this regulation</cite>, the Department or local health department may:
+                </text>
         <para>
           <num>(a)</num>
           <text>Attempt to make contact with the caregiver or pregnant woman by coordinating with the medical provider or through other means; or</text>
@@ -389,13 +404,15 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>If a case is closed by the Department or local health department pursuant to <cite path="26|16|08|.05|D.|(1)">§D(1) of this regulation</cite>, the Department or local health department:</text>
+        <text>If a case is closed by the Department or local health department under
+                  <cite path="26|16|08|.05|D.|(1)">§D(1) of this regulation</cite>, the Department or local health department:
+                </text>
         <para>
           <num>(a)</num>
-          <text>If the primary residence is not owned by the caregiver or pregnant woman, shall mail a letter through first-class mail to the property owner advising that the:</text>
+          <text>Shall, if the primary residence is not owned by the caregiver or pregnant woman, mail a letter through first-class mail to the property owner advising that the:</text>
           <para>
             <num>(i)</num>
-            <text>Lead paint risk assessor or local health department representative was unable to contact the caregiver or pregnant woman to schedule an on-site assessment of the property; and</text>
+            <text>Department or local health department representative was unable to contact the caregiver or pregnant woman to schedule an on-site assessment of the property; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -409,7 +426,9 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If the lead paint risk assessor or local health department representative, in accordance with <cite path="26|16|08|.05|B.|(2)">§B(2) of this regulation</cite>, is unable to schedule an on-site assessment for a secondary property, the lead paint risk assessor shall:</text>
+        <text>If the Department or local health department representative, in accordance with
+                  <cite path="26|16|08|.05|B.|(2)">§B(2) of this regulation</cite>, is unable to schedule an on-site assessment for a secondary property, the Department or the local health department representative shall:
+                </text>
         <para>
           <num>(a)</num>
           <text>Complete the environmental investigation including only the primary residence; and</text>
@@ -420,7 +439,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-067-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|16|08|.06">
     <prefix>Regulation</prefix>
@@ -745,7 +766,18 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Environment Article, §§<cite doc="Md. Code" path="gen|6-304">6-304</cite>, <cite doc="Md. Code" path="gen|6-305">6-305</cite>, <cite doc="Md. Code" path="gen|6-801">6-801</cite>, <cite doc="Md. Code" path="gen|6-819">6-819</cite>, <cite doc="Md. Code" path="gen|6-846">6-846</cite>, and <cite doc="Md. Code" path="gen|6-1001">6-1001</cite>—<cite doc="Md. Code" path="gen|6-1005">6-1005</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Environment Article, §§
+              <cite doc="Md. Code" path="gen|6-304">6-304</cite>,
+              <cite doc="Md. Code" path="gen|6-305">6-305</cite>,
+              <cite doc="Md. Code" path="gen|6-801">6-801</cite>,
+              <cite doc="Md. Code" path="gen|6-819">6-819</cite>,
+              <cite doc="Md. Code" path="gen|6-846">6-846</cite>, and
+              <cite doc="Md. Code" path="gen|6-1001">6-1001</cite>—
+              <cite doc="Md. Code" path="gen|6-1005">6-1005</cite>, Annotated Code of Maryland
+            </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-01">Effective date: July 1, 2020 (47:13 Md. R. 643)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|26|16|08|.05">Regulation .05</cite> amended effective May 25, 2026 (53:10 Md. R. 458)
+            </annotation>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-067-F" type="History" display="false"/>
   </annotations>
 </container>

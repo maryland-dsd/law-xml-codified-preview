@@ -203,7 +203,7 @@
     </para>
     <annotations/>
   </section>
-  <section cache:ref-path="18|02|03|.05">
+  <section>
     <prefix>Regulation</prefix>
     <num>.05</num>
     <heading>Parcels of Less Than 20 Acres — Use Test vs. Income Test.</heading>
@@ -221,21 +221,63 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Different approved agricultural activities may be combined to meet the requirements of <cite path="18|02|03|.05|A.">§A of this regulation</cite>.</text>
+      <text>A parcel of land or ALU of less than 3 acres excluding the homesite shall receive the agricultural use assessment if it meets one of the following tests:</text>
+      <para>
+        <num>(1)</num>
+        <text>Gross income from the approved agricultural activity on the land:</text>
+        <para>
+          <num>(a)</num>
+          <text>Generates a minimum of $2500; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Amounts to at least 51 percent of the owner’s total gross income:</text>
+          <para>
+            <num>(i)</num>
+            <text>The owner’s total gross income shall include all sources of income for the calendar year that immediately precedes the taxable year, whether or not the income is included in the definition of gross income for federal or State tax purposes;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>This income shall include any benefit under the Social Security Act or Railroad Retirement Act;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>No more than 2 parcels of land may qualify under the same ownership;</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A family farm unit as defined in Tax Property Article, §8-209(g)(1)(iv), Annotated Code of Maryland; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A parcel of land under the same ownership and contiguous to a parcel of land receiving agricultural use assessment and is actively used.  No more than 2 parcels of land may qualify under the same ownership.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
-      <text>The Department may determine the reasonableness of gross income claimed by an owner.</text>
+      <text>Different approved agricultural activities may be combined to meet the requirements of §§A and B of this regulation.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>The ratio requirements under <cite path="|18|02|03|.04">Regulation .04 of this chapter</cite> are used to establish the associated lands.</text>
+      <text>The Department may determine the reasonableness of gross income claimed by an owner.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Only Class 3 land under <cite path="|18|02|03|.08">Regulation .08 of this chapter</cite> will be used in developing ratio requirements.</text>
+      <text>The ratio requirements under
+                <cite path="|18|02|03|.04">Regulation .04 of this chapter</cite> are used to establish the associated lands.
+              </text>
     </para>
-    <annotations/>
+    <para>
+      <num>F.</num>
+      <text>Only Class 3 land under
+                <cite path="|18|02|03|.08">Regulation .08 of this chapter</cite> will be used in developing ratio requirements.
+              </text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -298,12 +340,14 @@
     <text>The following ranges govern the valuation and assessment of land eligible for agricultural use assessment, based on the capitalization of Statewide farmland rentals:</text>
     <text>
       <table>
-        <tbody>
+        <thead>
           <tr>
-            <td/>
-            <td/>
-            <td>Use Value/Assessment</td>
+            <th/>
+            <th/>
+            <th>Use Value/Assessment</th>
           </tr>
+        </thead>
+        <tbody>
           <tr>
             <td>Class 1</td>
             <td>FCMA land</td>
@@ -322,18 +366,32 @@
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Tax-Property Article, §§<cite doc="Md. Code" path="gtp|2-201">2-201</cite>, <cite doc="Md. Code" path="gtp|2-202">2-202</cite>, and <cite doc="Md. Code" path="gtp|8-209">8-209</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Tax-Property Article, §§
+              <cite doc="Md. Code" path="gtp|2-201">2-201</cite>,
+              <cite doc="Md. Code" path="gtp|2-202">2-202</cite>, and
+              <cite doc="Md. Code" path="gtp|8-209">8-209</cite>, Annotated Code of Maryland
+            </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-01-07">Effective date: January 7, 1982 (8:26 Md. R. 2106)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-12-05">Chapter revised effective November 17, 1986 (13:23 Md. R. 2481); December 5, 1994 (21:24 Md. R. 1990)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|18|02|03|.03|A.">Regulation .03A</cite> amended effective February 16, 2026 (53:3 Md. R. 123)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-20"><cite path="|18|02|03|.04">Regulation .04</cite> amended effective January 20, 2014 (41:1 Md. R. 13)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-24"><cite path="|18|02|03|.05|D.">Regulation .05D</cite>, E adopted effective January 24, 2022 (49:2 Md. R. 78)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|18|02|03|.06">Regulation .06</cite> amended effective February 16, 2026 (53:3 Md. R. 123)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|18|02|03|.08">Regulation .08</cite> amended effective October 16, 2000 (27:20 Md. R. 1841)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|18|02|03|.03|A.">Regulation .03A</cite> amended effective February 16, 2026 (53:3 Md. R. 123)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-20"><cite path="|18|02|03|.04">Regulation .04</cite> amended effective January 20, 2014 (41:1 Md. R. 13)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|18|02|03|.05">Regulation .05</cite> amended effective May 25, 2026 (53:10 Md. R. 455l90p[9)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-24"><cite path="|18|02|03|.05|D.">Regulation .05D</cite>, E adopted effective January 24, 2022 (49:2 Md. R. 78)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|18|02|03|.06">Regulation .06</cite> amended effective February 16, 2026 (53:3 Md. R. 123)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|18|02|03|.08">Regulation .08</cite> amended effective October 16, 2000 (27:20 Md. R. 1841)
+            </annotation>
     <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-133-F" type="History" display="false"/>
     <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-132-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" type="History" display="false"/>
   </annotations>
 </container>

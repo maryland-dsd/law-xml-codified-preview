@@ -984,11 +984,13 @@
     <heading>Jackpot Payout.</heading>
     <para>
       <num>A.</num>
-      <text>A facility operator shall develop and include in the internal controls submitted to and approved by the Commission under <cite path="|36|07|04|.04">Regulation .04 of this chapter</cite>, procedures addressing the payment of a jackpot or credit meter payout not totally and automatically paid by an instant bingo machine.</text>
+      <text>A facility operator shall develop and include in the internal controls submitted to and approved by the Commission under
+                <cite path="|36|07|04|.04">Regulation .04 of this chapter</cite>, procedures addressing the payment of a jackpot or credit meter payout not totally and automatically paid by an instant bingo machine.
+              </text>
     </para>
     <para>
       <num>B.</num>
-      <text>A facility operator shall prepare and timely file IRS Form W-2G, Certain Gambling Winnings, in connection with the payment of a jackpot of $1,200 or more.</text>
+      <text>A facility operator shall prepare and timely file IRS Form W-2G, Certain Gambling Winnings as required by the IRS.</text>
     </para>
     <para>
       <num>C.</num>
@@ -1010,7 +1012,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1130,9 +1134,21 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Criminal Law Article, §§<cite doc="Md. Code" path="gcr|12-301">12-301</cite>.1 and 12-308; <cite doc="Md. Code" path="gsg|9-110">State Government Article, §9-110</cite>; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Criminal Law Article, §§
+              <cite doc="Md. Code" path="gcr|12-301">12-301</cite>.
+              <cite doc="Md. Code" path="gcr|1">1</cite> and
+              <cite doc="Md. Code" path="gcr|12-308">12-308</cite>;
+              <cite doc="Md. Code" path="gsg|9-110">State Government Article, §9-110</cite>; Annotated Code of Maryland
+            </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-12-12">Regulations <cite path="|36|07|04|.01">.01</cite>—<cite path="|36|07|04|.19">.19</cite> adopted as an emergency provision effective August 26, 2013 (40:20 Md. R. 1650); adopted permanently effective December 12, 2013 (40:24 Md. R. 2019)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-10-22"><cite path="|36|07|04|.06|A.">Regulation .06A</cite> amended effective October 22, 2018 (45:21 Md. R. 976)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-12-12">Regulations
+              <cite path="|36|07|04|.01">.01</cite>—
+              <cite path="|36|07|04|.19">.19</cite> adopted as an emergency provision effective August 26, 2013 (40:20 Md. R. 1650); adopted permanently effective December 12, 2013 (40:24 Md. R. 2019)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-10-22"><cite path="|36|07|04|.06|A.">Regulation .06A</cite> amended effective October 22, 2018 (45:21 Md. R. 976)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|36|07|04|.14|B.">Regulation .14B</cite> amended effective May 25, 2026 (53:10 Md. R. 459)
+            </annotation>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
   </annotations>
 </container>

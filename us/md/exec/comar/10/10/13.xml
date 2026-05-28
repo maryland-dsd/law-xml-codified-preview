@@ -887,11 +887,15 @@
       <text>First-Tier Tests; Testing Limitations.</text>
       <para>
         <num>(1)</num>
-        <text>Only the Department's public health laboratory may screen for the disorders listed in <cite path="10|10|13|.12|C.">§C of this regulation</cite>.</text>
+        <text>Only the Department's public health laboratory may screen for the disorders listed in
+                  <cite path="10|10|13|.12|C.">§C of this regulation</cite>.
+                </text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A permittee may perform a supplemental or a second-tier test only when the test is requested by an individual authorized to request a medical laboratory test as provided in <cite path="10.10.06.02">COMAR 10.10.06.02</cite>.</text>
+        <text>A permittee may perform a supplemental or a second-tier test only when the test is requested by an individual authorized to request a medical laboratory test as provided in
+                  <cite path="10.10.06.02">COMAR 10.10.06.02</cite>.
+                </text>
       </para>
     </para>
     <para>
@@ -1135,11 +1139,15 @@
       </para>
       <para>
         <num>(60)</num>
-        <text>X-linked Adrenoleukodystrophy (X-ALD); and</text>
+        <text>X-linked Adrenoleukodystrophy (X-ALD);</text>
       </para>
       <para>
         <num>(61)</num>
-        <text>Guanidinoacetate Methyltransferase Deficiency (GAMT).</text>
+        <text>Guanidinoacetate Methyltransferase Deficiency (GAMT); and</text>
+      </para>
+      <para>
+        <num>(62)</num>
+        <text>Infantile Krabbe Disease.</text>
       </para>
     </para>
     <para>
@@ -1150,7 +1158,9 @@
         <text>A permittee shall use:</text>
         <para>
           <num>(a)</num>
-          <text>A colorimetric method for testing for a biotinidase deficiency, which is the disorder listed at <cite path="10|10|13|.12|C.|(1)">§C(1) of this regulation</cite>;</text>
+          <text>A colorimetric method for testing for a biotinidase deficiency, which is the disorder listed at
+                    <cite path="10|10|13|.12|C.|(1)">§C(1) of this regulation</cite>;
+                  </text>
         </para>
         <para>
           <num>(b)</num>
@@ -1170,19 +1180,27 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>IRT/IRT (immunoreactive trypsinogen/immuno-reactive trypsinogen) when testing for cystic fibrosis, which is the disorder listed in <cite path="10|10|13|.12|C.|(53)">§C(53) of this regulation</cite>; and</text>
+          <text>IRT/IRT (immunoreactive trypsinogen/immuno-reactive trypsinogen) when testing for cystic fibrosis, which is the disorder listed in
+                    <cite path="10|10|13|.12|C.|(53)">§C(53) of this regulation</cite>; and
+                  </text>
         </para>
         <para>
           <num>(g)</num>
-          <text>Real time polymerase chain reaction method when testing for severe combined immunodeficiency, which is listed in <cite path="10|10|13|.12|C.|(54)">§C(54) of this regulation</cite>.</text>
+          <text>Real time polymerase chain reaction method when testing for severe combined immunodeficiency, which is listed in
+                    <cite path="10|10|13|.12|C.|(54)">§C(54) of this regulation</cite>.
+                  </text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>A permittee shall have 60 days from the amendment's effective date to comply with any amendment made by the Secretary to <cite path="10|10|13|.12|D.">§D of this regulation</cite>.</text>
+        <text>A permittee shall have 60 days from the amendment's effective date to comply with any amendment made by the Secretary to
+                  <cite path="10|10|13|.12|D.">§D of this regulation</cite>.
+                </text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-017-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2451,28 +2469,54 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§13-101—13-103, 13-108—13-112, 13-601—13-605, 17-201—17-206, 17-210,<br/>17-211, 17-215, and 17-216, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§13-101—13-103, 13-108—13-112, 13-601—13-605, 17-201—17-206, 17-210,
+              <br/>17-211, 17-215, and 17-216, Annotated Code of Maryland
+            </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23">Regulations <cite path="|10|10|13|.01">.01</cite>—<cite path="|10|10|13|.27">.27</cite> adopted as an emergency provision effective January 1, 2009 (36:2 Md. R. 97); adopted permanently effective March 23, 2009 (36:6 Md. R. 490)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.02|A.">Regulation .02A</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.03|B.">Regulation .03B</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.04|B.">Regulation .04B</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-08-20"><cite path="|10|10|13|.06|B.">Regulation .06B</cite> amended as an emergency provision effective July 1, 2012 (39:15 Md. R. 962); amended permanently effective August 20, 2012 (39:16 Md. R. 1080)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|10|10|13|.06|B.">Regulation .06B</cite> amended effective April 27, 2015 (42:8 Md. R. 608); April 14, 2025 (52:7 Md. R. 321)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.12">Regulation .12</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|10|10|13|.12|C.">Regulation .12C</cite> amended effective August 23, 2021 (48:17 Md. R. 669); April 14, 2025 (52:7 Md. R. 321)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.13">Regulation .13</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.14">Regulation .14</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.15">Regulation .15</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.16">Regulation .16</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.17">Regulation .17</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.18|B.">Regulation .18B</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.20|A.">Regulation .20A</cite>, C amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.21">Regulation .21</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.23">Regulation .23</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.24|A.">Regulation .24A</cite>, D amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.25">Regulation .25</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.26|A.">Regulation .26A</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.27|C.">Regulation .27C</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23">Regulations
+              <cite path="|10|10|13|.01">.01</cite>—
+              <cite path="|10|10|13|.27">.27</cite> adopted as an emergency provision effective January 1, 2009 (36:2 Md. R. 97); adopted permanently effective March 23, 2009 (36:6 Md. R. 490)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.02|A.">Regulation .02A</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.03|B.">Regulation .03B</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.04|B.">Regulation .04B</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-08-20"><cite path="|10|10|13|.06|B.">Regulation .06B</cite> amended as an emergency provision effective July 1, 2012 (39:15 Md. R. 962); amended permanently effective August 20, 2012 (39:16 Md. R. 1080)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|10|10|13|.06|B.">Regulation .06B</cite> amended effective April 27, 2015 (42:8 Md. R. 608); April 14, 2025 (52:7 Md. R. 321)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.12">Regulation .12</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|10|10|13|.12|C.">Regulation .12C</cite> amended effective August 23, 2021 (48:17 Md. R. 669); April 14, 2025 (52:7 Md. R. 321); May 25, 2026 (53:10 Md. R. 454)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.13">Regulation .13</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.14">Regulation .14</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.15">Regulation .15</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.16">Regulation .16</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.17">Regulation .17</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.18|B.">Regulation .18B</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.20|A.">Regulation .20A</cite>, C amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.21">Regulation .21</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.23">Regulation .23</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.24|A.">Regulation .24A</cite>, D amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.25">Regulation .25</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.26|A.">Regulation .26A</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|10|13|.27|C.">Regulation .27C</cite> amended effective April 24, 2017 (44:8 Md. R. 404)
+            </annotation>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-017-F" type="History" display="false"/>
   </annotations>
 </container>

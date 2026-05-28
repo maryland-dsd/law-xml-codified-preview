@@ -14,11 +14,17 @@
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Incorporation by Reference.</heading>
-    <text>The 2021 International Green Construction Code (IgCC), International Code Council, is incorporated by reference.</text>
-    <annotations/>
+    <text>The 2024 International Green Construction Code (IgCC), International Code Council, is incorporated by reference.</text>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-301-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gps|12-503">Public Safety Article, §12-503(d), </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gps|12-503">Public Safety Article, §12-503(d), </cite>Annotated Code of Maryland
+            </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-05-29">Effective date: May 29, 2023 (50:10 Md. R. 407)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|09|12|57|.02">Regulation .02</cite> amended effective May 25, 2026 (53:10 Md. R. 454)
+            </annotation>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-301-F" type="History" display="false"/>
   </annotations>
 </container>

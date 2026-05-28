@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>10</num>
+  <heading>Use of Bicycles and Electric Bicycles on Department Lands</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Applicability.</heading>
+    <text>This chapter applies to the use of bicycles and electric bicycles on Department lands.</text>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Adaptive bicycle” means a bicycle designed with a specialized mobility device for use by individuals with physical disabilities or mobility challenges and that may be customized with one or more of the following adaptive features:</text>
+        <para>
+          <num>(a)</num>
+          <text>Hand-cycles;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Three-wheeled designs for stability;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Reinforced frames;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Adaptive seating; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Specialized controls.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Bicycle” means a vehicle that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is designed to be operated by human power; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Has two or three wheels, of which one is more than 14 inches in diameter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Class 1 electric bicycle” has the meaning stated in
+                    <cite doc="Md. Code" path="gtr|11-117">Transportation Article, §11-117</cite>.1, Annotated Code of Maryland.
+                  </text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Department” means the Department of Natural Resources.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Department lands” means Chesapeake Forest Lands, State Forests, State Parks, Wildlife Management Areas, Cooperative Wildlife Management Areas, Natural Environmental Areas, Natural Resource Management Areas, and Wildlands.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Electric bicycle.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Electric bicycle” has the meaning stated in
+                      <cite doc="Md. Code" path="gtr|11-117">Transportation Article, §11-117</cite>.1, Annotated Code of Maryland.
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Electric bicycle” includes an adaptive bicycle equipped with an electric assist motor.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Usage.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person may use a bicycle or an electric bicycle on public roads, parking lots, or ORV trails on Department lands.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person may use a bicycle, adaptive bicycle, or Class 1 electric bicycle only on designated trails on Department lands.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A person is prohibited from using a bicycle or an electric bicycle on Wildlands, as designated under
+                  <cite doc="Md. Code" path="gnr|5-1203">Natural Resources Article, §5-1203, Annotated Code of Maryland</cite>.
+                </text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Secretary or their designee may restrict on a temporary or permanent basis the use of bicycles or electric bicycles on trails on Department lands.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If the use of bicycles is prohibited in an area on Department lands, the use of an electric bicycle is also prohibited.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If a recreational trail is designated as pedestrian-use only, the use of bicycles and electric bicycles is prohibited.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Notice.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Secretary or their designee shall provide notice of temporary or permanent bicycle or electric bicycle restrictions by:</text>
+      <para>
+        <num>(1)</num>
+        <text>Posting signage at a trailhead;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Posting notice on a bulletin board on the affected Department land; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Publishing the restriction on the Department’s website.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Secretary or their designee may restrict the use of bicycles or electric bicycles from Department lands:</text>
+      <para>
+        <num>(1)</num>
+        <text>If the trail is designed for a particular user group;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the area contains appropriate infrastructure;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If critical habitat protection is necessary;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If the area is designated as a wildland;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The safety of the trail users; or</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>If the trail surface is unsuitable for bicycles or electric bicycles.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Conduct.</heading>
+    <text>A person may not operate a bicycle or electric bicycle:</text>
+    <para>
+      <num>A.</num>
+      <text>In a reckless, careless, or negligent manner;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In a manner that disregards the rights or safety of an individual;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>While under the influence of alcohol or drugs;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>In a manner that causes damage to property, wildlife, vegetative resources, or individuals.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>In a manner that exceeds the posted speed limits for bicycles or electric bicycles; or</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>While in a prohibited area.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Violations.</heading>
+    <text>An individual who violates any provision of this chapter is subject to the provisions of
+                <cite doc="Md. Code" path="gnr|5-1301">Natural Resources Article, §5-1301, Annotated Code of Maryland</cite>, in addition to any penalties under
+                <cite doc="Md. Code" path="gcr|6-405">Criminal Law Article, §6-405, Annotated Code of Maryland</cite>.
+              </text>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§
+                <cite doc="Md. Code" path="gnr|5-209">5-209</cite>,
+                <cite doc="Md. Code" path="gnr|5-1211">5-1211</cite>, and
+                <cite doc="Md. Code" path="gnr|10-808">10-808</cite>, Annotated Code of Maryland
+              </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25">Effective date: May 25, 2026 (53:10 Md. R. 454)</annotation>
+  </annotations>
+  <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+</container>

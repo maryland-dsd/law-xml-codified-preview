@@ -30,10 +30,26 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Accredited residential treatment center” means a residential treatment center that is accredited by the Joint Commission.</text>
+        <text>“Accreditation organization” means a private entity that conducts inspections and surveys of health care facilities based on nationally recognized and developed standards.</text>
       </para>
       <para>
         <num>(2)</num>
+        <text>“Accredited residential treatment center” means a residential treatment center that is accredited by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Joint Commission on Accreditation of Healthcare Organizations;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Commission on Accreditation of Rehabilitation Facilities; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council on Accreditation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
         <text>“Adverse event” means an unexpected occurrence that:</text>
         <para>
           <num>(a)</num>
@@ -45,11 +61,11 @@
         </para>
       </para>
       <para>
-        <num>(3)</num>
-        <text>"Center" means a residential treatment center.</text>
+        <num>(4)</num>
+        <text>“Center” means a residential treatment center.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(5)</num>
         <text>“Change in condition” means a significant change in a resident’s physical, mental, or psychological status including:</text>
         <para>
           <num>(a)</num>
@@ -89,15 +105,15 @@
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(6)</num>
         <text>“Department” means the Maryland Department of Health.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(7)</num>
         <text>“Fire authorities” means the official fire safety agency including the State Fire Marshal and local fire departments or fire marshals as appropriate.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(8)</num>
         <text>“Governing body” means the organizational structure that is responsible for all center operations, including:</text>
         <para>
           <num>(a)</num>
@@ -113,7 +129,7 @@
         </para>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(9)</num>
         <text>“Joint Commission” means the voluntary national healthcare accreditation service recognized for:</text>
         <para>
           <num>(a)</num>
@@ -125,27 +141,45 @@
         </para>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(10)</num>
         <text>“Licensee” means the individual, partnership, association, or corporation to which a license is issued.</text>
       </para>
       <para>
-        <num>(10)</num>
-        <text>“Person” means an individual, receiver, trustee, guardian, personal representative, fiduciary, or representative of any kind and any partnership, firm, association, corporation, or other entity.</text>
-      </para>
-      <para>
         <num>(11)</num>
-        <text>“Resident” means any child or adolescent domiciled in a center for the purpose of receiving the services offered by a residential treatment center.</text>
+        <text>“Nonaccredited residential treatment center” means a residential treatment center that is not accredited by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Joint Commission on Accreditation of Healthcare Organizations;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Commission on Accreditation of Rehabilitation Facilities; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Council on Accreditation.</text>
+        </para>
       </para>
       <para>
         <num>(12)</num>
-        <text>“Residential treatment center” means a psychiatric institution that provides campus-based intensive and extensive evaluation and treatment of children and adolescents with severe and chronic emotional disturbances who require a self-contained therapeutic, educational, and recreational program in a residential setting.</text>
+        <text>“Person” means an individual, receiver, trustee, guardian, personal representative, fiduciary, or representative of any kind and any partnership, firm, association, corporation, or other entity.</text>
       </para>
       <para>
         <num>(13)</num>
+        <text>“Resident” means any child or adolescent domiciled in a center for the purpose of receiving the services offered by a residential treatment center.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Residential treatment center” means a psychiatric institution that provides campus-based intensive and extensive evaluation and treatment of children and adolescents with severe and chronic emotional disturbances who require a self-contained therapeutic, educational, and recreational program in a residential setting.</text>
+      </para>
+      <para>
+        <num>(15)</num>
         <text>“Secretary" means the Secretary of Health.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-284-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -250,7 +284,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>License renewal shall be based on accreditation by the Joint Commission.</text>
+        <text>License renewal shall be based on accreditation by the Joint Commission, the Commission on Accreditation of Rehabilitation Facilities, or the Council on Accreditation.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -287,9 +321,19 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Licenses for Less Than 12 Months for the Operation of Hospitals and Related Institutions. The Secretary may issue a provisional license, pending accreditation by The Joint Commission, valid for a period not to exceed 12 months.</text>
+      <text>Licenses for Less Than 12 Months for the Operation of Hospitals and Related Institutions. The Secretary may issue a provisional license to a nonaccredited residential treatment center if:</text>
+      <para>
+        <num>(1)</num>
+        <text>The nonaccredited residential treatment center is pending accreditation by The Joint Commission, the Commission on Accreditation of Rehabilitation Facilities, or the Council on Accreditation; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The provision license is valid for a period not to exceed 12 months.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-284-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -583,7 +627,7 @@
           <table>
             <tbody>
               <tr>
-                <td rowspan="4">(a) Milk:</td>
+                <td rowspan="4" class="text-indent-2">(a) Milk:</td>
                 <td data-vertical-align="middle">Under 9 years</td>
                 <td data-vertical-align="middle">3—4 cups</td>
               </tr>
@@ -636,7 +680,9 @@
       <num>B.</num>
       <text>Sanitation and Personal Hygiene. All applicable requirements of <cite path="|10.15.03">COMAR 10.15.03</cite> shall be observed.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-284-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -866,10 +912,12 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>When conducting its independent investigation of an accredited residential treatment center, the Department shall use the standards of the Joint Commission and this chapter.</text>
+        <text>When conducting its independent investigation of an accredited residential treatment center, the Department shall use the standards of the accreditation organization that accredits the residential treatment center and this chapter.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-284-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1239,6 +1287,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-29"><cite path="|10|07|04|.03|A.">Regulation .03A</cite> amended effective August 29, 2016 (43:17 Md. R. 953)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-15"><cite path="|10|07|04|.11|B.">Regulation .11B</cite> amended effective February 15, 2016 (43:3 Md. R. 272)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-05-22" discontinuity="true">Chapter revised effective May 22, 2017 (44:10 Md. R. 472)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|07|04|.02|B.">Regulation .02B</cite> amended effective June 8, 2026 (53:11 Md. R. 484)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|07|04|.04|A.">Regulation .04A</cite>, D amended effective June 8, 2026 (53:11 Md. R. 484)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|07|04|.17|B.">Regulation .17B</cite> amended effective June 8, 2026 (53:11 Md. R. 484)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-11-18" discontinuity="true">Annotation: <cite path="|10.07.04">COMAR 10.07.04</cite> cited in Attorney General Opinion No. 82-034  (November 18, 1982)</annotation>
+    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-284-F" type="History" display="false"/>
   </annotations>
 </container>

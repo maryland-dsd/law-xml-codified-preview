@@ -198,7 +198,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>The spousal impoverishment rules at <cite path="10.09.24.10">COMAR 10.09.24.10</cite>-1 are applicable, except for the following differences in definitions:</text>
+        <text>The spousal impoverishment rules at <cite path="10.09.24.10-1">COMAR 10.09.24.10-1</cite> are applicable, except for the following differences in definitions:</text>
         <para>
           <num>(a)</num>
           <text>“Community spouse” means an individual who:</text>
@@ -281,7 +281,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text><cite path="10.09.24.10">COMAR 10.09.24.10</cite>-1; and</text>
+          <text><cite path="10.09.24.10-1">COMAR 10.09.24.10-1</cite>; and</text>
         </para>
         <para>
           <num>(i)</num>
@@ -313,7 +313,9 @@
       <num>E.</num>
       <text>Medically Needy. An individual is not eligible for waiver services if the individual is receiving Medical Assistance as a medically needy person in accordance with <cite path="10.09.24.03|D.">COMAR 10.09.24.03D</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-272-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1338,15 +1340,15 @@
           <text>Residential habilitation reimbursed at:</text>
           <para>
             <num>(i)</num>
-            <text>$266.64 from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $274.64 per day for Level 1;</text>
+            <text>$305.51 per day for Level 1 effective July 1, 2024;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>$353.06 from October 1, 2022 through June 30,2023, then effective July 1, 2023 at $363.65 per day for Level 2; and</text>
+            <text>$404.52 per day for Level 2 effective July 1, 2024; and</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>$488.43 from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $503.08 per day for Level 3;</text>
+            <text>$559.63 per day for Level 3 effective July 1, 2024;</text>
           </para>
         </para>
         <para>
@@ -1354,15 +1356,15 @@
           <text>Day habilitation reimbursed at:</text>
           <para>
             <num>(i)</num>
-            <text>$68.84 from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $70.91 per day for Level 1;</text>
+            <text>$78.88 per day for Level 1 effective July 1, 2024;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>$120.09 from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $123.69 per day for Level 2; and</text>
+            <text>$137.59 per day for Level 2 effective July 1, 2024; and</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>$168.94 from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $174.01 per day for Level 3;</text>
+            <text>$193.57 per day for Level 3 effective July 1, 2024;</text>
           </para>
         </para>
         <para>
@@ -1370,20 +1372,24 @@
           <text>Supported employment reimbursed at:</text>
           <para>
             <num>(i)</num>
-            <text>$40.84 from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $42.07 per day for Level 1;</text>
+            <text>$46.80 per day for Level 1 effective July 1, 2024;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>$68.84 from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $70.91 per day for Level 2; and</text>
+            <text>$78.88 per day for Level 2 effective July 1, 2024; and</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>$168.94 from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $174.01 per day for Level 3; and</text>
+            <text>$193.57 per day for Level 3 effective July 1, 2024; and</text>
           </para>
         </para>
         <para>
           <num>(d)</num>
-          <text>Individual support services (ISS): reimbursed at the maximum rate of $8.3500 per 15 minutes from October 1, 2022 through June 30, 2023, then effective July 1, 2023 at $8.6000 per 15 minutes.</text>
+          <text>Individual support services (ISS): reimbursed at the rate of $9.5666 per 15 minutes effective July 1, 2024; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Individual support services—virtual: reimbursed at the rate of $9.5666 per 15 minutes effective July 1, 2024.</text>
         </para>
       </para>
       <para>
@@ -1395,7 +1401,9 @@
         <text>Program rates specified in this regulation shall increase each fiscal year through FY 2026, subject to the limitations of the State budget.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-272-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1468,8 +1476,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-04-09"><cite path="|10|09|46|.11|C.">Regulation .11C</cite>, D amended effective April 9, 2007 (34:7 Md. R. 698)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-05-18"><cite path="|10|09|46|.12|A.">Regulation .12A</cite> amended effective May 18, 2020 (47:10 Md. R. 516)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-10-06"><cite path="|10|09|46|.12|A.">Regulation .12A</cite>, C amended as an emergency provision effective July 1, 2008 (35:17 Md. R. 1481); amended permanently effective October 6, 2008 (35:20 Md. R. 1774)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-05-01"><cite path="|10|09|46|.12|C.">Regulation .12C</cite> amended effective May 1, 2023 (50:8 Md. R. 338)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|10|09|46|.12|C.">Regulation .12C</cite> amended effective May 1, 2023 (50:8 Md. R. 338); March 3, 2025 (52:4 Md. R. 218)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|09|46|.12|C.">Regulation .12C</cite> amended effective May 1, 2023 (50:8 Md. R. 338); March 3, 2025 (52:4 Md. R. 218); June 8, 2026 (53:11 Md. R. 485)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-10-06"><cite path="|10|09|46|.13">Regulation .13</cite> amended as an emergency provision effective July 1, 2008 (35:17 Md. R. 1481); amended permanently effective October 6, 2008 (35:20 Md. R. 1774)</annotation>
+    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-272-F" type="History" display="false"/>
   </annotations>
 </container>

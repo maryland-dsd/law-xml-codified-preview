@@ -62,7 +62,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>“GT modifier” means the Healthcare Common Procedure Coding System (HCPCS) service code modifier indicating that the provider rendered a healthcare service via an interactive audio and video telecommunications system.</text>
+        <text>“GT modifier” means the Healthcare Common Procedure Coding System service code modifier indicating that the provider rendered a healthcare service via an interactive audio and video telecommunications system.</text>
       </para>
       <para>
         <num>(6)</num>
@@ -132,8 +132,14 @@
         <num>(13)</num>
         <text>“Telehealth Program” means the program by which medically necessary services are authorized to be delivered via technology-assisted communication between originating and distant site providers.</text>
       </para>
+      <para>
+        <num>(14)</num>
+        <text>“UB modifier” means the Healthcare Common Procedure Coding System service code modifier indicating that the provider rendered a healthcare service via an interactive audio-only telecommunications system.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -302,18 +308,14 @@
       <text>A service delivered via telehealth does not include:</text>
       <para>
         <num>(1)</num>
-        <text>An audio-only telephone conversation between a health care provider and a patient unless provided on dates of service between July 1, 2021, and June 30, 2023, inclusive;</text>
-      </para>
-      <para>
-        <num>(2)</num>
         <text>An electronic mail message between a health care provider and a patient;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(2)</num>
         <text>A facsimile transmission between a health care provider and a patient; or</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(3)</num>
         <text>A telephone conversation, electronic mail message, or facsimile transmission between providers without direct interaction with the patient.</text>
       </para>
     </para>
@@ -339,9 +341,11 @@
     </para>
     <para>
       <num>F.</num>
-      <text>A provider eligible to bill a professional fee for a health care service shall bill a professional fee for the health care service instead of a clinic facility fee.</text>
+      <text>A provider may not bill for facility, room, or board charges for telehealth visits if a professional fee can be billed separately.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -368,14 +372,20 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Services delivered via telehealth shall be billed with the telehealth GT modifier.</text>
+        <text>Services delivered via audio-visual telehealth shall be billed with the telehealth GT modifier.</text>
       </para>
       <para>
         <num>(3)</num>
+        <text>Services delivered via audio-only telehealth shall be billed with the UB modifier.</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>Services delivered via telehealth shall be within the provider's scope of practice as determined by its governing licensure or credentialing board.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -540,5 +550,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-27"><cite path="|10|09|49|.11|C.">Regulation .11C</cite>, D amended effective February 27, 2017 (44:4 Md. R. 252)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-10-07" discontinuity="true">Chapter revised effective October 7, 2019 (46:20 Md. R. 844)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-24" discontinuity="true">Chapter revised effective July 24, 2023 (50:14 Md. R. 593)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|09|49|.02|B.">Regulation .02B</cite> amended effective June 8, 2026 (53:11 Md. R. 485)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|09|49|.07|B.">Regulation .07B</cite>, F amended effective June 8, 2026 (53:11 Md. R. 485)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|09|49|.08|B.">Regulation .08B</cite> amended effective June 8, 2026 (53:11 Md. R. 485)</annotation>
+    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" type="History" display="false"/>
   </annotations>
 </container>

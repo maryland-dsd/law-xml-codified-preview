@@ -191,7 +191,7 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="36|03|06|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Requirements.</heading>
@@ -207,7 +207,7 @@
         <text>Terms Defined.</text>
         <para>
           <num>(a)</num>
-          <text>“Advertisement”: means any material that is:</text>
+          <text>“Advertisement” means any material that is:</text>
           <para>
             <num>(i)</num>
             <text>Disseminated to the public through broadcasting, publication, mail, or any other means; and</text>
@@ -227,15 +227,19 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>“Printed advertisement” means an advertisement that appears in or on a sign, direct mailing, poster, brochure or other written material and is intended to encourage video lottery terminal or table game play.</text>
+          <text>“Online advertisement” means an advertisement on a website, an application, in social media, or otherwise on the internet, that is intended to encourage video lottery terminal or table game play.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>“Responsible gambling awareness materials” means a sticker, a brochure, a wallet card, or other material that conveys only problem gambling resource information.</text>
+          <text>“Printed advertisement” means an advertisement that appears in or on a sign, direct mailing, poster, brochure or other written material and is intended to encourage video lottery terminal or table game play.</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>“Underage warning message” means the phrase: “No patron under the age of 21 is permitted on the casino floor”.</text>
+          <text>“Responsible gambling awareness materials” means a sticker, a brochure, a wallet card, or other material that conveys only problem gambling resource information.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>“Underage warning message” means the language that prohibits individuals under the age of 21 on the gaming floor”.</text>
         </para>
       </para>
     </para>
@@ -252,15 +256,21 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Ensure that a printed advertisement bears the gambling assistance message and meets requirements of <cite path="36.03.03.08">COMAR 36.03.03.08</cite>;</text>
+        <text>Ensure that a printed advertisement bears the gambling assistance message and meets requirements of
+                  <cite path="36.03.03.08">COMAR 36.03.03.08</cite>;
+                </text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Ensure that a billboard bearing a printed advertisement bears the gambling assistance message and meets requirements of <cite path="36.03.03.08">COMAR 36.03.03.08</cite>;</text>
+        <text>Ensure that a billboard bearing a printed advertisement bears the gambling assistance message and meets requirements of
+                  <cite path="36.03.03.08">COMAR 36.03.03.08</cite>;
+                </text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Ensure that a radio, television, or video advertisement bears the gambling assistance message and meets requirements of <cite path="36.03.03.08">COMAR 36.03.03.08</cite>;</text>
+        <text>Ensure that a radio, television, or video advertisement bears the gambling assistance message and meets requirements of
+                  <cite path="36.03.03.08">COMAR 36.03.03.08</cite>;
+                </text>
       </para>
       <para>
         <num>(6)</num>
@@ -280,25 +290,91 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>Place in the facility responsible gambling awareness materials according to its responsible gaming plan required under <cite path="|36|03|06|.02">Regulation .02 of this chapter</cite>; and</text>
+        <text>Place in the facility responsible gambling awareness materials according to its responsible gaming plan required under
+                  <cite path="|36|03|06|.02">Regulation .02 of this chapter</cite>; and
+                </text>
       </para>
       <para>
         <num>(9)</num>
-        <text>Ensure that the gambling assistance message is conspicuous and readable.</text>
+        <text>Ensure that an advertisement does not include language that suggests an outcome is guaranteed or without risk; and</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Ensure that an advertisement includes a gambling assistance message that:</text>
+        <para>
+          <num>(a)</num>
+          <text>For a printed advertisement, the font height is the greater of:</text>
+          <para>
+            <num>(i)</num>
+            <text>The majority of the text in the advertisement; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Three percent of the height or width of the advertisement.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For a billboard advertisement, the font height of the gambling assistance message shall be at least 5 percent of the height or width, whichever is greater, of the face of the billboard;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For a video and television advertisement, the gambling assistance message shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>Be visible for the entire duration of the advertisement, with a font size that is at least 3 percent of the image height or width, whichever is greater; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>From the first instance video lottery terminal, table game play or a facility operator is displayed, appear on the final screen for at least the final three seconds of the advertisement with a font height that is at least 8 percent of the image height or width, whichever is greater;</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>For websites and social media, the gambling assistance message shall:</text>
+          <para>
+            <num>(i)</num>
+            <text>Be posted on each webpage or profile page, and on any gaming-related advertisement posted on the webpage or profile page, with a font height that is at least the same size as the majority of the text used on the webpage or profile page; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Meet the font height and shall comply with the requirements in
+                      <cite path="36|03|06|.03|B.|(10)|(a)">§B(10)(a) of this regulation</cite>..
+                    </text>
+          </para>
+        </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gsg|9-1">State Government Article, §9-1</cite>A-24, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gsg|9-1">State Government Article, §9-1</cite>A-24, Annotated Code of Maryland
+            </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-20">Regulations <cite path="|36|03|06|.01">.01</cite>—<cite path="|36|03|06|.03">.03</cite> adopted as an emergency provision effective March 1, 2013 (40:6 Md. R. 470); emergency action expired effective July 20, 2013</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19" discontinuity="true">Regulations <cite path="|36|03|06|.01">.01</cite>—<cite path="|36|03|06|.03">.03</cite> adopted effective adopted effective August 19, 2013 (40:16 Md. R. 1347)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-19"><cite path="|36|03|06|.01">Regulation .01</cite> amended effective October 19, 2020 (47:21 Md. R. 905)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-02-03"><cite path="|36|03|06|.01|B.">Regulation .01B</cite>, C amended effective February 3, 2014 (41:2 Md. R. 93)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-02-03"><cite path="|36|03|06|.02|A.">Regulation .02A</cite>, D amended effective February 3, 2014 (41:2 Md. R. 93)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-19"><cite path="|36|03|06|.02|D.">Regulation .02D</cite> amended effective October 19, 2020 (47:21 Md. R. 905)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-07"><cite path="|36|03|06|.03|A.">Regulation .03A</cite> amended effective January 7, 2016 (42:26 Md. R. 1597)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|03|06|.03|B.">Regulation .03B</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-20">Regulations
+              <cite path="|36|03|06|.01">.01</cite>—
+              <cite path="|36|03|06|.03">.03</cite> adopted as an emergency provision effective March 1, 2013 (40:6 Md. R. 470); emergency action expired effective July 20, 2013
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19" discontinuity="true">Regulations
+              <cite path="|36|03|06|.01">.01</cite>—
+              <cite path="|36|03|06|.03">.03</cite> adopted effective adopted effective August 19, 2013 (40:16 Md. R. 1347)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-19"><cite path="|36|03|06|.01">Regulation .01</cite> amended effective October 19, 2020 (47:21 Md. R. 905)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-02-03"><cite path="|36|03|06|.01|B.">Regulation .01B</cite>, C amended effective February 3, 2014 (41:2 Md. R. 93)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-02-03"><cite path="|36|03|06|.02|A.">Regulation .02A</cite>, D amended effective February 3, 2014 (41:2 Md. R. 93)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-19"><cite path="|36|03|06|.02|D.">Regulation .02D</cite> amended effective October 19, 2020 (47:21 Md. R. 905)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|36|03|06|.03">Regulation .03</cite> amended effective May 25, 2026 (53:10 Md. R. 459)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-07"><cite path="|36|03|06|.03|A.">Regulation .03A</cite> amended effective January 7, 2016 (42:26 Md. R. 1597)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|03|06|.03|B.">Regulation .03B</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)
+            </annotation>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
   </annotations>
 </container>

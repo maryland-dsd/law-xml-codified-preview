@@ -4503,7 +4503,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Family Law Article, §§<cite doc="Md. Code" path="gfl|5-560">5-560</cite>—<cite doc="Md. Code" path="gfl|5-568">5-568</cite>, <cite doc="Md. Code" path="gfl|5-704">5-704</cite>, and <cite doc="Md. Code" path="gfl|5-705">5-705</cite>; Health-General Article, §§2-104, 14-402(d), 14-403, 14-403.1, 14-407, 18-318, and 18-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|01">01</cite>—8-6A-16 and 14-306; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Family Law Article, §§<cite doc="Md. Code" path="gfl|5-560">5-560</cite>—<cite doc="Md. Code" path="gfl|5-558">5-558</cite>, <cite doc="Md. Code" path="gfl|5-704">5-704</cite>, and <cite doc="Md. Code" path="gfl|5-705">5-705</cite>; Health-General Article, §§2-104, 14-402(d), 14-403, 14-403.1, 14-407, 18-318, and 18-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|01">01</cite>—8-6A-16 and 14-306; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-06-19">Regulations <cite path="|10|16|06|.01">.01</cite> — <cite path="|10|16|06|.24">.24</cite> adopted as an emergency provision effective June 19, 1989 (16:13 Md. R. 1413); emergency status expired November 12, 1989</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-06-11">Regulations <cite path="|10|16|06|.01">.01</cite> — <cite path="|10|16|06|.24">.24</cite> adopted effective June 11, 1990 (17:11 Md. R. 1343)</annotation>
@@ -4540,5 +4540,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28" discontinuity="true">Chapter revised effective March 28, 2016 (43:6 Md. R. 408)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|10|16|06|.02|B.">Regulation .02B</cite> amended as an emergency provision effective January 6, 2025 (52:2 Md. R. 65); amended permanently effective April 14, 2025 (52:7 Md. R. 321)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|10|16|06|.21">Regulation .21</cite> amended as an emergency provision effective January 6, 2025 (52:2 Md. R. 65); amended permanently effective April 14, 2025 (52:7 Md. R. 321)</annotation>
+    <annotation app="2026-05-21" doc="Editor Action 2026-05-21" eff="2026-05-21" path="" type="History" display="false"/>
   </annotations>
 </container>

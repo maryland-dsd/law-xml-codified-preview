@@ -642,18 +642,26 @@
       </para>
       <para>
         <num>(60)</num>
-        <text>X-linked Adrenoleukodystrophy (X-ALD); and</text>
+        <text>X-linked Adrenoleukodystrophy (X-ALD);</text>
       </para>
       <para>
         <num>(61)</num>
-        <text>Guanidinoacetate Methyltransferase Deficiency (GAMT).</text>
+        <text>Guanidinoacetate Methyltransferase Deficiency (GAMT); and</text>
+      </para>
+      <para>
+        <num>(62)</num>
+        <text>Infantile Krabbe Disease.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>Supplemental Tests. The State’s Newborn Screening Program may not request or perform a supplemental test until the public health laboratory has confirmed there is sufficient blood-spot specimen to test for the required panel of disorders set forth in <cite path="10|52|12|.05|B.">§B of this regulation</cite>.</text>
+      <text>Supplemental Tests. The State’s Newborn Screening Program may not request or perform a supplemental test until the public health laboratory has confirmed there is sufficient blood-spot specimen to test for the required panel of disorders set forth in
+                <cite path="10|52|12|.05|B.">§B of this regulation</cite>.
+              </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-017-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1050,12 +1058,25 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§13-109, 13-111, and 13-601—13-605, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-12-24">Effective date: December 24, 1975 (2:29 Md. R. 1738)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-11-20">Chapter revised and recodified from <cite path="|10.39.01">COMAR 10.39.01</cite>, Testing for Hereditary Metabolic Disorders in the Newborn Child, to <cite path="|10.52.12">COMAR 10.52.12</cite>, Screening for Treatable Disorders in the Newborn Child, effective November 20, 1994 (21:23 Md. R. 1934)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23" discontinuity="true">Regulations <cite path="|10|52|12|.01">.01</cite>—<cite path="|10|52|12|.12">.12</cite>, Screening for Treatable Disorders in the Newborn Child, repealed and new Regulations <cite path="|10|52|12|.01">.01</cite>—<cite path="|10|52|12|.15">.15</cite>, Newborn Screening, adopted as an emergency provision effective January 1, 2009 (36:2 Md. R. 97); adopted permanently effective March 23, 2009 (36:6 Md. R. 490)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|10|52|12|.03|B.">Regulation .03B</cite> amended effective March 14, 2016 (43:5 Md. R. 385)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|10|52|12|.07|E.">Regulation .07E</cite> amended effective March 14, 2016 (43:5 Md. R. 385)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|10|52|12|.08|B.">Regulation .08B</cite> amended effective March 14, 2016 (43:5 Md. R. 385)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-11-20">Chapter revised and recodified from
+              <cite path="|10.39.01">COMAR 10.39.01</cite>, Testing for Hereditary Metabolic Disorders in the Newborn Child, to
+              <cite path="|10.52.12">COMAR 10.52.12</cite>, Screening for Treatable Disorders in the Newborn Child, effective November 20, 1994 (21:23 Md. R. 1934)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23" discontinuity="true">Regulations
+              <cite path="|10|52|12|.01">.01</cite>—
+              <cite path="|10|52|12|.12">.12</cite>, Screening for Treatable Disorders in the Newborn Child, repealed and new Regulations
+              <cite path="|10|52|12|.01">.01</cite>—
+              <cite path="|10|52|12|.15">.15</cite>, Newborn Screening, adopted as an emergency provision effective January 1, 2009 (36:2 Md. R. 97); adopted permanently effective March 23, 2009 (36:6 Md. R. 490)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|10|52|12|.03|B.">Regulation .03B</cite> amended effective March 14, 2016 (43:5 Md. R. 385)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|10|52|12|.07|E.">Regulation .07E</cite> amended effective March 14, 2016 (43:5 Md. R. 385)
+            </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|10|52|12|.08|B.">Regulation .08B</cite> amended effective March 14, 2016 (43:5 Md. R. 385)
+            </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24" discontinuity="true">Chapter revised effective April 24, 2017 (44:8 Md. R. 404)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|10|52|12|.05|B.">Regulation .05B</cite> amended effective August 23, 2021 (48:17 Md. R. 669); April 14, 2025 (52:7 Md. R. 321)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|10|52|12|.05|B.">Regulation .05B</cite> amended effective August 23, 2021 (48:17 Md. R. 669); April 14, 2025 (52:7 Md. R. 321); May 25, 2026 (53:10 Md. R. 454)
+            </annotation>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-017-F" type="History" display="false"/>
   </annotations>
 </container>

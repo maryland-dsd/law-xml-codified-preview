@@ -53,7 +53,7 @@
     </para>
     <annotations/>
   </section>
-  <section cache:ref-path="08|02|21|.02">
+  <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
     <heading>Recreational.</heading>
@@ -63,33 +63,19 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Size.</text>
-      <para>
-        <num>(1)</num>
-        <text>Except as provided in <cite path="08|02|21|.02|B.|(2)">§B(2) of this regulation</cite>, the minimum size for yellow perch harvested from waters of the State is 9 inches total length.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>There is no minimum size for yellow perch harvested from reservoirs, lakes, ponds, impoundments, and waters upstream of them.</text>
-      </para>
+      <text>Size. Except as provided in <cite path="|08.02.11">COMAR 08.02.11</cite>, the minimum size for yellow perch harvested from waters of the State is 9 inches total length.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Creel and Possession Limits.</text>
-      <para>
-        <num>(1)</num>
-        <text>Except as provided in <cite path="08|02|21|.02|C.|(2)">§C(2) of this regulation</cite>, the daily catch and possession limit for yellow perch is ten fish per person per day.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>There is no daily catch limit for reservoirs, lakes, ponds, impoundments, and waters upstream of them.</text>
-      </para>
+      <text>Creel and Possession Limits. Except as provided in <cite path="|08.02.11">COMAR 08.02.11</cite>, the daily catch and possession limit for yellow perch is five fish per person per day.</text>
     </para>
     <para>
       <num>D.</num>
       <text>Reporting. A recreational angler shall cooperate with Department-approved surveys and catch inspections necessary for harvest and by-catch determination, and biological characterization.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-026-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|21|.03">
     <prefix>Regulation</prefix>
@@ -356,8 +342,9 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|1-104">1-104</cite>, <cite doc="Md. Code" path="gnr|4-206">4-206</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>.2, 4-602, and 4-701; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|1-104">1-104</cite>, <cite doc="Md. Code" path="gnr|4-206">4-206</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>.<cite doc="Md. Code" path="gnr|2">2</cite>, <cite doc="Md. Code" path="gnr|4-602">4-602</cite>, and <cite doc="Md. Code" path="gnr|4-701">4-701</cite>; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-01-26">Effective date: January 26, 2009 (36:2 Md. R. 99)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|08|02|21|.02|B.">Regulation .02B</cite>, C amended effective June 8, 2026 (53:11 Md. R. 484)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-12-22"><cite path="|08|02|21|.03">Regulation .03</cite> amended effective December 22, 2014 (41:25 Md. R. 1478)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-08"><cite path="|08|02|21|.03|A.">Regulation .03A</cite> amended effective July 8, 2024 (51:13 Md. R. 647)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-27"><cite path="|08|02|21|.03|B.">Regulation .03B</cite> amended effective October 19, 2009 (36:21 Md. R. 1590); February 27, 2017 (44:4 Md. R. 252)</annotation>
@@ -368,5 +355,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|08|02|21|.03|K.">Regulation .03K</cite> repealed effective March 23, 2020 (47:6 Md. R. 340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-12-24"><cite path="|08|02|21|.04|B.">Regulation .04B</cite> amended effective January 24, 2011 (38:2 Md. R. 83); December 24, 2012 (39:25 Md. R. 1611)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-05"><cite path="|08|02|21|.04|C.">Regulation .04C</cite> amended effective April 5, 2010 (37:7 Md. R. 569)</annotation>
+    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-026-F" type="History" display="false"/>
   </annotations>
 </container>

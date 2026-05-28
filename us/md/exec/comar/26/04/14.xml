@@ -1,0 +1,2170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>14</num>
+  <heading>Packaging and Paper Products—Producer Responsibility</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose.</heading>
+    <text>The purpose and scope of this chapter is to establish certain requirements pertaining to producer responsibility plans for producers of covered materials and to establish certain requirements pertaining to the implementation of the program pursuant to Environment Article, §§
+                <cite doc="Md. Code" path="gen|9-2501">9-2501</cite>—
+                <cite doc="Md. Code" path="gen|9-2512">9-2512</cite>, Annotated Code of Maryland, including:
+              </text>
+    <para>
+      <num>A.</num>
+      <text>Clarifying:</text>
+      <para>
+        <num>(1)</num>
+        <text>The types of entities and individuals that meet the definition of producer;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Covered materials, and exempt and excluded packaging and paper products;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Covered services and covered entities;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The timeline for implementation; and</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Establishing:</text>
+      <para>
+        <num>(1)</num>
+        <text>Categories of covered materials for registration;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Registration requirements for producers and Producer Responsibility Organizations (PRO);</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Minimum requirements for Alternative Collection Programs;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Record keeping, reporting and production of records for producers and PROs;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Advisory Council membership and voting requirements.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|04|14|.02">
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Advisory council” means producer responsibility advisory council established to provide advice and make recommendations regarding establishing and implementing a producer responsibility program in the State for covered materials, including advice on drafting, amending, and implementing producer responsibility plans.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Alternative Collection Program” means the collection of a specific covered material category that is not generally collected through curbside services.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Beverage Container.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Beverage container” means a prepackaged beverage container:</text>
+          <para>
+            <num>(i)</num>
+            <text>Made of any material including glass, plastic, metal, paper, or multimaterials;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>In any form, including a bottle, can, carton, or pouch; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The volume of which is not more than 5 liters.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Beverage container” does not include a prepackaged beverage container that is covered under a beverage container deposit program in the State that is legislatively mandated.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Bioplastic” means processed starches or other materials that would be considered a plastic-like or organic material that includes but is not limited to polylactic acid (PLA), polyhydroxyalkanoate (PHA), and polyhydroxybutyrate (PHB).</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Brand owner” means a person that owns or licenses a brand or that otherwise has rights to market a product under the brand whether or not the brand’s trademark is registered.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Bound Book.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Bound book” means printed paper permanently assembled and protected by a cover, such as a hardcover or paperback and affixed using adhesives or thread.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Bound book” excludes magazines.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Composting” has the meaning stated in
+                    <cite doc="Md. Code" path="gen|9-1701">Environment Article, §9-1701, Annotated Code of Maryland</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Composting facility” has the meaning stated in
+                    <cite doc="Md. Code" path="gen|9-1701">Environment Article, §9-1701, Annotated Code of Maryland</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Compostable” or “compostable products” means packaging or paper products that meet the definition of compostable products as defined in
+                    <cite path="26.04.11.02">COMAR 26.04.11.02</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Covered Entity.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Covered entity” means a person or location that receives covered services for covered materials in accordance with
+                      <cite doc="Md. Code" path="gen">Environment Article, Title 9, Subtitle 25, Annotated Code of Maryland</cite>,
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Covered entity” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>A single-family residence;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A multi-family residence;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A public or non-public kindergarten, elementary, or secondary school, and its campus;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A childcare center as defined in the
+                        <cite doc="Md. Code" path="ged|9.5-401">Education Article, §9.5-401, Annotated Code of Maryland</cite>;
+                      </text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>A public building owned or operated by the state or a local government, including leased and rented properties that a state or local government operates;</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Parcels of land owned, operated, or leased by the State or a local government including parks, State and local highways, and areas associated with open space for the public as identified in local zoning; and</text>
+          </para>
+          <para>
+            <num>(vii)</num>
+            <text>An industrial, commercial, or institutional building that source separates paper products for recycling and those paper products do not meet the definition of packaging.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Covered entity” may exclude the portions of a building that are not owned, leased or rented by either the State or a local government, as approved by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Covered Materials.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Covered materials” means packaging and paper products sold, offered for sale, imported, or distributed in the State.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Covered materials” does not include exempt or excluded materials as defined in this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Covered material type” means a singular and specific type of covered material, such as paper, plastic, metal, or glass, that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Can be categorized based on distinguishing chemical or physical properties, including properties that allow the material type to be aggregated into a discrete commodity category for purposes of reuse, recycling, or composting; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is based on similar uses in the form of a product or package.</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Covered Services.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Covered services” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>Collecting, transferring, transporting, sorting, processing (including the cleaning of covered materials to ensure recovery in the form of recycling, reuse, or refill), recovering, preparing, or otherwise managing covered materials for purpose of waste reduction, reuse, recycling or composting; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Public education and outreach activities related to the activities described in
+                        <cite path="26|04|14|.02|B.|(13)|(a)|(i)">§B(13)(a)(i) of this regulation</cite>.
+                      </text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Covered services” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>Litter cleanups where covered materials are collected, sorted, transported and processed for recycling; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Reuse and refill services.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Covered services” does not include disposal of covered materials.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“De minimi</text>
+        <text>s producer” means a person that in their most recent fiscal year:</text>
+        <para>
+          <num>(a)</num>
+          <text>Introduced less than one ton of covered material into the State; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Earned global gross revenues of less than $2,000,000.</text>
+        </para>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Environmental impact” means the impact of a covered material on human health and the environment, beginning with the extraction and processing of the raw materials that compose the covered materials through the manufacturing, distribution, use, recovery for reuse, recycling or composting, and final disposal of the covered material.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Exempt material” means a material, or any portion of a material that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Primary packaging for infant formula, as defined in 21 U.S.C. § 321(z);</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Primary packaging for medical food, as defined in 21 U.S.C. § 360ee(b)(3);</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Primary packaging for a fortified oral nutritional supplement, or food which is formulated to be consumed or administered enterally for individuals who are unable to consume nutrition orally, used by individuals who require supplemental or sole source nutrition to meet nutritional or special dietary needs directly related to cancer, kidney disease, diabetes, malnutrition, or failure to thrive conditions, as defined by the International Classification of Diseases, Tenth Revision;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Primary packaging for a product regulated as a drug or medical device by the U.S. Food and Drug Administration, including associated components and consumable medical equipment;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Primary packaging for medical equipment or a product used in medical settings that is regulated by the U.S. Food and Drug Administration, including associated components and consumable medical equipment;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Primary packaging for drugs, biological products, parasiticides, medical devices, or in vitro diagnostics that are used to treat, or that are administered to, animals and are regulated by the U.S. Food and Drug Administration under the federal Food, Drug, and Cosmetic Act or by the U.S. Department of Agriculture under the federal Virus–Serum–Toxin Act;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Primary packaging for products regulated by the U.S. Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Primary packaging used to contain liquefied petroleum gas and designed to be refilled;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Newsprint subject to
+                      <cite doc="Md. Code" path="gen|9">Environment Article § 9</cite>–1707, Annotated Code of Maryland;
+                    </text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>A paper product used for a magazine’s print publication that has a circulation of less than 95,000 and that primarily includes content derived from primary sources related to news and current events;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Primary packaging used to contain hazardous or flammable products regulated under the 2012 federal Occupational Safety and Health Administration Hazard Communication Standard that prevent the packaging from being waste reduced or made reusable, recyclable, or compostable, as determined by the Department;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Primary packaging for products subject to the Paint Stewardship Program under Environment Article, Title 9, Subtitle 17, Part V, Annotated Code of Maryland;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Material that a producer distributes to another producer that meets the definition of packaging, and is subsequently used to contain a product that is distributed to an industrial, commercial, or institutional business or entity, and is not introduced to a person other than the industrial, commercial, or institutional business or entity that first received the product; or</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Packaging used for the long–term protection or storage of a product that has a lifespan of not less than 5 years, as determined by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Individual Producer Responsibility Plan (IPP)” means a plan developed by a producer who chooses to assume responsibility for submitting a Producer Responsibility Plan individually instead of through a Producer Responsibility Organization (PRO).</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Local government” means:</text>
+        <para>
+          <num>(a)</num>
+          <text>A county; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A municipality.</text>
+        </para>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Long-term Packaging.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Long-term packaging” means packaging fabricated from paper, plastic, metal, glass, or multimaterial that;</text>
+          <para>
+            <num>(i)</num>
+            <text>Has a mechanism to reseal and encase the product and is not designed for single use closure; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The product within the long-term packaging has a lifespan of not less than 5 years as determined by the Department.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Long-term packaging” does not mean packaging for consumables, or products that diminish in quantity or degrade with use.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Long-term packaging” does not mean packaging that would diminish or degrade within 5 years.</text>
+        </para>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>Multimaterial.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Multimaterial” means:</text>
+          <para>
+            <num>(i)</num>
+            <text>Objects, processes or systems that incorporate two or more distinct and heterogeneous materials;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Materials that are integrated within a single component, allowing for combinations of characteristics within a single part;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Multiple layers that are not able to be separated by the consumer or mechanically separated; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Paper products that have integrated non-fiber components including embossed or impregnated materials.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Multimaterial” does not mean minor coatings, inks, or adhesives applied for printing, labeling, or surface protection, unless those components materially affect the recyclability or compostability of the product, as determined by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>Packaging.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Packaging” means a material, a substance, or an object that is used to protect, contain, transport, serve, or facilitate the delivery of a product that is sold or supplied with the product to the consumer for personal, noncommercial use and that is sold, offered for sale, imported, or distributed in the State.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Packaging” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>Primary, secondary, and tertiary packaging intended for the consumer market;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Service packaging designed and intended to be filled at the point of sale, including: carry–out bags; bulk goods bags; take–out and home delivery food service packaging;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Beverage containers; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Labels affixed to packaging or products.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Packaging” does not include packaging that is sold as a product that is empty at the time of sale.</text>
+        </para>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>Paper Products.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Paper products” means products made primarily from wood pulp or other cellulosic fibers.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Paper products” includes paper products offered for sale, imported, or distributed in the State and sold or supplied for use within the residential, industrial, commercial, and institutional sectors.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Paper products” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>Bound books;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Products that are not accepted by materials recycling facilities or composting facilities because of the unsafe or unsanitary nature of the products; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Paper products that also meet the definition of packaging in this regulation.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>“Person” means an individual, receiver, trustee, guardian, personal representative, fiduciary, or representative of any kind and any partnership, firm, association, corporation, or other entity.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>“Primary packaging” means packaging that is most closely containing the product, including packaging that is most closely containing the food or beverage.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>Producer.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Producer” means a person that is responsible for compliance with a producer responsibility plan under
+                      <cite doc="Md. Code" path="gen">Environment Article, Title 9, Subtitle 25, Annotated Code of Maryland</cite>, in order of who is first obligated if the material is sold or distributed in the State, as qualified by:
+                    </text>
+          <para>
+            <num>(i)</num>
+            <text>For packaging, §§B(25)(b), (c), (d), and (g) of this regulation; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>For paper products, §B(25)(e) and (f) of this regulation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Producer” includes, for items sold in or with packaging at a physical retail location in the State:</text>
+          <para>
+            <num>(i)</num>
+            <text>The manufacturer of an item that is sold in or with packaging under the brand of the item manufacturer or is sold in packaging without brand identification;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If there is no person described in
+                        <cite path="26|04|14|.02|B.|(25)|(b)|(i)">§B(25)(b)(i) of this regulation</cite>, the person that is licensed to manufacture and sell or offer for sale to consumers in the State an item with packaging under the brand or trademark of another manufacturer or person;
+                      </text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If there is no person described in §§B(25)(b)(i) and (ii) of this regulation, the brand owner of the item;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If there is no person described in §§B(25)(b)(i)—(iii) of this regulation within the United States, the person that imports the product into the United States for use in a commercial enterprise that sells, offers for sale, or distributes the item in the State; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>If there is no person described in §§B(25)(b)(i)—(iv) of this regulation, the person that first distributes the item in or into the State.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>“Producer” includes, for items sold or distributed in packaging in or into the State via e–commerce, remote sale, or online distribution:</text>
+          <para>
+            <num>(i)</num>
+            <text>For packaging used directly to protect or contain the item, the producer of the packaging is a producer under
+                        <cite path="26|04|14|.02|B.|(25)|(a)|(i)">§B(25)(a)(i) of this regulation</cite>; and
+                      </text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>For packaging used to ship the item to a consumer, the producer of the packaging is the person that packages the item to be shipped to the consumer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>“Producer” includes, for packaging that is not described in§§B(25)(b) and (c) of this regulation, the producer of the packaging is the person that first distributes the item in or into the State.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>“Producer” includes, for paper products that are magazines, catalogs, telephone directories, or similar publications, the producer is the publisher.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>“Producer” includes, for a paper product not described in
+                      <cite path="26|04|14|.02|B.|(25)|(e)">§B(25)(e) of this regulation</cite>:
+                    </text>
+          <para>
+            <num>(i)</num>
+            <text>If the paper product is sold under the manufacturer’s own brand, the producer is the person that manufactures the paper product;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If there is no person described in
+                        <cite path="26|04|14|.02|B.|(25)|(f)|(i)">§B(25)(f)(i) of this regulation</cite>, the producer is the person that is the owner or licensee of a brand or trademark under which the paper product is used in a commercial enterprise, sold, offered for sale, or distributed in the State, whether or not the trademark is registered in the State;
+                      </text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>If there is no person described in §§B(25)(f)(i) and (ii) of this regulation, the producer is the brand owner of the paper product; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>If there is no person described in §§B(25)(f)(i)—(iii) of this regulation within the United States, the producer is the person that imports the paper product into the United States for use in a commercial enterprise that sells, offers for sale, or distributes the paper product in the State.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>For a producer identified in §§B(25)(b), (c), and (d) of this regulation that is a business operated wholly or in part as a franchise, the producer of the packaging is the franchisor if the franchisor has franchisees that have a commercial presence in the State, including operation in the State.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>“Producer” does not include a State, or federal agency, a political subdivision, or other governmental unit;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>“Producer” does not include a registered 501(c)(3) charitable organization or 501(c)(4) social welfare organization</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>“Producer” does not include a “de minimis producer”.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>“Producer” does not include a mill that uses any virgin wood fiber in the products it produces.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>“Producer” does not include a paper mill that produces container board derived from 100 percent postconsumer recycled content and non-postconsumer recycled content;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>“Producer” does not include an entity that owns or operates a restaurant, food cart, or similar establishment that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is headquartered in the State;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Primarily sells to members of the public food that is generally intended to be consumed immediately and without the need for further preparation, either on or off the premises; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Is not a producer of food serviceware.</text>
+          </para>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>“Producer” does not include an entity that owns or operates a single retail sales establishment that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Has no online sales; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Is not supplied or operated as part of a franchise or a chain;</text>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>“Producer” does not include an entity that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is licensed under Alcoholic Beverages and Cannabis Article, Title 2, Annotated Code of Maryland; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Generated less than $10,000,000 in gross revenue during the immediately preceding calendar year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>“Producer” does not include a producer under §§B(25) (a)—(g) of this regulation that has executed an agreement with another entity, under which the other entity has agreed to assume responsibility by written certification under a producer responsibility program for any packaging materials attributable to the first entity.</text>
+        </para>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>“Producer Responsibility Organization (PRO)” means a nonprofit organization that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Exempt from taxation under §501(c)(3) of the Internal Revenue Code; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Created by a group of producers to implement a producer responsibility plan in accordance with the
+                      <cite doc="Md. Code" path="gen|9-2505">Environment Article, §9-2505, Annotated Code of Maryland</cite>; and
+                    </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Approved by the Department to implement an approved Producer Responsibility Plan on behalf of producers of covered materials.</text>
+        </para>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>“Producer Responsibility Plan” means a covered materials producer responsibility plan submitted to the Department by an individual producer through an IPP, or submitted by a PRO as defined in the
+                    <cite doc="Md. Code" path="gen|9-2505">Environment Article, §9-2505, Annotated Code of Maryland</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>Recycling.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Recycling” means the process of collecting, sorting, cleansing, treating, and constituting materials that would otherwise be disposed of and returning them to or maintaining them with the economic mainstream in the form of recovered material for new, reused, or reconstituted products that meet the quality standards necessary to be used in the marketplace.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Recycling” does not include:</text>
+          <para>
+            <num>(i)</num>
+            <text>Landfilling;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Combustion;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Incineration;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Energy generation;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Fuel production; or</text>
+          </para>
+          <para>
+            <num>(vi)</num>
+            <text>Alternative daily cover or other forms of use or disposal within the footprint of a landfill.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>“Recycled covered material” means covered material that is sent to a responsible end market.</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>“Recycling rate” means the amount of recyclable covered material, in aggregate or by individual covered material type, recycled in a calendar year divided by the total amount of recyclable covered materials sold or distributed into the State by the relevant unit of measurement.</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>“Refill” means the continued use of a covered material by a consumer through a system that is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Intentionally designed and marketed for repeated filling of a covered material to reduce demand for new production of the covered material;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Supported by adequate logistics and infrastructure to provide convenient access for consumers; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Compliant with applicable federal, State, and local statutes, rules, ordinances, and other laws governing health and safety.</text>
+        </para>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>“Responsible end market” means a material market in which the recycling and recovery of materials or the disposal of contaminants is conducted in a way that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Benefits the environment; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Minimizes risks to public health and worker health and safety.</text>
+        </para>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>“Return rate” means the amount of reusable covered material, in aggregate or by individual covered materials type, collected for reuse by a producer or service provider in a calendar year, divided by the total amount of reusable covered materials sold or distributed into the State by the relevant unit of measurement.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>“Reusable” means being capable of reuse.</text>
+      </para>
+      <para>
+        <num>(35)</num>
+        <text>“Reuse” means the return of a covered material to the marketplace and the continued use of the covered material by a producer or service provider when the covered material is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Intentionally designed and marketed to be used multiple times for its original intended purpose without a change in form;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Designed for durability and maintenance to extend its useful life and reduce demand for new production of the covered material;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Supported by adequate logistics and infrastructure at a retail location, by a service provider, or on behalf of or by a producer, that provides convenient access for consumers; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Compliant with applicable federal, State, and local statutes, rules, ordinances, and other laws governing health and safety.</text>
+        </para>
+      </para>
+      <para>
+        <num>(36)</num>
+        <text>“Reuse rate” means the share of units of a reusable covered material sold or distributed into the State in a calendar year that are demonstrated and deemed reusable in accordance with an approved producer responsibility plan.</text>
+      </para>
+      <para>
+        <num>(37)</num>
+        <text>Service Provider.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Service provider” means an entity that provides covered services for covered materials.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Service provider” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>A local government that provides, contracts for, or otherwise arranges with another party to provide covered services for covered materials within its jurisdiction regardless of whether the local government provided, contracted for, or otherwise arranged for similar services before the approval of the applicable producer responsibility plan.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A private entity that is not contracted with a local government that provides covered services for covered materials, such as through a subscription model.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(38)</num>
+        <text>“Secondary packaging” means any packaging intended to bundle, sell in bulk, brand, or display the product or that is not primary packaging or tertiary packaging.</text>
+      </para>
+      <para>
+        <num>(39)</num>
+        <text>“Small format” means covered materials:</text>
+        <para>
+          <num>(a)</num>
+          <text>With two or more sides measuring 2 inches or less; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A diameter of 2 inches or less at its widest point.</text>
+        </para>
+      </para>
+      <para>
+        <num>(40)</num>
+        <text>“Tertiary packaging” means packaging intended to protect or facilitate the delivery of the product during transportation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|04|14|.03">
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Covered Materials.</heading>
+    <para>
+      <num>A.</num>
+      <text>Covered materials includes all packaging and paper products that meet the definition of covered materials in this chapter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Covered packaging includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>Primary, secondary, and tertiary packaging intended for the consumer market except those that are exempt or excluded materials as defined in this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Components and elements that are supplemental, auxiliary, or subordinate and integrated into packaging, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Those components and elements that are directly attached to a product; and</text>
+          <para>
+            <num>(i)</num>
+            <text>Are part of the packaging design functionally or aesthetically;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Facilitate the packaging function; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>facilitate the delivery including through identification of the product; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Materials used to affix packaging components to one another;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Service packaging designed and intended to be filled at the point of sale, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Carry-out bags;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Bulk good bags; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Take-out and home delivery food service packaging;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any food serviceware not included in
+                    <cite path="26|04|14|.03|B.|(3)">§B(3) of this regulation</cite>;
+                  </text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Beverage containers;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Labels affixed to packaging or products;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Materials used to fill in space between a product and other packaging components, or between packaging components;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Packaging that meets the definition of “compostable”, as defined in this chapter, including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Packaging that meets labeling requirements in Environment Article, §§
+                      <cite doc="Md. Code" path="gen|9-2102">9-2102</cite> and
+                      <cite doc="Md. Code" path="gen|9-2104">9-2104</cite>, Annotated Code of Maryland or other standards as approved by the Department; or
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Packaging that is a singular organic material with no processing, additives or changes to molecular structure, demonstrated to the Department and subsequently approved by the Department;</text>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Multimaterial packaging;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Packaging for reuse or refill, as defined in this chapter; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Packaging that is at any point intended to reach a consumer.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Covered paper products include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Paper products offered for sale, imported, or distributed in the State and sold or supplied for use within the residential, industrial, commercial, and institutional sectors;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Multimaterial products that are at least majority paper by volume; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Food serviceware that meets the definition of paper product.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|04|14|.04">
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Categories of Covered Materials for Registration.</heading>
+    <para>
+      <num>A.</num>
+      <text>Applicability. Covered materials must be identified on the registration form submitted annually by an individual producer or a PRO. All covered materials must be reported under one of the following categories, in sequential order as listed in
+                  <cite path="26|04|14|.04|B.">§B of this regulation</cite>. If a material meets the definition of small format, it must be identified in the associated small format category for that material where applicable. If a material is reported into a category marked with a “*”, the covered material must be identified on the registration form.
+                </text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Covered Material Categories.</text>
+      <para>
+        <num>(1)</num>
+        <text>Certified Compostable Organics:</text>
+        <para>
+          <num>(a)</num>
+          <text>Rigid plastic packaging that meets the compostable labeling requirements enumerated in Environment Article, §§
+                      <cite doc="Md. Code" path="gen|9-2102">9-2102</cite>—
+                      <cite doc="Md. Code" path="gen|9-2104">9-2104</cite>, Annotated Code of Maryland;
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Flexible plastic packaging that meets the compostable labeling requirements enumerated in Environment Article, §§
+                      <cite doc="Md. Code" path="gen|9-2102">9-2102</cite>—
+                      <cite doc="Md. Code" path="gen|9-2104">9-2104</cite>, Annotated Code of Maryland;
+                    </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Plastic and Polymer Coated Substrates that meet the compostable labeling requirements enumerated in Environment Article, §§
+                      <cite doc="Md. Code" path="gen|9-2102">9-2102</cite>—
+                      <cite doc="Md. Code" path="gen|9-2104">9-2104</cite>, Annotated Code of Maryland; and
+                    </text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Paper food service packaging that meets a labeling standard approved by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Paper:</text>
+        <para>
+          <num>(a)</num>
+          <text>Small format paper;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Newsprint, including newspaper, that does not meet the definition of “exempt material”, as defined in
+                      <cite doc="Md. Code" path="gen|9-2501">Environment Article, §9-2501, Annotated Code of Maryland</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Magazines, catalogs, and directories that do not meet the definition of “exempt material”, as defined in
+                      <cite doc="Md. Code" path="gen|9-2501">Environment Article, §9-2501, Annotated Code of Maryland</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Paper for general use;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>*Other printed materials not identified in §B(2)(a)—(d) of this regulation;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Uncoated corrugated cardboard;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Coated corrugated cardboard;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Kraft paper;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Uncoated paperboard;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Coated paperboard;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Molded fiber all forms;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Aseptic cartons;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Gable-top cartons;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>*Other paper laminates not identified in §B(2)(a)—(m) of this regulation; and</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>*Other paper not identified in §B(2)(a)—(n) of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Small Format Plastic.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Rigid Plastic:</text>
+        <para>
+          <num>(a)</num>
+          <text>Polyethylene terephthalate (PET) or resin identification code (RIC) #1: Non-pigmented or non-colorant-containing bottles, jugs, and jars;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>PET or RIC #1: Pigmented or colorant-containing bottles, jugs, and jars;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>PET or RIC #1: Non-pigmented or non-colorant-containing other rigid containers, cups, lids, plates, trays, and tubs not identified in
+                      <cite path="26|04|14|.04|B.|(4)|(a)">§B(4)(a) of this regulation</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>PET or RIC #1: Pigmented or colorant-containing other rigid containers, cups, lids, plates, trays, and tubs not identified in
+                      <cite path="26|04|14|.04|B.|(4)|(b)">§B(4)(b) of this regulation</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>*PET or RIC #1: Other rigid items not identified in §§B(4)(a)—(d) of this regulation;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>High-density polyethylene (HDPE) or RIC #2: non-pigmented or non-colorant-containing bottles, jugs, and jars;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>HDPE or RIC #2: Pigmented or colorant-containing bottles, jugs, and jars;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>HDPE or RIC #2: Pails, buckets, and tubs;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>HDPE or RIC #2: Squeeze tubes;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>*HDPE or RIC #2: Other rigid items not identified in §B(4)(f)—(i) of this regulation;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Polyvinyl chloride (PVC) or RIC #3: Rigid items;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Low-density polyethylene (LDPE) or RIC #4: Bottles, jugs, and jars;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>*LDPE or RIC #4: Other rigid items not identified in
+                      <cite path="26|04|14|.04|B.|(4)|(l)">§B(4)(l) of this regulation</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Polypropylene (PP) or RIC #5: Bottles, jugs, and jars;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>PP or RIC #5: Other containers, cups, lids, plates, trays, and tubs not identified in
+                      <cite path="26|04|14|.04|B.|(4)|(n)">§B(4)(n) of this regulation</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>PP or RIC #5: Squeeze tubes;</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>*PP or RIC #5: Other rigid items not identified in §B(4)(n) or (o) of this regulation;</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Polystyrene (PS) or RIC #6: Expanded or foamed hinged containers, plates, cups, tubs, trays, and other foamed containers;</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>PS or RIC #6: Other expanded or foamed packaging not identified in
+                      <cite path="26|04|14|.04|B.|(4)|(r)">§B(4)(r) of this regulation</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>PS or RIC #6: Rigid, non-expanded packaging;</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>RIC #1 through #7: Nursery Containers;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Bioplastics that are not labeled as compostable or home compostable, in accordance with
+                      <cite doc="Md. Code" path="gen|9-2102">Environment Article, §9-2102 </cite>or 9-2104, Annotated Code of Maryland; and
+                    </text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text>*Mixed rigid plastic or other rigid plastic not identified in §B(4)(a)—(v) of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Flexible Plastic:</text>
+        <para>
+          <num>(a)</num>
+          <text>HDPE or RIC #2, or LDPE or RIC #4: Flexible and film items;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>PP or RIC #5: Flexible and film items; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>*Plastic laminates and other flexible plastic packaging not identified in §B(5)(a) or (b) of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Metal:</text>
+        <para>
+          <num>(a)</num>
+          <text>Steel aerosol containers;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Steel containers not identified in
+                      <cite path="26|04|14|.04|B.|(6)|(a)">§B(6)(a) of this regulation</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Other forms of steel not identified in §B(6)(a) or (b) of this regulation;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Aluminum aerosol containers;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Aluminum foil and molded containers;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Aluminum containers not identified in §B(6)(d) or (e) of this regulation;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Other forms of aluminum not identified in §§B(6)(d) —(f) of this regulation;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Small format metal;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Pressurized cylinders that do not meet the definition of “exempt material,” as defined in
+                      <cite doc="Md. Code" path="gen|9-2501">Environment Article, §9-2501, Annotated Code of Maryland</cite>; and
+                    </text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>*Other metal packaging not identified in §§B(6)(a)—(i) of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Glass:</text>
+        <para>
+          <num>(a)</num>
+          <text>Non-pigmented or non-colorant-containing glass bottles, jars, and other containers;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Pigmented or colorant-containing glass bottles, jars, and other containers; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>*Ceramic, porcelain, acrylic and other glass-like material not identified in §B(7)(a) or (b) of this regulation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Wood and Other Organics:</text>
+        <para>
+          <num>(a)</num>
+          <text>*Untreated and uncoated wood or other untreated and uncoated organic packaging that is not a plastic or bioplastic and is not identified in
+                      <cite path="26|04|14|.04|B.|(1)">§B(1) of this regulation</cite>; and
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>*Treated or coated wood or other treated or coated organic packaging that is not a plastic or bioplastic and is not identified in
+                      <cite path="26|04|14|.04|B.|(1)">§B(1) of this regulation</cite>.
+                    </text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Exempt and Excluded Materials.</heading>
+    <para>
+      <num>A.</num>
+      <text>The packaging and paper products identified in §§B and C of this regulation are exempt or excluded in this chapter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Packaging.</text>
+      <para>
+        <num>(1)</num>
+        <text>Statutorily-exempt Materials. The following materials are exempt from the definition of a covered material, as specified in
+                    <cite doc="Md. Code" path="gen|9-2501">Environment Article, §9-2501, Annotated Code of Maryland</cite>:
+                  </text>
+        <para>
+          <num>(a)</num>
+          <text>Primary packaging for infant formula, as defined in 21 U.S.C. § 321(Z);</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Primary packaging for medical food, as defined in 21 U.S.C. § 360EE(B)(3);</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Primary packaging for a fortified oral nutritional supplement, or food which is formulated to be consumed or administered enterally for individuals who are unable to consume nutrition orally, used by individuals who require supplemental or sole source nutrition to meet nutritional or special dietary needs directly related to the following conditions as defined by the International Classification of Diseases, Tenth Revision:</text>
+          <para>
+            <num>(i)</num>
+            <text>Cancer;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Chronic kidney disease;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Diabetes;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Malnutrition; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Failure to thrive;</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Primary packaging for a product regulated as a drug or medical device by the U.S. Food and Drug Administration, including associated components and consumable medical equipment;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Primary packaging for medical equipment or a product used in medical settings that is regulated by the U.S. Food and Drug Administration, including associated components and consumable medical equipment;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Primary packaging for drugs, biological products, parasiticides, medical devices, or in vitro diagnostics that are used to treat, or that are administered to, animals and are regulated by:</text>
+          <para>
+            <num>(i)</num>
+            <text>The U.S. Food and Drug Administration under the Federal Food, Drug, and Cosmetic Act; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The U.S. Department of Agriculture under the Federal Virus–Serum–Toxin Act;</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Primary packaging for products regulated by the U.S. Environmental Protection Agency under the Federal Insecticide, Fungicide, and Rodenticide Act;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Primary packaging used to contain liquefied petroleum gas and designed to be refilled;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Primary packaging used to contain hazardous or flammable products regulated under the 2012 Federal Occupational Safety and Health Administration Hazard Communication Standard that prevent the packaging from being waste reduced or made reusable, recyclable, or compostable, as determined by the department;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Primary packaging for products subject to the paint stewardship program under Environment Article, Title 9, Subtitle 17, Part V, Annotated Code of Maryland;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Material that a producer distributes to another producer that is:</text>
+          <para>
+            <num>(i)</num>
+            <text>Subsequently used to contain a product, and the product is distributed to a commercial business or entity; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Packaging material that is not introduced to a person other than the commercial or business entity that first received the product; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Primary packaging used for the long–term protection or storage of a product that has a lifespan of not less than 5 years, as determined by the Department;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Beverage containers covered under a legislatively-mandated beverage container deposit return program in the State; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Packaging that is designed to be ingested.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Paper Products. The following paper products are exempt from the definition of a covered material:</text>
+      <para>
+        <num>(1)</num>
+        <text>Statutorily exempt material including:</text>
+        <para>
+          <num>(a)</num>
+          <text>Newsprint subject to
+                      <cite doc="Md. Code" path="gen|9">Environment Article, §9</cite>–1707, Annotated Code of Maryland; and
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A paper product used for a magazine’s print publication that has a circulation of less than 95,000 and that primarily includes content derived from primary sources related to news and current events;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Bound books as defined in this chapter; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Products that are not accepted by materials recycling facilities or composting facilities because of the unsafe or unsanitary nature of the products.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Producers.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, producers of covered materials are obligated to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Pay fees in accordance with this chapter and either:</text>
+        <para>
+          <num>(a)</num>
+          <text>Join and provide information required per an approved Producer Responsibility Plan established and maintained by a PRO;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Have an IPP approved by the Department; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Have both an approved IPP by the Department for a specific covered material and join the PRO Producer Responsibility Plan for any other covered materials;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Register with the Department or their PRO in accordance with this chapter;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Report to the Department or their PRO as defined in this chapter;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Retain records in accordance with this chapter; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Meet all timeline requirements or be subject to enforcement provisions as defined in this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notification and Reporting.</text>
+      <para>
+        <num>(1)</num>
+        <text>For producers with an IPP on file with the Department, any changes due to either termination, acquisition, or merger, shall  be reported by the producer on letterhead to the Department within 30 days of such activity.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For producers who are members of a PRO, any changes due to either termination, acquisition or merger, shall be reported by the producer to their PRO as detailed in the approved plan.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Required reporting shall be provided on a pro-rated basis for the producer if terminated, acquired, or merged under the original producer on file.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Restrictions.</text>
+      <text>A producer may not sell or distribute any products that use covered materials in the State unless the producer is either registered with the PRO or has an approved IPP on file with the Department for every covered material sold or distributed into the State.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|04|14|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Registration Requirements and Associated Fees.</heading>
+    <para>
+      <num>A.</num>
+      <text>Registration Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>Beginning July 1, 2026, and each year thereafter, by no later than June 30:</text>
+        <para>
+          <num>(a)</num>
+          <text>A PRO, as approved by the Department, shall file a registration form with the Department including:</text>
+          <para>
+            <num>(i)</num>
+            <text>A list of the producers participating in their PRO;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A list of the brands of each producer participating in their PRO;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A list of covered materials, by category as described in this chapter, of each producer participating in their PRO, by weight distributed into the State during the previous calendar year;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>The name, address, contact information of a person responsible for ensuring the PRO’s and member producers’ compliance with
+                        <cite doc="Md. Code" path="gen|9-2505">Environment Article, §9-2505, Annotated Code of Maryland</cite> and this chapter; and
+                      </text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>An annual registration fee described in this regulation; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For producers who are seeking to be approved through an IPP and not through a PRO, shall file a registration form with the Department including:</text>
+          <para>
+            <num>(i)</num>
+            <text>A list of the brands of the producer;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A list of covered materials of the producer, by category as described in this chapter, by weight distributed into the State during the previous calendar year;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>The name, address, and contact information of a person responsible for ensuring the compliance with the IPP; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>An annual registration fee defined in this chapter.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Producers who are members of and participate in a PRO must annually provide to their PRO by a date identified in their Producer Responsibility Plan or a method approved by the Department:</text>
+        <para>
+          <num>(a)</num>
+          <text>A list of brands of the producer;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A list of covered materials of the producer, by category as described in this chapter, by weight distributed into the State during the previous calendar year;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Name, address and contact information of a person responsible for compliance for the producer; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>An annual registration fee defined in this chapter.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Registration Form.</text>
+      <para>
+        <num>(1)</num>
+        <text>For a PRO, annual registration shall be submitted electronically on a form provided by or approved by the Department, by no later than the date provided in
+                    <cite path="|26|04|14|.10|A.">Regulation .10A of this chapter</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For producers that are participating under an IPP, annual registration shall be submitted electronically on a form provided by or approved by the Department, by no later than the date provided in
+                    <cite path="|26|04|14|.10|A.">Regulation .10A of this chapter</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Registration forms shall include, for the purposes of identification, the information described in
+                    <cite path="26|04|14|.07|A.">§A of this regulation</cite>.
+                  </text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Registration shall also include necessary registration fees as described in this regulation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>PROs, as approved by the Department, may require additional information of producers to be registered with their organization, to support the requirements in this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Fees Associated with Registration.</text>
+      <para>
+        <num>(1)</num>
+        <text>Annual Registration Fees. In an amount sufficient to cover:</text>
+        <para>
+          <num>(a)</num>
+          <text>In each year, the cost of record keeping under
+                      <cite doc="Md. Code" path="gen|9-2505">Environment Article, §9-2505, Annotated Code of Maryland</cite>, not to exceed $1,000;
+                    </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In each year, the costs of developing and updating the list required under
+                      <cite doc="Md. Code" path="gen|9-2508">Environment Article § 9-2508, Annotated Code of Maryland</cite>;
+                    </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>As necessary, the costs of developing and implementing regulations in accordance with
+                      <cite doc="Md. Code" path="gen|9-2511">Environment Article, §9-2511, Annotated Code of Maryland</cite>.
+                    </text>
+          <para>
+            <num>(i)</num>
+            <text>For the fee due on July 1, 2026, the fee shall cover the estimated costs incurred by the Department from June 1, 2025 to June 30, 2026 and the Department's estimated costs for this activity in the State’s fiscal year 2026, and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>For each subsequent fee, the fee shall cover the anticipated costs as provided by the Department for the upcoming State’s fiscal year.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>In 2028 and each thereafter, the costs of registering service providers under
+                      <cite doc="Md. Code" path="gen|9-2507">Environment Article, §9-2507, Annotated Code of Maryland</cite>.
+                    </text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Restrictions. Annual registration fees charged by a PRO to their member producers collectively may not, across all member producers, exceed the cost of fees paid by their PRO to the Department for registration as defined in this chapter.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Fees may not be prorated due to termination, acquisition, or merger.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Delayed Registration and Reporting.</text>
+      <para>
+        <num>(1)</num>
+        <text>Entities who meet the definition of producer and failed to register according to
+                    <cite path="26|04|14|.07|A.">§A of this regulation</cite> may be:
+                  </text>
+        <para>
+          <num>(a)</num>
+          <text>Provided a letter of corrective action by the Department that describes back payment and penalties for registration and reporting requirements; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Subject to penalties and enforcement provisions described in this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a PRO is aware of a producer that is likely subject to these regulations, that has failed to register or report data to the PRO, the PRO shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Make the Department aware in writing of those producers on a quarterly basis;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide to the Department the contact information and missing data or fees the producer has not supplied or paid on a quarterly basis; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Make all reasonable attempts to get producers to register and report applicable data.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The letter of corrective action will provide a date to submit this information to the Department.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="26|04|14|.08">
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Alternative Collection Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>On or after July 1, 2026, a PRO, producer or group of producers may develop and operate an alternative collection program to collect and manage a specific type or types of covered material that is designed for alternative collection that is sold, offered for sale, or distributed for sale in or into the State by the producer or the group of producers.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An alternative collection program or programs for a specific type or types of covered materials must be provided under an approved producer responsibility plan.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An alternative collection program shall improve and provide a dedicated collection program for the applicable covered material, and may only be established for the purpose of recycling, composting, or reuse.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Submittals to the Department for an Alternative Collection Program must also include an amount sufficient to cover any costs associated with analyzing the program by the Department at the time of submission. A prorated amount will be provided to the applicant by the Department.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Minimum requirements for Department approval of Alternative Collection Programs include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Self-certification that the final destination is for recycling and is going to a responsible end market, as defined in this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Self-certification shall be reported for the previous calendar year to the Department or a PRO annually;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Meeting the following convenience standards:</text>
+        <para>
+          <num>(a)</num>
+          <text>Provide year-round, convenient, statewide collection opportunities, including at least one drop-off collection site located in each of the 23 counties and Baltimore City;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>At least 50 percent of the weight of the covered material sold or distributed in Maryland in the previous calendar year must be collected and managed according to the requirements of this regulation;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Geographically, at least 90 percent of the residents of the State shall have a collection site within a 15-mile radius;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Collection sites that count toward
+                      <cite path="26|04|14|.08|E.|(3)|(c)">§E(3)(c) of this regulation</cite> shall be provided year round; and
+                    </text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Unless otherwise approved by the Department one additional collection site shall be established for every 50,000 residents; or</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Another convenience standard approved by the Department;</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Compensation shall be provided for alternative collection program siting for any program operations, including training, education and educational materials specific to that site, transportation, equipment, and reporting, with contractual approval between all parties;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Program coordination shall be provided that includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Education and outreach;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Signage and messaging;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Collection;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Transportation; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Reporting;</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A list of collection sites shall be provided that may include special events, private sites, curbside, mail back and backhauling provided to the Department; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Other requirements as identified by the Department during review of the alternative collection program application.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>An Alternative Collection Program shall submit evidence that minimum requirements have been met to the Department concurrently with annual registration.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Producers operating an alternative collection system are required to meet all producer requirements not explicitly exempted in this regulation including, but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Joining a PRO and submitting all information required in this chapter for the PRO’s registration, producer responsibility plan, and annual reporting; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Registering as an individual producer with the Department, submitting an IPP, and submitting an annual report as required in this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Reduced Fees Associated with Producer Responsibility Program Plans.</text>
+      <para>
+        <num>(1)</num>
+        <text>Alternative Collection Programs are eligible for reduced fees associated with producer responsibility plans when they meet the minimum requirements outlined in this regulation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>After initial approval of reduced fees associated with producer responsibility program plans by the Department, failure to meet any of the requirements will result in a revocation of reduced fees, and the involved producers will be required to pay obligated standard fees. The producers will also be subject to applicable penalties.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Reduced fees associated with producer responsibility program plans does not allow for reduced registration and applicable oversight fees.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Record Keeping, Reporting, and Production of Records.</heading>
+    <para>
+      <num>A.</num>
+      <text>Producers, PROs, and any person administering an IPP approved by the Department must preserve all books and records in accordance with State and federal laws.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>All documents and records necessary to ensure compliance must be maintained for a minimum period of 5 years.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Availability for Department Review.</text>
+      <para>
+        <num>(1)</num>
+        <text>Documents and records must be available within 15 business days or the specified timeline provided by the Department, whichever is later.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Documents may include records related to the calculation and payment of producer responsibility dues, recycling rates, collection rates, postconsumer recycled content rates, and any other materials necessary for the Department to determine compliance with an approved plan and the requirements of
+                    <cite doc="Md. Code" path="gen|9-2505">Environment Article, §9-2505, Annotated Code of Maryland</cite>.
+                  </text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Producers.</text>
+      <para>
+        <num>(1)</num>
+        <text>A producer must make available all documents and records related to the calculation and payment of producer responsibility dues, recycling rates, collection rates, postconsumer recycled content rates, and any other materials necessary for the Department to determine compliance.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A producer that is a member of a PRO must report the data necessary to meet its reporting obligations to the PRO. A producer may use prorated national data if state-specific data is not available or feasible to generate upon approval from the Department.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A producer who is not a member of a PRO, must report the necessary data described in this chapter, and may use prorated national data if state-specific data is not available or feasible to generate upon approval from the Department.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Exemptions. Should the producer identify they are exempt or excluded from specific covered materials, they must provide supporting documents and records to explain the exemption to the Department for approval and shall be available to a PRO if approved.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Financial Records and Audits.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Department may request, at any time, an audit of the financial records of a PRO or a producer that has an approved IPP.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The producer or a PRO may be evaluated by an independent financial auditor, as designated by the Department, to ensure that the costs of implementing the plan are covered. The PRO or producer, depending on the evaluation assessed, shall provide the Department with at least three bids from independent financial auditors for the Department to choose from.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Audits will be financed by the producer or PRO based on approval by the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Financial, production, or sales data reported to the Department by a producer or PRO shall be kept confidential by the Department and may not be subject to personal inspection nor public information requests. For producers who report financial, production, or sales data to a PRO, those individual data shall be kept confidential and may not be disclosed, except to the Department if requested.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Other Reporting Requirements. The Department may impose other reporting requirements considered necessary. These requirements will be provided to the producer or a PRO, and will need to be addressed in any plan revisions or approvals.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Timeline.</heading>
+    <para>
+      <num>A.</num>
+      <text>Annual Registration.</text>
+      <para>
+        <num>(1)</num>
+        <text>Beginning July 1, 2026, and each year thereafter, the PRO approved under
+                    <cite doc="Md. Code" path="gen|9-2502">Environment Article, §9-2502(a), Annotated Code of Maryland</cite> shall file a registration form with the Department and pay an annual registration fee, as outlined within this chapter.
+                  </text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Beginning July 1, 2026, and each year thereafter, producers who do not intend to join an approved PRO shall file a registration form with the Department and pay an annual registration fee, as outlined within this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Beginning October 29, 2028 or by a later date identified by the Department, a producer may not sell, offer for sale, distribute, or import for sale or distribution covered materials for use in the State unless they have a Department approved responsibility plan on file with the Department.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>By July 1, 2028 or by a later date identified by the Department, producers who do not intend to join a PRO must submit their IPPs to the Department.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Enforcement Provision.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department may take enforcement action for failure to comply with:</text>
+      <para>
+        <num>(1)</num>
+        <text>The requirements of this chapter; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any order issued under
+                    <cite doc="Md. Code" path="gen|9-2505">Environment Article, §9-2505, Annotated Code of Maryland</cite>.
+                  </text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Penalties.</text>
+      <para>
+        <num>(1)</num>
+        <text>A producer or PRO that violates
+                    <cite doc="Md. Code" path="gen|9-2505">Environment Article, §9-2505, Annotated Code of Maryland</cite> or this chapter is subject to:
+                  </text>
+        <para>
+          <num>(a)</num>
+          <text>For a first violation, an administrative penalty of $5,000;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For a second violation, an administrative penalty of $10,000; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For a third or subsequent violation, a civil penalty of $20,000.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A penalty may not be imposed on a producer or PRO under this regulation unless:</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department first issues a written notice of violation to the producer or PRO; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The violation is not corrected within 60 days after receipt of written notice.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>After the 60-day period specified under B(2) of this regulation, each day that the violation continues is a separate violation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any penalties collected by the Department under this regulation shall be paid into the State Recycling Trust Fund established under
+                    <cite doc="Md. Code" path="gen|9-1707">Environment Article, §9-1707, Annotated Code of Maryland</cite>
+                  </text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Producer Responsibility Advisory Council.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the Producer Responsibility Advisory Council (Council) is to provide advice and make recommendations regarding implementation of a producer responsibility program in the State for covered materials.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Council consists of up to no more than 25 and no less than 15 members, representing a broad range of interested stakeholders. The number of members in the Council may change in size provided through approval by the Secretary of the Department with a public notice of 30 days.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Council stakeholders shall include, at a minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>Representatives from the following industries or entities in the State:</text>
+        <para>
+          <num>(a)</num>
+          <text>Local government agencies responsible for recycling programs;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Recyclables and compostable materials collectors from both the public and private sectors;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Recycling processors from both the public and private sectors;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Organics recycling processors;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Producers from the consumer goods sector;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Retail and small businesses; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Material-oriented trade groups;</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Representatives of at least two nonprofit organizations in the State with missions related to reducing waste;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>At least one representative of an environmental advocacy organization;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>At least one representative of an advocacy organization that advocates on behalf of overburdened or underserved communities, as defined in
+                    <cite doc="Md. Code" path="gen|1">Environment Article, §1</cite>–701, Annotated Code of Maryland;
+                  </text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>At least two members of the public who reside in the State;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A representative of a PRO approved by the Department;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The Director of the Department’s Land and Materials Administration, or the Director’s designee.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Member Service.</text>
+      <para>
+        <num>(1)</num>
+        <text>A member is considered an individual person that is selected by the stakeholder to represent their material industry group, materials management group, environmental advocacy group, or a producer responsibility organization. A member of the public is a member that is not a part of any stakeholder group.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Appointments to the Council are for 4 years, excluding the Department and the PRO unless there are multiple approved PROs in the State.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If an appointed member vacancy occurs due to a member's resignation, death, or departure from elective office, that vacancy may be filled by a new representative from the same organization, with Department approval. The term of the representative assuming membership fulfills only the remaining term length of the original member appointment.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Members may be appointed to additional terms at the discretion of the Department.</text>
+        <para>
+          <num>(a)</num>
+          <text>The Department may reappoint members to an additional 2-year term.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Members may not serve a contiguous service of 6 years.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A vacancy occurring by reason of removal, resignation, death, or departure from elective office shall be filled for the balance of the vacating member's term using the same method by which the original appointment was made.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a member departs from the organization in which they represent and if such departure occurs before their term of appointment or reappointment to the Council would otherwise expire, the Department may permit the member to complete the term in another vacant position on the Council, as determined by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The Department, after written notice, may terminate the service of a member if, in the judgment of the Department, such removal is in the public interest, or if the member or their organization:</text>
+        <para>
+          <num>(a)</num>
+          <text>No longer meets the requirements under which elected or appointed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Fails or is unable to participate regularly in committee work; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Has violated any State, federal, or local laws or regulations.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Participation.</text>
+      <para>
+        <num>(1)</num>
+        <text>Members must attend at least 66 percent of regular meetings annually. Any member who does not attend the required number of meetings may be removed from the Council by the Department.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Members may designate an alternate member-advisor to attend meetings. Alternative member-advisor information shall be provided to the Department 24 hours prior to regular meetings.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Alternative member-advisors may not attend in place of approved members for more than 33 percent of regular meetings annually.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Quorum and Voting Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>A majority of voting members of the Council must be present to constitute an official meeting of the Council and to establish a quorum to vote. If a majority of voting members are not present, the Council may still convene, but may not establish a quorum for voting.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Agreement of a majority of voting members of the Council members present at a meeting is required for a formal recommendation made by the Council.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Differentiation of Votes.</text>
+        <para>
+          <num>(a)</num>
+          <text>The three different types of votes are:</text>
+          <para>
+            <num>(i)</num>
+            <text>Yay;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Nay; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Abstain.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For an abstaining vote, if the Council member is present at the meeting but does not cast a vote, it is assumed that the members vote is to abstain.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Stakeholders listed in §§C(6) and (7) of this regulation are non-voting members of the Council.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Application and Criteria for Additions to the Council.</text>
+      <para>
+        <num>(1)</num>
+        <text>Application for membership to the Council. Applications shall be submitted to the Department for their approval in a form provided by the Department.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Criteria:</text>
+        <para>
+          <num>(a)</num>
+          <text>Must represent a stakeholder sector that is not already represented on the Council and that is impacted by this chapter;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Increase evenness of representation between material industry groups, materials management groups, environmental advocacy groups, or the general public; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Other requirements as determined by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Final approvals or additions to the Council will be at the discretion of the Department.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Environment Article, §§
+                <cite doc="Md. Code" path="gen|9-1702">9-1702</cite>,
+                <cite doc="Md. Code" path="gen|9-1707">9-1707</cite>,
+                <cite doc="Md. Code" path="gen|9-2501">9-2501</cite>—
+                <cite doc="Md. Code" path="gen|9-2512">9-2512</cite>, Annotated Code of Maryland
+              </annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25">Effective date: May 25, 2026 (53:10 Md. R. 455)</annotation>
+  </annotations>
+  <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-322-F" type="History" display="false"/>
+</container>
