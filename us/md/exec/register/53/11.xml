@@ -1879,434 +1879,2065 @@
       </container>
       <container>
         <num>26-016-F</num>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.01">
-          <section>
-            <prefix>Regulation</prefix>
-            <num>.01</num>
-            <heading>Exceptions.</heading>
-            <text>This chapter does not apply to an individual who:</text>
-            <para>
-              <num>A.</num>
-              <text>Other than a certified nursing assistant, practices a health occupation, that the individual is authorized to practice under the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>;</text>
-            </para>
-            <para>
-              <num>B.</num>
-              <text>Provides for the gratuitous care of friends, domestic partners, or family members;</text>
-            </para>
-            <para>
-              <num>C.</num>
-              <text>Performs nursing assistant tasks while a nursing student enrolled in an accredited nursing program if the individual either:</text>
-              <para>
-                <num>(1)</num>
-                <text>Is practicing under the direct supervision of qualified faculty or preceptors; or</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>Successfully completed the portion of the approved nursing education program that the Board determines meets the requirements of an approved nursing assistant training program as described in <cite path="|10|39|01|.05|D." doc="Code of Maryland Regulations">Regulation .05D of this chapter</cite>;</text>
-              </para>
-            </para>
-            <para>
-              <num>D.</num>
-              <text>Performs nursing assistant tasks:</text>
-              <para>
-                <num>(1)</num>
-                <text>While a student enrolled in an approved nursing assistant training program or approved acute care nursing assistant training program; and</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>While practicing under the direct supervision of qualified faculty or preceptors;</text>
-              </para>
-            </para>
-            <para>
-              <num>E.</num>
-              <text>Practices as a certified nursing assistant-I for less than 4 months in accordance with 42 CFR §483.35(d);</text>
-            </para>
-            <para>
-              <num>F.</num>
-              <text>Performs nursing tasks delegated by a registered nurse or licensed practical nurse so long as the delegated nursing tasks do not become a routine part of the individual's job duties;</text>
-            </para>
-            <para>
-              <num>G.</num>
-              <text>Performs nursing tasks delegated by an advanced practice registered nurse in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-02(d), Annotated Code of Maryland; or</text>
-            </para>
-            <para>
-              <num>H.</num>
-              <text>Performs technical tasks delegated by a licensed certified midwife in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-02(e), Annotated Code of Maryland.</text>
-            </para>
-          </section>
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|heading" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39">
+          <heading>BOARD OF NURSING — CERTIFICATE HOLDERS</heading>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.06" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.06">
-          <section cache:ref-path="10|39|01|.06">
-            <prefix>Regulation</prefix>
-            <num>.06</num>
-            <heading>Application for Certification.</heading>
-            <para>
-              <num>A.</num>
-              <text>Initial Certification.</text>
+        <codify:replace-or-insert doc="Code of Maryland Regulations" path="10|39|01" warning="false" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>01</num>
+            <heading>Certified Nursing Assistants</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Exceptions.</heading>
+              <text>This chapter does not apply to an individual who:</text>
               <para>
-                <num>(1)</num>
-                <text>An applicant for initial certification shall:</text>
+                <num>A.</num>
+                <text>Other than a certified nursing assistant, practices a health occupation, that the individual is authorized to practice under the <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>;</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Provides for the gratuitous care of friends, domestic partners, or family members;</text>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>Performs nursing assistant tasks while a nursing student enrolled in an accredited nursing program if the individual either:</text>
                 <para>
-                  <num>(a)</num>
+                  <num>(1)</num>
+                  <text>Is practicing under the direct supervision of qualified faculty or preceptors; or</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Successfully completed the portion of the approved nursing education program that the Board determines meets the requirements of an approved nursing assistant training program as described in <cite path="|10|39|01|.05|D." doc="Code of Maryland Regulations">Regulation .05D of this chapter</cite>;</text>
+                </para>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>Performs nursing assistant tasks:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>While a student enrolled in an approved nursing assistant training program or approved acute care nursing assistant training program; and</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>While practicing under the direct supervision of qualified faculty or preceptors;</text>
+                </para>
+              </para>
+              <para>
+                <num>E.</num>
+                <text>Practices as a certified nursing assistant-I for less than 4 months in accordance with 42 CFR §483.35(d);</text>
+              </para>
+              <para>
+                <num>F.</num>
+                <text>Performs nursing tasks delegated by a registered nurse or licensed practical nurse so long as the delegated nursing tasks do not become a routine part of the individual's job duties;</text>
+              </para>
+              <para>
+                <num>G.</num>
+                <text>Performs nursing tasks delegated by an advanced practice registered nurse in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-02(d), Annotated Code of Maryland; or</text>
+              </para>
+              <para>
+                <num>H.</num>
+                <text>Performs technical tasks delegated by a licensed certified midwife in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-02(e), Annotated Code of Maryland.</text>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.02</num>
+              <heading>Definitions.</heading>
+              <para>
+                <num>A.</num>
+                <text>In this chapter, the following terms have the meanings indicated.</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Terms Defined.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>“Acute care nursing assistant training program” means a course of training that meets the acute care nursing assistant training program curriculum approved by the Board.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>“Board” means the Maryland Board of Nursing.</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>“Central Repository” means the Maryland Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services.</text>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>“Certificate” means a certificate issued by the Board to practice as a certified nursing assistant in the State.</text>
+                </para>
+                <para>
+                  <num>(5)</num>
+                  <text>Certified Nursing Assistant (CNA).</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>“Certified nursing assistant (CNA)” means an individual, regardless of title, who, for compensation and subject to regulations adopted by the Board, routinely performs:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Nursing tasks delegated by a registered nurse, licensed practical nurse, or advanced practice registered nurse; or</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Technical tasks delegated by a licensed certified midwife.</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>“Certified nursing assistant (CNA)” does not include dialysis technician or medication technician.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(6)</num>
+                  <text>Certified Nursing Assistant-I (CNA-I).</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>“Certified nursing assistant-I (CNA-I)” means a CNA who:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Meets the requirements set by the Board and federal law; and</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>May practice in any practice setting.</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>“Certified nursing assistant-I (CNA-I)” includes a:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>CNA who was certified as a geriatric nursing assistant on March 31, 2026;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Certified medicine aide; and</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>CNA who is certified under <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-05(c)(5), Annotated Code of Maryland.</text>
+                    </para>
+                  </para>
+                </para>
+                <para>
+                  <num>(7)</num>
+                  <text>“Certified nursing assistant-II (CNA-II)” means a CNA who:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>On March 31, 2026, was certified as a CNA but not certified as a geriatric nursing assistant; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>May not practice in a nursing facility or skilled nursing facility.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(8)</num>
+                  <text>“Criminal history records check (CHRC)” means the performance of both a State criminal history records check by the Central Repository and a national criminal history records check performed by the Federal Bureau of Investigation (FBI).</text>
+                </para>
+                <para>
+                  <num>(9)</num>
+                  <text>“Criminal history record information” means information provided by the criminal history records check regarding an applicant’s criminal arrests, charges, and convictions and other dispositions of criminal charges.</text>
+                </para>
+                <para>
+                  <num>(10)</num>
+                  <text>“Good standing” means without an encumbrance that limits or restricts practice, such as revocation, suspension, or probation.</text>
+                </para>
+                <para>
+                  <num>(11)</num>
+                  <text>“Nursing assistant competency evaluation” means an examination approved by the Board that:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Determines the competency of the individual to practice as a CNA-I; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Meets the requirements under federal law.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(12)</num>
+                  <text>“Nursing assistant training program” means a course of training approved by the Board that meets the requirements under federal and State law.</text>
+                </para>
+                <para>
+                  <num>(13)</num>
+                  <text>“Service member” has the meaning stated in <cite doc="Md. Code" path="gsg|9-901">State Government Article, §9-901, Annotated Code of Maryland</cite>.</text>
+                </para>
+                <para>
+                  <num>(14)</num>
+                  <text>“Temporary nurse aide” means an individual who practiced as a geriatric nursing assistant without certification during the national Coronavirus Disease 2019 (COVID-19) Public Health Emergency, as declared on January 31, 2020, and periodically continued by the United States Secretary of Health and Human Services, pursuant to the waiver of the requirements of 42 CFR §483.35(d) issued by the Centers for Medicare and Medicaid Services on March 6, 2020.</text>
+                </para>
+                <para>
+                  <num>(15)</num>
+                  <text>“Technical task” means a routine clinical act or task that does not require clinical judgment and is performed with the supervision as specified in <cite path="|10.69.02" doc="Code of Maryland Regulations">COMAR 10.69.02</cite>.</text>
+                </para>
+                <para>
+                  <num>(16)</num>
+                  <text>“Temporary nurse aide training” means an 8-hour online training and examination program offered by:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>The American Health Care Association;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>The National Center for Assisted Living; or</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Another comparable program approved by the Board.</text>
+                  </para>
+                </para>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.03</num>
+              <heading>Fees.</heading>
+              <para>
+                <num>A.</num>
+                <text>Fees are as follows:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Initial certification fee — $20;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Endorsement fee — $20;</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>Renewal fee — $40;</text>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>Verification of certification to another jurisdiction — $25;</text>
+                </para>
+                <para>
+                  <num>(5)</num>
+                  <text>Returned check fee — $25;</text>
+                </para>
+                <para>
+                  <num>(6)</num>
+                  <text>Duplicate certificate fee — $10.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Fees are not refundable.</text>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|01|.04">
+              <prefix>Regulation</prefix>
+              <num>.04</num>
+              <heading>General Provisions for Applications.</heading>
+              <para>
+                <num>A.</num>
+                <text>An applicant shall submit:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A completed application to the Board on the form that the Board requires;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>To a CHRC in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>;</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>Written evidence satisfactory to the Board that the applicant has submitted to a CHRC as required by <cite path="10|39|01|.04|A.|(2)" doc="Code of Maryland Regulations">§A(2) of this regulation</cite> by submitting:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Two sets of fingerprints, as required by the Central Repository and the FBI; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>All fees required by the Central Repository and the FBI;</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>Any documentation requested from the applicant by the Board including, but not limited to, official certified or true test court documents and a signed, dated explanation written by the applicant, regarding the facts and circumstances, outcome, and current status of any criminal history record information received by the Board:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Under <cite path="10|39|01|.04|A.|(2)" doc="Code of Maryland Regulations">§A(2) of this regulation</cite>;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>In an answer to a question on the Board’s application form; or</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>From any other source; and</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(5)</num>
+                  <text>Any additional documentation requested by the Board if the documentation received from the applicant under <cite path="10|39|01|.04|A.|(4)" doc="Code of Maryland Regulations">§A(4) of this regulation</cite> is incomplete or insufficient.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>If an application is not complete when initially submitted to the Board by the applicant, the applicant shall have no longer than 12 months from the date the application is received by the Board to complete the application and provide all information and documents required in <cite path="10|39|01|.04|A." doc="Code of Maryland Regulations">§A of this regulation</cite>.</text>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>If an applicant fails to provide to the Board a complete application and any additional documentation requested by the Board under <cite path="10|39|01|.04|A." doc="Code of Maryland Regulations">§A of this regulation</cite> within 12 months from the date the application is received by the Board, then the application shall be considered abandoned and may be destroyed.</text>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>Once an application is deemed abandoned under <cite path="10|39|01|.04|C." doc="Code of Maryland Regulations">§C of this regulation</cite>, an individual seeking CNA certification shall submit a new application on the form required by the Board and meet all of the requirements for CNA certification and pay the required fees that are in effect at the time of re-application.</text>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|01|.05">
+              <prefix>Regulation</prefix>
+              <num>.05</num>
+              <heading>Qualifications for Certification.</heading>
+              <para>
+                <num>A.</num>
+                <text>Initial Certification. An applicant for initial nursing assistant certification shall have successfully:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Completed:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>An approved nursing assistant training program;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>An approved acute care nursing assistant training program;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>A portion of an approved nursing education program that has been determined by the Board to meet the requirements of a nursing assistant training program set by the Board; or</text>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>Service member training and education that has been determined by the Board to be substantially equivalent to a nursing assistant training program approved by the Board in accordance with <cite doc="Md. Code" path="gho|1-702">Health Occupations Article, §1-702, Annotated Code of Maryland</cite>; and</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Passed a nursing assistant competency evaluation.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Certification by Endorsement. An applicant for nursing assistant certification by endorsement shall:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Hold a certificate to practice as a nursing assistant that:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Was issued by another state or territory of the United States that has certification requirements that are essentially similar to those set forth in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-05, Annotated Code of Maryland; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Is in good standing; and</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Have successfully completed a nursing assistant training program that meets the standards for an approved nursing assistant training program set by the Board.</text>
+                </para>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>Any applicant for nursing assistant certification may not have:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Committed any act or omission that would be grounds for discipline or denial of certification under <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-10, Annotated Code of Maryland; or</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>A record of abuse, negligence, or misappropriation of a client's property or any disciplinary action taken or pending in any other state or territory of the United States against the certification of the CNA.</text>
+                </para>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>Nursing Education Programs.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>To meet the requirements of a nursing assistant training program set by the Board, a portion of a nursing education program must include courses with content that primarily focuses on:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Nursing fundamentals;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Mental health;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Health assessment;</text>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>Nursing ethics; and</text>
+                  </para>
+                  <para>
+                    <num>(e)</num>
+                    <text>The content listed under 42 CFR §483.152(b).</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>If a portion of a nursing education program does not include courses with content that primarily focuses on the subject matters set forth in § D(1) of this regulation, the Board may review and approve other equivalent subject matters as meeting the requirements of a nursing assistant training program set by the Board.</text>
+                </para>
+              </para>
+              <para>
+                <num>E.</num>
+                <text>A CNA-II who seeks certification as a CNA-1 shall meet the qualifications set forth in <cite path="10|39|01|.05|A." doc="Code of Maryland Regulations">§A of this regulation</cite>.</text>
+              </para>
+              <para>
+                <num>F.</num>
+                <text>Temporary Nurse Aides.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A temporary nurse aide applying for certification as a CNA-1 shall be deemed to have completed a nursing assistant training program approved by the Board if the temporary nurse aide:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Completed a temporary nurse aide training course;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Completed a minimum of 100 hours of on-the-job training as a temporary nurse aide that:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Met the requirements under 42 CFR §483.152(a) and 42 CFR §483.152(b)(2)—(7); and</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Was not provided in a facility described under 42 CFR §483.151(b)(2)—(3); and</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>In addition to the minimum 100 hours of on-the-job training, worked as a temporary nurse aide competently for a minimum of 160 hours.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>A temporary nurse aide whose on-the-job training did not meet all of the requirements under 42 CFR 483.152(a) and 42 CFR 483.152(b)(2)—(7) may receive supplemental training in those requirements and be deemed to meet the requirement of <cite path="10|39|01|.05|F.|(1)|(b)|(i)" doc="Code of Maryland Regulations">§F(1)(b)(i) of this regulation</cite>.</text>
+                </para>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|01|.06">
+              <prefix>Regulation</prefix>
+              <num>.06</num>
+              <heading>Application for Certification.</heading>
+              <para>
+                <num>A.</num>
+                <text>Initial Certification.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>An applicant for initial certification shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Comply with all of the requirements under <cite path="|10|39|01|.04|A." doc="Code of Maryland Regulations">Regulation .04A of this chapter</cite>;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Pay the required fee to the Board; and</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Submit to the Board one of the items in <cite path="10|39|01|.06|A.|(2)" doc="Code of Maryland Regulations">§A(2) of this regulation</cite>.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Verification Requirements.</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>For graduates of a nursing assistant or acute care nursing assistant training program, an application that has been signed by the program coordinator or faculty of the training program completed by the applicant;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>For service members, documentation demonstrating successful completion of  service member training and education that has been determined by the Board to be substantially equivalent to a nursing assistant training program approved by the Board;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>For nursing students and graduates, an official transcript demonstrating successful completion of a portion of an approved nursing education program that the Board determines meets the requirements for a nursing assistant training program set by the Board; or</text>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>For foreign-educated nursing graduates, a copy of an evaluation of the applicant’s transcript through a Board-approved vendor demonstrating successful completion of a portion of an approved nursing education program that meets the requirements for a nursing assistant training program set by the Board.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>A program coordinator or faculty of a nursing assistant or acute care nursing assistant training program:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>May sign an application before graduation; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Shall submit written verification, as required by the Board, of program completion to the Board after 5 business days of the applicant’s program completion.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>An applicant shall submit an application for initial certification after 24 months of the date of completion of an approved nursing assistant training program, an approved acute care nursing assistant training program, or portion of an approved nursing education program.</text>
+                </para>
+                <para>
+                  <num>(5)</num>
+                  <text>If an applicant fails to meet <cite path="10|39|01|.06|A.|(4)" doc="Code of Maryland Regulations">§A(4) of this regulation</cite>, an applicant still seeking certification shall take or re-take an approved nursing assistant training program or approved acute care nursing assistant training program and comply with <cite path="10|39|01|.06|A.|(4)" doc="Code of Maryland Regulations">§A(4) of this regulation</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Certification by Endorsement. An applicant for nursing assistant certification by endorsement shall:</text>
+                <para>
+                  <num>(1)</num>
                   <text>Comply with all of the requirements under <cite path="|10|39|01|.04|A." doc="Code of Maryland Regulations">Regulation .04A of this chapter</cite>;</text>
                 </para>
                 <para>
-                  <num>(b)</num>
+                  <num>(2)</num>
                   <text>Pay the required fee to the Board; and</text>
                 </para>
                 <para>
-                  <num>(c)</num>
-                  <text>Submit to the Board one of the items in <cite path="10|39|01|.06|A.|(2)" doc="Code of Maryland Regulations">§A(2) of this regulation</cite>.</text>
+                  <num>(3)</num>
+                  <text>Submit the following verifications directly to the Board from the appropriate authority:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>A certificate to practice as a nursing assistant in good standing from another state or territory with certification requirements that are essentially similar to the requirements in this State; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>A certificate of completion from a nursing assistant training program in that state or territory that meets the standards for an approved nursing assistant training program set by the Board.</text>
+                  </para>
                 </para>
               </para>
               <para>
-                <num>(2)</num>
-                <text>Verification Requirements.</text>
+                <num>C.</num>
+                <text>Every applicant shall attest on the application whether the applicant has:</text>
                 <para>
-                  <num>(a)</num>
-                  <text>For graduates of a nursing assistant or acute care nursing assistant training program, an application that has been signed by the program coordinator or faculty of the training program completed by the applicant;</text>
+                  <num>(1)</num>
+                  <text>Committed any act or omission that would be grounds for discipline or denial of certification; and</text>
                 </para>
                 <para>
-                  <num>(b)</num>
-                  <text>For service members, documentation demonstrating successful completion of  service member training and education that has been determined by the Board to be substantially equivalent to a nursing assistant training program approved by the Board;</text>
-                </para>
-                <para>
-                  <num>(c)</num>
-                  <text>For nursing students and graduates, an official transcript demonstrating successful completion of a portion of an approved nursing education program that the Board determines meets the requirements for a nursing assistant training program set by the Board; or</text>
-                </para>
-                <para>
-                  <num>(d)</num>
-                  <text>For foreign-educated nursing graduates, a copy of an evaluation of the applicant’s transcript through a Board-approved vendor demonstrating successful completion of a portion of an approved nursing education program that meets the requirements for a nursing assistant training program set by the Board.</text>
+                  <num>(2)</num>
+                  <text>A record of abuse, neglect, or misappropriation of a client’s property or any disciplinary action taken or pending in any state or territory of the United States against the certification of the applicant.</text>
                 </para>
               </para>
               <para>
-                <num>(3)</num>
-                <text>A program coordinator or faculty of a nursing assistant or acute care nursing assistant training program:</text>
+                <num>D.</num>
+                <text>A CNA-II who seeks certification as a CNA-I shall:</text>
                 <para>
-                  <num>(a)</num>
-                  <text>May sign an application before graduation; and</text>
+                  <num>(1)</num>
+                  <text>Submit an application to the Board on the form required by the Board; and</text>
                 </para>
                 <para>
-                  <num>(b)</num>
-                  <text>Shall submit written verification, as required by the Board, of program completion to the Board after 5 business days of the applicant’s program completion.</text>
+                  <num>(2)</num>
+                  <text>Comply with §§A(1)(c) and A(3)—(5) of this regulation.</text>
                 </para>
               </para>
               <para>
-                <num>(4)</num>
-                <text>An applicant shall submit an application for initial certification after 24 months of the date of completion of an approved nursing assistant training program, an approved acute care nursing assistant training program, or portion of an approved nursing education program.</text>
-              </para>
-              <para>
-                <num>(5)</num>
-                <text>If an applicant fails to meet <cite path="10|39|01|.06|A.|(4)" doc="Code of Maryland Regulations">§A(4) of this regulation</cite>, an applicant still seeking certification shall take or re-take an approved nursing assistant training program or approved acute care nursing assistant training program and comply with <cite path="10|39|01|.06|A.|(4)" doc="Code of Maryland Regulations">§A(4) of this regulation</cite>.</text>
-              </para>
-            </para>
-            <para>
-              <num>B.</num>
-              <text>Certification by Endorsement. An applicant for nursing assistant certification by endorsement shall:</text>
-              <para>
-                <num>(1)</num>
-                <text>Comply with all of the requirements under <cite path="|10|39|01|.04|A." doc="Code of Maryland Regulations">Regulation .04A of this chapter</cite>;</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>Pay the required fee to the Board; and</text>
-              </para>
-              <para>
-                <num>(3)</num>
-                <text>Submit the following verifications directly to the Board from the appropriate authority:</text>
+                <num>E.</num>
+                <text>A temporary nurse aide applying for certification as a CNA-1 shall:</text>
                 <para>
-                  <num>(a)</num>
-                  <text>A certificate to practice as a nursing assistant in good standing from another state or territory with certification requirements that are essentially similar to the requirements in this State; and</text>
+                  <num>(1)</num>
+                  <text>Comply with <cite path="10|39|01|.06|A." doc="Code of Maryland Regulations">§A of this regulation</cite>; and</text>
                 </para>
                 <para>
-                  <num>(b)</num>
-                  <text>A certificate of completion from a nursing assistant training program in that state or territory that meets the standards for an approved nursing assistant training program set by the Board.</text>
+                  <num>(2)</num>
+                  <text>Ensure that the administrator, director of nursing, or human resources representative of the applicant’s employer submits to the Board an attestation, on the form required by the Board, that:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Is completed by the:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Applicant;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Registered Nurse instructor or supervisor of the applicant during employment; and</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>Administrator or director of nursing for the employer; and</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Verifies that the applicant satisfies the requirements of <cite path="|10|39|01|.05|F." doc="Code of Maryland Regulations">Regulation .05F of this chapter</cite>.</text>
+                  </para>
                 </para>
               </para>
-            </para>
-            <para>
-              <num>C.</num>
-              <text>Every applicant shall attest on the application whether the applicant has:</text>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.07</num>
+              <heading>Nursing Assistant Competency Evaluation.</heading>
               <para>
-                <num>(1)</num>
-                <text>Committed any act or omission that would be grounds for discipline or denial of certification; and</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>A record of abuse, neglect, or misappropriation of a client’s property or any disciplinary action taken or pending in any state or territory of the United States against the certification of the applicant.</text>
-              </para>
-            </para>
-            <para>
-              <num>D.</num>
-              <text>A CNA-II who seeks certification as a CNA-I shall:</text>
-              <para>
-                <num>(1)</num>
-                <text>Submit an application to the Board on the form required by the Board; and</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>Comply with §§A(1)(c) and A(3)—(5) of this regulation.</text>
-              </para>
-            </para>
-            <para>
-              <num>E.</num>
-              <text>A temporary nurse aide applying for certification as a CNA-1 shall:</text>
-              <para>
-                <num>(1)</num>
-                <text>Comply with <cite path="10|39|01|.06|A." doc="Code of Maryland Regulations">§A of this regulation</cite>; and</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>Ensure that the administrator, director of nursing, or human resources representative of the applicant’s employer submits to the Board an attestation, on the form required by the Board, that:</text>
+                <num>A.</num>
+                <text>An individual is eligible to sit for a nursing assistant competency evaluation if the individual:</text>
                 <para>
-                  <num>(a)</num>
-                  <text>Is completed by the:</text>
+                  <num>(1)</num>
+                  <text>Meets the education requirements set forth in <cite path="|10|39|01|.05|A.|(1)" doc="Code of Maryland Regulations">Regulation .05A(1) of this chapter</cite>; or</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Must retake a nursing assistant competency evaluation in order to renew or reinstate a certification in accordance with <cite path="|10|39|01|.10|C.|(2)|(a)" doc="Code of Maryland Regulations">Regulation .10C(2)(a) of this chapter</cite>.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Except for service members, an individual shall sit for a nursing assistant competency evaluation after 24 months of meeting the educational requirements set forth in <cite path="|10|39|01|.05|A.|(1)" doc="Code of Maryland Regulations">Regulation .05A(1) of this chapter</cite>.</text>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>An individual who fails to sit for a nursing assistant competency evaluation after 24 months of meeting the educational qualifications must re-take an approved nursing assistant training program or approved acute care nursing assistant training program in order to be eligible to sit for a nursing assistant competency evaluation.</text>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>Re-testing.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>An individual who fails to obtain a passing score on the first examination may retake a nursing assistant competency evaluation three additional times.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>An individual shall wait at least 45 calendar days from the date of the prior evaluation before retaking a nursing assistant competency evaluation.</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>An individual who fails to obtain a passing score after taking a nursing assistant competency evaluation four times must complete a new approved nursing assistant training program or approved acute care nursing assistant training program before retaking a nursing assistant competency evaluation.</text>
+                </para>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.08</num>
+              <heading>Temporary Practice Certificate.</heading>
+              <para>
+                <num>A.</num>
+                <text>The Board may issue a temporary practice certificate to an applicant who:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Has met the appropriate certification requirements to the satisfaction of the Board;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Does not have a criminal record; and</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>Has not been the subject of a health professional disciplinary action in this State or another jurisdiction.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Unless the Board suspends or revokes a temporary practice certificate, the temporary practice certificate expires 90      calendar days after the date of issuance.</text>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>A temporary practice certificate may be extended up to an additional 90 calendar days if the applicant is awaiting the completion of the criminal history records check.</text>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.09</num>
+              <heading>Issuance of Certification.</heading>
+              <para>
+                <num>A.</num>
+                <text>The Board may not issue a certificate to an applicant until the Board has:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Received and reviewed the criminal history record information of the applicant; and</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Approved the application.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Unless subject to discipline, the Board shall issue a certificate to each applicant who meets all the requirements of this chapter and Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite> and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-06, Annotated Code of Maryland.</text>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|01|.10">
+              <prefix>Regulation</prefix>
+              <num>.10</num>
+              <heading>Expiration and Renewal.</heading>
+              <para>
+                <num>A.</num>
+                <text>Expiration.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Unless renewed for an additional two-year term, and except as otherwise provided in <cite path="10|39|01|.10|A.|(2)" doc="Code of Maryland Regulations">§A(2) of this regulation</cite>, a certificate expires in accordance with the following schedule:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>The certificate of a certificate holder with an odd-numbered birth year expires on the 28th day of the certificate holder’s birth month in an odd-numbered year; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>The certificate of a certificate holder with an even-numbered birth year expires on the 28th day of the certificate holder’s birth month in an even-numbered year.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>A certificate shall not expire within 180 calendar days of the date of issuance.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Renewal Notice.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>At least 3 months before a certificate expires, the Board shall send the certificate holder a renewal notice by either:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>First-class mail to the last known address of the certificate holder; or</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Electronic means to the last known electronic address of the certificate holder.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>The renewal notice shall provide:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>The date on which the certificate holder’s certificate is scheduled to expire;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>The date by which the Board must receive a renewal application in order for a certificate to remain active until the renewal application submitted by the certificate holder is processed by the Board, in accordance with <cite doc="Md. Code" path="gsg|10-226">State Government Article, §10-226(b), Annotated Code of Maryland</cite>;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>The amount of the renewal fee; and</text>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>If the certificate holder is required to submit to a CHRC in accordance with <cite path="10|39|01|.10|D." doc="Code of Maryland Regulations">§D of this regulation</cite>:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Notice that the certificate holder must submit to a CHRC in order to renew the certificate; and</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Written instructions for how to complete a CHRC.</text>
+                    </para>
+                  </para>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>It is the responsibility of the certificate holder to:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Be aware of the expiration date of the certificate; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Renew the certificate before it expires.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>Failure of a certificate holder to receive the renewal notice sent by the Board does not relieve the certificate holder of the responsibility to renew a certificate before it expires.</text>
+                </para>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>Renewal Requirements.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>The Board shall renew a certificate if the individual applying for renewal:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Is otherwise entitled to be certified;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Submits a complete application for renewal on the form required by the Board;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Pays the renewal fee;</text>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>Provides satisfactory evidence, as required by the Board, of16 hours of active employment, for compensation, as a nursing assistant within the 2-year period immediately preceding the date of expiration or meet the requirements under <cite path="10|39|01|.10|C.|(2)" doc="Code of Maryland Regulations">§C(2) of this regulation</cite>; and</text>
+                  </para>
+                  <para>
+                    <num>(e)</num>
+                    <text>If required to submit to a CHRC in accordance with § D of this regulation, complies with the requirements of <cite path="|10|39|01|.04|A." doc="Code of Maryland Regulations">Regulation .04A of this chapter</cite>.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>If the individual applying for renewal does not have 16 hours of active employment as a nursing assistant within the 2-year period immediately preceding the date of expiration the individual shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>If a CNA-I, take and pass a nursing assistant competency evaluation; or</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>If a CNA-II, complete a nursing assistant training program..</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>Schedule for CHRCs. CHRCs for renewal applicants shall be scheduled according to the certificate holder’s birth month as follows:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>In 2025 — all applicants with an August or September birth month;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>In 2026 — all applicants with a September or October birth month;</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>In 2027 — all applicants with an October or November birth month;</text>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>In 2028 — all applicants with a November or December birth month;</text>
+                </para>
+                <para>
+                  <num>(5)</num>
+                  <text>In 2029 — all applicants with a December or January birth month;</text>
+                </para>
+                <para>
+                  <num>(6)</num>
+                  <text>In 2030 — all applicants with a January or February birth month;</text>
+                </para>
+                <para>
+                  <num>(7)</num>
+                  <text>In 2031 — all applicants with a February or March birth month;</text>
+                </para>
+                <para>
+                  <num>(8)</num>
+                  <text>In 2032 — all applicants with a March or April birth month;</text>
+                </para>
+                <para>
+                  <num>(9)</num>
+                  <text>In 2033 — all applicants with an April or May birth month;</text>
+                </para>
+                <para>
+                  <num>(10)</num>
+                  <text>In 2034 — all applicants with a May or June birth month;</text>
+                </para>
+                <para>
+                  <num>(11)</num>
+                  <text>In 2035 — all applicants with a June or July birth month; and</text>
+                </para>
+                <para>
+                  <num>(12)</num>
+                  <text>In 2036 — all applicants with a July or August birth month.</text>
+                </para>
+              </para>
+              <para>
+                <num>E.</num>
+                <text>Grace Period. A certificate holder has a 30 calendar day grace period beyond the expiration date of the certificate to renew the certificate.</text>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.11</num>
+              <heading>Administrative Reinstatement.</heading>
+              <para>
+                <num>A.</num>
+                <text>The Board shall reinstate the certificate of a certificate holder who has failed to renew the certificate for any reason, if the certificate holder meets the renewal requirements in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-08, Annotated Code of Maryland, and <cite path="|10|39|01|.10" doc="Code of Maryland Regulations">Regulation .10 of this chapter</cite>.</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>An applicant for administrative reinstatement who has failed to renew the certificate for a period of 1 year or more shall submit to a CHRC before the certificate is reinstated.</text>
+              </para>
+            </section>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-17, Annotated Code of Maryland; Ch. 486, Acts of 2012;<br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-02-05">Effective date: February 5, 2001 (28:2 Md. R. 100)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-02-18">Regulations .02A, .06B, .09B amended as an emergency provision effective November 15, 2001 (28:24 Md. R. 2125); amended permanently effective February 18, 2002 (29:3 Md. R. 221)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-08-27"><cite path="|10|39|01|.02|A." doc="Code of Maryland Regulations">Regulation .02A</cite> amended effective February 2, 2004 (31:2 Md. R. 85); August 27, 2007 (34:17 Md. R. 1509)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24"><cite path="|10|39|01|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective April 24, 2006 (33:8 Md. R. 734)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|39|01|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> amended effective January 6, 2014 (40:26 Md. R. 2164)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.06" doc="Code of Maryland Regulations">Regulation .06</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|39|01|.06" doc="Code of Maryland Regulations">Regulation .06</cite> amended effective August 25, 2008 (35:17 Md. R. 1489); April 19, 2010 (37:8 Md. R. 617)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|39|01|.06|H." doc="Code of Maryland Regulations">Regulation .06H</cite> amended effective January 6, 2014 (40:26 Md. R. 2164)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-06-13"><cite path="|10|39|01|.06|N." doc="Code of Maryland Regulations">Regulation .06N</cite> amended effective June 13, 2011 (38:12 Md. R. 705)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|39|01|.07" doc="Code of Maryland Regulations">Regulation .07</cite> amended effective April 19, 2010 (37:8 Md. R. 617)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24"><cite path="|10|39|01|.08" doc="Code of Maryland Regulations">Regulation .08</cite> repealed and Regulation .09 recodified to be Regulation .08 effective April 24, 2006 (33:8 Md. R. 734)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.08" doc="Code of Maryland Regulations">Regulation .08</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|10|39|01|.08|A." doc="Code of Maryland Regulations">Regulation .08A</cite>, B amended effective April 7, 2008 (35:7 Md. R. 748)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-22"><cite path="|10|39|01|.08|D." doc="Code of Maryland Regulations">Regulation .08D</cite> amended effective March 22, 2010 (37:6 Md. R. 478)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24"><cite path="|10|39|01|.10" doc="Code of Maryland Regulations">Regulation .10</cite> repealed effective April 24, 2006 (33:8 Md. R. 734)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13" discontinuity="true">Chapter revised effective February 13, 2017 (44:3 Md. R. 189)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> adopted as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.07" doc="Code of Maryland Regulations">Regulation .07</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.08" doc="Code of Maryland Regulations">Regulation .08</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.09" doc="Code of Maryland Regulations">Regulation .09</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.09|A." doc="Code of Maryland Regulations">Regulation .09A</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411); amended permanently effective June 8, 2026 (53:11 Md. R. 484)</annotation>
+            </annotations>
+          </container>
+        </codify:replace-or-insert>
+        <codify:replace-or-insert doc="Code of Maryland Regulations" path="10|39|02" warning="false" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|02|.01|annos">
+          <container>
+            <prefix>Chapter</prefix>
+            <num>02</num>
+            <heading>Nursing Assistant Training Programs</heading>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.01</num>
+              <heading>Definitions.</heading>
+              <para>
+                <num>A.</num>
+                <text>In this chapter, the following terms have the meanings indicated.</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Terms Defined.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>“Acute care nursing assistant training program” means a course of training that meets the acute care nursing assistant training program curriculum approved by the Board.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>“Board” means the Maryland Board of Nursing.</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>“Certified Nursing Assistant (CNA)” has the meaning stated in <cite path="10.39.01.02|B." doc="Code of Maryland Regulations">COMAR 10.39.01.02B</cite>.</text>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>Certified Nursing Assistant-I (CNA-I).</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>“Certified nursing assistant-I (CNA-I)” means a CNA who:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Meets the requirements set by the Board and federal law; and</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>May practice in any practice setting.</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>“Certified nursing assistant-I (CNA-I)” includes a:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>CNA who was certified as a geriatric nursing assistant on March 31, 2026;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Certified medicine aide; and</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>CNA who is certified under <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-05(c)(5), Annotated Code of Maryland.</text>
+                    </para>
+                  </para>
+                </para>
+                <para>
+                  <num>(5)</num>
+                  <text>“Classroom laboratory training” means instruction and demonstration, on an individual or a mannequin, of patient care skills by an instructor and return demonstration of competence in these skills by the student.</text>
+                </para>
+                <para>
+                  <num>(6)</num>
+                  <text>“Clinical facility” means a setting where clients are physically present and that provides facilities for supervised clinical training.</text>
+                </para>
+                <para>
+                  <num>(7)</num>
+                  <text>“Direct supervision” means that the registered nurse or licensed practical nurse is physically present while the student demonstrates patient care skills.</text>
+                </para>
+                <para>
+                  <num>(8)</num>
+                  <text>“Distance education” means a formal education process in which the delivery of instruction occurs through the use of telecommunication technologies because the students and instructors are in different places.</text>
+                </para>
+                <para>
+                  <num>(9)</num>
+                  <text>“Hybrid training program” means a nursing assistant training program that provides:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Didactic instruction through distance education;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>On-site classroom laboratory training; and</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Supervised clinical training.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(10)</num>
+                  <text>“Licensed Practical Nurse (LPN)” means an individual who:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Is licensed by the Board to practice licensed practical nursing; or</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Has a multistate licensure privilege to practice licensed practical nursing.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(11)</num>
+                  <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B." doc="Code of Maryland Regulations">COMAR 10.27.01.01B</cite>.</text>
+                </para>
+                <para>
+                  <num>(12)</num>
+                  <text>“Nursing assistant competency evaluation” means an examination approved by the Board that:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Determines the competency of the individual to practice as a CNA-I; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Meets the requirements under federal law.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(13)</num>
+                  <text>“Nursing assistant training program” means a course of training approved by the Board that meets the requirements under federal and State law.</text>
+                </para>
+                <para>
+                  <num>(14)</num>
+                  <text>“Program completion” means that the student:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Completed and demonstrated competency in the program objectives and performance indicators during the didactic, laboratory, and clinical portions of the training program; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Passed the final written examination.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(15)</num>
+                  <text>“Program provider” means an individual, organization, facility, or educational institution that conducts a nursing assistant training program or an acute care nursing assistant training program.</text>
+                </para>
+                <para>
+                  <num>(16)</num>
+                  <text>“Registered nurse (RN)” means an individual who:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Is licensed by the Board to practice registered nursing; or</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Has a multistate licensure privilege to practice registered nursing.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(17)</num>
+                  <text>“Supervised clinical training” means training in person at a clinical facility in which the student demonstrates knowledge and skills while performing tasks on a client under the supervision of an RN or an LPN.</text>
+                </para>
+                <para>
+                  <num>(18)</num>
+                  <text>“Traditional program” means a training program that provides on-site didactic instruction, classroom laboratory training, and supervised clinical training.</text>
+                </para>
+                <para>
+                  <num>(19)</num>
+                  <text>“Training program” means a nursing assistant training program or an acute care nursing assistant training program.</text>
+                </para>
+                <para>
+                  <num>(20)</num>
+                  <text>“Unencumbered” means without limitation or restriction on practice, such as revocation, suspension, or probation.</text>
+                </para>
+                <para>
+                  <num>(21)</num>
+                  <text>“Written agreement” means a contract between a program provider and a clinical facility outlining the terms required, by both the program and the facility, for supervised clinical training of students.</text>
+                </para>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.02</num>
+              <heading>Initial Approval and Ongoing Responsibilities.</heading>
+              <para>
+                <num>A.</num>
+                <text>Approval Requirements.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>All training programs shall be approved by:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>The Board; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>The Maryland Higher Education Commission (MHEC) in accordance with <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-14(a), Annotated Code of Maryland and COMAR 13B.01.01.03.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Public High School Training Programs. If the training program is offered by a public high school, the training program shall be approved by the State Board of Education.</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>The approval process shall be completed before the training program is offered.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Application. At least 120 days before the proposed start date of the training program, a program provider seeking initial approval of a training program shall:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Submit a complete application on the form required by the Board;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Demonstrate that the training program meets all of the applicable requirements in this chapter; and</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>Provide any additional information requested by the Board during the Board’s review of the application.</text>
+                </para>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>Board Action.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Following receipt of a complete application, the Board’s professional staff may conduct a survey visit and submit a survey visit report to the Board.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>The Board shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Approve a training program that meets all of the applicable requirements of this chapter; or</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Deny approval of a training program that does not meet all of the applicable requirements of this chapter.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>Term. Board approval of a training program is valid for 2 years.</text>
+              </para>
+              <para>
+                <num>E.</num>
+                <text>Ongoing Responsibilities.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A training program shall obtain approval from the Board before making any substantial changes to the program.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Substantial changes include:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Changes to faculty;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Significant changes to curriculum, including an increase or decrease in program hours; and</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Removal or addition of clinical facilities or classroom locations.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>A training program shall submit to the Board an annual report, on the form required by the Board, that includes statistics on enrollments, program completions, attrition rates, and nursing assistant competency evaluation results.</text>
+                </para>
+              </para>
+              <para>
+                <num>F.</num>
+                <text>Nursing Assistant Competency Evaluation Performance.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A training program shall maintain an average pass rate of 90 percent of the average pass rate for all states using the applicable Board-approved vendors for the nursing assistant competency evaluation.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>The Board shall annually review the performance of graduates from each training program on the nursing assistant competency evaluation.</text>
+                </para>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.03</num>
+              <heading>Administration.</heading>
+              <para>
+                <num>A.</num>
+                <text>Equal Opportunity Statement. The training program provider shall have a statement of equal opportunity.</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>A training program offered by a nursing facility or skilled nursing facility shall not charge a fee for any portion of the program, including textbooks and other required course materials, in accordance with 42 CFR §483.152(c).</text>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|02|.04">
+              <prefix>Regulation</prefix>
+              <num>.04</num>
+              <heading>Faculty.</heading>
+              <para>
+                <num>A.</num>
+                <text>Faculty Requirements.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Each course instructor and program coordinator shall have:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>An active, unencumbered license to practice as a Registered Nurse  or a multistate licensure privilege to practice as a Registered Nurse in the State;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>A minimum of 2 years of nursing experience; and</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Completed a course in teaching adults or have experience in teaching adults or supervising nursing assistants.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Long-Term Care Facility Experience Requirements. Either the program coordinator or all course instructors shall have at least 1 year of experience in the provision of long-term care facility services, which may include:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Providing direct client care or supervisory oversight in a long-term care facility or unit, including in a geriatrics department, chronic care hospital, or other long-term care setting; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Teaching a nursing assistant training program that complies with federal law.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Course Instructors.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Course instructors in training programs in public secondary schools in the State shall also meet the requirements set forth in COMAR 13A.12.02.02.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>The course instructor is responsible for:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Participating in the development and evaluation of the training program, including the acquisition of learning resources and instructional materials;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Implementing the training program and ensuring course objectives are met;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Supervising classroom, laboratory, and clinical learning experiences, including direct supervision of a student the first time a student performs a patient care skill during a clinical learning experience and until the student demonstrates proficiency in that skill; and</text>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>Evaluating student performance during didactic, clinical, and laboratory training.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>Program Coordinator.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Each training program shall have a program coordinator who:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Provides general supervision of the training of nursing assistants; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Maintains responsibility for the overall operation of the program.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Except as provided in <cite path="10|39|02|.04|C.|(3)" doc="Code of Maryland Regulations">§C(3) of this regulation</cite>, the program coordinator may also be a course instructor.</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>In a facility-based program, the facility’s director of nursing may be the program coordinator but may not perform any actual training.</text>
+                </para>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>Supplemental Personnel.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Other health professional personnel may supplement the course instructor, including, but not limited to:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Registered nurses in accordance with <cite path="10|39|02|.04|D.|(3)" doc="Code of Maryland Regulations">§D(3) of this regulation</cite>;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Licensed practical nurses in accordance with <cite path="10|39|02|.04|D.|(4)" doc="Code of Maryland Regulations">§D(4) of this regulation</cite>;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Pharmacists;</text>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>Dietitians;</text>
+                  </para>
+                  <para>
+                    <num>(e)</num>
+                    <text>Social workers;</text>
+                  </para>
+                  <para>
+                    <num>(f)</num>
+                    <text>Sanitarians;</text>
+                  </para>
+                  <para>
+                    <num>(g)</num>
+                    <text>Fire safety experts;</text>
+                  </para>
+                  <para>
+                    <num>(h)</num>
+                    <text>Nursing home administrators;</text>
+                  </para>
                   <para>
                     <num>(i)</num>
-                    <text>Applicant;</text>
+                    <text>Gerontologists;</text>
                   </para>
                   <para>
-                    <num>(ii)</num>
-                    <text>Registered Nurse instructor or supervisor of the applicant during employment; and</text>
+                    <num>(j)</num>
+                    <text>Psychologists;</text>
                   </para>
                   <para>
-                    <num>(iii)</num>
-                    <text>Administrator or director of nursing for the employer; and</text>
-                  </para>
-                </para>
-                <para>
-                  <num>(b)</num>
-                  <text>Verifies that the applicant satisfies the requirements of <cite path="|10|39|01|.05|F." doc="Code of Maryland Regulations">Regulation .05F of this chapter</cite>.</text>
-                </para>
-              </para>
-            </para>
-          </section>
-        </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|.10" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|.10">
-          <section cache:ref-path="10|39|01|.10">
-            <prefix>Regulation</prefix>
-            <num>.10</num>
-            <heading>Expiration and Renewal.</heading>
-            <para>
-              <num>A.</num>
-              <text>Expiration.</text>
-              <para>
-                <num>(1)</num>
-                <text>Unless renewed for an additional two-year term, and except as otherwise provided in <cite path="10|39|01|.10|A.|(2)" doc="Code of Maryland Regulations">§A(2) of this regulation</cite>, a certificate expires in accordance with the following schedule:</text>
-                <para>
-                  <num>(a)</num>
-                  <text>The certificate of a certificate holder with an odd-numbered birth year expires on the 28th day of the certificate holder’s birth month in an odd-numbered year; and</text>
-                </para>
-                <para>
-                  <num>(b)</num>
-                  <text>The certificate of a certificate holder with an even-numbered birth year expires on the 28th day of the certificate holder’s birth month in an even-numbered year.</text>
-                </para>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>A certificate shall not expire within 180 calendar days of the date of issuance.</text>
-              </para>
-            </para>
-            <para>
-              <num>B.</num>
-              <text>Renewal Notice.</text>
-              <para>
-                <num>(1)</num>
-                <text>At least 3 months before a certificate expires, the Board shall send the certificate holder a renewal notice by either:</text>
-                <para>
-                  <num>(a)</num>
-                  <text>First-class mail to the last known address of the certificate holder; or</text>
-                </para>
-                <para>
-                  <num>(b)</num>
-                  <text>Electronic means to the last known electronic address of the certificate holder.</text>
-                </para>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>The renewal notice shall provide:</text>
-                <para>
-                  <num>(a)</num>
-                  <text>The date on which the certificate holder’s certificate is scheduled to expire;</text>
-                </para>
-                <para>
-                  <num>(b)</num>
-                  <text>The date by which the Board must receive a renewal application in order for a certificate to remain active until the renewal application submitted by the certificate holder is processed by the Board, in accordance with <cite doc="Md. Code" path="gsg|10-226">State Government Article, §10-226(b), Annotated Code of Maryland</cite>;</text>
-                </para>
-                <para>
-                  <num>(c)</num>
-                  <text>The amount of the renewal fee; and</text>
-                </para>
-                <para>
-                  <num>(d)</num>
-                  <text>If the certificate holder is required to submit to a CHRC in accordance with <cite path="10|39|01|.10|D." doc="Code of Maryland Regulations">§D of this regulation</cite>:</text>
-                  <para>
-                    <num>(i)</num>
-                    <text>Notice that the certificate holder must submit to a CHRC in order to renew the certificate; and</text>
+                    <num>(k)</num>
+                    <text>Physical and occupational therapists;</text>
                   </para>
                   <para>
-                    <num>(ii)</num>
-                    <text>Written instructions for how to complete a CHRC.</text>
+                    <num>(l)</num>
+                    <text>Activities specialists;</text>
+                  </para>
+                  <para>
+                    <num>(m)</num>
+                    <text>Speech/language/hearing therapists; and</text>
+                  </para>
+                  <para>
+                    <num>(n)</num>
+                    <text>Resident rights experts.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Supplemental personnel shall have at least 1 year of experience in their respective field.</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>A registered nurse functioning as supplemental personnel shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Hold a current, unencumbered license in the State or multistate licensure privilege as a registered nurse; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Have had at least 1 year of direct client care experience as a registered nurse.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>A licensed practical nurse functioning as supplemental personnel shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Hold a current, unencumbered license in the State or multistate licensure privilege as a practical nurse; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Have had at least 1 year of direct client care experience as a licensed practical nurse.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(5)</num>
+                  <text>Other supplemental personnel providing instruction shall provide instruction under the supervision of the course instructo.</text>
+                </para>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|02|.05">
+              <prefix>Regulation</prefix>
+              <num>.05</num>
+              <heading>Facilities and Resources.</heading>
+              <para>
+                <num>A.</num>
+                <text>General Facility Requirements. All classroom, laboratory, and clinical facilities used by a training program:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Shall be approved by the Board;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Shall be approved or accredited by the appropriate agency;</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>May not be on conditional or provisional approval status; and</text>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>May not meet any of the factors set forth in 42 CFR §483.151(b)(2)—(3).</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Classroom and Laboratory Facilities. Classroom and laboratory facilities shall include:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Adequate space for privacy of faculty-student conferences; and</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Space for equipment and instructional materials.</text>
+                </para>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>Resources.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>All instructional learning resources and materials shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Be accessible and relevant to the role of the CNA;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Have a publication date not older than 5 years from the current year; and</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Be written at an 8th grade level.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Laboratory Equipment.</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Laboratory equipment, at a minimum, shall include materials to support the following classroom activities:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Infection control;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Basic nursing skills;</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>Personal care skills; and</text>
+                    </para>
+                    <para>
+                      <num>(iv)</num>
+                      <text>Basic restorative services;</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>The Board shall maintain on its website a list of the specific equipment required for laboratory facilities.</text>
                   </para>
                 </para>
               </para>
               <para>
-                <num>(3)</num>
-                <text>It is the responsibility of the certificate holder to:</text>
+                <num>D.</num>
+                <text>Clinical Facilities.</text>
                 <para>
-                  <num>(a)</num>
-                  <text>Be aware of the expiration date of the certificate; and</text>
+                  <num>(1)</num>
+                  <text>Clinical facilities shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Have a sufficient number and variety of clients to provide training experiences for all students to achieve the stated objectives;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Have a sufficient number of registered nurses and other nursing personnel to ensure safe and continuous care of clients; and</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Conform with accepted standards of nursing care and practice.</text>
+                  </para>
                 </para>
                 <para>
-                  <num>(b)</num>
-                  <text>Renew the certificate before it expires.</text>
-                </para>
-              </para>
-              <para>
-                <num>(4)</num>
-                <text>Failure of a certificate holder to receive the renewal notice sent by the Board does not relieve the certificate holder of the responsibility to renew a certificate before it expires.</text>
-              </para>
-            </para>
-            <para>
-              <num>C.</num>
-              <text>Renewal Requirements.</text>
-              <para>
-                <num>(1)</num>
-                <text>The Board shall renew a certificate if the individual applying for renewal:</text>
-                <para>
-                  <num>(a)</num>
-                  <text>Is otherwise entitled to be certified;</text>
+                  <num>(2)</num>
+                  <text>There shall be a minimum of 1 course instructor for each 8 students in the clinical area.</text>
                 </para>
                 <para>
-                  <num>(b)</num>
-                  <text>Submits a complete application for renewal on the form required by the Board;</text>
+                  <num>(3)</num>
+                  <text>Written Agreements.</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Except for facility-based programs, a training program shall have a written agreement with a clinical facility for student training experiences.</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>The written agreement developed in accordance with <cite path="10|39|02|.05|D.|(3)|(a)" doc="Code of Maryland Regulations">§D(3)(a) of this regulation</cite> shall:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Be developed jointly with the clinical facility and the training program;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Be reviewed periodically by the clinical facility and the training program;</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>Include a provision for adequate notice of termination;</text>
+                    </para>
+                    <para>
+                      <num>(iv)</num>
+                      <text>Specify the responsibility of the training program to the clinical facility and the responsibility of the clinical facility to the training program; and</text>
+                    </para>
+                    <para>
+                      <num>(v)</num>
+                      <text>Identify the functions and responsibilities of the parties involved.</text>
+                    </para>
+                  </para>
+                </para>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|02|.06">
+              <prefix>Regulation</prefix>
+              <num>.06</num>
+              <heading>Curriculum.</heading>
+              <para>
+                <num>A.</num>
+                <text>Program Hours.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A training program shall provide a minimum of 100 hours of instruction.</text>
                 </para>
                 <para>
-                  <num>(c)</num>
-                  <text>Pays the renewal fee;</text>
+                  <num>(2)</num>
+                  <text>Of the 100 hours, a minimum of:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>60 hours shall be devoted to didactic instruction and classroom laboratory training, with at least 16 hours of in-person laboratory training in the pre-clinical curriculum listed in <cite path="10|39|02|.06|B.|(3)" doc="Code of Maryland Regulations">§B(3) of this regulation</cite>; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>40 hours shall be devoted to supervised clinical training in a clinical facility.</text>
+                  </para>
                 </para>
                 <para>
-                  <num>(d)</num>
-                  <text>Provides satisfactory evidence, as required by the Board, of16 hours of active employment, for compensation, as a nursing assistant within the 2-year period immediately preceding the date of expiration or meet the requirements under <cite path="10|39|01|.10|C.|(2)" doc="Code of Maryland Regulations">§C(2) of this regulation</cite>; and</text>
+                  <num>(3)</num>
+                  <text>A training program shall have at least 16 of the 40 hours of supervised clinical training in the provision of long-term care facility services or caring for the elderly or chronically ill of any age, which shall be performed under direct supervision.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Curriculum Content.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>The curriculum for a training program shall include the subject matters and skills listed in 42 CFR §483.152(b).</text>
                 </para>
                 <para>
-                  <num>(e)</num>
-                  <text>If required to submit to a CHRC in accordance with § D of this regulation, complies with the requirements of <cite path="|10|39|01|.04|A." doc="Code of Maryland Regulations">Regulation .04A of this chapter</cite>.</text>
+                  <num>(2)</num>
+                  <text>The curriculum for an acute care nursing assistant training program shall include:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>The subject matters listed in 42 CFR §483.152(b); and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>All basic skills required of a nursing assistant in any acute care practice setting, including:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Caring for patients with acute and chronic medical conditions in a hospital facility;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Observing and reporting changes in patient condition, including potential emergencies and safety issues, to the licensed nurse;</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>Transport of specimens;</text>
+                    </para>
+                    <para>
+                      <num>(iv)</num>
+                      <text>Transport of medications;</text>
+                    </para>
+                    <para>
+                      <num>(v)</num>
+                      <text>Point of care testing;</text>
+                    </para>
+                    <para>
+                      <num>(vi)</num>
+                      <text>Specimen collecting;</text>
+                    </para>
+                    <para>
+                      <num>(vii)</num>
+                      <text>Equipment management;</text>
+                    </para>
+                    <para>
+                      <num>(viii)</num>
+                      <text>Time management in the acute care setting;</text>
+                    </para>
+                    <para>
+                      <num>(ix)</num>
+                      <text>De-escalation of assertive or aggressive patients and family members; and</text>
+                    </para>
+                    <para>
+                      <num>(x)</num>
+                      <text>Electronic documentation of care and basic computer skills.</text>
+                    </para>
+                  </para>
                 </para>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>If the individual applying for renewal does not have 16 hours of active employment as a nursing assistant within the 2-year period immediately preceding the date of expiration the individual shall:</text>
                 <para>
-                  <num>(a)</num>
-                  <text>If a CNA-I, take and pass a nursing assistant competency evaluation; or</text>
+                  <num>(3)</num>
+                  <text>The pre-clinical curriculum of a training program shall include the following topics:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Role of the CNA;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Infection control;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Safety and emergency procedures, including the Heimlich maneuver;</text>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>Communication and interpersonal skills;</text>
+                  </para>
+                  <para>
+                    <num>(e)</num>
+                    <text>Promoting clients’ independence; and</text>
+                  </para>
+                  <para>
+                    <num>(f)</num>
+                    <text>Legal and ethical considerations, including respecting clients’ rights.</text>
+                  </para>
                 </para>
                 <para>
-                  <num>(b)</num>
-                  <text>If a CNA-II, complete a nursing assistant training program..</text>
+                  <num>(4)</num>
+                  <text>A training program shall provide instruction in the pre-clinical curriculum before a student has any direct contact with a client.</text>
                 </para>
               </para>
-            </para>
-            <para>
-              <num>D.</num>
-              <text>Schedule for CHRCs. CHRCs for renewal applicants shall be scheduled according to the certificate holder’s birth month as follows:</text>
               <para>
-                <num>(1)</num>
-                <text>In 2025 — all applicants with an August or September birth month;</text>
+                <num>C.</num>
+                <text>Each training program shall identify the unit objectives and performance indicators for each of the areas in <cite path="10|39|02|.06|B." doc="Code of Maryland Regulations">§B of this regulation</cite> in its training criteria.</text>
               </para>
               <para>
-                <num>(2)</num>
-                <text>In 2026 — all applicants with a September or October birth month;</text>
+                <num>D.</num>
+                <text>Laboratory Instruction and Clinical Learning Experience.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Each training program shall provide laboratory instruction in and require students to demonstrate clinical competence in performing skills consistent with the subjects under <cite path="10|39|02|.06|B." doc="Code of Maryland Regulations">§B of this regulation</cite>.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>A training program shall ensure that students may not perform any services during their clinical learning experience for which they have not trained and been found proficient by the course instructor.</text>
+                </para>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.07</num>
+              <heading>Evaluation.</heading>
+              <para>
+                <num>A.</num>
+                <text>Each training program shall have an objective final written examination that measures achievement of the performance indicators.</text>
               </para>
               <para>
-                <num>(3)</num>
-                <text>In 2027 — all applicants with an October or November birth month;</text>
+                <num>B.</num>
+                <text>To successfully complete the training program, each student shall:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Complete the required minimum hours provided in <cite path="|10|39|02|.06|A." doc="Code of Maryland Regulations">Regulation .06A of this chapter</cite>;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Demonstrate the ability to perform nursing functions with clients of any age and with various levels of physical, sensory, cognitive, and emotional ability;</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>Achieve a passing score of at least 75 percent on the written final examination; and</text>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>Demonstrate competence in meeting the objectives and performance indicators during didactic, laboratory, and clinical instruction.</text>
+                </para>
               </para>
               <para>
-                <num>(4)</num>
-                <text>In 2028 — all applicants with a November or December birth month;</text>
+                <num>C.</num>
+                <text>The training program shall provide the following to students who complete the program:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A certificate of completion using the form required by the Board; and</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Registration information for a nursing assistant competency evaluation.</text>
+                </para>
               </para>
               <para>
-                <num>(5)</num>
-                <text>In 2029 — all applicants with a December or January birth month;</text>
+                <num>D.</num>
+                <text>A program coordinator or faculty of a training program:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>May sign a student’s application for certification as a nursing assistant before graduation; and</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Shall submit to the Board written verification, as required by the Board, of each student’s program completion within 5 business days of program completion.</text>
+                </para>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.08</num>
+              <heading>Renewal of Approval.</heading>
+              <para>
+                <num>A.</num>
+                <text>Expiration. Unless renewed, Board approval of a training program expires 2 years from the last date of approval.</text>
               </para>
               <para>
-                <num>(6)</num>
-                <text>In 2030 — all applicants with a January or February birth month;</text>
+                <num>B.</num>
+                <text>Renewal application. At least 120 days before the date of expiration of approval, a training program shall submit:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A complete application on the form required by the Board; and</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>All accompanying documentation required by the application or requested by the Board.</text>
+                </para>
               </para>
               <para>
-                <num>(7)</num>
-                <text>In 2031 — all applicants with a February or March birth month;</text>
+                <num>C.</num>
+                <text>Survey Visit. Following receipt of a renewal application from a training program, the Board’s professional staff shall conduct an announced or unannounced on-site survey visit and submit a survey visit report to the Board.</text>
               </para>
               <para>
-                <num>(8)</num>
-                <text>In 2032 — all applicants with a March or April birth month;</text>
+                <num>D.</num>
+                <text>Board Action. The Board shall:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Renew approval of a training program for another 2-year term if the training program meets the applicable requirements of this chapter; or</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Initiate withdrawal of approval proceedings in accordance with <cite path="|10|39|02|.09" doc="Code of Maryland Regulations">Regulation .09 of this chapter</cite> if the training program fails to meet the applicable requirements of this chapter.</text>
+                </para>
               </para>
               <para>
-                <num>(9)</num>
-                <text>In 2033 — all applicants with an April or May birth month;</text>
+                <num>E.</num>
+                <text>Enrollment. A training program that fails to renew its approval:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Shall be listed on nonrenewed status in the Board’s records; and</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>May not enroll any new students to the program following the expiration of approval.</text>
+                </para>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|02|.09">
+              <prefix>Regulation</prefix>
+              <num>.09</num>
+              <heading>Withdrawal of Approval.</heading>
+              <para>
+                <num>A.</num>
+                <text>Notice of Deficiencies.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>If the Board determines that there is a basis for withdrawal of approval under <cite path="10|39|02|.09|C." doc="Code of Maryland Regulations">§C of this regulation</cite>, the Board shall issue a written notice of deficiencies to the training program.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>The notice of deficiencies shall notify the training program of the:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Requirements with which the program has not complied;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Reasons for the Board’s determination; and</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Requirement to submit a written plan of correction in accordance with <cite path="10|39|02|.09|B." doc="Code of Maryland Regulations">§B of this regulation</cite>.</text>
+                  </para>
+                </para>
               </para>
               <para>
-                <num>(10)</num>
-                <text>In 2034 — all applicants with a May or June birth month;</text>
+                <num>B.</num>
+                <text>Written Plan of Correction.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A training program shall submit a written plan of correction after 30 calendar days of the date of the notice of deficiencies unless granted an extension by the Board for good cause.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>The written plan of correction shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Address all deficiencies noted by the Board; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Include dates of completion for correcting the deficiencies.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>The Board shall review the plan of correction and may approve or modify the dates of completion for correcting deficiencies.</text>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>The training program shall correct the deficiencies within the time frame approved by the Board.</text>
+                </para>
               </para>
               <para>
-                <num>(11)</num>
-                <text>In 2035 — all applicants with a June or July birth month; and</text>
+                <num>C.</num>
+                <text>Grounds for Withdrawal. The Board may withdraw approval of a training program that:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Fails to comply with any of the applicable requirements of this chapter;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Fails to correct deficiencies within the time frame approved by the Board;</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>Enrolls new students after expiration of approval; or</text>
+                </para>
+                <para>
+                  <num>(4)</num>
+                  <text>Has a graduate pass rate of less than 90 percent of the pass rate for all states using the applicable Board-approved vendors for a nursing assistant competency evaluation.</text>
+                </para>
               </para>
               <para>
-                <num>(12)</num>
-                <text>In 2036 — all applicants with a July or August birth month.</text>
+                <num>D.</num>
+                <text>Procedure for Withdrawal.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Before withdrawing approval of a training program under <cite path="10|39|02|.09|C." doc="Code of Maryland Regulations">§C of this regulation</cite>, the Board shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Notify the program of its intent to withdraw approval; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Give the program an opportunity to request an evidentiary hearing before the Board.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>The notice of intent to withdraw approval and hearing shall comply with the Administrative Procedure Act.</text>
+                </para>
               </para>
-            </para>
-            <para>
-              <num>E.</num>
-              <text>Grace Period. A certificate holder has a 30 calendar day grace period beyond the expiration date of the certificate to renew the certificate.</text>
-            </para>
-          </section>
-        </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|01|annos" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|01|annos">
-          <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-206">8-206</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-17, Annotated Code of Maryland; Ch. 486, Acts of 2012;<br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-02-05">Effective date: February 5, 2001 (28:2 Md. R. 100)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-02-18">Regulations .02A, .06B, .09B amended as an emergency provision effective November 15, 2001 (28:24 Md. R. 2125); amended permanently effective February 18, 2002 (29:3 Md. R. 221)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-08-27"><cite path="|10|39|01|.02|A." doc="Code of Maryland Regulations">Regulation .02A</cite> amended effective February 2, 2004 (31:2 Md. R. 85); August 27, 2007 (34:17 Md. R. 1509)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24"><cite path="|10|39|01|.03" doc="Code of Maryland Regulations">Regulation .03</cite> amended effective April 24, 2006 (33:8 Md. R. 734)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.04" doc="Code of Maryland Regulations">Regulation .04</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|39|01|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> amended effective January 6, 2014 (40:26 Md. R. 2164)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.06" doc="Code of Maryland Regulations">Regulation .06</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|39|01|.06" doc="Code of Maryland Regulations">Regulation .06</cite> amended effective August 25, 2008 (35:17 Md. R. 1489); April 19, 2010 (37:8 Md. R. 617)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06"><cite path="|10|39|01|.06|H." doc="Code of Maryland Regulations">Regulation .06H</cite> amended effective January 6, 2014 (40:26 Md. R. 2164)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-06-13"><cite path="|10|39|01|.06|N." doc="Code of Maryland Regulations">Regulation .06N</cite> amended effective June 13, 2011 (38:12 Md. R. 705)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|10|39|01|.07" doc="Code of Maryland Regulations">Regulation .07</cite> amended effective April 19, 2010 (37:8 Md. R. 617)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24"><cite path="|10|39|01|.08" doc="Code of Maryland Regulations">Regulation .08</cite> repealed and Regulation .09 recodified to be Regulation .08 effective April 24, 2006 (33:8 Md. R. 734)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|39|01|.08" doc="Code of Maryland Regulations">Regulation .08</cite> amended as an emergency provision effective January 2, 2007 (34:4 Md. R. 397); amended permanently effective May 7, 2007 (34:9 Md. R. 825)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|10|39|01|.08|A." doc="Code of Maryland Regulations">Regulation .08A</cite>, B amended effective April 7, 2008 (35:7 Md. R. 748)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-22"><cite path="|10|39|01|.08|D." doc="Code of Maryland Regulations">Regulation .08D</cite> amended effective March 22, 2010 (37:6 Md. R. 478)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24"><cite path="|10|39|01|.10" doc="Code of Maryland Regulations">Regulation .10</cite> repealed effective April 24, 2006 (33:8 Md. R. 734)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13" discontinuity="true">Chapter revised effective February 13, 2017 (44:3 Md. R. 189)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.01|B." doc="Code of Maryland Regulations">Regulation .01B</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.04|D." doc="Code of Maryland Regulations">Regulation .04D</cite> adopted as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.05" doc="Code of Maryland Regulations">Regulation .05</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.07" doc="Code of Maryland Regulations">Regulation .07</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.08" doc="Code of Maryland Regulations">Regulation .08</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.09" doc="Code of Maryland Regulations">Regulation .09</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.09|A." doc="Code of Maryland Regulations">Regulation .09A</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411); amended permanently effective June 8, 2026 (53:11 Md. R. 484)</annotation>
-          </annotations>
-        </codify:replace-or-insert>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|02|annos" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|02|annos">
-          <annotations>
-            <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a)(<cite doc="Md. Code" path="gho|6">6</cite>), and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-14, Annotated Code of Maryland; <br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-30">Effective date: April 30, 2001 (28:8 Md. R. 761)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|02|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|02|.05|A." doc="Code of Maryland Regulations">Regulation .05A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-11-07"><cite path="|10|39|02|.07|B." doc="Code of Maryland Regulations">Regulation .07B</cite> amended effective November 7, 2005 (32:22 Md. R. 1756)</annotation>
-            <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411); amended permanently effective June 8, 2026 (53:11 Md. R. 484)</annotation>
-          </annotations>
+              <para>
+                <num>E.</num>
+                <text>Mandatory Withdrawal. Notwithstanding any other section of this regulation, the Board shall withdraw approval of a training program upon receipt of notice from the Office of Healthcare Quality that the facility is prohibited from holding a training program pursuant 42 CFR §483.151(f)(1) or 42 CFR §483.151(f)(3).</text>
+              </para>
+              <para>
+                <num>F.</num>
+                <text>Reinstatement. A training program whose approval was withdrawn may apply for reinstatement of approval by submitting a reinstatement application demonstrating that the program meets all of the applicable requirements of this chapter.</text>
+              </para>
+            </section>
+            <section cache:ref-path="10|39|02|.10">
+              <prefix>Regulation</prefix>
+              <num>.10</num>
+              <heading>Voluntary Closure.</heading>
+              <para>
+                <num>A.</num>
+                <text>When a training program provider considers closing a program, the training program provider shall:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Notify the Board in writing of:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>The intended closing date; and</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>The arrangements for custody and safeguarding of student and graduate records; and</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Continue the program until the committed class schedule of currently enrolled students is completed.</text>
+                </para>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Custody of Student Records.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>If the training program provider is a facility or educational institution that will continue to function, the facility or educational institution shall assume responsibility for the student and graduate records of the closed training program.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Except as provided in <cite path="10|39|02|.10|B.|(1)" doc="Code of Maryland Regulations">§B(1) of this regulation</cite>, a training program provider that is required to obtain approval from the Maryland Higher Education Commission (MHEC) shall file student and graduate records, or legible copies of those records, with MHEC in accordance with <cite doc="Md. Code" path="ged|11-401">Education Article, §11-401, Annotated Code of Maryland</cite>.</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>A training program provider that is not required to obtain MHEC approval shall reach a mutual agreement with the Board about the disposition of student records.</text>
+                </para>
+              </para>
+            </section>
+            <section>
+              <prefix>Regulation</prefix>
+              <num>.11</num>
+              <heading>Hybrid Nursing Assistant Training Programs.</heading>
+              <para>
+                <num>A.</num>
+                <text>Scope. This regulation applies to hybrid nursing assistant training programs.</text>
+              </para>
+              <para>
+                <num>B.</num>
+                <text>Approval. The Board shall approve a hybrid training program that meets all of the requirements of this regulation.</text>
+              </para>
+              <para>
+                <num>C.</num>
+                <text>Prerequisite Qualifications. A program seeking initial approval as a hybrid training program shall:</text>
+                <para>
+                  <num>(1)</num>
+                  <text>Comply with the requirements set forth in <cite path="|10|39|02|.02" doc="Code of Maryland Regulations">Regulation .02 of this chapter</cite>;</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>Be approved by the Board as a traditional training program for at least 2 years before the program applies for initial approval as a hybrid training program; and</text>
+                </para>
+                <para>
+                  <num>(3)</num>
+                  <text>Comply with all requirements set forth under this chapter and be in good standing with the Board at the time that the program applies for initial approval as a hybrid training program.</text>
+                </para>
+              </para>
+              <para>
+                <num>D.</num>
+                <text>Application and Approval Requirements.</text>
+                <para>
+                  <num>(1)</num>
+                  <text>A training program seeking initial approval as a hybrid training program shall apply for approval on a form required by the Board.</text>
+                </para>
+                <para>
+                  <num>(2)</num>
+                  <text>To be eligible for Board approval, a hybrid training program shall:</text>
+                  <para>
+                    <num>(a)</num>
+                    <text>Host sessions no longer than 4 hours per session;</text>
+                  </para>
+                  <para>
+                    <num>(b)</num>
+                    <text>Specify the technology platform to be used for each content area of the curriculum;</text>
+                  </para>
+                  <para>
+                    <num>(c)</num>
+                    <text>Conduct lab and clinical training:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>In person with a course instructor who meets the requirements under <cite path="|10|39|02|.04" doc="Code of Maryland Regulations">Regulation .04 of this chapter</cite>; and</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>No later than 2 weeks after the completion of didactic instruction;</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(d)</num>
+                    <text>Require test sessions to be conducted in person;</text>
+                  </para>
+                  <para>
+                    <num>(e)</num>
+                    <text>Have a policy, which is provided to the Board as a part of the application, for:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Admissions, including determining whether a student has sufficient access to a computer and learning resources;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Orienting students to online modules;</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>Providing troubleshooting assistance for enrolled students; and</text>
+                    </para>
+                    <para>
+                      <num>(iv)</num>
+                      <text>In the case of technology failure, an alternative method of instruction and notification to the Board of the technology failure and the use of the alternative method of instruction;</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(f)</num>
+                    <text>Have sufficient mechanisms for:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Requiring the use of a personal identification number that confirms the identity of the students and instructor;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>Ensuring that all students have demonstrated competency on all virtual education content;</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>Tracking and auditing active student participation in online instruction;</text>
+                    </para>
+                    <para>
+                      <num>(iv)</num>
+                      <text>Confirming student identity during and after completion of online modules and live sessions; and</text>
+                    </para>
+                    <para>
+                      <num>(v)</num>
+                      <text>Safeguarding appropriate security measures;</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>(g)</num>
+                    <text>Provide the Board with access rights to the program to verify program compliance and monitor distance learning sessions; and</text>
+                  </para>
+                  <para>
+                    <num>(h)</num>
+                    <text>Provide the Board with statistics about the performance of students in the program, including:</text>
+                    <para>
+                      <num>(i)</num>
+                      <text>Student exam pass rates;</text>
+                    </para>
+                    <para>
+                      <num>(ii)</num>
+                      <text>The rate at which students repeat each module of the program; and</text>
+                    </para>
+                    <para>
+                      <num>(iii)</num>
+                      <text>Any other information requested by the Board regarding student participation in and</text>
+                      <text>completion of the program.</text>
+                    </para>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>E.</num>
+                <text>Reapproval. An approved hybrid training program shall apply for renewal of approval in accordance with <cite path="|10|39|02|.08" doc="Code of Maryland Regulations">Regulation .08 of this chapter</cite>.</text>
+              </para>
+              <para>
+                <num>F.</num>
+                <text>Withdrawal of Approval. The Board may withdraw approval of a hybrid training program in accordance with <cite path="|10|39|02|.09" doc="Code of Maryland Regulations">Regulation .09 of this chapter</cite>.</text>
+              </para>
+            </section>
+            <annotations>
+              <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|05">05</cite>(a)(<cite doc="Md. Code" path="gho|6">6</cite>), and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-14, Annotated Code of Maryland; <br/>Chs. 818 and 819, Acts of 2024; Ch. 416, Acts of 2025</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-30">Effective date: April 30, 2001 (28:8 Md. R. 761)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|02|.02|B." doc="Code of Maryland Regulations">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|02|.05|A." doc="Code of Maryland Regulations">Regulation .05A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-11-07"><cite path="|10|39|02|.07|B." doc="Code of Maryland Regulations">Regulation .07B</cite> amended effective November 7, 2005 (32:22 Md. R. 1756)</annotation>
+              <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411); amended permanently effective June 8, 2026 (53:11 Md. R. 484)</annotation>
+            </annotations>
+          </container>
         </codify:replace-or-insert>
         <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="10|39|03|.01" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="10|39|03|.01">
           <section>

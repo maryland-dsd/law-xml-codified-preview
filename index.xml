@@ -38,16 +38,16 @@
           <p>This version of the laws and codes on this website is dedicated to the public domain under the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> license.</p>
         </rights>
         <days-after-publication>180</days-after-publication>
-        <after-date>2026-12-05</after-date>
+        <after-date>2026-12-08</after-date>
       </license>
     </licenses>
     <history-start>2025-08-18</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="maryland-dsd/law-xml" commit="86e461cd5588e194714ff408baf170083b7196ce"/>
+        <repository name="maryland-dsd/law-xml" commit="ea07155b30f7b7784f33fdc244caff014bbbb216"/>
       </repositories>
-      <platform version="2.20.12" reproducible="false"/>
-      <build-date>2026-05-28</build-date>
+      <platform version="2.20.15" reproducible="false"/>
+      <build-date>2026-06-11</build-date>
       <codified-date>2026-06-08</codified-date>
     </build>
   </meta>
