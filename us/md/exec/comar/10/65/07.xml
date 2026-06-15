@@ -93,15 +93,10 @@
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Assessment for Health Care Professionals.</heading>
-    <para>
-      <num>A.</num>
-      <text>Fees are nonrefundable with the exception of the examination fee.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The examination fee may be refunded at the discretion of the Board if the applicant’s written request is received by registered mail at least 14 days before the examination.</text>
-    </para>
-    <annotations/>
+    <text>The applicant shall pay at the time of license renewal a fee for health care professionals, assessed by the Maryland Health Care Commission (MHCC), as specified in <cite path="|10.25.02">COMAR 10.25.02</cite>.</text>
+    <annotations>
+      <annotation app="2026-06-15" doc="Editor Action 2026-06-15" eff="2026-06-15" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|6-206">6-206</cite> and <cite doc="Md. Code" path="gho|6-207">6-207</cite>, Annotated Code of Maryland</annotation>

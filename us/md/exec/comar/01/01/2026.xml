@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Executive Orders</prefix>
+  <num>2026</num>
+  <section type="eo">
+    <prefix>Executive Order</prefix>
+    <num>.09</num>
+    <heading>Standards of Conduct for Executive Branch Employees Use of Confidential Information and Prediction Markets </heading>
+    <para>
+      <num>A.</num>
+      <text>The term "State employees" includes all Executive Branch employees, including political appointees, members of boards and commissions, and contractors and subcontractors of the State.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>State employees shall not engage in financial transactions, including transactions made on prediction markets, using nonpublic government information obtained through their State employment or contractual relationship with the State, to benefit themselves financially or to further any private interest.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All departments and agencies shall immediately refer to the Principal Counsel or Assistant Attorney General of the department or agency or to the Deputy Attorney General with supervisory responsibility over the department or agency, any instance of a possible violation of this Executive Order or other unethical behavior, for such action as the Office of the Attorney General deems appropriate. All departments and agencies shall also immediately advise the Chief Legal Counsel to the Governor of any such referrals. D. Consistent with all applicable substantive and procedural laws, violation of this Executive Order is grounds for employee disciplinary action, including and up to termination from State employment and termination of any contractual relationship.</text>
+    </para>
+    <annotations>
+      <annotation type="History" subtype="Administrative History" effective="2026-04-24">Effective Date: April 24, 2026.</annotation>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="eos" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="eos" type="History" display="false"/>
+</container>
