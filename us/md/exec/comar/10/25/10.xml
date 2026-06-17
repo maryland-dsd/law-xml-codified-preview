@@ -548,7 +548,7 @@
       <text>An organization billing on behalf of trauma physicians or trauma health care practitioners eligible for uncompensated care payments shall:</text>
       <para>
         <num>(1)</num>
-        <text>Designate a trauma service by appropriate coding of the CPT Modifier on the electronic ANSI 837 transaction or paper CMS 1500 claim in accordance with claims submission requirements; and</text>
+        <text>Designate a trauma service by appropriate coding of the U1 Modifier, or any successor modifier that includes that same data, on the electronic ANSI 837 transaction or paper CMS 1500 claim in accordance with claims submission requirements; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -560,11 +560,23 @@
       <text>Diagnosis Code.</text>
       <para>
         <num>(1)</num>
-        <text>Except as provided in <cite path="10|25|10|.07|D.|(2)">§D(2) of this regulation</cite>, a diagnosis code shall fall between 800.00 — 959.9.</text>
+        <text>Coding shall be consistent with CMS ICD-10 CM guidelines, or any successor guidelines.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If a diagnosis code does not fall between 800.0 — 959.9, a supplementary classification of external causes of injury and poisoning (E800 — E999) shall appear as a secondary diagnosis code.</text>
+        <text>A diagnosis code shall fall between ICD-10 CM S00 - T88 range, or successor codes indicating trauma related diagnosis.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>External Cause Codes.</text>
+        <para>
+          <num>(a)</num>
+          <text>A diagnosis code may also be accompanied by a secondary code or codes indicating external cause of injury, denoted by ICD-10 CM V, W, X, Y, or Z codes, or successor codes indicating external cause of injury.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>External cause codes may not be sequenced as the first-listed or principal diagnosis.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -711,7 +723,9 @@
         <text>The Commission reports on its intention to increase the payment rate to the Senate Finance Committee and the House Health and Government Operations Committee, at least 60 days before any adjustment to the rate.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-006-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|25|10|.08">
     <prefix>Regulation</prefix>
@@ -1148,6 +1162,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.05">Regulation .05</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.06">Regulation .06</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.07">Regulation .07</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-22"><cite path="|10|25|10|.07|C.">Regulation .07C</cite>, D amended effective June 22, 2026 (53:12 Md. R. 531)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.08">Regulation .08</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.09">Regulation .09</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.10">Regulation .10</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
@@ -1159,5 +1174,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.16|B.">Regulation .16B</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.17">Regulation .17</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.19">Regulation .19</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
+    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-006-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -48,7 +48,7 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>“Community water supply system” means a source of water and distribution system, including treatment facilities and storage facilities whether publicly or privately owned, serving two or more individual lots.</text>
+        <text>“Community water supply system” means a community water system as defined in <cite doc="Md. Code" path="gen|9-401">Environment Article, §9-401, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(10)</num>
@@ -156,7 +156,7 @@
       </para>
       <para>
         <num>(31)</num>
-        <text>“Person” means an individual, partnership, firm, corporation, cooperative enterprise, or a governmental agency.</text>
+        <text>“Person” means the federal government, the State, a county, municipal corporation, or other political subdivision of the State, or their units, or an individual, receiver, trustee, guardian, executor, administrator, fiduciary, or representative, or a partnership, firm, association, public or private corporation, or another entity.</text>
       </para>
       <para>
         <num>(32)</num>
@@ -184,82 +184,97 @@
       </para>
       <para>
         <num>(34)</num>
-        <text>“Privy” means an earth or watertight pit or receptacle for receiving nonwater-carried human wastes over which is placed a privy house containing a seat or seats.</text>
+        <text>“Portable unit” means a transportable, self-contained potable water supply or sewage collection device.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Portable unit” includes a water buffalo, a mobile water storage tank or trailer, a chemical toilet, a restroom mounted on a trailer, or a similar device.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Portable unit” does not include a vehicle that is used solely for the delivery of potable water or the transportation of sewage.</text>
+        </para>
       </para>
       <para>
         <num>(35)</num>
-        <text>“Sand mound system” means an on-site sewage disposal system utilizing a raised bed of sand fill with a distribution system constructed so as to distribute sewage equally into the sand fill.</text>
+        <text>“Privy” means an earthen pit, watertight pit, or receptacle that receives non-water-carried human waste.</text>
       </para>
       <para>
         <num>(36)</num>
-        <text>“Seepage pit” means a dug or drilled hole extending into porous soils for the purpose of introducing sewage effluent into the ground.</text>
+        <text>“Sand mound system” means an on-site sewage disposal system utilizing a raised bed of sand fill with a distribution system constructed so as to distribute sewage equally into the sand fill.</text>
       </para>
       <para>
         <num>(37)</num>
-        <text>“Septage” means the liquid and solid material pumped or removed from chemical toilets, septic tanks, seepage pits, privies, cesspools, or holding tanks when the system is cleaned and maintained.</text>
+        <text>“Seepage pit” means a dug or drilled hole extending into porous soils for the purpose of introducing sewage effluent into the ground.</text>
       </para>
       <para>
         <num>(38)</num>
-        <text>“Septic tank” means a watertight receptacle which receives the discharge of sewage from a building sewer or part of it and is designed and constructed to permit the settling and the digestion of the organic matter by anaerobic bacterial action.</text>
+        <text>“Septage” means the liquid and solid material pumped or removed from portable units, chemical toilets, septic tanks, seepage pits, privies, or holding tanks when the system is cleaned and maintained.</text>
       </para>
       <para>
         <num>(39)</num>
-        <text>“Sewage” means water-carried human, domestic and other wastes and includes all human and animal excreta.</text>
+        <text>“Septic tank” means a watertight receptacle which receives the discharge of sewage from a building sewer or part of it and is designed and constructed to permit the settling and the digestion of the organic matter by anaerobic bacterial action.</text>
       </para>
       <para>
         <num>(40)</num>
-        <text>“Sewage treatment unit” means a device designed and constructed to receive sewage and to provide treatment to reduce organic and inorganic matter and includes septic tanks, BAT, aerobic treatment units, or any other approved devices.</text>
+        <text>“Sewage” means water-carried human, domestic and other wastes and includes all human and animal excreta.</text>
       </para>
       <para>
         <num>(41)</num>
-        <text>“Sewer” means the system of pipes, lift stations, and other appurtenances that receive and convey sewage and is designed to exclude stormwater, surface water, and ground water.</text>
+        <text>“Sewage treatment unit” means a device designed and constructed to receive sewage and to provide treatment to reduce organic and inorganic matter and includes septic tanks, BAT, aerobic treatment units, or any other approved devices.</text>
       </para>
       <para>
         <num>(42)</num>
-        <text>“Site evaluation” means the inventory and review of all site characteristics pertinent to on-site sewage disposal systems including topography, geology, surface and subsurface drainage, seasonal high water table, drinking water sources and wells, proximity to waters of the State, soil evaluation and percolation tests.</text>
+        <text>“Sewer” means the system of pipes, lift stations, and other appurtenances that receive and convey sewage and is designed to exclude stormwater, surface water, and ground water.</text>
       </para>
       <para>
         <num>(43)</num>
-        <text>“Soil evaluation” means a description of the physical properties of a soil including color, texture, structure, limiting horizons, and percolation rates.</text>
+        <text>“Site evaluation” means the inventory and review of all site characteristics pertinent to on-site sewage disposal systems including topography, geology, surface and subsurface drainage, seasonal high water table, drinking water sources and wells, proximity to waters of the State, soil evaluation and percolation tests.</text>
       </para>
       <para>
         <num>(44)</num>
-        <text>“Soil survey” means the scientific inventory of soil maps, soil unit descriptions, classification in the national system, and interpretation for use, as conducted by the National Cooperative Soil Survey by the United States Department of Agriculture, Natural Resources Conservation Service, in cooperation with the Maryland Agricultural Experiment Station.</text>
+        <text>“Soil evaluation” means a description of the physical properties of a soil including color, texture, structure, limiting horizons, and percolation rates.</text>
       </para>
       <para>
         <num>(45)</num>
-        <text>“Spring” means groundwater seeping out of the earth where the water table intersects the ground surface.</text>
+        <text>“Soil survey” means the scientific inventory of soil maps, soil unit descriptions, classification in the national system, and interpretation for use, as conducted by the National Cooperative Soil Survey by the United States Department of Agriculture, Natural Resources Conservation Service, in cooperation with the Maryland Agricultural Experiment Station.</text>
       </para>
       <para>
         <num>(46)</num>
-        <text>“Standard trench” or shallow trench means a trench having either at least 6 inches of gravel or stone beneath and at least 2 inches over the perforated pipe or at least 6 inches air space beneath an open chamber. Only the bottom area is used to calculate the absorptive area in the design of a standard trench.</text>
+        <text>“Spring” means groundwater seeping out of the earth where the water table intersects the ground surface.</text>
       </para>
       <para>
         <num>(47)</num>
-        <text>“Stream” means a perennial or intermittent watercourse of groundwater origin.</text>
+        <text>“Standard trench” or shallow trench means a trench having either at least 6 inches of gravel or stone beneath and at least 2 inches over the perforated pipe or at least 6 inches air space beneath an open chamber. Only the bottom area is used to calculate the absorptive area in the design of a standard trench.</text>
       </para>
       <para>
         <num>(48)</num>
-        <text>“Subsurface sewage disposal” means the process of on-site sewage disposal in which the sewage effluent is applied to land by distribution beneath the surface through perforated pipes or pressurized pipes and includes a standard trench, deep trench, sand mound or at-grade system.</text>
+        <text>“Stream” means a perennial or intermittent watercourse of groundwater origin.</text>
       </para>
       <para>
         <num>(49)</num>
-        <text>“Unconfined aquifer” means an aquifer not bounded above by a bed of distinctly lower permeability than that of the aquifer itself and containing ground water under pressure approximately equal to that of the atmosphere. This term is synonymous with the term “water table aquifer”.</text>
+        <text>“Subsurface sewage disposal” means the process of on-site sewage disposal in which the sewage effluent is applied to land by distribution beneath the surface through perforated pipes or pressurized pipes and includes a standard trench, deep trench, sand mound or at-grade system.</text>
       </para>
       <para>
         <num>(50)</num>
-        <text>“Unconsolidated material” means uncemented soil and sediment material having not more than 70 percent coarse fragments (greater than 2 millimeters) by weight or 50 percent coarse fragments (greater than 2 millimeters) by volume. Volume is estimated by visual comparison with a standard chart.</text>
+        <text>“Unconfined aquifer” means an aquifer not bounded above by a bed of distinctly lower permeability than that of the aquifer itself and containing ground water under pressure approximately equal to that of the atmosphere. This term is synonymous with the term “water table aquifer”.</text>
       </para>
       <para>
         <num>(51)</num>
-        <text>“Water supply system” means a system that provides water for human consumption through pipes or other constructed conveyances and includes all sources of water that are or may be used as potable water including wells, springs, cisterns, or other sources and their appurtenances, such as, pitless adaptors, pumps, pressure tanks, water lines, and treatment and storage facilities.</text>
+        <text>“Unconsolidated material” means uncemented soil and sediment material having not more than 70 percent coarse fragments (greater than 2 millimeters) by weight or 50 percent coarse fragments (greater than 2 millimeters) by volume. Volume is estimated by visual comparison with a standard chart.</text>
       </para>
       <para>
         <num>(52)</num>
+        <text>“Water supply system” means a public water system as defined in <cite doc="Md. Code" path="gen|9-401">Environment Article, §9-401, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(53)</num>
         <text>“Well” means any hole that extends more than 20’ below the ground surface to explore for ground water, to obtain or monitor ground water, or to inject water into any underground formation from which ground water may be produced or to transfer heat to or from the ground or groundwater.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .01) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|04|02|.02">
     <prefix>Regulation</prefix>
@@ -267,11 +282,19 @@
     <heading>General Provisions.</heading>
     <para>
       <num>A.</num>
-      <text>The requirements of this chapter apply to new on-site sewage disposal systems and non-community water supply systems, replacements, additions to existing systems, repair or replacement of an existing system and any potential changes in the strength or volume of the sewage entering an on-site sewage disposal system.</text>
+      <text>The requirements of this chapter apply to new on-site sewage disposal systems and non-community water supply systems, replacements, additions to existing systems, repair or replacement of an existing system, portable units, and any potential changes in the strength or volume of the sewage entering an on-site sewage disposal system.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>If a community sewerage system is adequate and economically available to the building to be served, the Approving Authority may require a connection to the system.</text>
+      <text>Community Sewerage System.</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as authorized by the Department, a person may not construct or install an on-site sewage disposal system to serve a property that is already connected to a community sewerage system.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If a community sewerage system is adequate and economically available to the building to be served, the Approving Authority may require a connection to the community sewerage system.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
@@ -303,14 +326,18 @@
     </para>
     <para>
       <num>E.</num>
-      <text>A person may only dispose of sewage, body, or industrial wastes in accordance with an approved on-site sewage disposal permit or other method of disposal approved by the Approving Authority.</text>
+      <text>A person may not store, transport, or dispose of sewage, body, or industrial waste in any manner which may pollute the ground surface, the waters of the State, or create a nuisance.</text>
     </para>
     <para>
       <num>F.</num>
       <text>Water Supply for Non-Community System.</text>
       <para>
         <num>(1)</num>
-        <text>Only the following may be used as a water supply for residential and other establishments not served by a community system:</text>
+        <text>Except as authorized by the Department, a person may not construct or install a well to provide potable water to a property that is already connected to a community water supply system.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Only the following may be used as a water supply for residential and other establishments not served by a community water supply system:</text>
         <para>
           <num>(a)</num>
           <text>A well that satisfies the requirements of <cite path="|26.04.04">COMAR 26.04.04</cite>; and</text>
@@ -321,19 +348,19 @@
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(3)</num>
         <text>A spring or dug well may not be used as a water supply for a new homesite.</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(4)</num>
         <text>A cistern may not be used as a potable water supply.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(5)</num>
         <text>A well for a new construction, addition, or alteration and a potential source of contamination shall meet the minimum setback requirements established in <cite path="|26.04.04">COMAR 26.04.04</cite>.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(6)</num>
         <text>The owner of an abandoned well shall properly fill and seal the well in compliance with the requirements of <cite path="26.04.04.11">COMAR 26.04.04.11</cite>.</text>
       </para>
     </para>
@@ -347,7 +374,7 @@
     </para>
     <para>
       <num>I.</num>
-      <text>If water under pressure is not available, all human body wastes shall be disposed of in approved privies, chemical toilets, or any other installations acceptable to the Approving Authority. These methods may not be authorized for new construction.</text>
+      <text>If water under pressure is not available, all human body wastes shall be disposed of in approved privies or portable units subject to <cite path="|26|04|02|.08">Regulation .08 of this chapter</cite>.</text>
     </para>
     <para>
       <num>J.</num>
@@ -375,10 +402,14 @@
     </para>
     <para>
       <num>L.</num>
-      <text>A holding tank is required to hold a minimum of 7 days effluent and shall be of watertight construction. The Approving Authority may require a test of water tightness, in accordance with <cite path="|26|04|02|.05">Regulation .05(F) of this chapter</cite>. The owner shall regularly remove and dispose of the contents in accordance with <cite path="|26|04|02|.08">Regulation .08 of this chapter</cite>. The applicant shall submit, along with the application, a maintenance contract which is acceptable to the Approving Authority and which includes an acceptable pumping schedule by an approved liquid waste hauler. The Approving Authority may issue a holding tank permit if it determines that the issuance of the permit complies with the requirements of this section and does not compromise the public health, a maintenance contract requires safe and adequate disposal of sewage generated, and a holding tank agreement and easement is recorded in the land records for the property.</text>
+      <text>A person may not construct, install, operate, or use a holding tank to serve a property that is already connected to a community sewerage system.</text>
     </para>
     <para>
       <num>M.</num>
+      <text>A holding tank is required to hold a minimum of 7 days effluent and shall be of watertight construction. The Approving Authority may require a test of water tightness, in accordance with <cite path="|26|04|02|.05">Regulation .05(F) of this chapter</cite>. The owner shall regularly remove and dispose of the contents in accordance with <cite path="|26|04|02|.08">Regulation .08 of this chapter</cite>. The applicant shall submit, along with the application, a maintenance contract which is acceptable to the Approving Authority and which includes an acceptable pumping schedule by an approved liquid waste hauler. The Approving Authority may issue a holding tank permit if it determines that the issuance of the permit complies with the requirements of this section and does not compromise the public health, a maintenance contract requires safe and adequate disposal of sewage generated, and a holding tank agreement and easement is recorded in the land records for the property.</text>
+    </para>
+    <para>
+      <num>N.</num>
       <text>Criteria for a Holding Tank for an Owner Occupied, Legally Occupied, and Legally Situated Dwelling Unit.</text>
       <para>
         <num>(1)</num>
@@ -426,34 +457,37 @@
       </para>
     </para>
     <para>
-      <num>N.</num>
+      <num>O.</num>
       <text>No part of an on-site sewage disposal system may be covered or used until it has been inspected and approved by the Approving Authority or a third party approved by the Approving Authority.</text>
     </para>
     <para>
-      <num>O.</num>
+      <num>P.</num>
       <text>If hydrologic or geologic problems exist, or if construction activities may adversely impact the sewage system, the Approving Authority may require installation, inspection, and approval of the on-site sewage disposal system before issuance of the building permit by the local agency issuing building permits.</text>
     </para>
     <para>
-      <num>P.</num>
+      <num>Q.</num>
       <text>The permitee shall backfill all as excavations soon as possible. If an excavation is required to be left open, the excavator shall properly protect the excavation to prevent injury to humans and animals.</text>
     </para>
     <para>
-      <num>Q.</num>
+      <num>R.</num>
       <text>Every person engaged in the business of removing and disposing of the solid and liquid contents of on-site sewage disposal systems shall obtain an annual permit from the Approving Authority.</text>
     </para>
     <para>
-      <num>R.</num>
+      <num>S.</num>
       <text>Sewage or sewage effluent, treated or non-treated, may not be disposed of in any manner that is likely to cause contamination of a potable water supply system or waters of the State, or create a nuisance.</text>
     </para>
     <para>
-      <num>S.</num>
+      <num>T.</num>
       <text>An Approving Authority may require operating permits for on-site sewage disposal systems.</text>
     </para>
     <para>
-      <num>T.</num>
+      <num>U.</num>
       <text>A local jurisdiction may establish a responsible management entity to manage, operate and maintain an on-site sewage disposal system.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .02) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -723,55 +757,55 @@
           <tbody>
             <tr>
               <td data-vertical-align="middle">(1) All steep slopes (&gt;25 percent)</td>
-              <td data-vertical-align="middle">25 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">25 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(2) Springs</td>
-              <td data-vertical-align="middle">100 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">100 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(3) Drainage ways and gullies</td>
-              <td data-vertical-align="middle">25 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">25 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(4) Flood plain soils</td>
-              <td data-vertical-align="middle">25 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">25 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(5) Rock outcrops</td>
-              <td data-vertical-align="middle">25 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">25 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(6) Elevation of spillway crest water level in a water supply reservoir</td>
-              <td data-vertical-align="middle">300 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">300 feet</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">(7) Stream bank 3,000 feet or less upstream from a water intake on a <br/>water supply reservoir or intake on a stream used as a potable water supply</td>
-              <td data-vertical-align="middle">200 feet</td>
+              <td data-vertical-align="middle">(7) Stream bank 3,000 feet or less upstream from a water intake on a water supply reservoir or intake on a stream used as a potable water supply</td>
+              <td data-text-align="center" data-vertical-align="middle">200 feet</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">(8) Stream bank greater than 3,000 feet upstream from a water intake on a water <br/>supply reservoir or intake on a stream used as a potable water supply</td>
-              <td data-vertical-align="middle">100 feet</td>
+              <td data-vertical-align="middle">(8) Stream bank greater than 3,000 feet upstream from a water intake on a water supply reservoir or intake on a stream used as a potable water supply</td>
+              <td data-text-align="center" data-vertical-align="middle">100 feet</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">(9) Water bodies not serving as potable water supplies including intermittent<br/>and perennial streams</td>
-              <td data-vertical-align="middle">100 feet</td>
+              <td data-vertical-align="middle">(9) Water bodies not serving as potable water supplies including intermittent and perennial streams</td>
+              <td data-text-align="center" data-vertical-align="middle">100 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(10) Water well system in unconfined aquifers</td>
-              <td data-vertical-align="middle">100 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">100 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(11) Water well system in confined aquifers</td>
-              <td data-vertical-align="middle">50 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">50 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(12) Sink holes underlain by karst topography</td>
-              <td data-vertical-align="middle">100 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">100 feet</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">(13) Building foundations</td>
-              <td data-vertical-align="middle">10 feet</td>
+              <td data-text-align="center" data-vertical-align="middle">10 feet</td>
             </tr>
           </tbody>
         </table>
@@ -785,7 +819,9 @@
       <num>L.</num>
       <text>The Approving Authority may consider an application for a variance from the requirements listed in <cite path="26|04|02|.04|K.">§K of this regulation</cite> in order to cluster lots as provided under local law. However, the number of clustered lots under two acres may not exceed the number of lots that would have been approvable under <cite path="26|04|02|.04|K.">§K of this regulation</cite>. A variance may not be granted that allows the transfer of density units or development rights to a subdivision located within 2,500 feet of a water supply reservoir.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|04|02|.05">
     <prefix>Regulation</prefix>
@@ -1712,6 +1748,54 @@
     <heading>Special Methods of Sewage Collection and Disposal.</heading>
     <para>
       <num>A.</num>
+      <text>Except as authorized by the Department of Health in <cite path="|10.15.03">COMAR 10.15.03</cite>, a person may not utilize, operate, or make available a portable unit to allow, support, or facilitate:</text>
+      <para>
+        <num>(1)</num>
+        <text>The occupation or use of a new building or structure;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The occupation or use of a modification, alteration, extension, or expansion of an existing building or structure; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A change in use.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person may not utilize, operate, or make available a portable unit for longer than 3 days within a 60-day period without authorization from the Approving Authority.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Approving Authority may require a permit to utilize, operate, or make available a portable unit or a privy.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Approving Authority may inspect a portable unit or a privy and require corrective action to address a violation of this chapter or applicable law within a reasonable time.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>An owner or operator of a property where a portable unit is located shall ensure that each portable unit at the property meets all of the following requirements:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is subject to an enforceable maintenance agreement with an appropriately qualified third party to maintain the portable unit in accordance with manufacturer specifications, to replenish supplies, and to sustain the portable unit in a clean and sanitary condition as determined by the Approving Authority;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is pumped by a licensed septage hauler, if applicable, to ensure that the portable unit does not experience overflows, backups, odors, or unsanitary conditions as determined by the Approving Authority;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Is supplied with an appropriate number of handwashing or sanitization stations, if applicable, and maintained in a clean and sanitary condition as determined by the Approving Authority; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Receives potable water, if applicable, at a frequency necessary to maintain adequate water pressure with a backflow prevention device to protect the safety and potability of the stored water and the appropriate functioning of each connected device as determined by the Approving Authority.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
       <text>A person may not build a privy unless the privy will, in the judgment of the Department, prevent:</text>
       <para>
         <num>(1)</num>
@@ -1723,18 +1807,33 @@
       </para>
     </para>
     <para>
-      <num>B.</num>
+      <num>G.</num>
       <text>Privies shall be located and constructed so as to prevent contamination of ground and surface water. A privy shall be constructed in such a manner as to be insect and rodent free and to prevent odor nuisances. Location and construction plans shall be approved by the Approving Authority before issuing a sewage disposal construction permit.</text>
     </para>
     <para>
-      <num>C.</num>
-      <text>Chemical toilets shall be constructed of impervious materials, vented to the outside air above the roof line of the structure housing them, and supplied with an adequate amount of the chemical agent used to reduce and deodorize the tank contents. Chemical toilets shall be used only for special term events, construction projects and in the abatement of problems.</text>
+      <num>H.</num>
+      <text>Chemical toilets shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Made from impervious materials;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Vented to the outside air above the roof line of a structure housing them; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Supplied with an adequate amount of the chemical agent that reduces and deodorizes the tank contents.</text>
+      </para>
     </para>
     <para>
-      <num>D.</num>
-      <text>When privies or chemical toilets become filled to recommended capacity, the owner shall remove the contents and dispose of the sewage in accordance with Regulation 09 of this chapter.</text>
+      <num>I.</num>
+      <text>The owner, operator, or licensee of a privy or a portable unit that contains septage shall ensure that the contents are removed and disposed of in accordance with <cite path="|26|04|02|.09">Regulation .09 of this chapter</cite>..</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .08) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1742,21 +1841,29 @@
     <heading>Septage.</heading>
     <para>
       <num>A.</num>
-      <text>The owner of a septic tank, seepage pit, privy, or watertight holding tank for sewage shall remove all solid and liquid contents as to prevent a nuisance or a menace to public health or comfort and shall dispose of the sewage in compliance with applicable State and local requirements.</text>
+      <text>The owner, operator, or licensee of a septic tank, portable unit, seepage pit, privy, or holding tank shall ensure that septage from the septic tank, portable unit, seepage pit, privy, or holding tank is:</text>
+      <para>
+        <num>(1)</num>
+        <text>Removed properly to prevent a nuisance or a menace to public health or comfort; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Disposed of in compliance with applicable State and local requirements at a facility that is licensed by the Department under <cite doc="Md. Code" path="gen">Environment Article, Title 9, Subtitle 3, Annotated Code of Maryland</cite>.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
       <text>Transportation.</text>
       <para>
         <num>(1)</num>
-        <text>A person engaged in the transportation of septage shall comply with §B(2) and (3) of this regulation.</text>
+        <text>A person engaged in the transportation of septage or a portable unit that contains septage shall comply with §B(2) and (3) of this regulation.</text>
       </para>
       <para>
         <num>(2)</num>
         <text>Vehicle Requirements.</text>
         <para>
           <num>(a)</num>
-          <text>The owner of each vehicle used for transporting septage shall maintain the vehicle in a clean and sanitary condition; and</text>
+          <text>The owner of each vehicle used for transporting septage or a portable unit that contains septage shall maintain the vehicle in a clean and sanitary condition; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1768,7 +1875,7 @@
         <text>The owner shall comply with following vehicle identification requirements:</text>
         <para>
           <num>(a)</num>
-          <text>The name of the septage hauler is legibly lettered on both sides of each vehicle used for transporting septage, and the lettering is at least 3 inches in height.</text>
+          <text>The name of the septage hauler is legibly lettered on both sides of each vehicle used for transporting septage, and the lettering is at least 3 inches in height; and.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1776,7 +1883,10 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .09) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1809,7 +1919,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Environment Article, §§<cite doc="Md. Code" path="gen|9-216">9-216</cite>, <cite doc="Md. Code" path="gen|9-217">9-217</cite>, <cite doc="Md. Code" path="gen|9-223">9-223</cite>, <cite doc="Md. Code" path="gen|9-252">9-252</cite>, <cite doc="Md. Code" path="gen|9-319">9-319</cite>, <cite doc="Md. Code" path="gen|9-510">9-510</cite>, <cite doc="Md. Code" path="gen|9-1108">9-1108</cite>, <cite doc="Md. Code" path="gen|10-103">10-103</cite>, <cite doc="Md. Code" path="gen|10-301">10-301</cite>, and <cite doc="Md. Code" path="gen|10-304">10-304</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Environment Article, §§<cite doc="Md. Code" path="gen|9-216">9-216</cite>, <cite doc="Md. Code" path="gen|9-217">9-217</cite>, <cite doc="Md. Code" path="gen|9-223">9-223</cite>, <cite doc="Md. Code" path="gen|9-252">9-252</cite>, <cite doc="Md. Code" path="gen|9-255">9-255</cite>, <cite doc="Md. Code" path="gen|9-257">9-257</cite>, <cite doc="Md. Code" path="gen|9-268">9-268</cite>, <cite doc="Md. Code" path="gen|9-319">9-319</cite>, <cite doc="Md. Code" path="gen|9-403">9-403</cite>, <cite doc="Md. Code" path="gen|9-404">9-404</cite>, <cite doc="Md. Code" path="gen|9-510">9-510</cite>, <cite doc="Md. Code" path="gen|9-1108">9-1108</cite>, <cite doc="Md. Code" path="gen|9-1114">9-1114</cite>, <cite doc="Md. Code" path="gen|9-1605">9-1605</cite>.<cite doc="Md. Code" path="gen|2">2</cite>, <cite doc="Md. Code" path="gen|10-103">10-103</cite>, <cite doc="Md. Code" path="gen|10-301">10-301</cite>, and <cite doc="Md. Code" path="gen|10-304">10-304</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1970-12-01">Regulations <cite path="|26|04|02|.01">.01</cite>—<cite path="|26|04|02|.05">.05</cite> effective November 16, 1953; amended effective July 1, 1957, November 15, 1957, June 8, 1965, October 15, 1966, April 1, 1967, December 1, 1970</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-12-17">Regulations .01E and .02C amended, .02C-1 adopted effective December 17, 1984 (11:25 Md. R. 2134)</annotation>
@@ -1836,8 +1946,13 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-01-01" discontinuity="true">Chapter revised effective January 1, 2013 (39:19 Md. R. 1238)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-05-12" discontinuity="true">Regulations <cite path="|26|04|02|.01">.01</cite>—<cite path="|26|04|02|.12">.12</cite> repealed and new Regulations <cite path="|26|04|02|.01">.01</cite>—<cite path="|26|04|02|.12">.12</cite> adopted; Map recodified as Regulation .13 effective May 12, 2014 (41:9 Md. R. 522)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-04-08"><cite path="|26|04|02|.01|B.">Regulation .01B</cite> amended effective April 8, 2019 (46:7 Md. R. 371)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.01|B.">Regulation .01B</cite> amended as a emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.02">Regulation .02</cite> amended as a emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-04-08"><cite path="|26|04|02|.05|K.">Regulation .05K</cite> amended effective April 8, 2019 (46:7 Md. R. 371)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-11-24"><cite path="|26|04|02|.07">Regulation .07</cite> amended effective November 24, 2016 (43:23 Md. R. 1280)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.08">Regulation .08</cite> amended as a emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.09">Regulation .09</cite> amended as a emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13"><cite path="|26|04|02|.09|B.">Regulation .09B</cite> amended effective February 13, 2017 (44:3 Md. R. 190)</annotation>
+    <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
   </annotations>
 </container>

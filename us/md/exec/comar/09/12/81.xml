@@ -768,11 +768,59 @@
     </para>
     <para>
       <num>CC.</num>
-      <text>Article 620 Elevators, Dumbwaiters, Escalators, Moving Walks, Platform Lifts, and Stairway Chairlifts of the National Electric Code (NFPA 70), which is incorporated by reference in <cite path="09.12.50.02">COMAR 09.12.50.02</cite>-1B(3).</text>
+      <text>Article 620 Elevators, Dumbwaiters, Escalators, Moving Walks, Platform Lifts, and Stairway Chairlifts of the National Electric Code (NFPA 70), which is incorporated by reference in <cite path="09.12.50.02-1|B.|(3)">COMAR 09.12.50.02-1B(3)</cite>.</text>
     </para>
     <para>
       <num>DD.</num>
       <text>ASME A17.1-2019/CSA B44-19 (Revision of ASME A17.1-2016 and CSA B44-16) Safety Code for Elevators and Escalators is incorporated by reference.</text>
+    </para>
+    <para>
+      <num>EE.</num>
+      <text>ASME A17.1-2022/CSA B44:22 (Revision of ASME A17.1-2019/CSA B44:19) Safety Code for Elevators and Escalators is incorporated by reference with the following changes:</text>
+      <para>
+        <num>(1)</num>
+        <text>On page 23, after requirement number 2.2.4.2.2:</text>
+        <para>
+          <num>(a)</num>
+          <text>Insert an “(a)” at the beginning of the existing paragraph; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Add new section “(b) For alterations where obstructions are encountered, the width shall be permitted to be decreased to less than 400 mm (16 in.). The reduced width shall be as wide as the available space permits, but not less than 304.8 mm (12 in.)”.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>On page 24, add to the beginning of requirement 2.2.5.1, “Where access is necessary to service or access elevator equipment,”;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>On page 232, delete Section 5.8, “Marine Elevators”;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>On page 233, delete Section 5.9, “Mine Elevators”;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>On page 241, under requirement 5.10.1.21.3, replace “Article 305 of NFPA 70” with “Article 590 of NFPA 70”;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>On page 374, delete requirement 8.6.4.24;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>On page 439, under requirement 8.11.1.4, add at the end of subsection (b)(1) “by bolting, welding, or dry walling to prevent access to the hoistway. The lowest landing may be sealed from outside the hoistway”; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>On page 439, under requirement 8.11.1.4, add at the end of section (b)(2) “by bolting, welding, or dry walling to prevent access to the hoistway. The lowest landing may be sealed from outside the hoistway”.</text>
+      </para>
+    </para>
+    <para>
+      <num>FF.</num>
+      <text>ASME A17.8-2021/CSA B44.8:21 Standard for Wind Turbine Tower Elevators is incorporated by reference.</text>
     </para>
     <annotations>
       <annotation app="2026-06-17" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-294-F-I" type="History" display="false"/>
@@ -918,6 +966,10 @@
       <para>
         <num>(12)</num>
         <text>ASME A18.1-2020 (Revision of ASME A18.1-2017) Safety Standard for Platform Lifts and Stairway Chairlifts is incorporated by reference.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>ASME A18.1-2023 (Revision of ASME A18.1-2020) Safety Standard for Platform Lifts and Stairway Chairlifts is incorporated by reference.</text>
       </para>
     </para>
     <para>
@@ -1269,28 +1321,20 @@
     <text>An inspection by the Commissioner as provided for in <cite doc="Md. Code" path="gps|12-809">Public Safety Article, §12-809(a), Annotated Code of Maryland</cite> is required before a certification of registration and inspection is issued.</text>
     <annotations/>
   </section>
-  <section cache:ref-path="09|12|81|.06">
+  <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
     <heading>Record Keeping and Filing.</heading>
     <para>
       <num>A.</num>
-      <text>Record Keeping.</text>
+      <text>Record Keeping. At a readily accessible central location in the building where the elevator unit is located, a contractor, owner, or lessee shall maintain:</text>
       <para>
         <num>(1)</num>
-        <text>At a readily accessible central location in the building where the elevator unit is located, a contractor, owner, or lessee shall maintain:</text>
-        <para>
-          <num>(a)</num>
-          <text>A legible hard copy of maintenance, repair, test, and inspection records; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>An electronic copy of maintenance, repair, test, and inspection records in an electronic format approved by the Commissioner for that location.</text>
-        </para>
+        <text>A legible hard copy of maintenance, repair, test, and inspection records; or</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A contractor, owner, or lessee shall retain the records according to <cite path="09|12|81|.06|A.|(1)">§A(1) of this regulation</cite> for the life of the elevator unit.</text>
+        <text>An electronic copy of maintenance, repair, test, and inspection records in an electronic format approved by the Commissioner for that location.</text>
       </para>
     </para>
     <para>
@@ -1469,11 +1513,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-16"><cite path="|09|12|81|.01|Z.">Regulation .01Z</cite>, AA adopted effective July 16, 2018 (45:14 Md. R. 695)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-16"><cite path="|09|12|81|.01|B.">Regulation .01B</cite>B, CC adopted effective July 16, 2020 (47:14 Md. R. 675)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-22"><cite path="|09|12|81|.01|D.">Regulation .01D</cite>D adopted effective October 22, 2022 (49:9 Md. R. 531)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-17"><cite path="|09|12|81|.01|E.">Regulation .01E</cite>E, FF adopted effective June 17, 2026 (53:8 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-01-29"><cite path="|09|12|81|.01-1">Regulation .01-1</cite> adopted effective January 29, 2007 (34:2 Md. R. 137)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|09|12|81|.01-1B">Regulation .01-1B</cite> amended as an emergency provision effective October 15, 2007 (34:23 Md. R. 2019); amended permanently effective February 25, 2008 (35:4 Md. R. 514)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-11-16"><cite path="|09|12|81|.01-1B">Regulation .01-1B</cite> amended as an emergency provision effective August 21, 2009 (36:19 Md. R. 1433); amended permanently effective November 16, 2009 (36:23 Md. R. 1816)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-04-01"><cite path="|09|12|81|.02">Regulation .02</cite> amended effective August 28, 1995 (22:17 Md. R. 1317); April 6, 1998 (25:7 Md. R. 526); April 1, 2002 (29:6 Md. R. 567)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-24"><cite path="|09|12|81|.02|A.">Regulation .02A</cite> amended effective July 16, 2020 (47:14 Md. R. 675); July 24, 2023 (Md. R. 50:14 592)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-17"><cite path="|09|12|81|.02|A.">Regulation .02A</cite> amended effective July 16, 2020 (47:14 Md. R. 675); July 24, 2023 (Md. R. 50:14 592); June 17, 2026 (53:8 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-03-04"><cite path="|09|12|81|.02|A.">Regulation .02A</cite>, B amended effective March 4, 2013 (40:4 Md. R. 345)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-10-01">Regulations <cite path="|09|12|81|.03">.03</cite>—<cite path="|09|12|81|.06">.06</cite> adopted as an emergency provision effective July 5, 2001 (28:15 Md. R. 1394); adopted permanently effective October 1, 2001 (28:19 Md. R. 1684)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|09|12|81|.04|A.">Regulation .04A</cite> amended as an emergency provision effective October 15, 2007 (34:23 Md. R. 2019); amended permanently effective February 25, 2008 (35:4 Md. R. 514)</annotation>
@@ -1484,6 +1529,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|09|12|81|.05">Regulation .05</cite> amended as an emergency provision effective October 15, 2007 (34:23 Md. R. 2019); amended permanently effective February 25, 2008 (35:4 Md. R. 514)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-11-16"><cite path="|09|12|81|.05">Regulation .05</cite> amended as an emergency provision effective August 21, 2009 (36:19 Md. R. 1433); amended permanently effective November 16, 2009 (36:23 Md. R. 1816)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-01-29"><cite path="|09|12|81|.06">Regulation .06</cite> amended effective January 29, 2007 (34:2 Md. R. 137)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-17"><cite path="|09|12|81|.06|A.">Regulation .06A</cite> amended effective June 17, 2026 (53:8 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|09|12|81|.06|B.">Regulation .06B</cite>, C amended as an emergency provision effective October 15, 2007 (34:23 Md. R. 2019); amended permanently effective February 25, 2008 (35:4 Md. R. 514)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-11-16"><cite path="|09|12|81|.07">Regulation .07</cite> adopted as an emergency provision effective August 21, 2009 (36:19 Md. R. 1433); adopted permanently effective November 16, 2009 (36:23 Md. R. 1816)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-11-16"><cite path="|09|12|81|.08">Regulation .08</cite> adopted as an emergency provision effective August 21, 2009 (36:19 Md. R. 1433); adopted permanently effective November 16, 2009 (36:23 Md. R. 1816)</annotation>

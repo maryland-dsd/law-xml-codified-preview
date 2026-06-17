@@ -395,7 +395,29 @@
         <text>Draft of the vessel in relation to available depth of water.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>Public Notice.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary may establish or modify speed zones and restricted areas to implement <cite doc="Md. Code" path="gnr|8-725">Natural Resources Article, §8-725</cite>.9, Annotated Code of Maryland, by issuing a public notice on the Department’s website.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The public notice shall state its effective hour and date and shall be published on the Department’s website at least 24 hours in advance of the effective hour and date.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Secretary shall make a reasonable effort to disseminate a public notice issued under this section through various other media so that an affected individual has a reasonable opportunity to be informed.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A violation of the restrictions set by the Secretary in accordance with this section is a violation of this regulation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-034-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -680,10 +702,11 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|8-101">8-101</cite>, <cite doc="Md. Code" path="gnr|8-703">8-703</cite>, and <cite doc="Md. Code" path="gnr|8-704">8-704</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|8-101">8-101</cite>, <cite doc="Md. Code" path="gnr|8-703">8-703</cite>, §8-725.9 and 8-704, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-02-03">Effective date: February 3, 1992 (19:2 Md. R. 153)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-03-13"><cite path="|08|18|01|.03|B.">Regulation .03B</cite> amended effective October 14, 2002 (29:20 Md. R. 1587); October 29. 2012 (39:21 Md. R. 1377); April 1, 2013 (40:6 Md. R. 472): March 28, 2016 (43:6 Md. R. 405); March 13, 2017 (44:5 Md. R. 291)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-03-22"><cite path="|08|18|01|.04|A.">Regulation .04A</cite> amended effective March 22, 2021 (48:6 Md. R. 237)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-22"><cite path="|08|18|01|.04|C.">Regulation .04C</cite> adopted effective June 22, 2026 (53:12 Md. R. 530)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-06-20"><cite path="|08|18|01|.06">Regulation .06</cite> amended effective September 28, 1992 (19:19 Md. R. 1704); June 20, 1994 (21:12 Md. R. 1060)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-12-25"><cite path="|08|18|01|.08">Regulation .08</cite> amended effective December 25, 2000 (27:25 Md. R. 2281)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|08|18|01|.08|D.">Regulation .08D</cite> amended effective May 24, 1993 (20:10 Md. R. 849); September 15, 2025 (52:18 Md. R. 923)</annotation>
@@ -691,5 +714,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container"><cite path="|08|18|01|.09">Regulation .09</cite> adopted effective October 29. 2012 (39:21 Md. R. 1377)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container"><cite path="|08|18|01|.10">Regulation .10</cite> adopted effective October 29. 2012 (39:21 Md. R. 1377)</annotation>
     <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-060-F" type="History" display="false"/>
+    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-034-F" type="History" display="false"/>
   </annotations>
 </container>

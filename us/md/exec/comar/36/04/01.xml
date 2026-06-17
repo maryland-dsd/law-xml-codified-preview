@@ -1610,7 +1610,15 @@
     <heading>Video Lottery Terminal Lock-up.</heading>
     <para>
       <num>A.</num>
-      <text>A video lottery terminal shall be configured to lock-up and preclude further play following a single jackpot that requires the filing of IRS Form W-2G, Certain Gambling Winnings.</text>
+      <text>A video lottery terminal shall be configured to lock-up and preclude further play following a single jackpot:</text>
+      <para>
+        <num>(1)</num>
+        <text>That requires the filing of an IRS Form W-2G, Certain Gambling Winnings, as required by the IRS; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>At an amount lower than the IRS requires for reporting, as approved by the Agency.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
@@ -1620,7 +1628,9 @@
       <num>C.</num>
       <text>A video lottery terminal may be configured to permit the transfer, upon lock-up, of a jackpot amount to the credit meter.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-042-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -4110,6 +4120,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|04|01|.11|D.">Regulation .11D</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 Md. R. 529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-07"><cite path="|36|04|01|.11|E.">Regulation .11E</cite>, I amended effective January 7, 2016 (42:26 Md. R. 1597)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-10-07"><cite path="|36|04|01|.12|C.">Regulation .12C</cite> adopted effective October 7, 2019 (46:20 Md. R. 848)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-22"><cite path="|36|04|01|.13|A.">Regulation .13A</cite> amended effective June 22, 2026 (53:12 Md. R. 532)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-19"><cite path="|36|04|01|.18">Regulation .18</cite> amended effective October 19, 2020 (47:21 Md. R. 905)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-10-22"><cite path="|36|04|01|.18|D.">Regulation .18D</cite>, E amended effective October 22, 2018 (45:21 Md. R. 976)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-23"><cite path="|36|04|01|.20|A.">Regulation .20A</cite> amended effective October 23, 2017 (44:21 Md. R. 985)</annotation>
@@ -4121,5 +4132,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-09-06"><cite path="|36|04|01|.30|D.">Regulation .30D</cite> amended effective October 22, 2018 (45:21 Md. R. 976); September 6, 2021 (48:18 Md. R. 695)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-07"><cite path="|36|04|01|.30|D.">Regulation .30D</cite>, E amended effective January 7, 2016 (42:26 Md. R. 1597)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-10-07"><cite path="|36|04|01|.31|C.">Regulation .31C</cite> amended effective October 23, 2017 (44:21 Md. R. 985); October 22, 2018 (45:21 Md. R. 976); October 7, 2019 (46:20 Md. R. 848)</annotation>
+    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-042-F" type="History" display="false"/>
   </annotations>
 </container>

@@ -7,8 +7,29 @@
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>This chapter governs the provision of funding for local health services designated in Health-General Article, §2-304, Annotated Code of Maryland, and, at the discretion of the Secretary, any other State or federal funds that support these services.</text>
-    <annotations/>
+    <para>
+      <num>A.</num>
+      <text>This chapter governs the provision of funding for local health services designated in Health-General Article, §2-304, Annotated Code of Maryland, and, at the discretion of the Secretary, any other State or federal funds that support these services.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This chapter accounts for:</text>
+      <para>
+        <num>(1)</num>
+        <text>The annual appropriation for local health services which shall be determined by the annual formula adjustment in accordance with Health-General Article, §2-302(b), Annotated Code of Maryland, which considers inflation and population growth within the State; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any discretionary funding by the legislature.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>This chapter seeks to provide predictability and transparency for subdivisions in budgeting for the subdivision’s local matching funds.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-009-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -84,9 +105,75 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The local match percentage for each subdivision shall equal the percentage required for each subdivision for fiscal year 1996.</text>
+      <text>Local Share Match Requirement.</text>
+      <para>
+        <num>(1)</num>
+        <text>The local match percentage for each subdivision shall equal the percentage required for each subdivision for fiscal year 1996.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>As of July 1, 2026, the local share match requirement for any subdivision may not:</text>
+        <para>
+          <num>(a)</num>
+          <text>Include any salary adjustments included in the legislative appropriation for State employees; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Result in an annual increase which exceeds:</text>
+          <para>
+            <num>(i)</num>
+            <text>The annual formula adjustment; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>10 percent above the prior year’s discretionary local share match requirement for that subdivision.</text>
+          </para>
+        </para>
+      </para>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>Waiver Requests.</text>
+      <para>
+        <num>(1)</num>
+        <text>In the case of a demonstrated undue hardship, a subdivision may request a waiver for the local share match requirement for the fiscal year.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A waiver request must be made in the manner specified by the Secretary, at minimum the request shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>In writing;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submitted no later than September 30th of each year; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Signed by the subdivision’s:</text>
+          <para>
+            <num>(i)</num>
+            <text>Executive or Administrator; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Local Health Officer.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the Secretary determines the local share match requirement demonstrates undue hardship on the local jurisdiction, the Secretary may grant a waiver for the subdivision’s local share match requirement.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Secretary shall respond to a subdivision's complete waiver request within 30 calendar days.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-009-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|04|01|.05">
     <prefix>Regulation</prefix>
@@ -291,5 +378,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-02-26" discontinuity="true">Regulations <cite path="|10|04|01|.01">.01</cite>—<cite path="|10|04|01|.09">.09</cite> repealed and new Regulations <cite path="|10|04|01|.01">.01</cite>—<cite path="|10|04|01|.06">.06</cite> adopted effective February 26, 2007 (34:4 Md. R. 400)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-21"><cite path="|10|04|01|.03|B.">Regulation .03B</cite> amended effective April 21, 2008 (35:8 Md. R. 804)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-11-14" discontinuity="true">Chapter revised effective November 14, 2011 (38:23 Md. R. 1421)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-01"><cite path="|10|04|01|.01">Regulation .01</cite> amended effective July 1, 2026 (53:12 Md. R. 530)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-01"><cite path="|10|04|01|.04">Regulation .04</cite> amended effective July 1, 2026 (53:12 Md. R. 530)</annotation>
+    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-009-F" type="History" display="false"/>
   </annotations>
 </container>

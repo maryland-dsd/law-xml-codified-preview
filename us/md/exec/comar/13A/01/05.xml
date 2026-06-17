@@ -837,13 +837,13 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="13A|01|05|.12">
     <prefix>Regulation</prefix>
     <num>.12</num>
     <heading>Procedures Applicable to Requests to Remove a Local Board Member.</heading>
     <para>
       <num>A.</num>
-      <text>Request to Issue Charges. A request to issue charges against a local board member may be filed with the State Board by the local board or by a resident of the county in which the school system is located, if removal by the State Board is permitted by the statute governing removal of members of that local board.</text>
+      <text>Request to Issue Charges—Public Request. A request to issue charges against a local board member may be filed with the State Board by the local board, a resident of the county in which the school system is located, an employee of the local school system, or a parent or guardian of a student enrolled in the local school system if removal by the State Board is permitted by the statute governing removal of members of that local board.</text>
     </para>
     <para>
       <num>B.</num>
@@ -903,10 +903,18 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Time of Submission. From the date the first request to issue charges was filed, the record shall remain open to file additional requests for 30 calendar days. The record shall close at the end of the 30-day period, unless the State Board extends that time period.</text>
+      <text>Time of Submission. From the date the first request to issue charges was filed, a consolidation period of 15 calendar days  shall remain open to file additional requests. The consolidation period shall close at the end of the 15-day period.</text>
     </para>
     <para>
       <num>E.</num>
+      <text>Response. The State Board shall notify the local board member of the filing of the request(s) for consistency to issue charges and provide the local board member 30 days after the close of the consolidation period to respond to the request or requests.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The State Board may, at its discretion, shorten or extend the time requirements of §§D and E of this regulation.</text>
+    </para>
+    <para>
+      <num>G.</num>
       <text>Factual and Legal Sufficiency of the Request.</text>
       <para>
         <num>(1)</num>
@@ -914,10 +922,6 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>In doing so, it shall notify the local board member of the request and may provide the local board member an opportunity to respond to the request to issue charges.</text>
-      </para>
-      <para>
-        <num>(3)</num>
         <text>A factually sufficient request shall:</text>
         <para>
           <num>(a)</num>
@@ -929,24 +933,68 @@
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(3)</num>
         <text>A legally sufficient request shall create a reasonable belief that the actions committed could constitute a ground for removal from office.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(4)</num>
         <text>The State Board shall dismiss a request that is not factually or legally sufficient, or otherwise fails to meet the requirements of this regulation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Additional Evidence. The State Board may consider additional evidence furnished by the State Superintendent of Schools, the Office of the Inspector General for Education, or other public agencies concerning the issues in a request to issue charges provided:</text>
+        <para>
+          <num>(1)</num>
+          <text>The materiality of such evidence is demonstrated to the State Board's satisfaction; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The local board member has been provided 7 days to respond to the additional evidence.</text>
+        </para>
       </para>
     </para>
     <para>
-      <num>F.</num>
+      <num>H.</num>
       <text>Issuance of Charges. If the State Board determines that the request to issue charges is factually and legally sufficient, it shall send a notice of the charges to the local board member who may file a request for a hearing within 10 days of the date the notice of charges was issued.</text>
     </para>
     <para>
-      <num>G.</num>
+      <num>I.</num>
+      <text>Issuance of Charges—State Board Initiative.</text>
+      <para>
+        <num>(1)</num>
+        <text>Authority.  The State Board may, on its own initiative, issue charges for removal of a local board member on grounds set forth by the statute governing removal of members of that local board.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Procedure. Prior to issuing charges, the State Board shall perform all of the following actions:</text>
+        <para>
+          <num>(a)</num>
+          <text>Adopt, by majority vote, a proposed notice of charges setting forth the factual and legal basis for removal;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide the local board member with the proposed notice of charges and 30 days to respond; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Adopt a final notice of charges by majority vote and send the final notice to the local board member.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Hearing Request. The local board member may file a request for a hearing within 10 days of the date the final notice of charges was issued.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Exclusions. §§B, C, D, E and G of this regulation do not apply to charges issued by the State Board on its own initiative.</text>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
       <text>Hearing. If a hearing is requested, the State Board shall transfer the case to the Office of Administrative Hearings to schedule and conduct the hearing and issue a proposed decision on whether or not the local board member should be removed from office.</text>
     </para>
     <para>
-      <num>H.</num>
+      <num>K.</num>
       <text>Parties at the Hearing.</text>
       <para>
         <num>(1)</num>
@@ -954,46 +1002,188 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>If a resident has requested removal, the resident shall present the case for removal through counsel or pro se.</text>
+        <text>If a resident, school system employee, or a parent or guardian of a student enrolled in the local school system has requested removal, that individual shall present the case for removal through counsel or pro se.</text>
       </para>
       <para>
         <num>(3)</num>
+        <text>If the State Board has initiated removal, the Office of the Attorney General or other legal counsel shall present the case for removal.</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>The local board member shall present the case against removal through counsel or pro se.</text>
       </para>
     </para>
     <para>
-      <num>I.</num>
+      <num>L.</num>
       <text>Proposed Decision. The administrative law judge shall submit in writing to the State Board a proposed decision containing findings of fact, conclusions of law, and recommendations, and distribute a copy of the proposed decision to the parties.</text>
     </para>
     <para>
-      <num>J.</num>
+      <num>M.</num>
       <text>Hearing Record and Transcript. The administrative law judge and the parties shall prepare a record and transcript as provided in <cite path="|13A|01|05|.08">Regulation .08 of this chapter</cite>.</text>
     </para>
     <para>
-      <num>K.</num>
+      <num>N.</num>
       <text>Exceptions and Oral Argument.</text>
       <para>
         <num>(1)</num>
-        <text>A party objecting to the administrative law judge’s proposed decision may file exceptions with the State Board within 15 days of the date of the proposed decision.</text>
+        <text>Cases Initiated by External Requests.</text>
+        <para>
+          <num>(a)</num>
+          <text>A party objecting to the administrative law judge’s proposed decision may file exceptions with the State Board within 15 days of the date of the proposed decision.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A party may respond within 15 days of the date the exceptions were filed.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>As appropriate, each party shall append to the party’s exceptions or response to exceptions copies of the pages of the transcript that support the argument set forth in the party’s exceptions or response to exceptions.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If exceptions are filed, each side shall have the opportunity for oral argument before the State Board before the State Board issues a final decision.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Oral argument before the State Board shall be limited to 10 minutes per side. The State Board, upon request or at its sole discretion, may shorten or lengthen the time period for oral argument.</text>
+        </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>A party may respond within 15 days of the date the exceptions were filed.</text>
+        <text>Cases Initiated by the State Board. In a removal proceeding initiated by the State Board under <cite path="13A|01|05|.12|I.">§I of this regulation</cite>, the review of the proposed decision is governed by the following procedures:</text>
+        <para>
+          <num>(a)</num>
+          <text>Exceptions. A local board member objecting to the administrative law judge’s proposed decision shall file exceptions with the State Board within 15 days of the date of the proposed decision.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Exceptions Not Required.</text>
+          <para>
+            <num>(i)</num>
+            <text>If the State Board objects to the administrative law judge’s proposed decision, it shall notify the local board member within 15 days of the date of the proposed decision.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The filing of exceptions is not required for the State Board to issue a final decision reversing or modifying the proposed decision.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Oral Argument.</text>
+          <para>
+            <num>(i)</num>
+            <text>If the local board member files exceptions or if the State Board objects to the administrative law judge’s proposed decision, the State Board shall provide the local board member an opportunity for oral argument before the State Board issues a final decision.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Oral argument for the local board member shall be limited to 10 minutes. The State Board, upon request or at its sole discretion, may shorten or lengthen the time period for oral argument.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Final Decision. The State Board shall issue a final written decision that contains a factual background, legal analysis, and conclusion.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-018-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Interim Relief for Removal of Local Board Members.</heading>
+    <para>
+      <num>A.</num>
+      <text>Motion. A party who has filed a request to issue charges under <cite path="|13A|01|05|.12">Regulation .12 of this chapter</cite> for removal may bring a separate motion to the State Board for interim relief on the grounds that the continued service of the local board member is likely to result in substantial harm to any of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Operations of the local school system;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Safety or well-being of students or staff; or</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>As appropriate, each party shall append to the party’s exceptions or response to exceptions copies of the pages of the transcript that support the argument set forth in the party’s exceptions or response to exceptions.</text>
+        <text>Integrity of local board governance.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Content. The motion shall include all of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A summary of the factual record to date;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A statement describing the harm alleged and the urgency of the relief;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A request for specific limitations on the local board member’s participation in local board activities up to and including suspension of service pending the State Board’s decision on removal; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>If exceptions are filed, each side shall have the opportunity for oral argument before the State Board before the State Board issues a final decision.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Oral argument before the State Board shall be limited to 10 minutes per side. The State Board, upon request or at its sole discretion, may shorten or lengthen the time period for oral argument.</text>
+        <text>A signed statement that includes the following language: “I solemnly affirm under the penalties of perjury that the contents of the foregoing are true to the best of my knowledge, information, and belief”.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>Review. Within 5 days of receipt of the motion, the State Board President or designee shall take one of the following actions:</text>
+      <para>
+        <num>(1)</num>
+        <text>Dismiss a motion that is not factually or legally sufficient, or otherwise fails to meet the requirements of this regulation; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Transmit the motion to the Office of Administrative Hearings and provide a copy of the motion to the local board member.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Hearing on Motion. Within 5 days of receipt of the transmittal, the Office of Administrative Hearings shall perform all of the following duties:</text>
+      <para>
+        <num>(1)</num>
+        <text>Schedule a hearing on the motion to occur within 20 days of the motion being filed; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide the local board member with an opportunity to respond in writing prior to the hearing.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Decision. Within 7 days of the hearing, the administrative law judge shall issue final findings of fact and conclusions of law on whether interim relief is warranted, applying a balancing test that considers both of the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>Whether the harm that would result without interim relief is irreparable; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The public interest served by granting interim relief.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Effect. The issuance of interim relief:</text>
+      <para>
+        <num>(1)</num>
+        <text>Remains in effect until the State Board issues a final decision on the removal request;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May not affect any compensation for which the local board member is eligible; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>May not be construed as a determination on the merits of the removal request.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-018-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">: Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>, <cite doc="Md. Code" path="ged|4-205">4-205</cite>, <cite doc="Md. Code" path="ged|6-202">6-202</cite>, and <cite doc="Md. Code" path="ged|7-305">7-305</cite>; State Government Article, §§<cite doc="Md. Code" path="gsg|10-122">10-122</cite> and <cite doc="Md. Code" path="gsg|10-201">10-201</cite> et seq.; Annotated Code of Maryland</annotation>
@@ -1008,6 +1198,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-25"><cite path="|13A|01|05|.04">Regulation .04</cite> amended effective December 25, 2023 (50:25 Md. R. 1088)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-25"><cite path="|13A|01|05|.08">Regulation .08</cite> amended effective December 25, 2023 (50:25 Md. R. 1088)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-25"><cite path="|13A|01|05|.10|A.">Regulation .10A</cite> amended effective December 25, 2023 (50:25 Md. R. 1088)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-22"><cite path="|13A|01|05|.12">Regulation .12</cite> amended effective June 22, 2026 (53:12 Md. R. 531)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-25"><cite path="|13A|01|05|.12|B.">Regulation .12B</cite>, C amended effective December 25, 2023 (50:25 Md. R. 1088)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-22"><cite path="|13A|01|05|.13">Regulation .13</cite> adopted effective June 22, 2026 (53:12 Md. R. 531)</annotation>
+    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-018-F" type="History" display="false"/>
   </annotations>
 </container>

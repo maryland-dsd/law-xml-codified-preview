@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>20</num>
+  <heading>License Application Procedures</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Applicant” means a person who submits an application to obtain a license.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Examination” means an examination to obtain a license, as required by Insurance Article, §§<cite doc="Md. Code" path="gin|10-108">10-108</cite>, <cite doc="Md. Code" path="gin|10-109">10-109</cite>, <cite doc="Md. Code" path="gin|10-204">10-204</cite>, or 10-404, Annotated Code of Maryland or Insurance Article.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“License” has the meaning in Insurance Article, §§<cite doc="Md. Code" path="gin|10-101">10-101</cite>(e), <cite doc="Md. Code" path="gin|10-201">10-201</cite>(c), or 10-401(e), Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Valid License Exam Scores.</heading>
+    <para>
+      <num>A.</num>
+      <text>License applicants shall pass any required examinations given by the Commissioner prior to the submission of a license application.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Passing examination scores and results are valid for 1 year from the date the examination is passed.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If required examination scores are older than 1 year at the time of application submission, the application may be rejected.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Timeliness for Response to Application Information Request.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commissioner may request additional documentation from the applicant pertaining to their license application.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The applicant shall respond within the time frame requested by the Commissioner in the request for information.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Failure to respond to the request within the requested time frame may lead to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The denial of the application; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commissioner may deem the application withdrawn by the applicant.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If no date is specified in the request for information from the Commissioner, and the applicant does not respond within 6 months of the date of the Commissioner’s request, the application may be deemed withdrawn.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Insurance Article, §§<cite doc="Md. Code" path="gin|10-101">10-101</cite>, <cite doc="Md. Code" path="gin|10-102">10-102</cite>, <cite doc="Md. Code" path="gin|10-103">10-103</cite>, <cite doc="Md. Code" path="gin|10-104">10-104</cite>, <cite doc="Md. Code" path="gin|10-105">10-105</cite>, <cite doc="Md. Code" path="gin|10-107">10-107</cite>, <cite doc="Md. Code" path="gin|10-111">10-111</cite>, <cite doc="Md. Code" path="gin|10-112">10-112</cite>, <cite doc="Md. Code" path="gin|10-201">10-201</cite>, <cite doc="Md. Code" path="gin|10-202">10-202</cite>, <cite doc="Md. Code" path="gin|10-203">10-203</cite>, <cite doc="Md. Code" path="gin|10-204">10-204</cite>, <cite doc="Md. Code" path="gin|10-205">10-205</cite>, <cite doc="Md. Code" path="gin|10-207">10-207</cite>, <cite doc="Md. Code" path="gin|10-305">10-305</cite>, <cite doc="Md. Code" path="gin|10-401">10-401</cite>, <cite doc="Md. Code" path="gin|10-402">10-402</cite>, <cite doc="Md. Code" path="gin|10-403">10-403</cite>, <cite doc="Md. Code" path="gin|10-404">10-404</cite>, <cite doc="Md. Code" path="gin|10-405">10-405</cite>, <cite doc="Md. Code" path="gin|10-406">10-406</cite>, <cite doc="Md. Code" path="gin|10-407">10-407</cite>, <cite doc="Md. Code" path="gin|10-410">10-410</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-22">Effective date: June 22, 2026 (53:12 Md. R. 531)</annotation>
+  </annotations>
+  <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" type="History" display="false"/>
+</container>
