@@ -197,12 +197,12 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>An individual tax preparer may not permit a client's individual income tax refund check to be made payable to the individual preparer.</text>
+        <text>An individual tax preparer may not permit a client's individual income tax refund check to be made payable to the individual preparer or direct a client's refund to an account controlled by the preparer or require a client to use a specific refund disbursement method that benefits the preparer.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Client records.</text>
+      <text>Client records and Data Security.</text>
       <para>
         <num>(1)</num>
         <text>An individual tax preparer shall provide, make available, or return to a client or former client, upon written request and within a reasonable time:</text>
@@ -222,6 +222,10 @@
       <para>
         <num>(2)</num>
         <text>An individual tax preparer may charge a fee in connection with the requirements of <cite path="09|38|01|.05|B.|(1)">§B(1) of this regulation</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An individual tax preparer shall implement reasonable safeguards to protect client data, including maintaining a Written Information Security Plan (WISP) to ensure compliance with best cybersecurity practices.</text>
       </para>
     </para>
     <para>
@@ -336,7 +340,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-305-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article, §§<cite doc="Md. Code" path="gbo|21-101">21-101</cite>, <cite doc="Md. Code" path="gbo|21-203">21-203</cite>, <cite doc="Md. Code" path="gbo|21-205">21-205</cite>, <cite doc="Md. Code" path="gbo|21-207">21-207</cite>, and <cite doc="Md. Code" path="gbo|21-301">21-301</cite>—<cite doc="Md. Code" path="gbo|21-304">21-304</cite>,<br/>Annotated Code of Maryland; Ch. 623, §6, Acts of 2008</annotation>
@@ -346,6 +352,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-11-23"><cite path="|09|38|01|.02">Regulation .02</cite> amended effective March 5, 2012 (39:4 Md. R. 336); November 23, 2015 (42:23 Md. R. 1433)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-11-23"><cite path="|09|38|01|.03">Regulation .03</cite> repealed effective November 23, 2015 (42:23 Md. R. 1433)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|09|38|01|.05">Regulation .05</cite> adopted effective March 5, 2012 (39:4 Md. R. 336)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|09|38|01|.05|A.">Regulation .05A</cite>, B amended effective July 6, 2026 (53:13 Md. R 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-01-28"><cite path="|09|38|01|.05|E.">Regulation .05E</cite> amended effective January 28, 2019 (46:2 Md. R. 52)</annotation>
   </annotations>
 </container>

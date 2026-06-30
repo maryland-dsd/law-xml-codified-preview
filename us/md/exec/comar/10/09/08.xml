@@ -100,7 +100,7 @@
       </para>
       <para>
         <num>(12)</num>
-        <text>“Mental health services” means those services described in <cite path="10.67.08.02">COMAR 10.67.08.02</cite> that are rendered to treat an individual for a diagnosis as set forth in <cite path="10.67.08.02|M.">COMAR 10.67.08.02M</cite> and N.</text>
+        <text>“Mental health services” means those services described in <cite path="10.67.08.02">COMAR 10.67.08.02</cite> that are rendered to treat an individual for a diagnosis as set forth in <cite path="10.67.08.02|N.">COMAR 10.67.08.02N</cite> and <cite path="10.67.08.02|O.">COMAR 10.67.08.02O</cite>.</text>
       </para>
       <para>
         <num>(13)</num>
@@ -211,7 +211,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-011-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1351,7 +1353,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|10|09|08|.04|B.">Regulation .04B</cite> amended effective March 5, 2012 (39:4 Md. R. 336)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-10-14"><cite path="|10|09|08|.06|G.">Regulation .06G</cite> amended effective October 14, 2013 (40:20 Md. R. 1652)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-04-01" discontinuity="true">Regulations <cite path="|10|09|08|.01">.01</cite>—<cite path="|10|09|08|.13">.13</cite> repealed and new Regulations <cite path="|10|09|08|.01">.01</cite>—<cite path="|10|09|08|.14">.14</cite> adopted effective April 1, 2015 (42:6 Md. R. 512)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-16"><cite path="|10|09|08|.01|B.">Regulation .01B</cite> amended effective October 16, 2023 (50:20 Md. R. 886)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|09|08|.01|B.">Regulation .01B</cite> amended effective October 16, 2023 (50:20 Md. R. 886); July 6, 2026 (53:13 Md. R. 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-16"><cite path="|10|09|08|.02|E.">Regulation .02E</cite> amended effective October 16, 2023 (50:20 Md. R. 886)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-16"><cite path="|10|09|08|.03">Regulation .03</cite> amended effective October 16, 2023 (50:20 Md. R. 886)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24"><cite path="|10|09|08|.04|B.">Regulation .04B</cite> amended effective April 24, 2017 (44:8 Md. R. 404)</annotation>

@@ -40,14 +40,28 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>“Postsecondary institution located in the Baltimore-Columbia-Towson MSA” means universities and colleges stated in §10-462.1 of the Act.</text>
+        <text>“Postsecondary institution located in the Baltimore-Columbia-Towson MSA” means universities and colleges stated in §10-462.1 of the Act or any public or private college or university located within the Baltimore-Columbia-Towson MSA.</text>
       </para>
       <para>
         <num>(6)</num>
         <text>“Program” means the Pava LaPere Innovation Acceleration Grant Program.</text>
       </para>
+      <para>
+        <num>(7)</num>
+        <text>“Student” means an individual enrolled in a minimum of 3 semester credits at a postsecondary institution at the time of the award.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Student” includes an individual who has enrolled in fewer than 3 semester credits if the individual is graduating from a postsecondary institution at the end of the current semester and has provided written verification thereof.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Student” also includes an individual who has graduated from a postsecondary institution not more than 180 days before the date of the award and has provided written verification thereof.</text>
+        </para>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-307-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -62,7 +76,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The founder of the applicant are students of a postsecondary institution located in the Baltimore-Columbia-Towson MSA;</text>
+        <text>At the time of the award, at least 50 percent of the applicant is owned by one or more students of a postsecondary institution located in the Baltimore-Columbia-Towson MSA;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -77,7 +91,9 @@
       <num>B.</num>
       <text>Verification of Information Submitted to TEDCO. An applicant shall verify, in a form approved by the Office of the Attorney General, the information the applicant submits to TEDCO in an application for an award.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-307-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|04|11|.03">
     <prefix>Regulation</prefix>
@@ -218,5 +234,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gec|10-462">Economic Development Article, §10-462, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20">Effective date: January 20, 2025 (52:1 Md. R. 19)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|04|11|.01|B.">Regulation .01B</cite> amended effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|04|11|.02|A.">Regulation .02A</cite> amended effective July 6, 2026 (53:13 Md. R. 587)</annotation>
   </annotations>
 </container>

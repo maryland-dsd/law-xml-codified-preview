@@ -30,7 +30,7 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Administrative services organization (ASO)” means the entity with which the Mental Hygiene Administration may contract to provide the services described in <cite path="|10.09.70">COMAR 10.09.70</cite> for the public mental health system.</text>
+        <text>“Administrative services organization (ASO)” means the entity with which the Department may contract to provide the services described in <cite path="|10.67.08">COMAR 10.67.08</cite> for the public mental health system.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -90,34 +90,30 @@
       </para>
       <para>
         <num>(14)</num>
-        <text>“Mental health services” means those services described in <cite path="10.09.70.10|C.">COMAR 10.09.70.10C</cite> rendered to treat an individual for a diagnosis set forth in <cite path="10.09.70.10|A.">COMAR 10.09.70.10A</cite>.</text>
+        <text>“Mental health services” means those services described in <cite path="10.67.08.02">COMAR 10.67.08.02</cite> rendered to treat an individual for a diagnosis set forth in <cite path="10.67.08.02|O.">COMAR 10.67.08.02O</cite>.</text>
       </para>
       <para>
         <num>(15)</num>
-        <text>“Mental Hygiene Administration (MHA)” means the Department's administration that is charged with the responsibility for providing services to mentally ill individuals, as defined in Health-General Article, Title 10, Annotated Code of Maryland.</text>
-      </para>
-      <para>
-        <num>(16)</num>
         <text>“Nonparticipant” means an individual who does not meet the qualifications for participation in mental health case management that are specified in <cite path="|10|09|45|.03">Regulation .03 of this chapter</cite>.</text>
       </para>
       <para>
-        <num>(17)</num>
+        <num>(16)</num>
         <text>“Participant” means an individual who meets the qualifications for participation in mental health case management that are specified in <cite path="|10|09|45|.03">Regulation .03 of this chapter</cite>.</text>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(17)</num>
         <text>“Program” has the meaning stated in <cite path="10.09.36.01">COMAR 10.09.36.01</cite>.</text>
       </para>
       <para>
-        <num>(19)</num>
+        <num>(18)</num>
         <text>“Provider” means the mental health case management services provider.</text>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(19)</num>
         <text>“Recipient” has the meaning stated in <cite path="10.09.36.01">COMAR 10.09.36.01</cite>.</text>
       </para>
       <para>
-        <num>(21)</num>
+        <num>(20)</num>
         <text>“Serious and persistent mental disorder” means a disorder that is:</text>
         <para>
           <num>(a)</num>
@@ -145,11 +141,13 @@
         </para>
       </para>
       <para>
-        <num>(22)</num>
+        <num>(21)</num>
         <text>“Unit of service” means a per day rate for a minimum of 1 hour per day for contacts, including face-to-face contacts with a participant, and non-face-to-face contacts on behalf of the participant with nonparticipants, that are directly related to identifying the needs and supports for helping the individual to access services.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-011-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -184,11 +182,11 @@
       <text>Waiver of Specific Diagnostic Criteria. The specific diagnostic criteria may be waived if an individual is:</text>
       <para>
         <num>(1)</num>
-        <text>Committed as not criminally responsible and is conditionally released from a Mental Hygiene Administration (MHA) facility, according to the provisions of Health-General Article, Title 12, Annotated Code of Maryland; or</text>
+        <text>Committed as not criminally responsible and is conditionally released from a Department facility, according to the provisions of Health-General Article, Title 12, Annotated Code of Maryland; or</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>In a MHA facility, or is a MHA-funded individual in a psychiatric inpatient hospital who requires community services, excluding individuals who are eligible for Developmental Disabilities Administration's residential services.</text>
+        <text>In a Department facility, or is a Department-funded individual in a psychiatric inpatient hospital who requires community services, excluding individuals who are eligible for Developmental Disabilities Administration's residential services.</text>
       </para>
     </para>
     <para>
@@ -247,7 +245,9 @@
       <num>E.</num>
       <text>A participant may not be enrolled in Mental Health Case Management for Adults while receiving services under <cite path="|10.09.90">COMAR 10.09.90</cite> or <cite path="|10.09.33">10.09.33</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-011-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -259,7 +259,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Mental health case management services may be provided by local health departments according to <cite path="|10.04.04">COMAR 10.04.04</cite>, which allows the Director of the MHA to utilize the local health departments as vendors unless the health officer believes the service provided by alternate vendors would be preferable.</text>
+      <text>Mental health case management services may be provided by local health departments according to <cite path="|10.04.04">COMAR 10.04.04</cite>, which allows the Department to utilize the local health departments as vendors unless the health officer believes the service provided by alternate vendors would be preferable.</text>
     </para>
     <para>
       <num>C.</num>
@@ -453,7 +453,9 @@
         <text>Shall assure the amount, duration, and scope of the case management activities are documented in a participant's care plan, which includes mental health case management activities before discharge and after discharge when transitioning from an institution, to facilitate a successful transition into the community.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-011-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -830,8 +832,10 @@
     <prefix>Regulation</prefix>
     <num>.08</num>
     <heading>Preauthorization.</heading>
-    <text>All covered services under this chapter shall be preauthorized and comply with the requirements of <cite path="10.09.70.07">COMAR 10.09.70.07</cite>.</text>
-    <annotations/>
+    <text>All covered services under this chapter shall be preauthorized and comply with the requirements of <cite path="10.09.59.08">COMAR 10.09.59.08</cite>.</text>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-011-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -939,12 +943,15 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-12-29"><cite path="|10|09|45|.05-1">Regulation .05-1</cite> adopted as an emergency provision effective July 1, 1997 (24:18 Md. R. 1288); amended permanently effective December 29, 1997 (24:26 Md. R. 1758)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-12-14" discontinuity="true">Regulations <cite path="|10|09|45|.01">.01</cite>—<cite path="|10|09|45|.10">.10</cite> repealed and new Regulations <cite path="|10|09|45|.01">.01</cite>—<cite path="|10|09|45|.13">.13</cite> adopted as an emergency provision effective August 21, 2009 (36:19 Md. R. 1433); adopted permanently effective December 14, 2009 (36:25 Md. R. 1954)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-10-01"><cite path="|10|09|45|.01|A.">Regulation .01A</cite> amended effective October 1, 2014 (41:19 Md. R. 1077)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-10-01"><cite path="|10|09|45|.02|B.">Regulation .02B</cite> amended effective October 1, 2014 (41:19 Md. R. 1077)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|09|45|.02|B.">Regulation .02B</cite> amended effective October 1, 2014 (41:19 Md. R. 1077); July 6, 2026 (53:13 Md. R. 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-10-01"><cite path="|10|09|45|.03|A.">Regulation .03A</cite> amended effective October 1, 2014 (41:19 Md. R. 1077)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|09|45|.03|B.">Regulation .03B</cite> amended effective July 6, 2026 (53:13 Md. R. 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-10-01"><cite path="|10|09|45|.03|E.">Regulation .03E</cite> adopted effective October 1, 2014 (41:19 Md. R. 1077)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|09|45|.04|B.">Regulation .04B</cite> amended effective July 6, 2026 (53:13 Md. R. 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-10-01"><cite path="|10|09|45|.04|C.">Regulation .04C</cite>, E amended effective October 1, 2014 (41:19 Md. R. 1077)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-10-01"><cite path="|10|09|45|.06">Regulation .06</cite> amended effective October 1, 2014 (41:19 Md. R. 1077)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-10-01"><cite path="|10|09|45|.07|C.">Regulation .07C</cite> amended effective October 1, 2014 (41:19 Md. R. 1077)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|09|45|.08">Regulation .08</cite> amended effective July 6, 2026 (53:13 Md. R. 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-10-01"><cite path="|10|09|45|.09|E.">Regulation .09E</cite> adopted effective October 1, 2014 (41:19 Md. R. 1077)</annotation>
   </annotations>
 </container>

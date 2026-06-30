@@ -239,7 +239,7 @@
       </para>
       <para>
         <num>(14)</num>
-        <text>“Family child care” has the same meaning as family child care as defined in <cite doc="Md. Code" path="ged|9">Education Article, §9</cite>.5-301(d), Annotated Code of Maryland, and means the care given to a child younger than 13 years old or to a developmentally disabled person younger than 21 years old in place of parental care for less than 24 hours a day, in a residence other than the child's residence, for which the provider is paid in cash or in kind.</text>
+        <text>“Family child care” has the same meaning as family child care as defined in <cite doc="Md. Code" path="ged|9.5-301">Education Article, §9.5-301(d), Annotated Code of Maryland</cite>, and means the care given to a child younger than 13 years old or to a developmentally disabled person younger than 21 years old in place of parental care for less than 24 hours a day, in a residence other than the child's residence, for which the provider is paid in cash or in kind.</text>
       </para>
       <para>
         <num>(15)</num>
@@ -331,10 +331,22 @@
       </para>
       <para>
         <num>(23)</num>
-        <text>“Office” means the central office or a regional office of the Agency.</text>
+        <text>“Nursery school” means an educational program:</text>
+        <para>
+          <num>(a)</num>
+          <text>For children who are 2 years old, 3 years old, 4 years old, or any sequence of these ages; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>That, unless approved by the Department before July 1, 2007, to operate for more than 6 hours per day, may not operate in excess of 6 hours per day.</text>
+        </para>
       </para>
       <para>
         <num>(24)</num>
+        <text>“Office” means the central office or a regional office of the Agency.</text>
+      </para>
+      <para>
+        <num>(25)</num>
         <text>Overnight Care.</text>
         <para>
           <num>(a)</num>
@@ -346,11 +358,11 @@
         </para>
       </para>
       <para>
-        <num>(25)</num>
+        <num>(26)</num>
         <text>“Parent” means the biological or adoptive parent, or the legal guardian or custodian of a child, who enrolls the child in care.</text>
       </para>
       <para>
-        <num>(26)</num>
+        <num>(27)</num>
         <text>Potentially Hazardous Food.</text>
         <para>
           <num>(a)</num>
@@ -362,7 +374,19 @@
         </para>
       </para>
       <para>
-        <num>(27)</num>
+        <num>(28)</num>
+        <text>“Preschooler” means a child who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is 2 years old or older; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Does not attend kindergarten or a higher grade.</text>
+        </para>
+      </para>
+      <para>
+        <num>(29)</num>
         <text>“Professional development plan” means the written instrument for tracking continued training that is:</text>
         <para>
           <num>(a)</num>
@@ -374,11 +398,11 @@
         </para>
       </para>
       <para>
-        <num>(28)</num>
+        <num>(30)</num>
         <text>“Provider” means the individual or individuals to whom a family child care certificate of registration is issued under this subtitle.</text>
       </para>
       <para>
-        <num>(29)</num>
+        <num>(31)</num>
         <text>Relative.</text>
         <para>
           <num>(a)</num>
@@ -390,19 +414,23 @@
         </para>
       </para>
       <para>
-        <num>(30)</num>
+        <num>(32)</num>
         <text>“Resident” means a person who lives in the family child care home.</text>
       </para>
       <para>
-        <num>(31)</num>
+        <num>(33)</num>
         <text>“Sanction” means an enforcement action under this subtitle.</text>
       </para>
       <para>
-        <num>(32)</num>
+        <num>(34)</num>
+        <text>“School age child” means a child younger than 13 years old who attends a public or nonpublic school in grades kindergarten or above.</text>
+      </para>
+      <para>
+        <num>(35)</num>
         <text>“Substitute” means an adult who is responsible for the operation of a family child care home when the provider is absent.</text>
       </para>
       <para>
-        <num>(33)</num>
+        <num>(36)</num>
         <text>“Successfully passed” means, when used in connection with a criminal background check or a review of records of abuse and neglect of children or adults conducted on an individual, that the individual:</text>
         <para>
           <num>(a)</num>
@@ -422,19 +450,19 @@
         </para>
       </para>
       <para>
-        <num>(34)</num>
+        <num>(37)</num>
         <text>“Superintendent” means the State Superintendent of Schools or the Superintendent's designee.</text>
       </para>
       <para>
-        <num>(35)</num>
+        <num>(38)</num>
         <text>“Treatment foster care” means a 24-hour substitute care program, operated by a licensed child placement agency or local department of social services, for children with a serious emotional, behavioral, medical, or psychological condition.</text>
       </para>
       <para>
-        <num>(35-1)</num>
+        <num>(38-1)</num>
         <text>“Vaping” means using a device that can deliver aerosolized or vaporized products, including but not limited to nicotine and cannabis, to an individual inhaling from the device.</text>
       </para>
       <para>
-        <num>(36)</num>
+        <num>(39)</num>
         <text>Volunteer.</text>
         <para>
           <num>(a)</num>
@@ -458,12 +486,15 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-200-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|9.5-301">9.5-301</cite>—<cite doc="Md. Code" path="ged|9.5-308">9.5-308</cite>, <cite doc="Md. Code" path="ged|9.5-310">9.5-310</cite>—<cite doc="Md. Code" path="ged|9.5-312">9.5-312</cite>, <cite doc="Md. Code" path="ged|9.5-320">9.5-320</cite>, <cite doc="Md. Code" path="ged|9.5-321">9.5-321</cite> and <cite doc="Md. Code" path="ged|9.5-414">9.5-414</cite>; Family Law Article, §§<cite doc="Md. Code" path="gfl|5-550">5-550</cite>—<cite doc="Md. Code" path="gfl|5-558">5-558</cite>; <cite doc="Md. Code" path="ggp|4-333">General Provisions Article, §4-333</cite>; <cite doc="Md. Code" path="ghu|1-202">Human Services Article, §1-202</cite>; Annotated Code of Maryland<br/>Agency Note: Federal Statutory Reference — Americans with Disabilities Act of 1990 (42 U.S.C. §12101 et seq.); <br/>Pro-Children Act of 1994 (20 U.S.C. §6081 et seq.);<br/>Child Care Development Block Grant (45 CFR Parts 98 and 99 and 42 U.S.C. 9858 et seq.); Social Security Act §418 (42 U.S.C. 618)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-10-20">Effective date: October 20, 2008 (35:21 Md. R. 1826)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-04-18"><cite path="|13A|15|01|.02|B.">Regulation .02B</cite> amended effective April 19, 2010 (37:8 Md. R. 618); June 24, 2013 (40:12 Md. R. 1043); April 14, 2014 (41:7 Md. R. 423); January 13, 2020 (47:1 Md. R. 12); April 18, 2022 (49:7 Md. R. 500)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-05"><cite path="|13A|15|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 31, 2023 (50:20 Md. R. 885); amended permanently effective February 5, 2024 (51:2 Md. R. 76)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-05"><cite path="|13A|15|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 31, 2023 (50:20 Md. R. 885); amended permanently effective February 5, 2024 (51:2 Md. R. 76);</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|13A|15|01|.02|B.">Regulation .02B</cite> amended effective July 6, 2026 (53:13 Md. R 587)</annotation>
   </annotations>
 </container>

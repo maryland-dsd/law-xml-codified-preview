@@ -2,10 +2,204 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>04</num>
-  <heading>Insert chapter heading.</heading>
+  <heading>Governor’s Blind Trust</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Applicability.</heading>
+    <text>This chapter applies to the Governor and, where applicable, the Governor-elect.</text>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Consultation with the State Ethics Commission.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Governor-elect shall consult with the State Ethics Commission to begin the process of establishing a certified blind trust to divesting of private interests in accordance with <cite doc="Md. Code" path="ggp|5-501">General Provisions Article, §5-501</cite>.1, Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Governor shall consult with the State Ethics Commission to comply with the certified blind trust, divestment of interests, nonparticipation agreement, and other requirements in accordance with <cite doc="Md. Code" path="ggp|5-501">General Provisions Article, §5-501</cite>.1, Annotated Code of Maryland and COMAR 19A.06.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Governor’s Blind Trust Obligations.</heading>
+    <para>
+      <num>A.</num>
+      <text>Within 6 months after taking the oath of office the Governor shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Except as provided in this chapter, place all of the Governor’s interests into a certified blind trust approved by the State Ethics Commission and operated in accordance with COMAR 19A.06; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Divest any interests the State Ethics Commission determines is necessary to resolve likely or potential conflicts of interest with the Governor’s public duties.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For good cause shown, the State Ethics Commission may extend the deadline to complete the establishment of the certified blind trust or divestiture by a reasonable amount of time.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Governor may not fail to include any interest in a blind trust without the written approval of the State Ethics Commission.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="19A|06|04|.04">
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Governor’s Trustee.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Governor shall appoint as the trustee of the blind trust a financial institution or an organization that has a minimum of 2 years of experience in trust management activities.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In addition to the requirement in <cite path="19A|06|04|.04|A.">§A of this regulation</cite>, the Governor’s trustee must also meet all qualifications and trustee obligations in COMAR 19A.06.02.03.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Except as provided in <cite path="19A|06|04|.04|D.">§D of this regulation</cite>, the Governor may not receive from the trustee communications regarding management of or income from the blind trust as a trustor or beneficiary of the blind trust at any time during the Governor’s term in office.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Governor may receive from a trustee communications necessary to prepare and file the Governor’s personal income tax returns.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="19A|06|04|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Interests Exempt from Inclusion in the Governor’s Blind Trust.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any residence of the Governor from which no income was derived in the immediately preceding year is not considered an interest for the purposes of inclusion in the Governor’s blind trust.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The State Ethics Commission may grant an exemption to the requirement to place an interest in the Governor’s blind trust under <cite doc="Md. Code" path="ggp|5-501">General Provisions Article, §5-501</cite>.1, Annotated Code of Maryland and COMAR 19A.06.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>In granting an exemption under <cite path="19A|06|04|.05|B.">§B of this regulation</cite>, the State Ethics Commission may consider any issues it deems appropriate to prevent conflicts of interest, including whether an interest:</text>
+      <para>
+        <num>(1)</num>
+        <text>Involves a closely held corporation or family business;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Is readily marketable;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has an impact unique to the Governor; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Is subject to any restrictions or encumbrances.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Nonparticipation Agreements.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Governor shall enter into a nonparticipation agreement with the State Ethics Commission that prohibits the Governor from participating in any way in a matter, including a matter before the Board of Public Works, that involves any interests not included in the Governor’s blind trust due to a specific, written approval or exemption from the State Ethics Commission under <cite path="|19A|06|04|.05">Regulation .05 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Governor shall consult with the State Ethics Commission and update the Governor’s nonparticipation agreement to include any new interests that were not included in the Governor’s blind trust.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Certifications and Disclosures Required.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Governor shall certify annually by January 31st to the State Ethics Commission that the Governor has:</text>
+      <para>
+        <num>(1)</num>
+        <text>Obtained no new interests in the immediately preceding year that are not included in the Governor’s blind trust; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Entered into a nonparticipation agreement with the State Ethics Commission for any new interests obtained in the immediately preceding year that were not included in the Governor’s blind trust.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The State Ethics Commission is required to provide certain disclosures related to the Governor’s blind trust and required nonparticipation agreement under <cite doc="Md. Code" path="ggp|5-501">General Provisions Article, §5-501</cite>.1, Annotated Code of Maryland and COMAR 19A.06.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The State Ethics Commission shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Post on its website any approved certified blind trust and supporting documents for the Governor’s blind trust;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Post on its website any nonparticipation agreement entered into with the Governor; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide a copy of any nonparticipation agreement entered into with the Governor to:</text>
+        <para>
+          <num>(a)</num>
+          <text>The presiding officers of the General Assembly;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Joint Ethics Committee;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Executive Secretary of the Board of Public Works; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The General Counsel of the Board of Public Works.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Sanctions.</heading>
+    <text>The State Ethics Commission may impose a fine not exceeding $5,000 for each violation if it determines that the Governor has violated a provision of <cite doc="Md. Code" path="ggp|5-501">General Provisions Article, §5-501</cite>.1, Annotated Code of Maryland.</text>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Click or tap here to enter text., Annotated Code of Maryland</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-20">Effective date:</annotation>
+    <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-101">5-101</cite>(t), <cite doc="Md. Code" path="ggp|5-206">5-206</cite>, <cite doc="Md. Code" path="ggp|5-501">5-501</cite>, <cite doc="Md. Code" path="ggp|5-501">5-501</cite>.<cite doc="Md. Code" path="ggp|1">1</cite>, <cite doc="Md. Code" path="ggp|5-502">5-502</cite>, <cite doc="Md. Code" path="ggp|5-608">5-608</cite>, and <cite doc="Md. Code" path="gsg|3-204">State Government Article §3-204, </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06">Effective date: July 6, 2026 (53:13 Md. R. 587)</annotation>
   </annotations>
   <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
 </container>

@@ -12,7 +12,7 @@
     </history>
   </meta>
   <container name="eos">
-    <codify:insert history="false" doc="Code of Maryland Regulations" path="01|01|2025" codified:doc="Code of Maryland Regulations" codified:path="01|01|2025|.27">
+    <codify:insert history="false" doc="Code of Maryland Regulations" path="01|01|2025" before=".26" codified:doc="Code of Maryland Regulations" codified:path="01|01|2025|.27">
       <section type="eo">
         <prefix>Executive Order</prefix>
         <num>.27</num>
@@ -541,7 +541,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert history="false" doc="Code of Maryland Regulations" path="01|01|2025" codified:doc="Code of Maryland Regulations" codified:path="01|01|2025|.28">
+    <codify:insert history="false" doc="Code of Maryland Regulations" path="01|01|2025" before=".27" codified:doc="Code of Maryland Regulations" codified:path="01|01|2025|.28">
       <section type="eo">
         <prefix>Executive Order</prefix>
         <num>.28</num>
@@ -628,7 +628,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert history="false" doc="Code of Maryland Regulations" path="01|01|2025" codified:doc="Code of Maryland Regulations" codified:path="01|01|2025|.29">
+    <codify:insert history="false" doc="Code of Maryland Regulations" path="01|01|2025" before=".28" codified:doc="Code of Maryland Regulations" codified:path="01|01|2025|.29">
       <section type="eo">
         <prefix>Executive Order</prefix>
         <num>.29</num>

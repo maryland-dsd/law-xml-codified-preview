@@ -506,7 +506,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Has a diagnosis listed in <cite path="10.67.08.02|N.">COMAR 10.67.08.02N</cite>; and</text>
+        <text>Has a diagnosis listed in <cite path="10.67.08.02|O.">COMAR 10.67.08.02O</cite>; and</text>
       </para>
       <para>
         <num>(3)</num>
@@ -542,7 +542,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Has a diagnosis listed in <cite path="10.67.08.02|N.">COMAR 10.67.08.02N</cite> and severe functional impairments in at least one life domain;</text>
+        <text>Has a diagnosis listed in <cite path="10.67.08.02|O.">COMAR 10.67.08.02O</cite> and severe functional impairments in at least one life domain;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -569,7 +569,9 @@
         <text>In an institution or inpatient facility and would be able to reside in a community setting if the individual received MTS and other appropriate support services.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-011-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -580,7 +582,7 @@
       <text>The ASO shall reimburse the following specialty mental health services rendered to participants when authorized by the ASO:</text>
       <para>
         <num>(1)</num>
-        <text>Medically necessary specialty mental health services delivered by providers listed in <cite path="|10|09|59|.04">Regulation .04 of this chapter</cite>, for which the primary diagnosis is listed in <cite path="10.67.08.02|M.">COMAR 10.67.08.02M</cite> or N;</text>
+        <text>Medically necessary specialty mental health services delivered by providers listed in <cite path="|10|09|59|.04">Regulation .04 of this chapter</cite>, for which the primary diagnosis is listed in <cite path="10.67.08.02|N.">COMAR 10.67.08.02N</cite> or <cite path="10.67.08.02|O.">COMAR 10.67.08.02O</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -588,7 +590,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Presumptive drug tests and definitive drug tests, when ordered by a specialty mental health provider, with a behavioral health primary diagnosis listed in <cite path="10.67.08.02|M.">COMAR 10.67.08.02M</cite> or N on the claim.</text>
+        <text>Presumptive drug tests and definitive drug tests, when ordered by a specialty mental health provider, with a behavioral health primary diagnosis listed in <cite path="10.67.08.02|N.">COMAR 10.67.08.02N</cite> or <cite path="10.67.08.02|O.">COMAR 10.67.08.02O</cite> on the claim.</text>
       </para>
     </para>
     <para>
@@ -603,7 +605,9 @@
         <text>The services are rendered by a school psychologist or school social worker that meets the qualifications described in <cite path="10.09.50.02">COMAR 10.09.50.02</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-011-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -944,8 +948,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-10-10"><cite path="|10|09|59|.04|B.">Regulation .04B</cite>, D amended effective October 10, 2016 (43:20 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-10-26"><cite path="|10|09|59|.05">Regulation .05</cite> repealed and new Regulation .05 adopted effective October 26, 2015 (42:21 Md. R. 1300)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|09|59|.05">Regulation .05</cite> amended effective April 23, 2018 (45:8 Md. R. 420)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-12"><cite path="|10|09|59|.05|B.">Regulation .05B</cite>, C amended effective May 12, 2025 (52:9 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|09|59|.05|B.">Regulation .05B</cite>, C amended effective May 12, 2025 (52:9 Md. R. 405); July 6, 2026 (53:13 Md. R. 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-12"><cite path="|10|09|59|.06">Regulation .06</cite> amended effective October 26, 2015 (42:21 Md. R. 1300); May 12, 2025 (52:9 Md. R. 405)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|09|59|.06|A.">Regulation .06A</cite> amended effective July 6, 2026 (53:13 Md. R. 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-10-10"><cite path="|10|09|59|.06|C.">Regulation .06C</cite> amended effective October 10, 2016 (43:20 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|10|09|59|.07">Regulation .07</cite> amended effective October 26, 2015 (42:21 Md. R. 1300); April 23, 2018 (45:8 Md. R. 420)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-12"><cite path="|10|09|59|.07|D.">Regulation .07D</cite>, K, N amended effective May 12, 2025 (52:9 Md. R. 405)</annotation>

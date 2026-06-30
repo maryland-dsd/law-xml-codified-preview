@@ -1406,7 +1406,7 @@
             <heading>STATE BOARD OF ON-SITE WASTEWATER PROFESSIONALS</heading>
           </container>
         </codify:insert>
-        <codify:insert history="false" doc="Code of Maryland Regulations" path="26|31" codified:doc="Code of Maryland Regulations" codified:path="26|31|01|.01|annos">
+        <codify:insert history="false" doc="Code of Maryland Regulations" path="26|31" codified:doc="Code of Maryland Regulations" codified:path="26|31">
           <container>
             <prefix>Chapter</prefix>
             <num>01</num>

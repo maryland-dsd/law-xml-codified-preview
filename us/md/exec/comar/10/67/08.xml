@@ -88,6 +88,14 @@
                 <td data-vertical-align="middle">Buprenorphine/naloxone, oral, greater than 6 mg, but less than or equal to 10 mg buprenorphine</td>
               </tr>
               <tr>
+                <td>J0577</td>
+                <td>Injection, Buprenorphine extended-release (Brixadi), less than or equal to 7 days of therapy</td>
+              </tr>
+              <tr>
+                <td>J0578</td>
+                <td>Injection, Buprenorphine extended-release (Brixadi), greater than 7 days and up to 28 days of therapy</td>
+              </tr>
+              <tr>
                 <td data-vertical-align="middle">Q9991</td>
                 <td data-vertical-align="middle">Injection, Buprenorphine extended-release, less than or equal to 100 mg</td>
               </tr>
@@ -276,38 +284,50 @@
     </para>
     <para>
       <num>E.</num>
-      <text>An MCO is not responsible for reimbursing for mental health services with a primary diagnosis listed in <cite path="10|67|08|.02|N.">§N of this regulation</cite> when the services are provided by a hospital and the services are the result of the treatment of mental health diagnosis.</text>
+      <text>An MCO shall be responsible for the following substance use disorder services with a primary diagnosis listed in <cite path="10|67|08|.02|N.">§N of this regulation</cite> when provided by a hospital:</text>
+      <para>
+        <num>(1)</num>
+        <text>Detoxification services in a medical surgical bed and all associated professional services; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Professional services in an emergency department setting.</text>
+      </para>
     </para>
     <para>
       <num>F.</num>
-      <text>An MCO shall be responsible for reimbursing for behavioral health services delivered by the participant’s primary care provider.</text>
+      <text>An MCO is not responsible for reimbursing for mental health services with a primary diagnosis listed in <cite path="10|67|08|.02|O.">§O of this regulation</cite> when the services are provided by a hospital and the services are the result of the treatment of mental health diagnosis.</text>
     </para>
     <para>
       <num>G.</num>
-      <text>An MCO shall be responsible for reimbursing for somatic services related to gender identity disorder, including gender reassignment surgery.</text>
+      <text>An MCO shall be responsible for reimbursing for behavioral health services delivered by the participant’s primary care provider.</text>
     </para>
     <para>
       <num>H.</num>
-      <text>An MCO is not responsible for reimbursing the behavioral poisoning diagnoses listed in <cite path="10|67|08|.02|P.">§P of this regulation</cite> in an emergency department setting.</text>
+      <text>An MCO shall be responsible for reimbursing for somatic services related to gender identity disorder, including gender reassignment surgery.</text>
     </para>
     <para>
       <num>I.</num>
-      <text>An MCO is not responsible for services billed by specialty mental health providers listed in <cite path="|10.09.59">COMAR 10.09.59</cite> when the bill includes the specialty behavioral health diagnoses listed in §M or N in the primary diagnosis field.</text>
+      <text>An MCO is not responsible for reimbursing the behavioral poisoning diagnoses listed in <cite path="10|67|08|.02|Q.">§Q of this regulation</cite> in an emergency department setting.</text>
     </para>
     <para>
       <num>J.</num>
-      <text>An MCO is not responsible for reimbursement of behavioral health crisis services as described in <cite path="|10.09.16">COMAR 10.09.16</cite>.</text>
+      <text>An MCO is not responsible for services billed by specialty mental health providers listed in <cite path="|10.09.59">COMAR 10.09.59</cite> when the bill includes the specialty behavioral health diagnoses listed in §N or O in the primary diagnosis field.</text>
     </para>
     <para>
       <num>K.</num>
-      <text>An MCO is not responsible for behavioral health medications.</text>
+      <text>An MCO is not responsible for reimbursement of behavioral health crisis services as described in <cite path="|10.09.16">COMAR 10.09.16</cite>.</text>
     </para>
     <para>
       <num>L.</num>
-      <text>An MCO is not responsible for reimbursing for services billed by a physician related to prescribing buprenorphine or Vivitrol when the following conditions are met:</text>
+      <text>An MCO is not responsible for behavioral health medications.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>An MCO is not responsible for reimbursing for services billed by a physician, nurse practitioner, or physician assistant related to prescribing buprenorphine or Vivitrol when the following conditions are met:</text>
       <para>
         <num>(1)</num>
-        <text>The physician delivering buprenorphine has a DATA 2000 waiver;</text>
+        <text>The practitioner delivering buprenorphine is a DEA registered practitioner with Schedule III authority;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -388,6 +408,14 @@
                 <td colspan="2" data-vertical-align="middle">Buprenorphine/naloxone, oral, greater than 6 mg, but less than or equal to 10 mg buprenorphine</td>
               </tr>
               <tr>
+                <td>J0577</td>
+                <td colspan="2">Injection, Buprenorphine extended-release (Brixadi), less than or equal to 7 days of therapy</td>
+              </tr>
+              <tr>
+                <td>J0578</td>
+                <td colspan="2">Injection, Buprenorphine extended-release (Brixadi), greater than 7 days and up to 28 days of therapy</td>
+              </tr>
+              <tr>
                 <td data-vertical-align="middle">Q9991</td>
                 <td colspan="2" data-vertical-align="middle">Injection, Buprenorphine extended-release, less than or equal to 100 mg</td>
               </tr>
@@ -400,6 +428,10 @@
                 <td colspan="2" data-vertical-align="middle">Drug test(s), presumptive, any number of drug classes; any number of devices or procedures, (e.g., immunoassay) capable of being read by direct optical observation only (e.g., dipsticks, cups, cards, cartridges), includes sample validation when performed, per date of service</td>
               </tr>
               <tr>
+                <td>80306</td>
+                <td colspan="2">Drug test(s), presumptive, any number of drug classes; any number of devices or procedures, (e.g. immunoassay) read by instrument-assisted direct optical observation (e.g. dipsticks, cups, cards, cartridges), includes sample validation when performed, per date of service</td>
+              </tr>
+              <tr>
                 <td data-vertical-align="middle">80307</td>
                 <td colspan="2" data-vertical-align="middle">Drug test(s), presumptive, any number of drug classes; any number of devices or procedures by instrumented chemistry analyzers (e.g., immunoassay, enzyme assay, TOF, MALDI, LDTD, DESI, DART, GHPC, GC mass spectrometry), includes sample validation when performed, per date of service (when provider has appropriately licensed and has adequate instrumentation)</td>
               </tr>
@@ -409,7 +441,7 @@
       </para>
     </para>
     <para>
-      <num>M.</num>
+      <num>N.</num>
       <text>Table of substance use disorder diagnoses, for dates of service on or after October 1, 2015:</text>
       <text>
         <table>
@@ -1187,6 +1219,10 @@
               <td data-vertical-align="middle">Cocaine abuse, uncomplicated</td>
             </tr>
             <tr>
+              <td>F1411</td>
+              <td>Cocaine abuse, in remission</td>
+            </tr>
+            <tr>
               <td data-vertical-align="middle">F14120</td>
               <td data-vertical-align="middle">Cocaine abuse with intoxication, uncomplicated</td>
             </tr>
@@ -1375,6 +1411,10 @@
               <td data-vertical-align="middle">Other stimulant abuse, uncomplicated</td>
             </tr>
             <tr>
+              <td>F1511</td>
+              <td>Other stimulant abuse, in remission</td>
+            </tr>
+            <tr>
               <td data-vertical-align="middle">F15120</td>
               <td data-vertical-align="middle">Other stimulant abuse with intoxication, uncomplicated</td>
             </tr>
@@ -1561,6 +1601,10 @@
             <tr>
               <td data-vertical-align="middle">F1610</td>
               <td data-vertical-align="middle">Hallucinogen abuse, uncomplicated</td>
+            </tr>
+            <tr>
+              <td>F1611</td>
+              <td>Hallucinogen abuse, in remission</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">F16120</td>
@@ -1799,6 +1843,10 @@
               <td data-vertical-align="middle">Inhalant abuse, uncomplicated</td>
             </tr>
             <tr>
+              <td>F1811</td>
+              <td>Inhalant abuse, in remission</td>
+            </tr>
+            <tr>
               <td data-vertical-align="middle">F18120</td>
               <td data-vertical-align="middle">Inhalant abuse with intoxication, uncomplicated</td>
             </tr>
@@ -1945,6 +1993,10 @@
             <tr>
               <td data-vertical-align="middle">F1910</td>
               <td data-vertical-align="middle">Other psychoactive substance abuse, uncomplicated</td>
+            </tr>
+            <tr>
+              <td>F1911</td>
+              <td>Other psychoactive substance abuse, in remission</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">F19120</td>
@@ -2243,7 +2295,7 @@
       </text>
     </para>
     <para>
-      <num>N.</num>
+      <num>O.</num>
       <text>Table of mental health diagnoses, for dates of service on or after October 1, 2015:</text>
       <text>
         <table>
@@ -2841,24 +2893,112 @@
               <td data-vertical-align="middle">Anorexia nervosa, unspecified</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">F5001</td>
-              <td data-vertical-align="middle">Anorexia nervosa, restricting type</td>
+              <td data-vertical-align="middle">F50010</td>
+              <td data-vertical-align="middle">Anorexia nervosa, restricting type, mild</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">F5002</td>
-              <td data-vertical-align="middle">Anorexia nervosa, binge eating/purging type</td>
+              <td data-vertical-align="middle">F50011</td>
+              <td data-vertical-align="middle">Anorexia nervosa, restricting type, moderate</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">F502</td>
-              <td data-vertical-align="middle">Bulimia nervosa</td>
+              <td data-vertical-align="middle">F50012</td>
+              <td data-vertical-align="middle">Anorexia nervosa, restricting type, severe</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">F5081</td>
-              <td data-vertical-align="middle">Binge eating disorder</td>
+              <td data-vertical-align="middle">F50013</td>
+              <td data-vertical-align="middle">Anorexia nervosa, restricting type, extreme</td>
+            </tr>
+            <tr>
+              <td>F50014</td>
+              <td>Anorexia nervosa, restricting type, in remission</td>
+            </tr>
+            <tr>
+              <td>F50019</td>
+              <td>Anorexia nervosa, restricting type, unspecified</td>
+            </tr>
+            <tr>
+              <td>F50020</td>
+              <td>Anorexia nervosa, binge eating/purging type, mild</td>
+            </tr>
+            <tr>
+              <td>F50021</td>
+              <td>Anorexia nervosa, binge eating/purging type, moderate</td>
+            </tr>
+            <tr>
+              <td>F50022</td>
+              <td>Anorexia nervosa, binge eating/purging type, severe</td>
+            </tr>
+            <tr>
+              <td>F50023</td>
+              <td>Anorexia nervosa, binge eating/purging type, extreme</td>
+            </tr>
+            <tr>
+              <td>F50024</td>
+              <td>Anorexia nervosa, binge eating/purging type, in remission</td>
+            </tr>
+            <tr>
+              <td>F50029</td>
+              <td>Anorexia nervosa, binge eating/purging type, unspecified</td>
+            </tr>
+            <tr>
+              <td>F5020</td>
+              <td>Bulimia nervosa, unspecified</td>
+            </tr>
+            <tr>
+              <td>F5021</td>
+              <td>Bulimia nervosa, mild</td>
+            </tr>
+            <tr>
+              <td>F5022</td>
+              <td>Bulimia nervosa, moderate</td>
+            </tr>
+            <tr>
+              <td>F5023</td>
+              <td>Bulimia nervosa, severe</td>
+            </tr>
+            <tr>
+              <td>F5024</td>
+              <td>Bulimia nervosa, extreme</td>
+            </tr>
+            <tr>
+              <td>F5025</td>
+              <td>Bulimia nervosa, in remission</td>
+            </tr>
+            <tr>
+              <td>F50810</td>
+              <td>Binge eating disorder, mild</td>
+            </tr>
+            <tr>
+              <td>F50811</td>
+              <td>Binge eating disorder, moderate</td>
+            </tr>
+            <tr>
+              <td>F50812</td>
+              <td>Binge eating disorder, severe</td>
+            </tr>
+            <tr>
+              <td>F50813</td>
+              <td>Binge eating disorder, extreme</td>
+            </tr>
+            <tr>
+              <td>F50814</td>
+              <td>Binge eating disorder, in remission</td>
+            </tr>
+            <tr>
+              <td>F50819</td>
+              <td>Binge eating disorder, unspecified</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">F5082</td>
               <td data-vertical-align="middle">Avoidant/restrictive food intake disorder</td>
+            </tr>
+            <tr>
+              <td>F5083</td>
+              <td>Pica in adults</td>
+            </tr>
+            <tr>
+              <td>F5084</td>
+              <td>Rumination disorder in adults</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">F5089</td>
@@ -3209,7 +3349,7 @@
       </text>
     </para>
     <para>
-      <num>O.</num>
+      <num>P.</num>
       <text>An MCO is not responsible for services billed by a psychiatrist when the claim includes one of the following primary diagnoses:</text>
       <text>
         <table>
@@ -3231,7 +3371,7 @@
       </text>
     </para>
     <para>
-      <num>P.</num>
+      <num>Q.</num>
       <text>Table of poisoning diagnoses, for dates of service on or after July 1, 2016:</text>
       <text>
         <table>
@@ -3273,8 +3413,12 @@
               <td data-vertical-align="middle">Poisoning by other systemic antibiotics, intentional self-harm</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">T369X2A</td>
+              <td data-vertical-align="middle">T3692XA</td>
               <td data-vertical-align="middle">Poisoning by unspecified systemic antibiotic, intentional self-harm</td>
+            </tr>
+            <tr>
+              <td>T36AX2A</td>
+              <td>Poisoning by fluoroquinolone antibiotics, intentional self-harm, initial encounter</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">T370X2A</td>
@@ -3733,6 +3877,10 @@
               <td data-vertical-align="middle">Poisoning by other drug primarily affecting the autonomic nervous system, intentional self-harm</td>
             </tr>
             <tr>
+              <td>T45AX2A</td>
+              <td>Poisoning by immune checkpoint inhibitors and immunostimulant drugs, intentional self-harm, initial encounter</td>
+            </tr>
+            <tr>
               <td data-vertical-align="middle">T450X2A</td>
               <td data-vertical-align="middle">Poisoning by antiallergic and antiemetic drugs, intentional self-harm</td>
             </tr>
@@ -4008,7 +4156,9 @@
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-011-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -4130,7 +4280,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-08-28"><cite path="|10|67|08|.03|P.">Regulation .03P</cite> adopted effective August 28, 2017 (44:17 Md. R. 834)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-08-28"><cite path="|10|67|08|.06|E.">Regulation .06E</cite> amended effective August 28, 2017 (44:17 Md. R. 834)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-11-01" discontinuity="true">Chapter transferred from <cite path="|10.09.70">COMAR 10.09.70</cite> effective November 1, 2019 (46:22 Md. R. 977)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|67|08|.02">Regulation .02</cite> amended effective December 27, 2021 (48:26 Md. R. 1112); November 13, 2023 (50:23 Md. R. 1005)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|67|08|.02">Regulation .02</cite> amended effective December 27, 2021 (48:26 Md. R. 1112); November 13, 2023 (50:23 Md. R. 1005), July 6, 2026 (53:13 Md. R. 586)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-05-18"><cite path="|10|67|08|.03|F.">Regulation .03F</cite> amended effective May 18, 2020 (47:10 Md. R. 515)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|08|.03|I.">Regulation .03I</cite> amended effective June 24, 2024 (51:12 Md. R. 620)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-31"><cite path="|10|67|08|.03|M.">Regulation .03M</cite>, N amended effective March 31, 2025 (52:6 Md. R. 267)</annotation>

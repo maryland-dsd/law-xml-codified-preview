@@ -272,8 +272,8 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .01) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .01) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section cache:ref-path="26|04|02|.02">
@@ -322,7 +322,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>A person may not dispose of sewage, body, or industrial wastes in any manner which may cause pollution of the ground surface, the waters of the State, or create a nuisance.</text>
+      <text>A person may not store, transport, or dispose of sewage, body, or industrial waste in any manner which may pollute the ground surface, the waters of the State, or create a nuisance.</text>
     </para>
     <para>
       <num>E.</num>
@@ -485,8 +485,8 @@
       <text>A local jurisdiction may establish a responsible management entity to manage, operate and maintain an on-site sewage disposal system.</text>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .02) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .02) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section>
@@ -820,7 +820,7 @@
       <text>The Approving Authority may consider an application for a variance from the requirements listed in <cite path="26|04|02|.04|K.">§K of this regulation</cite> in order to cluster lots as provided under local law. However, the number of clustered lots under two acres may not exceed the number of lots that would have been approvable under <cite path="26|04|02|.04|K.">§K of this regulation</cite>. A variance may not be granted that allows the transfer of density units or development rights to a subdivision located within 2,500 feet of a water supply reservoir.</text>
     </para>
     <annotations>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section cache:ref-path="26|04|02|.05">
@@ -1828,11 +1828,11 @@
     </para>
     <para>
       <num>I.</num>
-      <text>The owner, operator, or licensee of a privy or a portable unit that contains septage shall ensure that the contents are removed and disposed of in accordance with <cite path="|26|04|02|.09">Regulation .09 of this chapter</cite>..</text>
+      <text>The owner, operator, or licensee of a privy or a portable unit that contains septage shall ensure that the contents are removed and disposed of in accordance with <cite path="|26|04|02|.09">Regulation .09 of this chapter</cite>.</text>
     </para>
     <annotations>
       <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .08) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section>
@@ -1875,7 +1875,7 @@
         <text>The owner shall comply with following vehicle identification requirements:</text>
         <para>
           <num>(a)</num>
-          <text>The name of the septage hauler is legibly lettered on both sides of each vehicle used for transporting septage, and the lettering is at least 3 inches in height; and.</text>
+          <text>The name of the septage hauler is legibly lettered on both sides of each vehicle used for transporting septage, and the lettering is at least 3 inches in height; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1884,8 +1884,8 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .09) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
+      <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .09) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section>
@@ -1946,13 +1946,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-01-01" discontinuity="true">Chapter revised effective January 1, 2013 (39:19 Md. R. 1238)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-05-12" discontinuity="true">Regulations <cite path="|26|04|02|.01">.01</cite>—<cite path="|26|04|02|.12">.12</cite> repealed and new Regulations <cite path="|26|04|02|.01">.01</cite>—<cite path="|26|04|02|.12">.12</cite> adopted; Map recodified as Regulation .13 effective May 12, 2014 (41:9 Md. R. 522)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-04-08"><cite path="|26|04|02|.01|B.">Regulation .01B</cite> amended effective April 8, 2019 (46:7 Md. R. 371)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.01|B.">Regulation .01B</cite> amended as a emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.02">Regulation .02</cite> amended as a emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.01|B.">Regulation .01B</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. 583)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.02">Regulation .02</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. 583)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-04-08"><cite path="|26|04|02|.05|K.">Regulation .05K</cite> amended effective April 8, 2019 (46:7 Md. R. 371)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-11-24"><cite path="|26|04|02|.07">Regulation .07</cite> amended effective November 24, 2016 (43:23 Md. R. 1280)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.08">Regulation .08</cite> amended as a emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.09">Regulation .09</cite> amended as a emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.08">Regulation .08</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. 583)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|26|04|02|.09">Regulation .09</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. 583)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13"><cite path="|26|04|02|.09|B.">Regulation .09B</cite> amended effective February 13, 2017 (44:3 Md. R. 190)</annotation>
-    <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false"/>
   </annotations>
 </container>

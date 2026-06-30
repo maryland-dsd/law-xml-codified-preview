@@ -515,7 +515,7 @@
   </section>
   <section cache:ref-path="09|19|02|.04">
     <prefix>Regulation</prefix>
-    <num>.04</num>
+    <num emergency="true">.04</num>
     <heading>Continuing Education.</heading>
     <para>
       <num>A.</num>
@@ -686,8 +686,9 @@
       <text>The Commission may not grant a licensee or certificate holder credit for completion of the same continuing education course offering within the appraiser’s continuing education cycle, with the exception of the 7-Hour National USPAP Update Course, or its AQB-approved equivalent.</text>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:8  26-056-E  (Regulations .04) EMERGENCY ACTION IN EFFECT 1/14/2026 — 7/13/2026</annotation>
+      <annotation managed="false" type="Emergency Action">53:13  26-040-E  (Regulation .04) EMERGENCY ACTION IN EFFECT 4/3/2026 — 9/30/2026</annotation>
       <annotation app="2026-01-14" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|emergency|26-056-E" type="History" display="false" exp="2026-07-13"/>
+      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-040-E" type="History" display="false" exp="2026-09-03"/>
     </annotations>
   </section>
   <section>
@@ -730,7 +731,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-17"><cite path="|09|19|02|.04|A.">Regulation .04A</cite> amended effective March 17, 2014 (41:5 Md. R. 343)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-08-24"><cite path="|09|19|02|.04|A.">Regulation .04A</cite>, B amended as an emergency provision effective January 1, 1998 (25:2 Md. R. 73); emergency status expired June 30, 1998; amended permanently effective August 24, 1998 (25:17 Md. R. 1360)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-03-31"><cite path="|09|19|02|.04|A.">Regulation .04A</cite>, B amended effective March 31, 2003 (30:6 Md. R. 420)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-14"><cite path="|09|19|02|.04|B.">Regulation .04B</cite> amended as an emergency provision effective January 14, 2026 (53:8 Md. R. 354)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-03"><cite path="|09|19|02|.04|B.">Regulation .04B</cite> amended as an emergency provision effective April 3, 2026 (53:13 Md. R. 582)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-05-15"><cite path="|09|19|02|.04|B.">Regulation .04B</cite>, D amended effective May 15, 2023 (50:9 Md. R. 378)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-01-01"><cite path="|09|19|02|.04|D.">Regulation .04D</cite>, E amended effective January 1, 2015 (41:23 Md. R. 1372)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-01-07"><cite path="|09|19|02|.04|F.">Regulation .04F</cite> adopted effective January 7, 2013 (39:26 Md. R. 1663)</annotation>

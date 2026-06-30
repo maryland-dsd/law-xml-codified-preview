@@ -32,7 +32,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Criminal nonsupport and criminal contempt; and</text>
+        <text>Criminal nonsupport, desertion, and contempt; and</text>
       </para>
       <para>
         <num>(7)</num>
@@ -43,7 +43,9 @@
       <num>B.</num>
       <text>Under <cite doc="Md. Code" path="gcp|6-211">Criminal Procedure Article, §6-211(b), Annotated Code of Maryland</cite>, the sentencing guidelines are voluntary and may not be construed to require a court to sentence a defendant as prescribed by this chapter.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-048-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|22|01|.02">
     <prefix>Regulation</prefix>
@@ -200,7 +202,7 @@
           </para>
           <para>
             <num>(vi)</num>
-            <text>Criminal nonsupport and criminal contempt; and</text>
+            <text>Criminal nonsupport, desertion, and contempt; and</text>
           </para>
           <para>
             <num>(vii)</num>
@@ -357,7 +359,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-048-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1166,7 +1170,7 @@
           <text>In General.</text>
           <para>
             <num>(i)</num>
-            <text>Except as noted in this paragraph, the prior adult criminal record includes all adjudications preceding the current sentencing event, whether the offense was committed before, during, or after the instant offense(s). The prior adult criminal record shall not include: adjudications that were expunged from the record or proven by the defense to have been eligible for expungement as a matter of right prior to the date of offense pursuant to Subtitle 1 (Expungement of Police and Court Records) of Title 10 (Criminal Records) of the <cite doc="Md. Code" path="gcp">Criminal Procedure Article, Annotated Code of Maryland</cite>; violations of public local laws; municipal infractions; contempt; criminal nonsupport; adjudications based on acts that are no longer crimes (e.g., cannabis possession); non-incarcerable traffic offenses; military adjudications imposed by an Article 15 proceeding or summary court-martial; findings of guilt by general or special courts-martial, if the elements of the offense require the defendant’s service in a military force, including but not limited to desertion, absence without leave (AWOL), and conduct unbecoming an officer and a gentleman, or do not constitute an offense under Maryland law; or more than one adjudication arising from a single criminal event.</text>
+            <text>Except as noted in this paragraph, the prior adult criminal record includes all adjudications preceding the current sentencing event, whether the offense was committed before, during, or after the instant offense(s). The prior adult criminal record shall not include: adjudications that were expunged from the record or proven by the defense to have been eligible for expungement as a matter of right prior to the date of offense pursuant to Subtitle 1 (Expungement of Police and Court Records) of Title 10 (Criminal Records) of the <cite doc="Md. Code" path="gcp">Criminal Procedure Article, Annotated Code of Maryland</cite>; violations of public local laws; municipal infractions; criminal nonsupport, desertion, and contempt; adjudications based on acts that are no longer crimes (e.g., cannabis possession); non-incarcerable traffic offenses; military adjudications imposed by an Article 15 proceeding or summary court-martial; findings of guilt by general or special courts-martial, if the elements of the offense require the defendant’s service in a military force, including but not limited to desertion, absence without leave (AWOL), and conduct unbecoming an officer and a gentleman, or do not constitute an offense under Maryland law; or more than one adjudication arising from a single criminal event.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -1349,7 +1353,9 @@
       <num>C.</num>
       <text>Total Offender Score. To obtain the total offender score, the individual completing the worksheet shall add the points assigned to each element of the offender score. The maximum offender score is 9 and the minimum score is 0.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-048-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2000,8 +2006,8 @@
     <annotation managed="false" type="Authority" dest="container">Criminal Procedure Article, §§<cite doc="Md. Code" path="gcp|6-211">6-211</cite> and <cite doc="Md. Code" path="gcp|6-214">6-214</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-01">Effective date: July 1, 2001 (28:8 Md. R. 763)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-01-19"><cite path="|14|22|01|.01">Regulation .01</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); January 19, 2004 (31:1 Md. R. 31)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-01"><cite path="|14|22|01|.01|A.">Regulation .01A</cite> amended effective November 1, 2013 (40:21 Md. R. 1780); November 1, 2016 (43:21 Md. R. 1169); March 1, 2019 (46:3 Md. R. 108)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.02|B.">Regulation .02B</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); January 19, 2004 (31:1 Md. R. 31); March 28, 2005 (32:6 Md. R. 636); August 14, 2006 (33:16 Md. R. 1365); January 1, 2008 (34:24 Md. R. 2159); September 1, 2009 (36:17 Md. R. 1313);May 1, 2010 (37:7 Md. R. 575); November 1, 2013 (40:21 Md. R. 1780); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); July 1, 2018 (45:11 Md. R. 578); July 1, 2019 (46:11 Md. R. 516); July 1, 2020 (47:11 Md. R. 560); February 1, 2021 (48:1 Md. R. 10); April 1, 2021 (48:6 Md. R. 238); November 14, 2022 (49:23 Md. R. 997); February 1, 2024 (51:1 Md. R. 16)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|22|01|.01|A.">Regulation .01A</cite> amended effective November 1, 2013 (40:21 Md. R. 1780); November 1, 2016 (43:21 Md. R. 1169); March 1, 2019 (46:3 Md. R. 108); July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|22|01|.02|B.">Regulation .02B</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); January 19, 2004 (31:1 Md. R. 31); March 28, 2005 (32:6 Md. R. 636); August 14, 2006 (33:16 Md. R. 1365); January 1, 2008 (34:24 Md. R. 2159); September 1, 2009 (36:17 Md. R. 1313);May 1, 2010 (37:7 Md. R. 575); November 1, 2013 (40:21 Md. R. 1780); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); July 1, 2018 (45:11 Md. R. 578); July 1, 2019 (46:11 Md. R. 516); July 1, 2020 (47:11 Md. R. 560); February 1, 2021 (48:1 Md. R. 10); April 1, 2021 (48:6 Md. R. 238); November 14, 2022 (49:23 Md. R. 997); February 1, 2024 (51:1 Md. R. 16); July 6, 2026 (53:13 Md. R. 587)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.03">Regulation .03</cite> amended effective March 1, 2008 (35:4 Md. R. 515); November 1, 2013 (40:21 Md. R. 1780); February 1, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-02-01"><cite path="|14|22|01|.03|B.">Regulation .03B</cite> amended effective February 1, 2015 (42:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-02-01"><cite path="|14|22|01|.03|D.">Regulation .03D</cite> amended effective February 1, 2023 (49:27 Md. R. 1111)</annotation>
@@ -2022,7 +2028,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-01"><cite path="|14|22|01|.09|B.">Regulation .09B</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); January 19, 2004 (31:1 Md. R. 31); August 14, 2006 (33:16 Md. R. 1365); April 1, 2009 (36:6 Md. R. 492); February 1, 2015 (42:1 Md. R. 18); February 1, 2021 (48:1 Md. R. 10); October 1, 2021 (48:18 Md. R. 692); November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); January 1, 2026 (52:25 Md. R. 1269)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.10">Regulation .10</cite> amended effective February 1, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-01"><cite path="|14|22|01|.10|A.">Regulation .10A</cite> amended effective July 1, 2008 (35:13 Md. R. 1181); May 1, 2010 (37:7 Md. R. 575)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-10"><cite path="|14|22|01|.10|B.">Regulation .10B</cite> amended effective January 19, 2004 (31:1 Md. R. 31); effective August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); March 1, 2008 (35:4 Md. R. 515); July 1, 2008 (35:13 Md. R. 1181); September 8, 2008 (35:18 Md. R. 1601); November 1, 2012 (39:20 Md. R. 1307); February 1, 2015 (42:1 Md. R. 18); June 1, 2015 (42:10 Md. R. 685); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); February 1, 2020 (46:26 Md. R. 1167); July 1, 2020 (47:11 Md. R. 560); February 1, 2021 (48:1 Md. R. 10); October 1, 2022 (49:18 Md. R. 819); April 1, 2023 (50:5 Md. R. 182); June 10, 2024 (51:11 Md. R. 580)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|22|01|.10|B.">Regulation .10B</cite> amended effective January 19, 2004 (31:1 Md. R. 31); effective August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); March 1, 2008 (35:4 Md. R. 515); July 1, 2008 (35:13 Md. R. 1181); September 8, 2008 (35:18 Md. R. 1601); November 1, 2012 (39:20 Md. R. 1307); February 1, 2015 (42:1 Md. R. 18); June 1, 2015 (42:10 Md. R. 685); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); February 1, 2020 (46:26 Md. R. 1167); July 1, 2020 (47:11 Md. R. 560); February 1, 2021 (48:1 Md. R. 10); October 1, 2022 (49:18 Md. R. 819); April 1, 2023 (50:5 Md. R. 182); June 10, 2024 (51:11 Md. R. 580); July 6, 2026 (53:13 Md. R. 587)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.11">Regulation .11</cite> amended effective February 1, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-04-01"><cite path="|14|22|01|.11|D.">Regulation .11D</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); January 1, 2008 (34:24 Md. R. 2159); July 1, 2016 (43:6 Md. R. 411); April 1, 2023 (50:5 Md. R. 182)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-01"><cite path="|14|22|01|.11|D.">Regulation .11D</cite>, E amended effective July 1, 2022 (49:7 Md. R. 468)</annotation>

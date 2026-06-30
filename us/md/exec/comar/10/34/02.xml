@@ -103,7 +103,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Beginning May 1, 2027, an applicant may be approved by the Board to take Exam II upon satisfactory proof that the applicant has graduated from, or has successfully completed the didactic portion of the core curriculum of a school or college of pharmacy that has been:</text>
+        <text>Beginning May 1, 2026, an applicant may be approved by the Board to take Exam II upon satisfactory proof that the applicant has graduated from, or has successfully completed the didactic portion of the core curriculum of a school or college of pharmacy that has been:</text>
         <para>
           <num>(a)</num>
           <text>Approved by the Board; or</text>
@@ -331,7 +331,9 @@
       </para>
     </para>
     <annotations>
+      <annotation managed="false" type="Emergency Action">53:13  26-055-E  (Regulation .03) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
       <annotation app="2026-03-02" doc="Maryland Register, Volume 53, Issue 4" eff="2026-03-02" path="regulations|final|25-264-F" type="History" display="false"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-055-E" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section cache:ref-path="10|34|02|.04">
@@ -395,6 +397,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-02-17" discontinuity="true">Chapter revised effective February 17, 2003 (30:3 Md. R. 180)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|10|34|02|.02|B.">Regulation .02B</cite> amended effective March 2, 2026 (53:4 Md. R. 185)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-02"><cite path="|10|34|02|.03">Regulation .03</cite> amended effective June 20, 2005 (32:12 Md. R. 1047; March 2, 2026 (53:4 Md. R. 185)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|10|34|02|.03|A.">Regulation .03A</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. XXX)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-07-03"><cite path="|10|34|02|.03|D.">Regulation .03D</cite> amended effective July 3, 2017 (44:13 Md. R. 621)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-01"><cite path="|10|34|02|.04">Regulation .04</cite> amended effective July 1, 2015 (42:7 Md. R. 569)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-07-01"><cite path="|10|34|02|.05|A.">Regulation .05A</cite>, D amended effective July 1, 2015 (42:7 Md. R. 569)</annotation>

@@ -35,7 +35,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Behavioral Health Administration (BHA)” means the Department’s administration, as defined by Health General Article Title XX, Annotated Code of Maryland, or its designee.</text>
+        <text>“Behavioral Health Administration (BHA)” means the Department’s administration, as described under Health-General Article, Title 7.5, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -55,7 +55,7 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>“Core service agency (CSA)” has the meaning stated in <cite path="|10.21.17">COMAR 10.21.17</cite>.</text>
+        <text>“Core service agency (CSA)” means the county or multicounty authority, designated under Health-General Article, Title 10, Subtitle 12, Annotated Code of Maryland, to carry out the duties set forth therein.</text>
       </para>
       <para>
         <num>(10)</num>
@@ -79,10 +79,14 @@
       </para>
       <para>
         <num>(15)</num>
-        <text>“Expressive and experiential behavioral services” means the use of art, dance, music, equine, horticulture, or drama to accomplish individualized goals as part of the plan of care.</text>
+        <text>“Evidence-based Practice (EBP)" means a set of standardized, replicable interventions for which rigorous scientific research conducted by multiple, independent investigators exists to demonstrate the effectiveness of the interventions, when implemented in accordance with established fidelity standards, in achieving defined, measurable outcomes for the targeted population for which the practice is intended.</text>
       </para>
       <para>
         <num>(16)</num>
+        <text>“Expressive and experiential behavioral services” means the use of art, dance, music, equine, horticulture, or drama to accomplish individualized goals as part of the plan of care.</text>
+      </para>
+      <para>
+        <num>(17)</num>
         <text>“Family” means:</text>
         <para>
           <num>(a)</num>
@@ -94,47 +98,55 @@
         </para>
       </para>
       <para>
-        <num>(17)</num>
-        <text>“Family peer support” means a service as described in <cite path="|10|09|89|.09">Regulation .09 of this chapter</cite>.</text>
-      </para>
-      <para>
         <num>(18)</num>
         <text>“Family peer support partner” means an individual providing family peer-to-peer support services.</text>
       </para>
       <para>
         <num>(19)</num>
-        <text>“Family support organization (FSO)” means an approved entity under <cite path="|10|09|89|.09|D.">Regulation .09D of this chapter</cite>.</text>
+        <text>“Family Peer Support Services" means a set of nonclinical activities to support parents and caregivers of youth enrolled in services provided under this chapter in care coordination and the 1915(i) process.</text>
       </para>
       <para>
         <num>(20)</num>
-        <text>“Institution for mental disease (IMD)” has the meaning stated in <cite path="10.67.01.01|B.">COMAR 10.67.01.01B</cite>.</text>
+        <text>“Family Support Organization (FSO)" means an organization who provides peer support services to parents, caregivers, and youth enrolled in services provided under this chapter.</text>
       </para>
       <para>
         <num>(21)</num>
-        <text>“Local departments of social services (DSS)” has the meaning stated in <cite doc="Md. Code" path="ghu">Human Services Article, Title 3, Annotated Code of Maryland</cite>.</text>
+        <text>“Local Behavioral Health Authority (LBHA)” has the meaning stated in Health-General Article, §7.5-101, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(22)</num>
-        <text>“Maryland Children’s Health Program (MCHP)” has the meaning stated in <cite path="|10.09.43">COMAR 10.09.43</cite>.</text>
+        <text>“Institution for mental disease (IMD)” has the meaning stated in <cite path="10.67.01.01|B.">COMAR 10.67.01.01B</cite>.</text>
       </para>
       <para>
         <num>(23)</num>
-        <text>“Medical Assistance Program” has the meaning stated in <cite path="|10.67.02">COMAR 10.67.02</cite>.</text>
+        <text>“Intensive In-Home Services (IIHS)" means a strength-based service intervention provided in the participant's home by a licensed mental health professional and non-licensed in-home stabilizer staff that includes functional assessments, treatment planning, individualized interventions, transition support, and crisis response and intervention.</text>
       </para>
       <para>
         <num>(24)</num>
-        <text>“Mental health professional” has the meaning stated in <cite path="10.21.17.02">COMAR 10.21.17.02</cite>.</text>
+        <text>“Local departments of social services (DSS)” has the meaning stated in <cite doc="Md. Code" path="ghu">Human Services Article, Title 3, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(25)</num>
-        <text>“Natural support” means a family member, friend, or community member, or organization selected by the participant or family, or both, to participate on the CFT.</text>
+        <text>“Maryland Children’s Health Program (MCHP)” has the meaning stated in <cite path="|10.09.43">COMAR 10.09.43</cite>.</text>
       </para>
       <para>
         <num>(26)</num>
-        <text>“Participant” means an individual who meets the qualifications, as specified in <cite path="|10|09|89|.03">Regulation .03 of this chapter</cite>, for benefit eligibility.</text>
+        <text>“Medical Assistance Program” has the meaning stated in <cite path="|10.67.02">COMAR 10.67.02</cite>.</text>
       </para>
       <para>
         <num>(27)</num>
+        <text>“Mental health professional” has the meaning stated in <cite path="10.21.17.02">COMAR 10.21.17.02</cite>.</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>“Natural support” means a family member, friend, community member, or organization selected by the participant or family, or both, to participate in the CFT.</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>“Participant” means an individual who meets the qualifications, as specified in <cite path="|10|09|89|.03">Regulation .03 of this chapter</cite>, for benefit eligibility.</text>
+      </para>
+      <para>
+        <num>(30)</num>
         <text>“Plan of care (POC)” means a written document that is:</text>
         <para>
           <num>(a)</num>
@@ -146,47 +158,57 @@
         </para>
       </para>
       <para>
-        <num>(28)</num>
+        <num>(31)</num>
         <text>“Program” means the Maryland Medical Assistance Program.</text>
       </para>
       <para>
-        <num>(29)</num>
+        <num>(32)</num>
         <text>“Provider” means an individual or entity that has enrolled with the Program to provide one or more benefit services covered under this chapter.</text>
       </para>
       <para>
-        <num>(30)</num>
-        <text>“Public mental health system” means the system for the delivery of mental health treatment and supports to eligible individuals as described in <cite path="|10.67.08">COMAR 10.67.08</cite>.</text>
-      </para>
-      <para>
-        <num>(31)</num>
-        <text>“Residential treatment center” has the meaning stated in Health-General Article, §19-301, Annotated Code of Maryland.</text>
-      </para>
-      <para>
-        <num>(32)</num>
-        <text>“Room and board” means rent or mortgage, utilities, maintenance, furnishings, and food provided in or associated with an individual’s place of residence.</text>
-      </para>
-      <para>
         <num>(33)</num>
-        <text>“Respite care” has the meaning stated in <cite path="|10.21.27">COMAR 10.21.27</cite>.</text>
+        <text>“Public Behavioral Health System” has the meaning stated in <cite path="10.09.59.01">COMAR 10.09.59.01</cite>.</text>
       </para>
       <para>
         <num>(34)</num>
-        <text>“Serious emotional disturbance (SED)” has the meaning stated in <cite path="|10.21.17">COMAR 10.21.17</cite>.</text>
+        <text>“Residential treatment center” has the meaning stated in Health-General Article, §19-301, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(35)</num>
-        <text>“Service area” means, during the phase-in of the 1915(i), the geographic area in Maryland where the 1915(i) is available.</text>
+        <text>“Room and board” means rent or mortgage, utilities, maintenance, furnishings, and food provided in or associated with an individual’s place of residence.</text>
       </para>
       <para>
         <num>(36)</num>
-        <text>“State Plan” means the Plan described in §1902(a) of Title XIX of the Social Security Act.</text>
+        <text>“Respite care” has the meaning stated in <cite path="|10.21.27">COMAR 10.21.27</cite>.</text>
       </para>
       <para>
         <num>(37)</num>
+        <text>“Serious emotional disturbance (SED)” has the meaning stated in <cite path="|10.21.17">COMAR 10.21.17</cite>.</text>
+      </para>
+      <para>
+        <num>(38)</num>
+        <text>“Service area” means, during the phase-in of the 1915(i), the geographic area in Maryland where the 1915(i) is available.</text>
+      </para>
+      <para>
+        <num>(39)</num>
+        <text>“State Plan” means the Plan described in §1902(a) of Title XIX of the Social Security Act.</text>
+      </para>
+      <para>
+        <num>(40)</num>
         <text>“Supplemental Security Income (SSI)” means a federally administered program providing benefits to needy aged, blind, and disabled individuals under Title XVI of the Social Security Act, 42 U.S.C. §1381 et seq.</text>
       </para>
+      <para>
+        <num>(41)</num>
+        <text>“Telehealth” has the meaning stated in <cite path="10.09.49.02">COMAR 10.09.49.02</cite>.</text>
+      </para>
+      <para>
+        <num>(42)</num>
+        <text>“Youth peer support” means a set of nonclinical activities provided by individuals in recovery from behavioral health disorders who use their personal lived experience and training to support youth enrolled in services provided under this chapter<em>.</em></text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -233,7 +255,7 @@
       <text>Consent.</text>
       <para>
         <num>(1)</num>
-        <text>For individuals younger than 16 years old, the family or medical guardian of the participant shall give consent for the individual to participate in the 1915(i);</text>
+        <text>For individuals younger than 16 years old, the family or medical guardian of the participant shall give consent for the individual to participate in the 1915(i).</text>
       </para>
       <para>
         <num>(2)</num>
@@ -245,7 +267,7 @@
       <text>The applicant shall:</text>
       <para>
         <num>(1)</num>
-        <text>Have a face-to-face psychosocial assessment completed or updated within 30 days of submission of the enrollment to the ASO that:</text>
+        <text>Have a face-to-face psychosocial assessment completed or updated within 60 days of submission of the enrollment to the ASO that:</text>
         <para>
           <num>(a)</num>
           <text>Assigns a Diagnostic and Statistical Manual (DSM) behavioral health diagnosis or Diagnostic Criteria (DC) 0-5 diagnosis;</text>
@@ -256,7 +278,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Is conducted by a provider not associated with the CCO by which the participant may eventually be served; and</text>
+          <text>Is conducted by a provider not affiliated with the CCO by which the participant may eventually be served; and</text>
         </para>
       </para>
       <para>
@@ -266,14 +288,10 @@
     </para>
     <para>
       <num>F.</num>
-      <text>The accessibility or intensity of currently available community supports and services are inadequate to meet the applicant’s needs due to the severity of the impairment without the provision of one or more of the services contained in the 1915(i) benefit.</text>
-    </para>
-    <para>
-      <num>G.</num>
       <text>The applicant may not be served in a Health Home as defined in <cite path="|10.09.33">COMAR 10.09.33</cite> while enrolled in the 1915(i).</text>
     </para>
     <para>
-      <num>H.</num>
+      <num>G.</num>
       <text>Medical Assistance Eligibility.</text>
       <para>
         <num>(1)</num>
@@ -285,7 +303,7 @@
       </para>
     </para>
     <para>
-      <num>I.</num>
+      <num>H.</num>
       <text>The Department may assist applicants in the benefit application process by:</text>
       <para>
         <num>(1)</num>
@@ -301,7 +319,7 @@
       </para>
     </para>
     <para>
-      <num>J.</num>
+      <num>I.</num>
       <text>Based on the criteria established in §§A—H of this regulation:</text>
       <para>
         <num>(1)</num>
@@ -325,7 +343,7 @@
       </para>
     </para>
     <para>
-      <num>K.</num>
+      <num>J.</num>
       <text>If the applicant is determined to meet the needs-based eligibility criteria as established in §§A—H of this regulation, the Department shall:</text>
       <para>
         <num>(1)</num>
@@ -337,7 +355,7 @@
       </para>
     </para>
     <para>
-      <num>L.</num>
+      <num>K.</num>
       <text>The Department shall re-evaluate a participant’s:</text>
       <para>
         <num>(1)</num>
@@ -348,7 +366,9 @@
         <text>Medical Assistance eligibility for 1915(i) services in accordance with the Department’s redetermination policy for all Medical Assistance enrollees.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -434,14 +454,14 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Each participant shall have an individualized POC that is managed by the CCO, pursuant to <cite path="|10.09.90">COMAR 10.09.90</cite>:</text>
+      <text>Each participant shall have an individualized POC that is managed by the CCO, pursuant to <cite path="|10.09.90">COMAR 10.09.90</cite>.</text>
     </para>
     <para>
       <num>D.</num>
       <text>In partnership with the CFT, the CCO shall:</text>
       <para>
         <num>(1)</num>
-        <text>Reevaluate the POC at least every 45 days with re-administration of BHA-approved assessments as appropriate, and more frequently in response to a crisis;</text>
+        <text>Reevaluate the POC at least every 60 days with re-administration of BHA-approved assessments as appropriate, and more frequently in response to a crisis;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -477,7 +497,7 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>Meet at least every 45 days or more frequently as clinically indicated to:</text>
+        <text>Meet at least every 60 days or more frequently as clinically indicated to:</text>
         <para>
           <num>(a)</num>
           <text>Coordinate the implementation of the POC; and</text>
@@ -492,7 +512,9 @@
       <num>E.</num>
       <text>Benefit participants shall have access to specialty behavioral health services through the Department’s public behavioral health system. Participants shall also be enrolled in the Medical Assistance Program’s managed care program, known as HealthChoice, in accordance with eligibility requirements set forth in <cite path="|10.67.02">COMAR 10.67.02</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|89|.06">
     <prefix>Regulation</prefix>
@@ -664,7 +686,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Applicable CSA.</text>
+          <text>Applicable CSA or LBHA.</text>
         </para>
       </para>
       <para>
@@ -732,7 +754,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Applicable CSA.</text>
+          <text>Applicable CSA or LBHA.</text>
         </para>
       </para>
       <para>
@@ -780,7 +802,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|89|.08">
     <prefix>Regulation</prefix>
@@ -1069,7 +1093,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Addressing and encouraging activities related to health and wellness.</text>
+          <text>Addressing and encouraging activities related to health and wellness;</text>
         </para>
       </para>
     </para>
@@ -1082,26 +1106,6 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Has a board of directors comprised of more than 50 percent of individuals who are:</text>
-        <para>
-          <num>(a)</num>
-          <text>Caregivers with a current or previous primary daily responsibility for raising a child or youth with behavioral health challenges,</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Individuals who have experience with State or local services and systems as a consumer who has or had behavioral health challenges; or</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Both §D(2)(a) and (b) of this regulation.</text>
-        </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Submits a list of board members with identification of those who are caregivers meeting the criteria in <cite path="10|09|89|.09|D.|(2)|(b)">§D(2)(b) of this regulation</cite>;</text>
-      </para>
-      <para>
-        <num>(4)</num>
         <text>Establishes hiring practices that give preference to:</text>
         <para>
           <num>(a)</num>
@@ -1113,16 +1117,16 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Both §D(4)(a) and (b) of this regulation;</text>
+          <text>Both §D(2)(a) and (b) of this regulation;</text>
         </para>
       </para>
       <para>
-        <num>(5)</num>
-        <text>Submits a copy of the organization's personnel policy that sets forth the preferred employment criteria stated in <cite path="10|09|89|.09|D.|(4)">§D(4) of this regulation</cite>;</text>
+        <num>(3)</num>
+        <text>Submits a copy of the organization's personnel policy that sets forth the preferred employment criteria stated in <cite path="10|09|89|.09|D.|(2)">§D(2) of this regulation</cite>;</text>
       </para>
       <para>
-        <num>(6)</num>
-        <text>Employs a staff that is comprised of at least 75 percent of individuals who are:</text>
+        <num>(4)</num>
+        <text>Employs a staff that is comprised of at least 50 percent of individuals who are:</text>
         <para>
           <num>(a)</num>
           <text>Current or previous caregivers of a child or youth with behavioral health challenges; or</text>
@@ -1133,15 +1137,15 @@
         </para>
       </para>
       <para>
-        <num>(7)</num>
-        <text>Submits a list of staff and positions held with identification of those who fit the experienced caregiver and consumer criteria stated in <cite path="10|09|89|.09|D.|(6)">§D(6) of this regulation</cite>; and</text>
+        <num>(5)</num>
+        <text>Submits a list of staff and positions held with identification of those who fit the experienced caregiver and consumer criteria stated in <cite path="10|09|89|.09|D.|(4)">§D(4) of this regulation</cite>; and</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(6)</num>
         <text>Submits a certificate of eligibility that includes:</text>
         <para>
           <num>(a)</num>
-          <text>Attestation of compliance with §D(1)—(6) of this regulation; and</text>
+          <text>Attestation of compliance with §D(1)—(4) of this regulation; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1181,11 +1185,117 @@
         <text>Receive training and certification as approved by the Department.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|09|89|.10">
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Covered Services — Youth Peer Support Services.</heading>
+    <para>
+      <num>A.</num>
+      <text>Youth Peer Specialists.</text>
+      <para>
+        <num>(1)</num>
+        <text>Youth peer support services shall be delivered directly to the participant by a youth peer specialist who is:</text>
+        <para>
+          <num>(a)</num>
+          <text>Employed by a FSO as defined in <cite path="10.09.89.09|D.">COMAR 10.09.89.09D</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A peer recovery specialist who meets one of the criteria in <cite path="10|09|89|.10|A.|(2)">§A(2) of this regulation</cite>;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>18 years old or older;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Self-identified as a person in long-term recovery from the effects of a behavioral health disorder for a period of 2 years or more; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>An individual who has experience with State or local services and systems as a consumer of behavioral health services.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A youth peer support specialist shall be either:</text>
+        <para>
+          <num>(a)</num>
+          <text>Certified as a peer support specialist by the BHA or its designee;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the process of obtaining a peer support specialist certification by the BHA or its designee; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Under the supervision of a certified youth peer supervisor described in <cite path="10|09|89|.10|B.">§B of this regulation</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A youth peer specialist may not provide youth peer support services to 1915(i) enrollees older than themselves.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Youth Peer Supervisors. Youth peer support services shall be delivered under the supervision of the youth peer supervisor who shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be 21 years old or older; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Have at least 3 years of experience providing family or youth peer support or working with children with serious behavioral health challenges and their families;</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Youth peer support services may include, but are not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Promoting wellness through modeling;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Assisting the youth with understanding the person-centered planning process;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Coaching, supporting, and training in order to ensure the youth’s success in navigating various social contexts, learning new skills, and making functional progress;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Coaching the youth to understand the care planning process and articulate goals during the person-centered planning process;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Providing mutual support, hope, reassurance, and advocacy that includes sharing one’s own personal story;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Serving as an advocate, mentor, or facilitator for resolution of issues;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Helping the youth develop self-advocacy skills and gain the ability to play a proactive role in their own treatment; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Skills development for coping with and managing behavioral health symptoms and trauma, wellness, resiliency, and recovery support.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.10</num>
+    <num>.11</num>
     <heading>Covered Services — Respite Services.</heading>
     <text>Respite services:</text>
     <para>
@@ -1256,11 +1366,13 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="10|09|89|.11">
+  <section cache:ref-path="10|09|89|.12">
     <prefix>Regulation</prefix>
-    <num>.11</num>
+    <num>.12</num>
     <heading>Covered Services — Expressive and Experiential Behavioral Services.</heading>
     <para>
       <num>A.</num>
@@ -1314,11 +1426,15 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Current registration in the applicable association as outlined in <cite path="10|09|89|.11|E.|(5)">§E(5) of this regulation</cite>;</text>
+          <text>Current registration in the applicable association as outlined in <cite path="10|09|89|.12|B.|(3)">§B(3) of this regulation</cite><em>.</em></text>
         </para>
       </para>
       <para>
         <num>(2)</num>
+        <text>A licensed clinical professional art therapist may provide art behavioral services without meeting the association registration requirements described in §B(3)of this regulation.</text>
+      </para>
+      <para>
+        <num>(3)</num>
         <text>Association Registration.</text>
         <para>
           <num>(a)</num>
@@ -1349,15 +1465,15 @@
           <text>For Equine-Assisted Behavioral Services. To provide equine-assisted behavioral services, an individual shall be currently certified by:</text>
           <para>
             <num>(i)</num>
-            <text>The Equine Assisted Growth and Learning Association (EAGALA) to provide services under the EAGALA model;</text>
+            <text>The Equine Assisted Growth and Learning Association to provide services under the Equine Assisted Growth and Learning Association model;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Professional Association of Therapeutic Horsemanship International (PATHI); or</text>
+            <text>Professional Association of Therapeutic Horsemanship International; or</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>A comparable association with certification requirements at least equivalent to EAGALA or PATHI.</text>
+            <text>A comparable association with certification requirements at least equivalent to the Equine Assisted Growth and Learning Association or Professional Association of Therapeutic Horsemanship International.</text>
           </para>
         </para>
         <para>
@@ -1398,11 +1514,13 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="10|09|89|.12">
+  <section cache:ref-path="10|09|89|.13">
     <prefix>Regulation</prefix>
-    <num>.12</num>
+    <num>.13</num>
     <heading>Covered Services — Intensive In-Home Services.</heading>
     <para>
       <num>A.</num>
@@ -1433,11 +1551,15 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Are intended to support a child to remain in his or her home and reduce hospitalizations and out-of-home placements or changes of living arrangements through focused intervention in the home and community; and</text>
+        <text>Are intended to support a child to remain in his or her home and reduce hospitalizations and out-of-home placements or changes of living arrangements through focused intervention in the home and community;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>May be used in situations such as the start of a child's enrollment in the 1915(i), upon discharge from a hospital or residential treatment center, or to prevent or stabilize after a crisis situation.</text>
+        <text>May be used in situations such as the start of a child's enrollment in the 1915(i), upon discharge from a hospital or residential treatment center, or to prevent or stabilize after a crisis situation; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Shall include a minimum of two face-to-face contacts with the participant per week of service with at least one of the contacts provided in-person.</text>
       </para>
     </para>
     <para>
@@ -1449,28 +1571,36 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Promising Practice IIHS providers (non-EBP), to include providers of the In-Home Intervention Program for Children (IHIP-C) and other promising practices, as determined by the Department.</text>
+        <text>Promising Practice IIHS providers (non-EBP), to include providers of the In-Home Intervention Program for Children and other promising practices, as determined by the Department.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>An EBP-IIHS provider shall have a certificate or letter from the national or intermediate surveyor or developer of the particular evidence-based practice to demonstrate that the EBP-IIHS provider meets all requirements for Department-approved EBP-IIHS, to include participating in all fidelity monitoring activities.</text>
+      <text>An EBP-IIHS provider shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Have a certificate or letter from the national or intermediate surveyor or developer of the particular evidence-based practice to demonstrate that the EBP-IIHS provider meets all requirements for Department-approved EBP-IIHS, to include participating in all fidelity monitoring activities; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Meet the requirements of <cite path="10|09|89|.13|E.">§E of this regulation</cite><em>.</em></text>
+      </para>
     </para>
     <para>
       <num>D.</num>
       <text>A Non-EBP IIHS provider shall:</text>
       <para>
         <num>(1)</num>
-        <text>Be a Department-approved IHIP-C provider or have a certificate or letter from a national or intermediate purveyor or developer of another promising practice; and</text>
+        <text>Be a Department-approved In-Home Intervention Program for Children provider or have a certificate or letter from a national or intermediate purveyor or developer of another promising practice; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Meet the requirements of <cite path="10|09|89|.12|E.">§E of this regulation</cite>.</text>
+        <text>Meet the requirements of <cite path="10|09|89|.13|E.">§E of this regulation</cite>.</text>
       </para>
     </para>
     <para>
       <num>E.</num>
-      <text>All non-EBP IIHS providers not approved by the Department as IHIP-C providers shall:</text>
+      <text>All IIHS providers shall:</text>
       <para>
         <num>(1)</num>
         <text>Ensure that there are Clinical Supervisors and staff who are responsible for creating, implementing, and managing the treatment plan with the child and family and the CFT;</text>
@@ -1588,27 +1718,21 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Have completed relevant, comprehensive, appropriate training before providing services, as outlined by the purveyor, developer, or the Department and approved by the Department;</text>
+          <text>Have completed relevant, comprehensive, appropriate training before providing services, as outlined by the purveyor, developer, or the Department and approved by the Department; and</text>
         </para>
       </para>
       <para>
         <num>(6)</num>
-        <text>Provide a minimum of one face-to-face contact with the participant per week of service;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Ensure a minimum of 50 percent of the mental health professionals' contacts with the participant or family, or both, is face-to-face; and</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Ensure that a minimum of 50 percent of the mental health professionals' time is spent working outside the agency's office and in the participant's home or community, as documented in case notes.</text>
+        <text>Provide services consistent with the State-approved EBP or State-approved promising practice model.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.13</num>
+    <num>.14</num>
     <heading>Limitations.</heading>
     <para>
       <num>A.</num>
@@ -1699,7 +1823,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Mobile crisis response services; or</text>
+        <text>Mobile treatment services; or</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1708,6 +1832,18 @@
     </para>
     <para>
       <num>E.</num>
+      <text>The Program may not reimburse for IIHS:</text>
+      <para>
+        <num>(1)</num>
+        <text>If fewer than two face-to-face contacts occur per week; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>None of the weekly face-to-face contacts are in-person.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
       <text>Out-of-home respite and community-based respite services may not be reimbursed for the same day of service or on the same day of service as:</text>
       <para>
         <num>(1)</num>
@@ -1719,26 +1855,64 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Any other public mental health system respite services.</text>
+        <text>Any other public behavioral health system respite services.</text>
       </para>
     </para>
     <para>
-      <num>F.</num>
+      <num>G.</num>
       <text>Out-of-home respite and community-based respite services do not include on-going day care or before or after school programs.</text>
     </para>
     <para>
-      <num>G.</num>
-      <text>Out-of-home respite and community based respite services may not be delivered to youth residing in Treatment Foster Care.</text>
+      <num>H.</num>
+      <text>Out-of-home respite and community-based respite services may not be delivered to youth residing in Treatment Foster Care.</text>
     </para>
     <para>
-      <num>H.</num>
-      <text>No more than 25 percent of the family support organization’s claims in a 30-day period for family peer support may be telephonic for a participant or the participant’s family.</text>
+      <num>I.</num>
+      <text>The Program may not reimburse for the following services via telehealth:</text>
+      <para>
+        <num>(1)</num>
+        <text>Out-of-home respite;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Community-based respite services; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Equine-assisted behavioral services<em>.</em></text>
+      </para>
     </para>
-    <annotations/>
+    <para>
+      <num>J.</num>
+      <text>The Program may not reimburse for the following services via audio-only telehealth:</text>
+      <para>
+        <num>(1)</num>
+        <text>Art behavioral services;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Dance behavioral services;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Horticulture behavioral services;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Music behavioral services; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Drama behavioral services.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.14</num>
+    <num>.15</num>
     <heading>Payment Procedures.</heading>
     <para>
       <num>A.</num>
@@ -1841,91 +2015,91 @@
       <text>Family peer support services as described in <cite path="|10|09|89|.09">Regulation .09 of this chapter</cite> shall be reimbursed at the following rates:</text>
       <para>
         <num>(1)</num>
-        <text>For dates of service from July 1, 2022 through June 30, 2023:</text>
-        <para>
-          <num>(a)</num>
-          <text>$21.65 per 15-minute unit for face-to-face services; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>$10.82 per 15-minute unit for telephonic or other non-face-to-face activities.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Effective July 1, 2023:</text>
+        <text>For dates of service from July 1, 2023 through December 31, 2023:</text>
         <para>
           <num>(a)</num>
           <text>$22.30 per 15-minute unit for face-to-face services; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>$11.84 per 15-minute unit for telephonic or other non-face-to-face activities.</text>
+          <text>$11.14 per 15-minute unit for telephonic or other non-face-to-face activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For dates of service from January 1, 2024 through June 30, 2024:</text>
+        <para>
+          <num>(a)</num>
+          <text>$24.08 per 15-minute unit for face-to-face services; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>$11.14 per 15-minute unit for telephonic or other non-face-to-face activities.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Effective July 1, 2024:</text>
+        <para>
+          <num>(a)</num>
+          <text>$24.80 per 15-minute unit of family peer support or face-to-face services; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>$12.39 per 15-minute unit for telephonic or other non-face-to-face activities.</text>
         </para>
       </para>
     </para>
     <para>
       <num>F.</num>
-      <text>Respite services as described in <cite path="|10|09|89|.10">Regulation .10 of this chapter</cite> shall be reimbursed at the following rates:</text>
+      <text>Youth peer support services as described in <cite path="|10|09|89|.10">Regulation .10 of this chapter</cite> shall be reimbursed at $24.80 per 15-minute unit of youth peer support services.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Respite services as described in <cite path="|10|09|89|.11">Regulation .11 of this chapter</cite> shall be reimbursed at the following rates:</text>
       <para>
         <num>(1)</num>
-        <text>July 1, 2022 through June 30, 2023:</text>
-        <para>
-          <num>(a)</num>
-          <text>$34.12 per 1-hour unit of service for community-based respite services; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>$270.46 per unit of out-of-home respite care.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Effective July 1, 2023:</text>
+        <text>For dates of service from July 1, 2023 through December 31, 2023:</text>
         <para>
           <num>(a)</num>
           <text>$35.14 per 1-hour unit of service for community-based respite services; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>$278.57 per unit of out-of-home respite care.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>Expressive and experiential behavioral services as described in <cite path="|10|09|89|.11">Regulation .11 of this chapter</cite>, when provided by a licensed mental health professional, shall be reimbursed at the following rates:</text>
-      <para>
-        <num>(1)</num>
-        <text>For dates of service from July 1, 2022 through June 30, 2023</text>
-        <para>
-          <num>(a)</num>
-          <text>For individual therapy:</text>
-          <para>
-            <num>(i)</num>
-            <text>$92.77 per 45—50-minute session; or</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>$121.55 per 75—80-minute session; and</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>For group therapy:</text>
-          <para>
-            <num>(i)</num>
-            <text>$36.87 per 45—60-minute session; or</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>$47.95 per prolonged (75—90-minute) session.</text>
-          </para>
+          <text>$287.57 per unit of out-of-home respite care.</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Effective July 1, 2023:</text>
+        <text>For dates of service from January 1, 2024 through June 30, 2024:</text>
+        <para>
+          <num>(a)</num>
+          <text>$37.95 per 1-hour unit of service for community-based respite services; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>$300.86 per unit of out-of-home respite care.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Effective July 1, 2024:</text>
+        <para>
+          <num>(a)</num>
+          <text>$39.09 per 1-hour unit of service for community-based respite services; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>$309.89 per unit of out-of-home respite care.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Expressive and experiential behavioral services as described in <cite path="|10|09|89|.12">Regulation .12 of this chapter</cite>, when provided by a licensed mental health professional, shall be reimbursed at the following rates:</text>
+      <para>
+        <num>(1)</num>
+        <text>For dates of service from July 1, 2023 through December 31, 2023:</text>
         <para>
           <num>(a)</num>
           <text>For individual therapy:</text>
@@ -1951,23 +2125,19 @@
           </para>
         </para>
       </para>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>Expressive and experiential behavioral services as described in <cite path="|10|09|89|.11">Regulation .11 of this chapter</cite>, when provided by a non-licensed mental health professional, shall be reimbursed at the following rates:</text>
       <para>
-        <num>(1)</num>
-        <text>For dates of service from July 1, 2022 through June 30, 2023:</text>
+        <num>(2)</num>
+        <text>For dates of service from January 1, 2024 through June 30, 2024:</text>
         <para>
           <num>(a)</num>
           <text>For individual therapy:</text>
           <para>
             <num>(i)</num>
-            <text>$84.33 per 45-minute session; or</text>
+            <text>$103.19 per 45—50-minute session; or</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>$109.64 per 75—80-minute session; and</text>
+            <text>$135.22 per 75—80-minute session; and</text>
           </para>
         </para>
         <para>
@@ -1975,17 +2145,49 @@
           <text>For group therapy:</text>
           <para>
             <num>(i)</num>
-            <text>$32.78 per 45—60-minute session; or</text>
+            <text>$41.02 per 45—60-minute session; or</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>$42.59 per prolonged (75—90-minute) session.</text>
+            <text>$53.34 per prolonged (75—90-minute) session.</text>
           </para>
         </para>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Effective July 1, 2023:</text>
+        <num>(3)</num>
+        <text>Effective July 1, 2024:</text>
+        <para>
+          <num>(a)</num>
+          <text>For individual therapy:</text>
+          <para>
+            <num>(i)</num>
+            <text>$106.29 per 45—50-minute session; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>$139.28 per 75—80-minute session; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For group therapy:</text>
+          <para>
+            <num>(i)</num>
+            <text>$42.25 per 45—60-minute session; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>$54.94 per prolonged (75—90-minute) session.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Expressive and experiential behavioral services as described in <cite path="|10|09|89|.12">Regulation .12 of this chapter</cite>, when provided by a non-licensed mental health professional, shall be reimbursed at the following rates:</text>
+      <para>
+        <num>(1)</num>
+        <text>For dates of service from July 1, 2023 through December 31, 2023:</text>
         <para>
           <num>(a)</num>
           <text>For individual therapy:</text>
@@ -2011,64 +2213,142 @@
           </para>
         </para>
       </para>
-    </para>
-    <para>
-      <num>I.</num>
-      <text>Intensive in-home services as described in <cite path="|10|09|89|.12">Regulation .12 of this chapter</cite> shall be reimbursed at the following rates:</text>
       <para>
-        <num>(1)</num>
-        <text>For dates of service from July 1, 2022 through June 30, 2023:</text>
+        <num>(2)</num>
+        <text>For dates of service from January 1, 2024 through June 30, 2024:</text>
         <para>
           <num>(a)</num>
-          <text>$337.54 per week of service for EBP-IIHS providers; or</text>
+          <text>For individual therapy:</text>
+          <para>
+            <num>(i)</num>
+            <text>$93.81 per 45-minute session; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>$121.96 per 75—80-minute session; and</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>$267.78 per week of service for non-EBP IIHS providers.</text>
+          <text>For group therapy:</text>
+          <para>
+            <num>(i)</num>
+            <text>$36.46 per 45—60-minute session; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>$47.38 per prolonged (75—90-minute) session.</text>
+          </para>
         </para>
       </para>
       <para>
-        <num>(2)</num>
-        <text>Effective July 1, 2023:</text>
+        <num>(3)</num>
+        <text>Effective July 1, 2024:</text>
+        <para>
+          <num>(a)</num>
+          <text>For individual therapy:</text>
+          <para>
+            <num>(i)</num>
+            <text>$96.62 per 45-minute session; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>$125.62 per 75—80-minute session; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For group therapy:</text>
+          <para>
+            <num>(i)</num>
+            <text>$37.55 per 45—60-minute session; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>$48.80 per prolonged (75—90-minute) session.</text>
+          </para>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Intensive in-home services as described in <cite path="|10|09|89|.13">Regulation .13 of this chapter</cite> shall be reimbursed at the following rates:</text>
+      <para>
+        <num>(1)</num>
+        <text>For dates of service from July 1, 2023 through December 31, 2023:</text>
         <para>
           <num>(a)</num>
           <text>$347.67 per week of service for EBP-IIHS providers; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>$275.81 per week of service for non-EBP IIHS providers.</text>
+          <text>$297.87 per week of service for non-EBP IIHS providers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For dates of service from January 1, 2024 through June 30, 2024:</text>
+        <para>
+          <num>(a)</num>
+          <text>$375.48 per week of service for EBP-IIHS providers; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>$297.87 per week of service for non-EBP IIHS providers.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Effective July 1, 2024:</text>
+        <para>
+          <num>(a)</num>
+          <text>$386.74 per week of service for EBP-IIHS providers; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>$306.81 per week of service for non-EBP IIHS providers.</text>
         </para>
       </para>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.15</num>
-    <heading>Recovery and Reimbursements.</heading>
-    <text>Recovery and reimbursement are set forth in <cite path="10.09.36.07">COMAR 10.09.36.07</cite>.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.16</num>
-    <heading>Cause for Suspension or Removal and Imposition of Sanctions.</heading>
-    <text>Cause for suspension or removal and imposition of sanctions is as set forth in <cite path="10.09.36.08">COMAR 10.09.36.08</cite> and <cite path="|10.21.10">10.21.10</cite>.</text>
-    <annotations/>
+    <heading>Recovery and Reimbursements.</heading>
+    <text>Recovery and reimbursement are set forth in <cite path="10.09.36.07">COMAR 10.09.36.07</cite>.</text>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.17</num>
-    <heading>Appeal Procedures for Providers.</heading>
-    <text>Appeal procedures for providers are those set forth in <cite path="10.09.36.09">COMAR 10.09.36.09</cite>.</text>
-    <annotations/>
+    <heading>Cause for Suspension or Removal and Imposition of Sanctions.</heading>
+    <text>Cause for suspension or removal and imposition of sanctions is as set forth in <cite path="10.09.36.08">COMAR 10.09.36.08</cite> and <cite path="|10.21.10">10.21.10</cite>.</text>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.18</num>
+    <heading>Appeal Procedures for Providers.</heading>
+    <text>Appeal procedures for providers are those set forth in <cite path="10.09.36.09">COMAR 10.09.36.09</cite>.</text>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.19</num>
     <heading>Appeal Procedures for Applicants and Participants.</heading>
-    <text>Appeal procedures for applicants and participants are those set forth in <cite path="|10.01.04">COMAR 10.01.04</cite>, <cite path="10.09.24.13">10.09.24.13</cite>, and <cite path="|10.09.70">10.09.70</cite>.</text>
-    <annotations/>
+    <text>Appeal procedures for applicants and participants are those set forth in <cite path="|10.01.04">COMAR 10.01.04</cite>, <cite path="10.09.24.13">10.09.24.13</cite>, and 10.09.70.</text>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-313-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §2-104(b), Annotated Code of Maryland</annotation>
@@ -2095,5 +2375,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|09|89|.12|F.">Regulation .12F</cite> repealed effective November 13, 2023 (50:22 Md. R. 974)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-09-16"><cite path="|10|09|89|.14">Regulation .14</cite> amended effective September 16, 2024 (51:18 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|09|89|.14|E.">Regulation .14E</cite>—I adopted effective November 13, 2023 (50:22 Md. R. 974)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06" discontinuity="true">Chapter revised effective July 6, 2026 (53:13 Md. R. 586)</annotation>
   </annotations>
 </container>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>11</num>
+  <heading>Abusive Practices</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Authority.</heading>
+    <text>These regulations are promulgated pursuant to Commercial Law Article, §§<cite doc="Md. Code" path="gcl|13-205">13-205</cite> and <cite doc="Md. Code" path="gcl|13-303">13-303</cite>, Annotated Code of Maryland.</text>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Findings and Purpose.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Consumer Protection Division and the Consumer Protection Commission find that Chapters 731 and 732 of the Acts of 2018 added “abusive” practices to the unfair or deceptive practices prohibited by the Consumer Protection Act.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>These regulations are intended to further define what constitutes an “abusive” practice as set forth in <cite doc="Md. Code" path="gcl|13-301">Commercial Law Article, §13-301, Annotated Code of Maryland</cite> and prohibited by <cite doc="Md. Code" path="gcl|13-303">Commercial Law Article, §13-303, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Abusive Practices.</heading>
+    <text>“Abusive” practices as set forth in <cite doc="Md. Code" path="gcl|13-301">Commercial Law Article, §13-301, Annotated Code of Maryland</cite>, and prohibited by <cite doc="Md. Code" path="gcl|13-303">Commercial Law Article, §13-303, Annotated Code of Maryland</cite> include a practice that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Materially interferes with the ability of a consumer to understand a term or condition of a consumer product or service; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Takes unreasonable advantage of:</text>
+      <para>
+        <num>(a)</num>
+        <text>A lack of understanding on the part of the consumer of the material risks, costs, or conditions of the product or service;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The inability of the consumer to protect the interests of the consumer in selecting or using a consumer product or service; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The reasonable reliance by the consumer on a person to act in the interests of the consumer.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Commercial Law Article, §§<cite doc="Md. Code" path="gcl|13-205">13-205</cite> and <cite doc="Md. Code" path="gcl|13-303">13-303</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06">Effective date: July 6, 2026 (53:13 Md. R. 586)</annotation>
+  </annotations>
+  <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" type="History" display="false"/>
+</container>

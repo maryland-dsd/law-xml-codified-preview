@@ -60,7 +60,7 @@
     <text>A provider may enroll a child for care at the home only if the child's age group is approved for care, as indicated on the provider's current certificate of registration.</text>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="13A|15|04|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Child Capacity.</heading>
@@ -78,10 +78,14 @@
     </para>
     <para>
       <num>D.</num>
-      <text>The maximum total capacity of a family child care home may not exceed eight children, of whom not more than four may be younger than 2 years old.</text>
+      <text>Except as provided in <cite path="13A|15|04|.03|E.">§E of this regulation</cite>, the maximum total capacity of a family child care home may not exceed eight children, of whom not more than four may be younger than 2 years old.</text>
     </para>
     <para>
       <num>E.</num>
+      <text>The maximum total capacity of a family child care home in which the provider also operates an educational program may not exceed eight children, of whom not more than two may be younger than 2 years old..</text>
+    </para>
+    <para>
+      <num>F.</num>
       <text>The office:</text>
       <para>
         <num>(1)</num>
@@ -100,7 +104,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-200-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|15|04|.04">
     <prefix>Regulation</prefix>
@@ -171,6 +177,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|9.5-301">9.5-301</cite>—<cite doc="Md. Code" path="ged|9.5-308">9.5-308</cite>, <cite doc="Md. Code" path="ged|9.5-310">9.5-310</cite>—<cite doc="Md. Code" path="ged|9.5-312">9.5-312</cite>, <cite doc="Md. Code" path="ged|9.5-320">9.5-320</cite>, and <cite doc="Md. Code" path="ged|9.5-321">9.5-321</cite>;<br/><cite doc="Md. Code" path="ggp|4-333">General Provisions Article, §4-333</cite>; <cite doc="Md. Code" path="ghu|1-202">Human Services Article, §1-202</cite>; Annotated Code of Maryland<br/>Agency Note: Federal Statutory Reference — Americans with Disabilities Act of 1990 (42 U.S.C. §12101 et seq.);<br/>Pro-Children Act of 1994 (20 U.S.C. §6081 et seq.);<br/>Child Care Development Block Grant (45 CFR Parts 98 and 99 and 42 U.S.C. 9858 et seq.);<br/>Social Security Act §418 (42 U.S.C. 618)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-10-20">Effective date: October 20, 2008 (35:21 Md. R. 1826)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-06"><cite path="|13A|15|04|.03">Regulation .03</cite> amended effective July 6, 2023 (53:13 Md. R. 587)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|13A|15|04|.04|B.">Regulation .04B</cite> amended effective April 19, 2010 (37:8 Md. R. 618)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|13A|15|04|.04|B.">Regulation .04B</cite>, C amended effective January 13, 2020 (47:1 Md. R. 12)</annotation>
   </annotations>

@@ -59,18 +59,102 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Mental health diagnosis” means the identification of a potential or an actual alteration in an individual's mental health status.</text>
+        <text>“Clinical nurse specialist” means an individual who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Meets one of the following requirements:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is licensed by the Board to practice registered nursing; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has a multistate licensure privilege to practice registered nursing under the Nurse Licensure Compact; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is certified by the Board to practice as a clinical nurse specialist.</text>
+        </para>
       </para>
       <para>
         <num>(5)</num>
-        <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B.">COMAR 10.27.01.01B</cite>.</text>
+        <text>“Durable medical equipment” means equipment that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Can withstand repeated use;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is used to serve a medically necessary purpose; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Has no practical use in the absence of illness, injury, disability, or health condition.</text>
+        </para>
       </para>
       <para>
         <num>(6)</num>
-        <text>“Nurse psychotherapist” means a registered nurse, certified under this chapter, who utilizes psychotherapy in a formally structured, contractual relationship between the nurse therapist and a client.</text>
+        <text>“Mental health diagnosis” means the identification of a potential or an actual alteration in an individual's mental health status.</text>
       </para>
       <para>
         <num>(7)</num>
+        <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B.">COMAR 10.27.01.01B</cite>.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Nurse psychotherapist” means a registered nurse, certified under this chapter, who utilizes psychotherapy in a formally structured, contractual relationship between the nurse therapist and a client.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Practice as a Clinical Nurse Specialist.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Practice as a clinical nurse specialist” means to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Provide direct care to patients with complex needs;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Act as a consultant to another health care provider as needed;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Conduct health-related research; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Provide education and guidance for staff nurses.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Practice as a clinical nurse specialist” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>Ordering, performing, and interpreting laboratory tests;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Ordering diagnostic tests and using the findings or results in the care of patients;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Prescribing drugs and durable medical equipment in accordance with <cite path="|10|27|12|.09">Regulation .09 of this chapter</cite>;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Ordering home health and hospice care; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Initiating, monitoring, and altering appropriate therapies or treatments.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
         <text>“Psychiatric mental health/ advanced practice registered nurse (PMH/APRN)” means an advanced practice registered nurse who:</text>
         <para>
           <num>(a)</num>
@@ -82,11 +166,11 @@
         </para>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(11)</num>
         <text>“Psychobiological interventions” means interventions which integrate physiological and psychological dimensions of care and include a range of therapies from diet/nutrition regulation, hypnosis, and relaxation techniques to the use of pharmacologic agents.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(12)</num>
         <text>“Registered nurse (RN)” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -98,7 +182,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -155,7 +241,7 @@
         <text>PMH/APRN graduate:</text>
         <para>
           <num>(a)</num>
-          <text>Completes the application for Maryland certification as a as a clinical nurse specialist in psychiatric mental health; and</text>
+          <text>Completes the application for Maryland certification as a clinical nurse specialist in psychiatric mental health; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -171,7 +257,9 @@
       <num>C.</num>
       <text>A PMH/APRN graduate may not continue to practice under supervision for more than 24 months from the filing of all documents required under <cite path="10|27|12|.04|A.">§A of this regulation</cite> or after the denial of certification, whichever occurs first.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-06-30" doc="Editor Action 2026-06-30" eff="2026-06-30" path="" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -232,21 +320,27 @@
     </para>
     <para>
       <num>H.</num>
-      <text>Provide behavioral rehabilitation care; and</text>
+      <text>Provide behavioral rehabilitation care;</text>
     </para>
     <para>
       <num>I.</num>
       <text>Utilize advanced practice skills to independently provide:</text>
       <para>
         <num>(1)</num>
-        <text>Case management including psychiatric rehabilitation and home care, and</text>
+        <text>Case management including psychiatric rehabilitation and home care; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Health teaching, health promotion, health prevention, and aid to the client in developing healthy patterns of living.</text>
+        <text>Health teaching, health promotion, health prevention, and aid to the client in developing healthy patterns of living; and</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>J.</num>
+      <text>Prescribe drugs and durable medical equipment in accordance with <cite path="|10|27|12|.09">Regulation .09 of this chapter</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -274,21 +368,23 @@
     </para>
     <para>
       <num>F.</num>
-      <text>The use of psycholobiological interventions in this chapter does not authorize the prescription of medications.</text>
-    </para>
-    <para>
-      <num>G.</num>
       <text>The client's progress in attaining the expected outcome shall be evaluated.</text>
     </para>
     <para>
-      <num>H.</num>
+      <num>G.</num>
       <text>Strategies and interventions shall be utilized to promote and maintain health and prevent mental illness.</text>
     </para>
     <para>
-      <num>I.</num>
+      <num>H.</num>
       <text>Decisions and actions on behalf of clients shall be determined in an ethical manner.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>I.</num>
+      <text>Medical records shall be maintained in accordance with Health-General Article, Title 4, Subtitle 4, Annotated Code of Maryland.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -362,17 +458,62 @@
     </para>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Prescriptive Authority.</heading>
+    <para>
+      <num>A.</num>
+      <text>A clinical nurse specialist may prescribe any drug or durable medical equipment within the clinical nurse specialist’s education, training, certification, and population foci.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A clinical nurse specialist when exercising prescriptive authority is accountable for competency in:</text>
+      <para>
+        <num>(1)</num>
+        <text>Problem identification through appropriate assessment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Medication and device selection;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Patient education for use of therapeutics;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Knowledge of interactions of therapeutics;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Evaluation of outcome; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Recognition and management of side effects, adverse reactions, and complications.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205, </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; <cite doc="Md. Code" path="gho|8-205">Health Occupations Article, §8-205 </cite>and 8-514; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-06-25">Effective date: June 25, 1990 (17:12 Md. R. 1494)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-01"><cite path="|10|27|12|.07|C.">Regulation .07C</cite> adopted effective August 1, 1994 (21:15 Md. R. 1306)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-06-26" discontinuity="true">Chapter revised effective June 26, 2000 (27:12 Md. R. 1140)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|12|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|12|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667); July 6, 2026 (53:13 Md. R. 587)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|12|.03">Regulation .03</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-17"><cite path="|10|27|12|.03|B.">Regulation .03B</cite>, C amended effective October 17, 2011 (38:21 Md. R. 1279)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|12|.04">Regulation .04</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|12|.05">Regulation .05</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|12|.05|H.">Regulation .05H</cite>, I amended effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|12|.05|J.">Regulation .05J</cite> adopted effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|12|.06|F.">Regulation .06F</cite>—H amended effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|12|.06|I.">Regulation .06I</cite> adopted effective July 6, 2026 (53:13 Md. R. 587)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|12|.07">Regulation .07</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|12|.08|A.">Regulation .08A</cite>, C amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|12|.09">Regulation .09</cite> adopted effective July 6, 2026 (53:13 Md. R. 587)</annotation>
   </annotations>
 </container>

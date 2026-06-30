@@ -1276,7 +1276,7 @@
             <td>36-12</td>
             <td><strong>Boating Offenses</strong><br/>Failure to immediately stop a vessel involved in a collision, accident, or other casualty when the person knew or reasonably should have known that the death of another person might occur and death actually occurred</td>
             <td/>
-            <td>NR, §8-724(3)(iii)(2)</td>
+            <td>NR, §8-724(a)(3)(iii)(2)</td>
             <td data-text-align="center">Felony</td>
             <td data-text-align="center">10Y</td>
             <td/>
@@ -1829,7 +1829,7 @@
           </tr>
           <tr>
             <td>65</td>
-            <td><strong>CDS and Paraphernalia</strong><br/>Paraphernalia—distribute controlled paraphernalia—non-cannabis, <strong>subsequent</strong></td>
+            <td><strong>CDS and Paraphernalia</strong><br/>Paraphernalia— possess or distribute controlled paraphernalia—non-cannabis, <strong>subsequent</strong></td>
             <td>1-2214<br/>1-2215</td>
             <td>CR, §5-620(d)(2)</td>
             <td data-text-align="center">Misd.</td>
@@ -2626,7 +2626,64 @@
             <td>$10,000</td>
           </tr>
           <tr>
-            <td colspan="10">94 Vacant</td>
+            <td>94</td>
+            <td>
+              <p>
+                <strong>Commercial Fraud, Other</strong>
+              </p>
+              <p>Providing heating, ventilation, air-conditioning, or refrigeration services without a license; employing unlicensed individuals; misrepresentation as license holder, 1<sup>st</sup> offense</p>
+            </td>
+            <td>
+              <p>1-1429</p>
+              <p>2-0672</p>
+              <p>2-0673</p>
+              <p>2-0674</p>
+              <p>2-0675</p>
+            </td>
+            <td>
+              <p>BR, §9A-501</p>
+              <p>BR, §9A-502</p>
+              <p>BR, §9A-503</p>
+              <p>BR, §9A-504</p>
+              <p>BR, §9A-505(a)(2)</p>
+              <p>(penalty)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">6M</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$1,000</td>
+          </tr>
+          <tr>
+            <td>94-1</td>
+            <td>
+              <p>
+                <strong>Commercial Fraud, Other</strong>
+              </p>
+              <p>Providing heating, ventilation, air-conditioning, or refrigeration services without a license; employing unlicensed individuals; misrepresentation as license holder, <strong>subsequent</strong></p>
+            </td>
+            <td>
+              <p>1-1429</p>
+              <p>2-0672</p>
+              <p>2-0673</p>
+              <p>2-0674</p>
+              <p>2-0675</p>
+            </td>
+            <td>
+              <p>BR, §9A-501</p>
+              <p>BR, §9A-502</p>
+              <p>BR, §9A-503</p>
+              <p>BR, §9A-504</p>
+              <p>BR, §9A-505(a)(2)</p>
+              <p>(penalty)</p>
+            </td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">2Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$5,000</td>
           </tr>
           <tr>
             <td>95</td>
@@ -4238,7 +4295,7 @@
             <td data-text-align="center">Misd.</td>
             <td data-text-align="center">1Y</td>
             <td/>
-            <td data-text-align="center">Property</td>
+            <td data-text-align="center">Person</td>
             <td data-text-align="center">VII</td>
             <td>$1,000</td>
           </tr>
@@ -6576,6 +6633,18 @@
             <td>$500</td>
           </tr>
           <tr>
+            <td>257-1</td>
+            <td><strong>Motor Vehicle Offense</strong><br/>Obtaining, or attempting to obtain, a driver’s license or moped operator’s permit by misrepresentation</td>
+            <td/>
+            <td>TR, §16-301(a), (b)<br/>TR, §16-301(r)(2) (penalty)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">3Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$2,500</td>
+          </tr>
+          <tr>
             <td>258</td>
             <td><strong>Motor Vehicle Offense </strong><br/>Driving while license is refused, canceled, suspended, or revoked, 1<sup>st</sup> offense</td>
             <td/>
@@ -6658,6 +6727,18 @@
             <td data-text-align="center">Property</td>
             <td data-text-align="center">VI</td>
             <td>$10,000</td>
+          </tr>
+          <tr>
+            <td>263-1</td>
+            <td><strong>Motor Vehicle Offense</strong><br/>Commit fraud or misrepresentation in applying for an identification card</td>
+            <td/>
+            <td>TR, §12-301(c), (d)<br/>TR, §12-301(m)(1) (penalty)</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">3Y</td>
+            <td/>
+            <td data-text-align="center">Property</td>
+            <td data-text-align="center">VII</td>
+            <td>$2,500</td>
           </tr>
           <tr>
             <td>264</td>
@@ -7134,13 +7215,7 @@
           </tr>
           <tr>
             <td>301-1</td>
-            <td>
-              <p>
-                <strong>Perjury</strong>
-              </p>
-              <p>Perjury—willfully make a false, fraudulent, or misleading statement under oath in a campaign finance report; submit a campaign finance report on behalf of another person without their</p>
-              <p>consent</p>
-            </td>
+            <td><strong>Perjury</strong><br/>Perjury—willfully make a false, fraudulent, or misleading statement under oath in a campaign finance report; submit a campaign finance report on behalf of another person without their consent</td>
             <td>1-0996</td>
             <td>
               <p>EL, §14-109(c)</p>
@@ -7156,10 +7231,7 @@
           </tr>
           <tr>
             <td>301-2</td>
-            <td>
-              <p>P<strong>erjury</strong></p>
-              <p>Perjury—willfully make a false, fraudulent, or misleading statement under oath in a statement filed by a person providing compensation to a lobbyist; make an electronic submission of a statement required by GP, §5-716 on behalf of another person without their consent</p>
-            </td>
+            <td>P<strong>erjury</strong><br/>Perjury—willfully make a false, fraudulent, or misleading statement under oath in a statement filed by a person providing compensation to a lobbyist; make an electronic submission of a statement required by GP, §5-716 on behalf of another person without their consent</td>
             <td/>
             <td>
               <p>GP, §5-716(n)</p>
@@ -7358,12 +7430,7 @@
           </tr>
           <tr>
             <td>317</td>
-            <td>
-              <p>
-                <strong>Protected Individuals, Protected Information</strong>
-              </p>
-              <p>Publish personal information of protected individual knowing that publishing the information poses a threat to protected individual; and its publishing results in assault, harassment, trespass, or malicious destruction of property</p>
-            </td>
+            <td><strong>Protected Individuals, Protected Information</strong><br/>Publish personal information of protected individual knowing that publishing the information poses a threat to protected individual; and its publishing results in assault, harassment, trespass, or malicious destruction of property</td>
             <td>1-1833</td>
             <td>CJ, §3-2304</td>
             <td data-text-align="center">Misd.</td>
@@ -8526,6 +8593,18 @@
             <td data-text-align="center">Person</td>
             <td data-text-align="center">VII</td>
             <td>$2,500</td>
+          </tr>
+          <tr>
+            <td>366-4</td>
+            <td><strong>Surveillance and Other Crimes Against Privacy</strong><br/>Conduct or procure another to conduct visual surveillance of an individual in a private place without their consent (“peeping Tom”)</td>
+            <td>1-0013</td>
+            <td>CR, §3-901</td>
+            <td data-text-align="center">Misd.</td>
+            <td data-text-align="center">30D</td>
+            <td/>
+            <td data-text-align="center">Person</td>
+            <td data-text-align="center">VII</td>
+            <td>$1,000</td>
           </tr>
           <tr>
             <td>367</td>
@@ -9707,6 +9786,7 @@
     <annotations>
       <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
       <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-048-F" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -9716,7 +9796,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-11-01"><cite path="|14|22|02|.01|C.">Regulation .01C</cite>, P amended effective November 1, 2024 (51:21 Md. R. 927)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-11-02"><cite path="|14|22|02|.01|C.">Regulation .01C</cite>, S amended effective November 2, 2020 (47:22 Md. R. 936)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-11-15"><cite path="|14|22|02|.01|D.">Regulation .01D</cite>, F, H amended effective November 15, 2021 (48:23 Md. R. 982)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-01"><cite path="|14|22|02|.02">Regulation .02</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); March 28, 2005 (32:6 Md. R. 636); November 24, 2005 (32:23 Md. R. 1828); February 27, 2006 (33:4 Md. R. 353); April 10, 2006 (33:7 Md. R. 674); August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); February 1, 2007 (34:2 Md. R. 138); January 1, 2008 (34:24 Md. R. 2159); July 1, 2008 (35:13 Md. R 1181); December 1, 2008 (35:22 Md. R. 1958); April 1, 2009 (36:6 Md. R. 492); November 1, 2009 (36:21 Md. R. 1593); May 1, 2010 (37:7 Md. R. 575); November 1, 2010 (37:21 Md. R. 1437); June 1, 2011 (38:9 Md. R. 553); November 1, 2011 (38:22 Md. R. 1347); March 1, 2012 (39:3 Md. R. 259); November 1, 2012 (39:20 Md. R. 1307); April 1, 2013 (40:6 Md. R. 475); November 1, 2013 (40:21 Md. R. 1780); April 1, 2014 (41:6 Md. R. 380); December 1, 2014 (41:22 Md. R. 1319); June 1, 2015 (42:10 Md. R. 685); February 1, 2016 (43:1 Md. R. 14); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); November 6, 2017 (44:22 Md. R. 1038); April 1, 2018 (45:5 Md. R. 288); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); June 1, 2020 (47:11 Md. R. 560); July 1, 2020 (47:11 Md. R. 560); November 2, 2020 (47:22 Md. R. 936); November 15, 2021 (48:23 Md. R. 982); February 1, 2022 (49:1 Md. R. 13); October 1, 2022 (49:18 Md. R. 819)​​​; November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); July 1, 2023 (50:12 Md. R.476);  November 13, 2023 (50:22 Md. R. 977); June 10, 2024 (51:11 Md. R. 580); November 1, 2024 (51:21 Md. R. 927); July 1, 2025 (52:10 Md. R. 438); October 27, 2025 (52:21 Md. R. 1025) ; January 01, 2026 (52:25 Md. R. 1269)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|22|02|.02">Regulation .02</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); March 28, 2005 (32:6 Md. R. 636); November 24, 2005 (32:23 Md. R. 1828); February 27, 2006 (33:4 Md. R. 353); April 10, 2006 (33:7 Md. R. 674); August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); February 1, 2007 (34:2 Md. R. 138); January 1, 2008 (34:24 Md. R. 2159); July 1, 2008 (35:13 Md. R 1181); December 1, 2008 (35:22 Md. R. 1958); April 1, 2009 (36:6 Md. R. 492); November 1, 2009 (36:21 Md. R. 1593); May 1, 2010 (37:7 Md. R. 575); November 1, 2010 (37:21 Md. R. 1437); June 1, 2011 (38:9 Md. R. 553); November 1, 2011 (38:22 Md. R. 1347); March 1, 2012 (39:3 Md. R. 259); November 1, 2012 (39:20 Md. R. 1307); April 1, 2013 (40:6 Md. R. 475); November 1, 2013 (40:21 Md. R. 1780); April 1, 2014 (41:6 Md. R. 380); December 1, 2014 (41:22 Md. R. 1319); June 1, 2015 (42:10 Md. R. 685); February 1, 2016 (43:1 Md. R. 14); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); November 6, 2017 (44:22 Md. R. 1038); April 1, 2018 (45:5 Md. R. 288); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); April 1, 2020 (47:6 Md. R. 342); June 1, 2020 (47:11 Md. R. 560); July 1, 2020 (47:11 Md. R. 560); November 2, 2020 (47:22 Md. R. 936); November 15, 2021 (48:23 Md. R. 982); February 1, 2022 (49:1 Md. R. 13); October 1, 2022 (49:18 Md. R. 819); November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); July 1, 2023 (50:12 Md. R.476);  November 13, 2023 (50:22 Md. R. 977); June 10, 2024 (51:11 Md. R. 580); November 1, 2024 (51:21 Md. R. 927); July 1, 2025 (52:10 Md. R. 438); October 27, 2025 (52:21 Md. R. 1025) ; January 01, 2026 (52:25 Md. R. 1269); July 6, 2026 (53:13 Md. R. 587)</annotation>
     <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-171-F" type="History" display="false"/>
     <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" type="History" display="false"/>
   </annotations>

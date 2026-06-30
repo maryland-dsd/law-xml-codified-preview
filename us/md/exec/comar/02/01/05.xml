@@ -16,13 +16,15 @@
     <heading>Findings and Purpose.</heading>
     <para>
       <num>A.</num>
-      <text>Findings. The Division of Consumer Protection of the Office of the Attorney General and the Consumer Council find that the refund and exchange policies of merchants, when left unstated, place the consumer at a disadvantage, particularly with merchants who vary refund and exchange policies with different consumers or who change policies without notice. Merchants' failure to communicate policies on refunds and exchanges, be it a policy of no refunds, cash refunds, or credit for returned merchandise, is a practice which is unfair and deceptive.</text>
+      <text>Findings. The Division of Consumer Protection of the Office of the Attorney General and the Consumer Protection Commission find that the refund and exchange policies of merchants, when left unstated, place the consumer at a disadvantage, particularly with merchants who vary refund and exchange policies with different consumers or who change policies without notice. Merchants' failure to communicate policies on refunds and exchanges, be it a policy of no refunds, cash refunds, or credit for returned merchandise, is a practice which is unfair and deceptive.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Purpose. The purpose of these regulations is to require that a policy, a change in policy, or special sales promotion policies (such as final sale, fire sale, sale on “as is” merchandise, no returns, etc.), be clearly communicated to the consumer in all retail sales and to declare it to be an unfair and deceptive practice to fail to communicate the merchants' policies.</text>
+      <text>Purpose. The purpose of these regulations is to require that a policy, a change in policy, or special sales promotion policies (such as final sale, fire sale, sale on “as is” merchandise, no returns, etc.), be clearly communicated to the consumer in all retail sales and to declare it to be an unfair, abusive, and deceptive practice to fail to communicate the merchants' policies.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-298-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -41,25 +43,42 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.04</num>
-    <heading>Unfair and Deceptive Trade Practices.</heading>
-    <text>It shall be an unfair or deceptive trade practice prohibited by <cite doc="Md. Code" path="gcl|13-303">Commercial Law Article, §13-303, Annotated Code of Maryland</cite>, for a merchant in any retail sale to fail to disclose to all customers in writing, either on the sales form, by a clearly visible sign, or by conspicuous label on the consumer goods, the terms and conditions of the merchant's refund and exchange policies, or a policy of no refunds or exchanges. A merchant shall be deemed in compliance with the requirements of this regulation if the merchant discloses to the customer in writing any time limit on refunds or exchanges and, upon request by the customer or gift recipient, within a reasonable time of the purchase:</text>
+    <heading>Unfair, Abusive, and Deceptive Trade Practices.</heading>
     <para>
       <num>A.</num>
-      <text>Gives a cash refund for a cash purchase;</text>
+      <text>It shall be an unfair, abusive, or deceptive trade practice prohibited by <cite doc="Md. Code" path="gcl|13-303">Commercial Law Article, §13-303, Annotated Code of Maryland</cite>, for a merchant in any retail sale to fail to disclose to all customers in writing the terms and conditions of the merchant's refund and exchange policies, or a policy of no refunds or exchanges:</text>
+      <para>
+        <num>(1)</num>
+        <text>For in-person retail sales either by a clearly visible sign, or by a conspicuous label on the consumer goods; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For online retail sales, on a webpage the consumer must view before completing the transaction.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Gives a cash refund or account credit for a credit purchase;</text>
+      <text>A merchant shall be deemed in compliance with the requirements of this regulation if the merchant discloses to the customer in writing any time limit on refunds or exchanges and, upon request by the customer or gift recipient, within a reasonable time of the purchase:</text>
+      <para>
+        <num>(1)</num>
+        <text>Gives a cash refund for a cash purchase;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Gives a cash refund or account credit for a credit purchase;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Gives a cash refund, account credit, or merchandise exchange for a gift purchase; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Otherwise complies with the refund and exchange policies disclosed.</text>
+      </para>
     </para>
-    <para>
-      <num>C.</num>
-      <text>Gives a cash refund, account credit, or merchandise exchange for a gift purchase; or</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Otherwise complies with the refund and exchange policies disclosed.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-298-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -79,5 +98,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gcl|13-205">Commercial Law Article, §13-205, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-09-01">Effective date: September 1, 1976 (3:15 Md. R. 784)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|02|01|05|.02">Regulation .02</cite> amended effective July 6, 2026 (53:13 Md. R 586)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|02|01|05|.04">Regulation .04</cite> amended effective July 6, 2026 (53:13 Md. R 586)</annotation>
   </annotations>
 </container>

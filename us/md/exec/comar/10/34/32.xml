@@ -11,7 +11,7 @@
     <text>53:13  25-248-E-1  (Regulations <cite path="|10|34|32|.02">.02</cite> — <cite path="|10|34|32|.08">.08</cite>) EMERGENCY ACTION IN EFFECT 11/20/2025 — 11/28/2026</text>
     <annotations>
       <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -88,7 +88,7 @@
     </para>
     <annotations>
       <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section cache:ref-path="10|34|32|.03">
@@ -180,8 +180,8 @@
       </para>
     </para>
     <para>
-      <num>B-1.</num>
-      <text>Protocol Requirements.</text>
+      <num>C.</num>
+      <text>Requirements.</text>
       <para>
         <num>(1)</num>
         <text>A pharmacist may order and administer a vaccination in accordance with a protocol that meets the requirements of <cite path="|10|34|32|.06">Regulation .06 of this chapter</cite> to an individual who is at least 7 years old provided that:</text>
@@ -224,15 +224,15 @@
       </para>
     </para>
     <para>
-      <num>B-2.</num>
+      <num>D.</num>
       <text>A licensed pharmacist may order and administer to an adult a vaccination in accordance with a protocol that meets the requirements of <cite path="|10|34|32|.06">Regulation .06 of this chapter</cite> that is listed in the Center for Disease Control and Prevention’s Health Information for International Travel.</text>
     </para>
     <para>
-      <num>C.</num>
+      <num>E.</num>
       <text>A pharmacist shall report to the ImmuNet Program established under Health-General Article, §18-109, Annotated Code of Maryland, a vaccination administered by the pharmacist to an individual.</text>
     </para>
     <para>
-      <num>D.</num>
+      <num>F.</num>
       <text>A pharmacist shall:</text>
       <para>
         <num>(1)</num>
@@ -252,12 +252,12 @@
       </para>
     </para>
     <para>
-      <num>E.</num>
+      <num>G.</num>
       <text>A pharmacy student in a Pharmacy Experiential Program, who has successfully completed a Board-approved certification course, may administer vaccinations under direct supervision of a licensed pharmacist who meets requirements in <cite path="10|34|32|.03|A.">§A of this regulation</cite>.</text>
     </para>
     <annotations>
       <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -442,6 +442,7 @@
     </para>
     <annotations>
       <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -470,6 +471,7 @@
     </para>
     <annotations>
       <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -635,7 +637,7 @@
           <text>Documentation:</text>
           <para>
             <num>(i)</num>
-            <text>Of at least one attempt to inform the patient’s primary care provider or prescriber that the vaccination has been administered; or</text>
+            <text>Of at least one attempt to inform the patient’s primary care provider, and prescriber if the vaccination is administered in accordance with a prescription, that the vaccination has been administered; or</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -670,6 +672,7 @@
     </para>
     <annotations>
       <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -679,6 +682,7 @@
     <text>Fees charged for the administration of vaccinations may not exceed $50 in addition to the cost of each vaccination.</text>
     <annotations>
       <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <annotations>
@@ -690,12 +694,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-08-01" discontinuity="true">Chapter revised effective August 1, 2009 (36:15 Md. R. 1167)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-01-23"><cite path="|10|34|32|.03">Regulation .03</cite> amended as an emergency provision effective October 1, 2011 (38:24 Md. R. 1495); amended permanently effective January 23, 2012 (39:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-28" discontinuity="true">Chapter revised effective April 28, 2014 (41:8 Md. R. 472)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-28"><cite path="|10|34|32|.02|B.">Regulation .02B</cite> amended as an emergency provision effective November 20, 2025 (52:25 Md. R. 1266); emergency status extended to November 28, 2026 (53:13 Md. R. XXX)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-28"><cite path="|10|34|32|.03">Regulation .03</cite> amended as an emergency provision effective November 20, 2025 (52:25 Md. R. 1266); emergency status extended to November 28, 2026 (53:13 Md. R. XXX)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-28"><cite path="|10|34|32|.02|B.">Regulation .02B</cite> amended as an emergency provision effective November 20, 2025 (52:25 Md. R. 1266); emergency status extended to November 28, 2026 (53:13 Md. R. 582)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-28"><cite path="|10|34|32|.03">Regulation .03</cite> amended as an emergency provision effective November 20, 2025 (52:25 Md. R. 1266); emergency status extended to November 28, 2026 (53:13 Md. R. 582)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-31"><cite path="|10|34|32|.03|D.">Regulation .03D</cite> amended effective December 31, 2018 (45:26 Md. R. 1246)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-28">Regulations <cite path="|10|34|32|.04">.04</cite>— <cite path="|10|34|32|.08">.08</cite> amended as an emergency provision effective November 20, 2025 (52:25 Md. R. 1266); emergency status extended to November 28, 2026 (53:13 Md. R. XXX)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-28">Regulations <cite path="|10|34|32|.04">.04</cite>— <cite path="|10|34|32|.08">.08</cite> amended as an emergency provision effective November 20, 2025 (52:25 Md. R. 1266); emergency status extended to November 28, 2026 (53:13 Md. R. 582)</annotation>
     <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
-    <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-248-E-I" type="History" display="false"/>
   </annotations>
   <annotation app="2025-11-20" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|emergency|25-248-E" type="History" display="false" exp="2026-10-01"/>
 </container>

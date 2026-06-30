@@ -13,9 +13,19 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The purpose of this subtitle is to define the circumstances under which a certified blind trust or an excepted blind trust would be viewed by the Commission as meeting the statutory criteria for exception from these conflict of interest provisions. An underlying concept is that, in situations where a trust is created by an independent third party or there are diversified holdings in a trust created by a government official or employee, and where the official or employee does not know the identity of the financial interests and does not control these interests, then his or her official actions would not be influenced or appear to be influenced by private interests. Thus, the general public policy goal to be achieved through reliance on a blind trust is an actual “blindness” or lack of knowledge or control by the official or employee with respect to the interests held in trust.</text>
+      <text>The purpose of this subtitle is to define the circumstances under which a certified blind trust would be viewed by the Commission as meeting the statutory criteria for exception from these conflict of interest provisions. An underlying concept is that, in situations where a trust is created by an independent third party or there are diversified holdings in a trust created by a government official or employee, and where the official or employee does not know the identity of the financial interests and does not control these interests, then his or her official actions would not be influenced or appear to be influenced by private interests. Thus, the general public policy goal to be achieved through reliance on a blind trust is an actual "blindness" or lack of knowledge or control by the official or employee with respect to the interests held in trust.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>This subtitle sets forth additional blind trust obligations for the Governor or Governor-elect.  This subtitle requires the Governor or Governor-elect to consult with the State Ethics Commission to establish a certified blind trust or divest certain interests within a specified period of time, requires the Governor to enter into a nonparticipation agreement with the State Ethics Commission for any interests not included in a blind trust, and requires annual compliance certifications related to the Governor’s blind trust and nonparticipation agreements.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>This subtitle requires the State Ethics Commission to post the Governor’s approved certified blind trust with supporting documents and nonparticipation agreement on its website.  The State Ethics Commission is also required to provide copies of the Governor’s nonparticipation agreement to specified entities.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="19A|06|01|.02">
     <prefix>Regulation</prefix>
@@ -27,15 +37,15 @@
     </para>
     <para>
       <num>B.</num>
-      <text>In addition to §§C—H of this regulation, the definitions set forth in COMAR 19A.01.02.02 have the meanings indicated where they appear in this subtitle.</text>
+      <text>The regulations in this subtitle set forth additional requirements for the Governor and Governor-elect in 19A.06.04.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>“Certified blind trust” means a blind trust arrangement for the management of interests held by an official or employee that is determined by the Commission to meet the criteria for certification under COMAR 19A.06.02.</text>
+      <text>In addition to §§D—H of this regulation, the definitions set forth in COMAR 19A.01.02.02 have the meanings indicated where they appear in this subtitle.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>“Excepted blind trust” means a trust that is determined by the Commission to qualify for exception pursuant to COMAR 19A.06.02.05.</text>
+      <text>“Certified blind trust” means a blind trust arrangement for the management of interests held by an official or employee that is determined by the Commission to meet the criteria for certification under COMAR 19A.06.02.</text>
     </para>
     <para>
       <num>E.</num>
@@ -53,7 +63,9 @@
       <num>H.</num>
       <text>“Trustee” includes a financial institution or other qualifying entity named in a trust instrument and also any officer, director, or employee of the institution or entity.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-015-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="19A|06|01|.03">
     <prefix>Regulation</prefix>
@@ -81,6 +93,9 @@
     <annotation managed="false" type="Authority" dest="container">General Provisions Article, §§<cite doc="Md. Code" path="ggp|5-206">5-206</cite>, <cite doc="Md. Code" path="ggp|5-501">5-501</cite>, <cite doc="Md. Code" path="ggp|5-502">5-502</cite>, and <cite doc="Md. Code" path="ggp|5-608">5-608</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-05-27">Effective date: May 27, 1991 (18:10 Md. R. 1118)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-04-07">Regulations <cite path="|19A|06|01|.01">.01</cite>—<cite path="|19A|06|01|.03">.03</cite> amended effective April 7, 1997 (24:7 Md. R. 554)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|19A|06|01|.01|B.">Regulation .01B</cite> amended effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|19A|06|01|.01|C.">Regulation .01C</cite>, D adopted effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|19A|06|01|.02">Regulation .02</cite> amended effective July 6, 2026 (53:13 Md. R. 587)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-16"><cite path="|19A|06|01|.03|A.">Regulation .03A</cite> amended effective January 16, 2017 (44:1 Md. R. 12)</annotation>
   </annotations>
 </container>

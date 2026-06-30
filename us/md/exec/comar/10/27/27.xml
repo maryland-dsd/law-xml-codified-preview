@@ -52,14 +52,94 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Clinical nurse specialist” means an advanced practice registered nurse certified by the Board to practice as a clinical nurse specialist in this State.</text>
+        <text>“Clinical nurse specialist” means an individual who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Meets one of the following requirements:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is licensed by the Board to practice registered nursing; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has a multistate licensure privilege to practice registered nursing under the Nurse Licensure Compact; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is certified by the Board to practice as a clinical nurse specialist.</text>
+        </para>
       </para>
       <para>
         <num>(5)</num>
-        <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B.">COMAR 10.27.01.01B</cite>.</text>
+        <text>“Durable medical equipment” means equipment that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Can withstand repeated use;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is used to serve a medically necessary purpose; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Has no practical use in the absence of illness, injury, disability, or health condition.</text>
+        </para>
       </para>
       <para>
         <num>(6)</num>
+        <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B.">COMAR 10.27.01.01B</cite>.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Practice as a Clinical Nurse Specialist.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Practice as a clinical nurse specialist” means to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Provide direct care to patients with complex needs;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Act as a consultant to another health care provider as needed;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Conduct health-related research; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Provide education and guidance for staff nurses.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Practice as a clinical nurse specialist” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>Ordering, performing, and interpreting laboratory tests;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Ordering diagnostic tests and using the findings or results in the care of patients;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Prescribing drugs and durable medical equipment in accordance with <cite path="|10|27|27|.07">Regulation .07 of this chapter</cite>;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Ordering home health and hospice care; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Initiating, monitoring, and altering appropriate therapies or treatments.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
         <text>“Registered nurse (RN)” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -71,15 +151,17 @@
         </para>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(9)</num>
         <text>“Standard of care” means the practice of clinical nurse specialist in accordance with the core competencies and behaviors specified by the National Association of Clinical Nurse Specialists (NACNS), American Nurse Credentialing Center (ANCC), American Association of Critical Care Nurses (AACN), or other national certifying body recognized by the Board.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(10)</num>
         <text>“System” means the setting within which the clinical nurse specialist is practicing<em>.</em></text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -255,7 +337,35 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The clinical nurse specialist provides direct care to patients with complex needs, acts as a consultant, conducts research, and provides education and guidance for staff nurses.</text>
+      <text>The clinical nurse specialist:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provides direct care to patients with complex needs;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Acts as a consultant;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Leads evidence-based practice;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Conducts research;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Optimizes organizational systems;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Advances nursing practice; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Provides education and guidance for staff nurses.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
@@ -278,7 +388,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Establishing medical diagnosis for common short-term and chronic stable health problems;</text>
+        <text>Establishing medical diagnosis for short-term and chronic stable health problems;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -310,7 +420,7 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>Consulting or collaborating with a licensed physician or other health care provider as needed; and</text>
+        <text>Consulting or collaborating with a licensed physician or other health care provider as needed;</text>
       </para>
       <para>
         <num>(12)</num>
@@ -329,11 +439,21 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Alleviate patient distress.</text>
+          <text>Alleviate patient distress; and</text>
         </para>
       </para>
+      <para>
+        <num>(13)</num>
+        <text>Prescribing drugs and durable medical equipment in accordance with <cite path="|10|27|27|.07">Regulation .07 of this chapter</cite>.</text>
+      </para>
     </para>
-    <annotations/>
+    <para>
+      <num>F.</num>
+      <text>The clinical nurse specialist shall maintain medical records in accordance with Health-General Article, Title 4, Subtitle 4, Annotated Code of Maryland.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -375,41 +495,99 @@
     <heading>Unlawful Practices.</heading>
     <para>
       <num>A.</num>
-      <text>Unless authorized to practice under this chapter, an individual may not use the following words or abbreviations:</text>
+      <text>Unless certified as a clinical nurse specialist under this chapter, an individual may not:</text>
       <para>
         <num>(1)</num>
-        <text>Certified clinical nurse specialist;</text>
+        <text>Practice as a clinical nurse specialist;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Clinical nurse specialist (CNS);</text>
+        <text>Represent to the public by title, description of services, method, procedure, or otherwise that the individual is authorized to practice as a clinical nurse specialist; or</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Clinical Registered Nurse Specialist (CRNS);</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Clinical nurse specialist graduate; or</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Nurse specialist graduate.</text>
+        <text>Use the following words or abbreviations:</text>
+        <para>
+          <num>(a)</num>
+          <text>Certified clinical nurse specialist;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Clinical nurse specialist (CNS);</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Clinical Registered Nurse Specialist (CRNS);</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Clinical nurse specialist graduate; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Nurse specialist graduate.</text>
+        </para>
       </para>
     </para>
     <para>
       <num>B.</num>
       <text>An individual certified under this chapter shall be subject to disciplinary prohibitions and sanctions set forth under Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-316">8-316</cite> and <cite doc="Md. Code" path="gho|8-701">8-701</cite> — 8-703, Annotated Code of Maryland.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Prescriptive Authority.</heading>
+    <para>
+      <num>A.</num>
+      <text>A clinical nurse specialist may prescribe any drug or durable medical equipment within the clinical nurse specialist’s education, training, certification, and population foci.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A clinical nurse specialist, when exercising prescriptive authority, is accountable for competency in:</text>
+      <para>
+        <num>(1)</num>
+        <text>Problem identification through appropriate assessment;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Medication and device selection;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Patient education for use of therapeutics;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Knowledge of interactions of therapeutics;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Evaluation of outcome; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Recognition and management of side effects, adverse reactions, and complications.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), (2), (4), and (5) and 8-302(b)(1)(iii) and (2)(ii), Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), (2), (4), and (5), 8-302, and 8-514, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-10-01">Effective date: October 1, 2012 (39:19 Md. R. 1236)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-02-27"><cite path="|10|27|27|.02|D.">Regulation .02D</cite> amended as an emergency provision effective September 1, 2014 (41:19 Md. R. 1074); emergency status expired effective February 27, 2015</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-04-13"><cite path="|10|27|27|.02|C.">Regulation .02C</cite>, D repealed effective April 13, 2015 (42:7 Md. R. 569)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02" discontinuity="true">Chapter revised effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|10|27|27|.01|B.">Regulation .01B</cite> amended effective November 14, 2022 (49:23 Md. R. 996)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|27|.01|B.">Regulation .01B</cite> amended effective November 14, 2022 (49:23 Md. R. 996); July 6, 2026 (53:13 Md. R. 587)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|10|27|27|.04">Regulation .04</cite> amended effective November 14, 2022 (49:23 Md. R. 996)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|27|.04|B.">Regulation .04B</cite>, E amended effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|27|.04|F.">Regulation .04F</cite> adopted effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|27|.06|A.">Regulation .06A</cite> amended effective July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|10|27|27|.07">Regulation .07</cite> adopted effective July 6, 2026 (53:13 Md. R. 587)</annotation>
   </annotations>
 </container>

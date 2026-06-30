@@ -71,15 +71,7 @@
       <text>Eligibility for Specific Seed Funds.</text>
       <para>
         <num>(1)</num>
-        <text>For Technology Commercialization Fund investments, at the time of the application and initial investment, the business:</text>
-        <para>
-          <num>(a)</num>
-          <text>Has raised not more than $10,000,000 of dilutive funding, not including the investment; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Employs not more than 30 employees.</text>
-        </para>
+        <text>For Technology Commercialization Fund investments, at the time of the application and initial investment, the business employs not more than 30 employees.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -90,15 +82,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>At the time of the application and initial investment:</text>
-          <para>
-            <num>(i)</num>
-            <text>Has raised not more than $10,000,000 of dilutive funding, not including the investment; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Employs not more than 30 employees.</text>
-          </para>
+          <text>At the time of the application and initial investment, employs not more than 30 employees:</text>
         </para>
       </para>
       <para>
@@ -118,20 +102,12 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>At the time of application and initial investment:</text>
-          <para>
-            <num>(i)</num>
-            <text>Has raised not more than $10,000,000 of dilutive funding, not including the investment; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Shall employ not more than 30 employees.</text>
-          </para>
+          <text>At the time of application and initial investment, employs not more than 30 employees.</text>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>For Life Science Investment Fund:</text>
+        <text>For Life Science Investment Fund investments:</text>
         <para>
           <num>(a)</num>
           <text>The business shall be considered an early-stage business if the business submits an application for investment to TEDCO:</text>
@@ -150,19 +126,13 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>At the time of the application and initial investment, the business:</text>
-          <para>
-            <num>(i)</num>
-            <text>Has raised not more than $10,000,000 of dilutive funding, not including the investment; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Employs not more than 30 employees.</text>
-          </para>
+          <text>At the time of the application and initial investment, the business employs not more than 30 employees.</text>
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-307-F" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -220,6 +190,6 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gec|10-409">Economic Development Article, §10-409, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-30">Effective date: December 30, 2019 (46:26 Md. R. 1167)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|14|04|05|.05|B.">Regulation .05B</cite> amended effective February 21, 2022 (49:4 Md. R. 302); January 20, 2025 (52:1 Md. R. 19)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|04|05|.05|B.">Regulation .05B</cite> amended effective February 21, 2022 (49:4 Md. R. 302); January 20, 2025 (52:1 Md. R. 19); July 6, 2026 (53:13 Md. R. 587)</annotation>
   </annotations>
 </container>

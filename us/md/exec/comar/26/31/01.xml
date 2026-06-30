@@ -43,6 +43,7 @@
       <annotation managed="false" type="Emergency Action">52:26  25-138-E  (Regulations <cite path="|26|31|01|.01">.01</cite>— <cite path="|26|31|01|.07">.07</cite>) EMERGENCY ACTION IN EFFECT 11/25/2025 — 5/24/2026</annotation>
       <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false" exp="2026-11-20"/>
       <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
+      <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -60,6 +61,7 @@
     <annotations>
       <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false" exp="2026-11-20"/>
       <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
+      <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section cache:ref-path="26|31|01|.03">
@@ -121,6 +123,7 @@
     <annotations>
       <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false" exp="2026-11-20"/>
       <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
+      <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -174,6 +177,7 @@
     <annotations>
       <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false" exp="2026-11-20"/>
       <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
+      <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section cache:ref-path="26|31|01|.05">
@@ -351,6 +355,7 @@
     <annotations>
       <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false" exp="2026-11-20"/>
       <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
+      <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -396,6 +401,7 @@
     <annotations>
       <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false" exp="2026-11-20"/>
       <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
+      <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <section>
@@ -417,13 +423,12 @@
     <annotations>
       <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false" exp="2026-11-20"/>
       <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
+      <annotation app="2026-05-24" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|25-138-E-I" type="History" display="false" exp="2026-11-28"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Environment Article, §§ <cite doc="Md. Code" path="gen|9-11">9-11</cite>A-<cite doc="Md. Code" path="gen|01">01</cite>—9-11A-23, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-11-25">Regulations <cite path="|26|31|01|.01">.01</cite>—<cite path="|26|31|01|.07">.07</cite> adopted as an emergency provision effective November 25, 2025 (52:25 Md. R. 1306)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-28">Regulations <cite path="|26|31|01|.01">.01</cite>—<cite path="|26|31|01|.07">.07</cite> adopted as an emergency provision effective November 25, 2025 (52:25 Md. R. 1306); emergency status extended to November 28, 2026 (53:13 Md. R. 583)</annotation>
   </annotations>
-  <annotation app="2026-05-07" doc="Editor Action 2026-05-07" eff="2026-05-07" path="" type="History" display="false"/>
-  <annotation app="2025-11-25" doc="Maryland Register, Volume 52, Issue 26" eff="2026-01-05" path="regulations|emergency|25-138-E" type="History" display="false" exp="2026-11-20"/>
 </container>
