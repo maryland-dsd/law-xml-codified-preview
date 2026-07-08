@@ -28,7 +28,9 @@
       <text>The requirements of this chapter do not apply to work areas subject to the Maryland Building Rehabilitation Code as adopted by the Department of Labor under <cite doc="Md. Code" path="gps|12-1004">Public Safety Article, §12-1004, Annotated Code of Maryland</cite>, except as provided by that Code.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" target-path="09|15|05|.02" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" target-path="09|15|05|.03" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" target-path="09|15|05|.01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -48,7 +50,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-16"><cite path="|09|15|05|.03|A.">Regulation .03A</cite> amended effective December 16, 2019 (46:25 Md. R. 1131)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-04-12"><cite path="|09|15|05|.03|F.">Regulation .03F</cite> amended effective April 12, 2004 (31:7 Md. R. 584)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|09|15|05|.03">Regulation .03</cite> repealed effective April 13, 2026 (53:7 Md. R. 326)</annotation>
-    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" target-path="09|15|05|annos" type="History" display="false"/>
   </annotations>
-  <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" type="History" display="false"/>
+  <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" target-path="09|15|05|.02" type="History" display="false"/>
+  <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-304-F" target-path="09|15|05|.03" type="History" display="false"/>
 </container>

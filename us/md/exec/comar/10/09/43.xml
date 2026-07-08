@@ -873,7 +873,7 @@
       <text>Individuals may be certified for a period of continuous eligibility as described in <cite path="10.09.24.12">COMAR 10.09.24.12</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" target-path="10|09|43|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -970,7 +970,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" target-path="10|09|43|.13" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1188,6 +1188,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-01-06" discontinuity="true">Chapter revised effective January 6, 2014 (40:26 Md. R. 2162)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|09|43|.10|D.">Regulation .10D</cite> adopted effective April 13, 2026 (53:7 Md. R. 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|09|43|.13|F.">Regulation .13F</cite> amended effective April 13, 2026 (53:7 Md. R. 328)</annotation>
-    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-260-F" target-path="10|09|43|annos" type="History" display="false"/>
   </annotations>
 </container>

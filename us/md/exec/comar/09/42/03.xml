@@ -40,8 +40,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -57,8 +57,8 @@
       <text>An employer shall participate in the State plan until the Division-approved effective date of an EPIP.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -154,8 +154,8 @@
       <text>An employer and/or EPIP administrator shall reimburse the State plan for the amounts and the Division may pursue all legal means to collect the amounts from the employer and/or EPIP administrator if the Division pays benefits from the State plan to a covered employee whom the EPIP was obligated to pay.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -164,8 +164,8 @@
     <heading>Job Protection and Retaliation.</heading>
     <text>Participation in an EPIP does not negate employer obligations with respect to job protection and retaliation under Labor and Employment Article, §§8.3-706, 801(b)(2)(v), and 904, Annotated Code of Maryland.</text>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|42|03|.05">
@@ -433,8 +433,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|42|03|.06">
@@ -462,8 +462,8 @@
       <text>Failure by an employer to cooperate with a Division review of an EPIP may result in the Division’s termination of the employer’s EPIP approval.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -515,8 +515,8 @@
       <text>If the employer or EPIP administrator does not provide the requested documentation by the deadline, the Division may terminate its approval of the EPIP.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|42|03|.08">
@@ -548,8 +548,8 @@
       <text>The Division may extend the deadline under <cite path="09|42|03|.08|C.">§C of this regulation</cite> once upon request from the employer.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|42|03|.09">
@@ -697,8 +697,8 @@
       <text>To the extent that any of the regulations in this section conflict with the Temporary Provisions applicable to EPIP termination in <cite path="|09|42|03|.10">Regulation .10 of this chapter</cite>, the provisions in <cite path="|09|42|03|.10">Regulation .10 of this chapter</cite> control.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|42|03|.10">
@@ -835,13 +835,13 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§8.3-101, 403, 503, and 705, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 290)</annotation>
   </annotations>
-  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" type="History" display="false"/>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-197-F" target-path="09|42" type="History" display="false"/>
 </container>

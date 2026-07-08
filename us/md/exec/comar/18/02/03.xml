@@ -157,7 +157,7 @@
       <text>An activity not listed in <cite path="18|02|03|.03|A.">§A of this regulation</cite> may be recognized as an approved agricultural activity at the discretion of the Department.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-132-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-132-F" target-path="18|02|03|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="18|02|03|.04">
@@ -272,7 +272,7 @@
       <text>Only Class 3 land under <cite path="|18|02|03|.08">Regulation .08 of this chapter</cite> will be used in developing ratio requirements.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" target-path="18|02|03|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -312,7 +312,7 @@
       <text>A woodland parcel less than 5 acres cannot be combined with another woodland parcel to establish an agricultural land unit as defined in <cite path="|18|02|03|.01|B.|(3)">Regulation .01B(3) of this chapter</cite> in order to meet the minimum parcel size of 5 acres.</text>
     </para>
     <annotations>
-      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-133-F" type="History" display="false"/>
+      <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-133-F" target-path="18|02|03|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="18|02|03|.07">
@@ -363,7 +363,7 @@
       </table>
     </text>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" target-path="18|02|03|.08" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -376,8 +376,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-01-24"><cite path="|18|02|03|.05|D.">Regulation .05D</cite>, E adopted effective January 24, 2022 (49:2 Md. R. 78)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-16"><cite path="|18|02|03|.06">Regulation .06</cite> amended effective February 16, 2026 (53:3 Md. R. 123)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-16"><cite path="|18|02|03|.08">Regulation .08</cite> amended effective October 16, 2000 (27:20 Md. R. 1841)</annotation>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-133-F" type="History" display="false"/>
-    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-132-F" type="History" display="false"/>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-133-F" target-path="18|02|03|annos" type="History" display="false"/>
+    <annotation app="2026-02-16" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|final|25-132-F" target-path="18|02|03|annos" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-020-F" target-path="18|02|03|annos" type="History" display="false"/>
   </annotations>
 </container>

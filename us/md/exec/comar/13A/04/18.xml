@@ -224,7 +224,7 @@
       <text>Student Participation. Each student shall have the opportunity to participate in the comprehensive health education program required by this chapter.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-293-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-293-F" target-path="13A|04|18|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -245,6 +245,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-01"><cite path="|13A|04|18|.02">Regulation .02</cite> amended effective August 1, 2016 (43:15 Md. R. 864)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-30" discontinuity="true">Regulations <cite path="|13A|04|18|.01">.01</cite>—<cite path="|13A|04|18|.02">.02</cite> repealed and new Regulations <cite path="|13A|04|18|.01">.01</cite>—<cite path="|13A|04|18|.02">.02</cite> adopted effective December 30, 2019 (46:26 Md. R. 1166)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|13A|04|18|.01">Regulation .01</cite> amended effective March 30, 2026 (53:6 Md. R. 291)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-293-F" type="History" display="false"/>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-293-F" target-path="13A|04|18|annos" type="History" display="false"/>
   </annotations>
 </container>

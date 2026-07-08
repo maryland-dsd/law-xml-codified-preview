@@ -474,7 +474,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.02" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <section>
@@ -583,7 +583,7 @@
       <text>A utility shall invoice an applicant for applicable non-tariff fees and charges including study fees and upgrade cost payments specified in this chapter within 30 days of a signed agreement. All other tariff fees shall be charged and collected in accordance with the utility tariff.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.05" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <section cache:ref-path="20|50|09|.06">
@@ -1531,7 +1531,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.06" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <section>
@@ -1863,7 +1863,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.09" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <section cache:ref-path="20|50|09|.10">
@@ -2131,7 +2131,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.10" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <section>
@@ -2255,7 +2255,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.11" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <section cache:ref-path="20|50|09|.12">
@@ -2863,7 +2863,7 @@
       <text>Level 4 Review Failure. If the interconnection request is denied, the utility shall provide the applicant a letter explaining the reasons for denying the interconnection request.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.12" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <section cache:ref-path="20|50|09|.13">
@@ -2907,7 +2907,7 @@
       <text>If a satisfactory resolution of the formal dispute pursuant to the procedures of <cite path="|20.32.01">COMAR 20.32.01</cite> is not achieved between the interconnection customer and utility, the interconnection customer or utility may request a hearing, pursuant to <cite doc="Md. Code" path="gpu|3-102">Public Utilities Article, §3-102, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.13" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <section>
@@ -3163,7 +3163,7 @@
       <text>For any small generator facility receiving an interconnection facilities study, the utility shall list and explain any study for which the cost of the actual upgrade exceeded the impact study’s estimate by at least 10 percent.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.14" type="History" display="false" exp="2026-10-10"/>
     </annotations>
   </section>
   <annotations>
@@ -3205,6 +3205,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.13">Regulation .13</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|20|50|09|.14|C.">Regulation .14C</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.14|C.">Regulation .14C</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
-    <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" type="History" display="false" exp="2026-10-10"/>
+    <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|annos" type="History" display="false" exp="2026-10-10"/>
   </annotations>
 </container>

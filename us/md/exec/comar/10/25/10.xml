@@ -724,7 +724,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-006-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-006-F" target-path="10|25|10|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|25|10|.08">
@@ -1174,6 +1174,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.16|B.">Regulation .16B</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.17">Regulation .17</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|10|25|10|.19">Regulation .19</cite> amended effective January 20, 2025 (52:1 Md. R. 18)</annotation>
-    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-006-F" type="History" display="false"/>
+    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-006-F" target-path="10|25|10|annos" type="History" display="false"/>
   </annotations>
 </container>

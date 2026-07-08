@@ -9,7 +9,7 @@
     <heading>Purpose.</heading>
     <text>This chapter is intended to carry out the provisions of Business Regulation Article, §§<cite doc="Md. Code" path="gbr|2-106">2-106</cite>.<cite doc="Md. Code" path="gbr|3">3</cite> and <cite doc="Md. Code" path="gbr|2-106">2-106</cite>.4, Annotated Code of Maryland, and <cite doc="Md. Code" path="gbo">Business Occupations and Professions Article, Title 17, Annotated Code of Maryland</cite>. In particular, it is intended to set various fees in order to cover the actual documented direct and indirect costs of fulfilling the statutory and regulatory duties of the Real Estate Commission.</text>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" target-path="09|11|09|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -94,7 +94,7 @@
       <text>CE Course Approval—$25.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" target-path="09|11|09|.02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -104,6 +104,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-11"><cite path="|09|11|09|.02|A.">Regulation .02A</cite>, B amended effective January 11, 2016 (42:26 Md. R. 1594)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|09|11|09|.02|D.">Regulation .02D</cite> amended effective April 27, 2026 (53:8 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|09|11|09|.02|I.">Regulation .02I</cite> adopted effective April 27, 2026 (53:8 Md. R. 355)</annotation>
-    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-249-F" target-path="09|11|09|annos" type="History" display="false"/>
   </annotations>
 </container>

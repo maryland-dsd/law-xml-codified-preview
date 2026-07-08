@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>This chapter governs reduction facility inspections, the complaint process, investigations, grounds for discipline, and penalties.</text>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" target-path="09|34" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -261,7 +261,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" target-path="09|34" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -349,7 +349,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" target-path="09|34" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -373,7 +373,7 @@
       <text>The Office may initiate a complaint or investigation.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" target-path="09|34" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -382,7 +382,7 @@
     <heading>Investigations.</heading>
     <text>The Office and the Board may share investigative information and conduct joint investigations.</text>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" target-path="09|34" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -398,12 +398,12 @@
       <text>The Office may seek the remedies and may impose the penalties set forth in <cite doc="Md. Code" path="gbr">Business Regulation Article, Title 5, Annotated Code of Maryland</cite>, for violations of that title.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" target-path="09|34" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|5-204">Business Regulation Article, § 5-204, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 287)</annotation>
   </annotations>
-  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" type="History" display="false"/>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-292-F" target-path="09|34" type="History" display="false"/>
 </container>

@@ -642,7 +642,7 @@
       <text>Cooperative use space dedicated in a written agreement to use by a non-LEA entity may not be included in the State-rated capacity unless that space is used for LEA educational purposes during the LEA’s standard school operating hours.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|02|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="14|39|02|.06">
@@ -891,7 +891,7 @@
       </text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|02|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="14|39|02|.07">
@@ -1290,7 +1290,7 @@
       <text>The IAC may increase the maximum State construction allocation for a project that qualifies for the net zero add-on as described in <cite path="14.39.02.06|E.|(4)">COMAR 14.39.02.06E(4)</cite> after the establishment of the maximum State construction allocation upon submission of acceptable documentation to become eligible for the add-on, and only up to the amount that the project would have been eligible for had the net zero add-on been in place at the time of establishment of the maximum State construction allocation.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|02|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1324,7 +1324,7 @@
       <text>An LEA that seeks reapproval of a project whose planning approval has been rescinded shall submit a new planning request in a future local capital improvement program.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|02|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1348,7 +1348,7 @@
       <text>An LEA that seeks reapproval of a project whose funding approval has been rescinded shall submit a new funding request in a future local capital improvement program.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|02|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2953,6 +2953,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.20">Regulation .20</cite> amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.32|D.">Regulation .32D</cite> amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.33">Regulation .33</cite> adopted effective July 7, 2025 (52:13 Md. R. 656):</annotation>
-    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" type="History" display="false"/>
+    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|02|annos" type="History" display="false"/>
   </annotations>
 </container>

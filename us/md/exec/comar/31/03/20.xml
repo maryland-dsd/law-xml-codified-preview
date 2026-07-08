@@ -28,7 +28,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" target-path="31|03|20" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -48,7 +48,7 @@
       <text>If required examination scores are older than 1 year at the time of application submission, the application may be rejected.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" target-path="31|03|20" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -80,12 +80,12 @@
       <text>If no date is specified in the request for information from the Commissioner, and the applicant does not respond within 6 months of the date of the Commissioner’s request, the application may be deemed withdrawn.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" target-path="31|03|20" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Insurance Article, §§<cite doc="Md. Code" path="gin|10-101">10-101</cite>, <cite doc="Md. Code" path="gin|10-102">10-102</cite>, <cite doc="Md. Code" path="gin|10-103">10-103</cite>, <cite doc="Md. Code" path="gin|10-104">10-104</cite>, <cite doc="Md. Code" path="gin|10-105">10-105</cite>, <cite doc="Md. Code" path="gin|10-107">10-107</cite>, <cite doc="Md. Code" path="gin|10-111">10-111</cite>, <cite doc="Md. Code" path="gin|10-112">10-112</cite>, <cite doc="Md. Code" path="gin|10-201">10-201</cite>, <cite doc="Md. Code" path="gin|10-202">10-202</cite>, <cite doc="Md. Code" path="gin|10-203">10-203</cite>, <cite doc="Md. Code" path="gin|10-204">10-204</cite>, <cite doc="Md. Code" path="gin|10-205">10-205</cite>, <cite doc="Md. Code" path="gin|10-207">10-207</cite>, <cite doc="Md. Code" path="gin|10-305">10-305</cite>, <cite doc="Md. Code" path="gin|10-401">10-401</cite>, <cite doc="Md. Code" path="gin|10-402">10-402</cite>, <cite doc="Md. Code" path="gin|10-403">10-403</cite>, <cite doc="Md. Code" path="gin|10-404">10-404</cite>, <cite doc="Md. Code" path="gin|10-405">10-405</cite>, <cite doc="Md. Code" path="gin|10-406">10-406</cite>, <cite doc="Md. Code" path="gin|10-407">10-407</cite>, <cite doc="Md. Code" path="gin|10-410">10-410</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-22">Effective date: June 22, 2026 (53:12 Md. R. 531)</annotation>
   </annotations>
-  <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" type="History" display="false"/>
+  <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-035-F" target-path="31|03|20" type="History" display="false"/>
 </container>

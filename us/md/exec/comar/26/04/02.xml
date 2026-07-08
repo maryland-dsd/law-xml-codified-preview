@@ -273,7 +273,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .01) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.01" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section cache:ref-path="26|04|02|.02">
@@ -486,7 +486,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .02) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.02" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section>
@@ -820,7 +820,7 @@
       <text>The Approving Authority may consider an application for a variance from the requirements listed in <cite path="26|04|02|.04|K.">§K of this regulation</cite> in order to cluster lots as provided under local law. However, the number of clustered lots under two acres may not exceed the number of lots that would have been approvable under <cite path="26|04|02|.04|K.">§K of this regulation</cite>. A variance may not be granted that allows the transfer of density units or development rights to a subdivision located within 2,500 feet of a water supply reservoir.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.04" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section cache:ref-path="26|04|02|.05">
@@ -1832,7 +1832,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="Emergency Action">53:3  26-069-E  (Regulation .08) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.08" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section>
@@ -1885,7 +1885,7 @@
     </para>
     <annotations>
       <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .09) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
-      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.09" type="History" display="false" exp="2026-12-01"/>
     </annotations>
   </section>
   <section>

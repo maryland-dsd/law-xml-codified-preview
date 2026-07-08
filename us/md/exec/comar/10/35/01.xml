@@ -100,7 +100,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -120,7 +120,7 @@
       <text>A health care facility may not refuse the medical examiner access to a body which is the subject of a medical examiner investigation at any time.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -129,7 +129,7 @@
     <heading>Medical Examiner.</heading>
     <text>Any death in accordance with Health-General Article, §5-308(a), Annotated Code of Maryland, in the State  shall be investigated and examined by the medical examiner in the Office of the Chief Medical Examiner in Baltimore, or in any other place as may be approved by the Chief Medical Examiner.</text>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -225,7 +225,7 @@
       <text>Cases that fall under medical examiner jurisdiction may not be autopsied by the hospital pathologist because consent for autopsy has been obtained in accordance with Health-General Article, §5-501, Annotated Code of Maryland.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -351,7 +351,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -390,7 +390,7 @@
       <text>The medical examiner does not know of an objection to the autopsy or donation of tissue by the next of kin.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -434,7 +434,7 @@
       <text>Whenever a decedent is determined to have died by some violent means, the medical examiner may not authorize removal of the requested organs without observation by the medical examiner or the medical examiner's agent.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|35|01|.13">
@@ -510,7 +510,7 @@
       <text>If the findings of the medical examiner are upheld by the Secretary, the appellant is responsible for the costs of the contested case hearing, based on the billing rate established by the Office of Administrative Hearings. Otherwise, the Department is responsible for the costs.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.13" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|35|01|.14">
@@ -574,7 +574,7 @@
       <text>An individual, other than the custodian of the records of the Office of the Chief Medical Examiner or a designee, may not copy or distribute a copy of the official report of the Office of the Chief Medical Examiner.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.14" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -590,7 +590,7 @@
     <heading>Child Abuse or Neglect, or Both.</heading>
     <text>A death that is investigated by the Office of the Chief Medical Examiner that is found to be caused by or related to child abuse or neglect shall be reported by a medical examiner orally and in writing to local departments of social services and the local law enforcement agency of the jurisdiction in which the child last resided, in accordance with <cite doc="Md. Code" path="gfl|5-704">Family Law Article, §5-704, Annotated Code of Maryland</cite>.</text>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.16" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -721,7 +721,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.18" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -761,7 +761,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.19" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|35|01|.20">
@@ -813,7 +813,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|.20" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -873,6 +873,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-11-06"><cite path="|10|35|01|.20|F.">Regulation .20F</cite> amended as an emergency provision effective July 1, 2006 (33:15 Md. R. 1275); amended permanently effective November 6, 2006 (33:22 Md. R. 1733)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-19"><cite path="|10|35|01|.20|F.">Regulation .20F</cite> amended effective May 5, 2008 (35:9 Md. R. 898); August 19, 2024 (51:16 Md. R. 742)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-11-24"><cite path="|10|35|01|.21">Regulation .21</cite> adopted effective November 24, 2014 (41:23 Md. R. 1373)</annotation>
-    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History" display="false"/>
+    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|01|annos" type="History" display="false"/>
   </annotations>
 </container>

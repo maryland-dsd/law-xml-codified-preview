@@ -1629,7 +1629,7 @@
       <text>A video lottery terminal may be configured to permit the transfer, upon lock-up, of a jackpot amount to the credit meter.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-042-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-042-F" target-path="36|04|01|.13" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -4132,6 +4132,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-09-06"><cite path="|36|04|01|.30|D.">Regulation .30D</cite> amended effective October 22, 2018 (45:21 Md. R. 976); September 6, 2021 (48:18 Md. R. 695)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-01-07"><cite path="|36|04|01|.30|D.">Regulation .30D</cite>, E amended effective January 7, 2016 (42:26 Md. R. 1597)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-10-07"><cite path="|36|04|01|.31|C.">Regulation .31C</cite> amended effective October 23, 2017 (44:21 Md. R. 985); October 22, 2018 (45:21 Md. R. 976); October 7, 2019 (46:20 Md. R. 848)</annotation>
-    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-042-F" type="History" display="false"/>
+    <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-042-F" target-path="36|04|01|annos" type="History" display="false"/>
   </annotations>
 </container>

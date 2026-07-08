@@ -658,7 +658,7 @@
       <text>Supplemental Tests. The State’s Newborn Screening Program may not request or perform a supplemental test until the public health laboratory has confirmed there is sufficient blood-spot specimen to test for the required panel of disorders set forth in <cite path="10|52|12|.05|B.">§B of this regulation</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-017-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-017-F" target-path="10|52|12|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1063,6 +1063,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|10|52|12|.08|B.">Regulation .08B</cite> amended effective March 14, 2016 (43:5 Md. R. 385)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-04-24" discontinuity="true">Chapter revised effective April 24, 2017 (44:8 Md. R. 404)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|10|52|12|.05|B.">Regulation .05B</cite> amended effective August 23, 2021 (48:17 Md. R. 669); April 14, 2025 (52:7 Md. R. 321); May 25, 2026 (53:10 Md. R. 454)</annotation>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-017-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|26-017-F" target-path="10|52|12|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -183,7 +183,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" target-path="10|27|12|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -258,7 +258,7 @@
       <text>A PMH/APRN graduate may not continue to practice under supervision for more than 24 months from the filing of all documents required under <cite path="10|27|12|.04|A.">§A of this regulation</cite> or after the denial of certification, whichever occurs first.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-30" doc="Editor Action 2026-06-30" eff="2026-06-30" path="" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Editor Action 2026-07-06" eff="2026-07-06" path="" target-path="10|27|12|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -339,7 +339,7 @@
       <text>Prescribe drugs and durable medical equipment in accordance with <cite path="|10|27|12|.09">Regulation .09 of this chapter</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" target-path="10|27|12|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -383,7 +383,7 @@
       <text>Medical records shall be maintained in accordance with Health-General Article, Title 4, Subtitle 4, Annotated Code of Maryland.</text>
     </para>
     <annotations>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" target-path="10|27|12|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -495,7 +495,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-045-F" target-path="10|27|12|.09" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>

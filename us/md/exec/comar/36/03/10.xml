@@ -1796,7 +1796,7 @@
       <text>An entrance to a surveillance monitor room may not be visible from the gaming floor.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" target-path="36|03|10|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="36|03|10|.12">
@@ -2032,7 +2032,7 @@
       <text>A surveillance department employee may not transfer to any other department in the facility without the prior written approval of the Commission.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" target-path="36|03|10|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="36|03|10|.13">
@@ -6595,7 +6595,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" target-path="36|03|10|.38" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="36|03|10|.39">
@@ -7251,7 +7251,7 @@
       <text>Except for security officers, the drop and count team members assigned to the collection of cash storage or table game drop boxes shall wear a one-piece, pocketless jumpsuit.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" target-path="36|03|10|.43" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -8189,7 +8189,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-03-13"><cite path="|36|03|10|.50">Regulation .50</cite> adopted effective March 13, 2017 (44:5 Md. R. 294)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-23"><cite path="|36|03|10|.51">Regulation .51</cite> adopted effective October 23, 2017 (44:21 Md. R. 985)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|03|10|.52">Regulation .52</cite> adopted effective July 7, 2025 (52:13 Md. R. 657)</annotation>
-    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" target-path="36|03|10|annos" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" target-path="36|03|10|annos" type="History" display="false"/>
   </annotations>
 </container>

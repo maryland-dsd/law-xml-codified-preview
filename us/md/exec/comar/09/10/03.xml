@@ -370,7 +370,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" target-path="09|10|03|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|10|03|.03">
@@ -966,7 +966,7 @@
       <text>The owner or trainer requesting the confirmatory testing shall bear the costs of the confirmatory testing.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" target-path="09|10|03|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1186,6 +1186,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-08-14"><cite path="|09|10|03|.09|H.">Regulation .09H</cite> amended effective August 14, 1995 (22:16 Md. R. 1220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-05-18"><cite path="|09|10|03|.10">Regulation .10</cite> adopted as an emergency provision effective May 18, 2017 (44:12 Md. R. 585); emergency status expired September 1, 2017</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-09-25"><cite path="|09|10|03|.10">Regulation .10</cite> adopted effective September 25, 2017 (44:19 Md. R. 896)</annotation>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-308-F" target-path="09|10|03|annos" type="History" display="false"/>
   </annotations>
 </container>

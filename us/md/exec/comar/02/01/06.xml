@@ -16,7 +16,7 @@
       <text>Disputes Subject to Arbitration. Disputes arising out of transactions involving consumer goods, services, credit, or realty and which are covered by the Consumer Protection Act, <cite doc="Md. Code" path="gcl">Commercial Law Article, Title 13, Annotated Code of Maryland</cite>, may be arbitrated under these regulations when the consumer-complainant and the business agree to binding arbitration conducted under the arbitration program of the Consumer Protection Division. Unless the agreement to arbitrate stipulates otherwise, the arbitrator may award specific performance and damages, including consequential or incidental damages. Claims for punitive damages and attorney’s fees may not be arbitrated under any circumstances.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" target-path="02|01|06|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -147,7 +147,7 @@
       <text>Substitution of Arbitrator. If an arbitrator is unable to conduct a prompt arbitration hearing or render a prompt decision in an arbitration already conducted due to illness, death, disability, or other reasons, the Arbitration Administrator may, after consultation with the parties, appoint another arbitrator.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" target-path="02|01|06|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -167,7 +167,7 @@
       <text>Postponement. Any request for postponement may be granted by the arbitrator if all parties consent, or if good cause for a postponement is shown to the satisfaction of the Arbitration Administrator. Requests for postponement for cause should be made to the Arbitration Administrator at least 5 days before the hearing, unless the circumstances requiring the postponement do not allow 5 days' notice. Whenever a postponement is granted, the Arbitration Administrator will promptly reschedule the hearing and notify the arbitrator and the parties.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" target-path="02|01|06|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -203,7 +203,7 @@
       <text>Adjournments and Reopenings. The arbitrator may adjourn an arbitration hearing from time to time as necessary. Notice of the adjournment shall be sent to the Arbitration Administrator who will schedule the adjourned hearing as appropriate. If the arbitrator determines after the close of the hearing, but before an award is made, that further hearing is needed to permit a just decision, the arbitrator may reopen the hearing by giving the parties reasonable notice of the reopening, including the matter or matters to be heard at the reopened hearing. The Arbitration Administrator shall schedule reopened hearings.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" target-path="02|01|06|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -219,7 +219,7 @@
       <text>If an ex parte communication occurs between a party and the arbitrator, the arbitrator shall notify the other party of the date, time, place, and content of the communication. If the communication occurs after the arbitration hearing and before rendering of the decision, the arbitrator shall reconvene the hearing, at the request of the party who did not engage in the ex parte communication, to permit submission of further evidence and rebuttal by both parties.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" target-path="02|01|06|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -235,7 +235,7 @@
       <text>Transcription. A party may request in writing to the Arbitration Administrator that a verbatim record of all or part of the hearing be made and transcribed. This request shall be submitted with the agreement to arbitrate, and shall include an agreement to pay all costs of transcription. The Arbitration Administrator may require these costs to be advanced by the requesting party. Upon this request, the Arbitration Administrator will arrange for a reporter to be present or for the  recording of the hearing. Once prepared, the transcript will be made available to all parties on request, and a copy will be preserved by the Arbitration Administrator.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" target-path="02|01|06|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -287,7 +287,7 @@
       <text>Enforcement. If there has not been compliance with an award and no timely appeal has been taken, the Consumer Protection Division may seek confirmation of the decision in the appropriate court.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" target-path="02|01|06|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -311,6 +311,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.08|A.">Regulation .08A</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.09|B.">Regulation .09B</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|02|01|06|.10">Regulation .10</cite> amended effective April 27, 2026 (52:8 Md. R. 355)</annotation>
-    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-300-F" target-path="02|01|06|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -607,7 +607,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|07|06|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1270,7 +1270,7 @@
     <heading>Use of Trails.</heading>
     <text>The Service may restrict the use of bicycles and electric bicycles, subject to <cite path="|08.01.10">COMAR 08.01.10</cite>, and animals on certain trails in a State park.</text>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|07|06|.25" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1365,6 +1365,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-09-21"><cite path="|08|07|06|.19|D.">Regulation .19D</cite> adopted effective September 21, 2009 (36:19 Md. R. 1435)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|08|07|06|.25">Regulation .25</cite> amended effective May 25, 2026 (53:10 Md. R. 454)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-03-31"><cite path="|08|07|06|.27|B.">Regulation .27B</cite> amended effective March 31, 2003 (30:6 Md. R. 419)</annotation>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|07|06|annos" type="History" display="false"/>
   </annotations>
 </container>

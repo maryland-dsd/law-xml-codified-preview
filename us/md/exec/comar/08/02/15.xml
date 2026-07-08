@@ -90,7 +90,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
+      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" target-path="08|02|15|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -620,7 +620,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-302-F" type="History" display="false"/>
+      <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-302-F" target-path="08|02|15|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|15|.05">
@@ -1196,7 +1196,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-175-F" type="History" display="false"/>
+      <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-175-F" target-path="08|02|15|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1290,7 +1290,7 @@
       <text>General Restriction. When fishing in any area described in this regulation, all striped bass in a person’s possession shall meet the size and possession limits set forth in regulation for that area.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
+      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" target-path="08|02|15|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1298,7 +1298,7 @@
     <num>.10</num>
     <heading>Recreational and Charter Boat Summer and Fall Fishery for Maryland Tributaries of the Potomac River. — Repealed.</heading>
     <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
+      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" target-path="08|02|15|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1504,7 +1504,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
+      <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" target-path="08|02|15|.12" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -1634,8 +1634,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-09"><cite path="|08|02|15|.12|I.">Regulation .12I</cite> adopted effective March 9, 2020 (47:5 Md. R. 310)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-01"><cite path="|08|02|15|.12|I.">Regulation .12I</cite> amended effective May 31, 2021 (48:11 Md. R. 428); November 25, 2024 (51:23 Md. R. 1036); April 1, 2026 (53:6 Md. R, 286)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-09"><cite path="|08|02|15|.12|I.">Regulation .12I</cite> amended as an emergency provision effective February 9, 2024 (51:10 Md. R. 520); emergency status expired June 15, 2024</annotation>
-    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-175-F" type="History" display="false"/>
-    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-302-F" type="History" display="false"/>
-    <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" type="History" display="false"/>
+    <annotation app="2025-11-24" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-175-F" target-path="08|02|15|annos" type="History" display="false"/>
+    <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-302-F" target-path="08|02|15|annos" type="History" display="false"/>
+    <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" target-path="08|02|15|annos" type="History" display="false"/>
   </annotations>
 </container>

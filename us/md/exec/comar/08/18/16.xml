@@ -23,7 +23,7 @@
       <text>The speed limit for the area described in <cite path="08|18|16|.02|A.">§A of this regulation</cite> is 6 knots all year.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-270-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-270-F" target-path="08|18|16|.02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -32,6 +32,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-11-25"><cite path="|08|18|16|.01">Regulation .01</cite> amended effective November 25, 2013 (40:23 Md. R. 1933)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-05-24"><cite path="|08|18|16|.02">Regulation .02</cite> repealed and new Regulation .02 adopted effective May 24, 1993 (20:10 Md. R. 850)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|08|18|16|.02">Regulation .02</cite> amended effective June 5, 1995 (22:11 Md. R. 819); November 25, 2013 (40:23 Md. R. 1933); April 13, 2026 (53:7 Md. R. 326)</annotation>
-    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-270-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-270-F" target-path="08|18|16|annos" type="History" display="false"/>
   </annotations>
 </container>

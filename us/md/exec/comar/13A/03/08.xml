@@ -9,7 +9,8 @@
     <heading>Scope.</heading>
     <text>These regulations establish the screening of students enrolled in kindergarten through third grade who may be at risk for reading difficulties, the provision of supplemental reading instruction for identified students, and annual reporting requirements.</text>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.08" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -109,7 +110,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.08" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13A|03|08|.03">
@@ -129,7 +131,8 @@
       <text>The local school system shall establish the screening schedule and require the first screening identified in <cite path="13A|03|08|.03|B.">§B of this regulation</cite> to occur within the first 60 calendar days of the beginning of the school year.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.08" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -229,7 +232,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.08" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13A|03|08|.05">
@@ -397,7 +401,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.08" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -417,7 +422,8 @@
       <text>The local school system may determine the student reading improvement plan is completed when the student has achieved grade level reading standards based upon age-appropriate re-screening.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.08" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -457,14 +463,15 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.08" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.07" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|4-136">Education Article, §4-136(i), </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-07-26">Effective date: July 26, 2021 (48:15 Md. R. 593)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Regulations <cite path="|13A|03|08|.01">.01</cite> — <cite path="|13A|03|08|.08">.08</cite> repealed and new Regulations <cite path="|13A|03|08|.01">.01</cite> — <cite path="|13A|03|08|.07">.07</cite> adopted effective March 30, 2026 (53:6 Md. R. 291)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|annos" type="History" display="false"/>
   </annotations>
-  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" type="History" display="false"/>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-082-F-R" target-path="13A|03|08|.08" type="History" display="false"/>
 </container>

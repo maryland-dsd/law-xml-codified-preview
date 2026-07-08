@@ -572,7 +572,7 @@
       <text>The Department will collect data on student attendance to support local school systems in the development and implementation of local student attendance policies.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-318-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-318-F" target-path="13A|08|01|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2057,7 +2057,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-318-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-318-F" target-path="13A|08|01|.17" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13A|08|01|.18">
@@ -2332,6 +2332,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|08|01|.17|F.">Regulation .17F</cite> amended effective March 3, 2025 (52:4 March 3, 2025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-07-21">Regulations <cite path="|13A|08|01|.18">.18</cite>—<cite path="|13A|08|01|.20">.20</cite> adopted effective July 21, 2003 (30:14 Md. R. 937)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-02-17"><cite path="|13A|08|01|.21">Regulation .21</cite> adopted effective February 17, 2014 (41:3 Md. R. 202)</annotation>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-318-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-318-F" target-path="13A|08|01|annos" type="History" display="false"/>
   </annotations>
 </container>

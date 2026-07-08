@@ -2,14 +2,14 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>08</num>
-  <heading>Crematories — Crematory Procedures<annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/></heading>
+  <heading>Crematories — Crematory Procedures<annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
     <text>This chapter governs the procedures to be followed by a permit holder in performing a cremation or alkaline hydrolysis in this State.</text>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -93,7 +93,7 @@
       <text>A permit holder shall not accept unidentified human remains for cremation or alkaline hydrolysis.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -165,7 +165,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -212,7 +212,7 @@
       <text>Whenever a permit holder is unable to cremate or hydrolyze human remains within 48 hours of taking custody thereof due to emergency circumstances, the permit holder shall maintain the human remains in a refrigerated holding facility, either on or off site, at 44° F or less, unless the remains have been embalmed.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -240,7 +240,7 @@
       <text>The alkaline hydrolysis unit shall be monitored at all times during alkaline hydrolysis.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -380,7 +380,7 @@
       <text>Crematory services authorization records are subject to inspection and copying by the Office.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -484,7 +484,7 @@
       <text>All records required to be maintained by a permit holder by this chapter are subject to inspection and copying by the Office.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|34|08|.09">
@@ -520,7 +520,7 @@
       <text>A permit holder may not require that human remains be subjected to embalming before cremation.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -624,7 +624,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -708,7 +708,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|34|08|.12">
@@ -732,7 +732,7 @@
       <text>Crematories that begin operation after July 1, 2014, shall construct a viewing room the area of the cremator or alkaline hydrolysis unit if the permit holder intends to permit more than two visitors present in the area of the cremator or alkaline hydrolysis unit during a cremation.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|.12" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -749,6 +749,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|09|34|08|.10">Regulation .10</cite> amended effective April 13, 2026 (53:7 Md. R. 327)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|09|34|08|.11">Regulation .11</cite> amended effective April 13, 2026 (53:7 Md. R. 327)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|09|34|08|.12|B.">Regulation .12B</cite> amended effective April 13, 2026 (53:7 Md. R. 327)</annotation>
-    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|08|annos" type="History" display="false"/>
   </annotations>
 </container>

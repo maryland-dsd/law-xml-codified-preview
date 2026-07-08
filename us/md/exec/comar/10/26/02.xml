@@ -130,7 +130,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -238,7 +238,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -266,7 +266,7 @@
       <text>Except with approval of the Board, an applicant may not withdraw an application while under investigation or after having received a notice of denial of licensure.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|26|02|.05">
@@ -602,7 +602,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -722,7 +722,7 @@
       <text>Violation of this regulation constitutes unprofessional conduct and may result in disciplinary action as set forth in <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|26|02|.07">
@@ -990,7 +990,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|26|02|.08">
@@ -1294,7 +1294,7 @@
       <text>Violation of this regulation constitutes unprofessional conduct and may result in disciplinary action as set forth in <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1322,7 +1322,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -1366,6 +1366,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|26|02|.07">Regulation .07</cite> amended effective October 18, 2010 (37:21 Md. R. 1436); October 17, 2011 (38:21 Md. R. 1279); January 7, 2013 (39:26 Md. R. 1665); April 13, 2026 (53:7 Md. R 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|26|02|.08">Regulation .08</cite> adopted effective April 13, 2026 (53:7 Md. R 328)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|10|26|02|.09">Regulation .09</cite> effective April 13, 2026 (53:7 Md. R 328)</annotation>
-    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-315-F" target-path="10|26|02|annos" type="History" display="false"/>
   </annotations>
 </container>

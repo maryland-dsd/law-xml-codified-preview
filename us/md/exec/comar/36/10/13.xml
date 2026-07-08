@@ -3864,7 +3864,7 @@
       <text>A sports wagering licensee shall submit a description of the player reward program to the Commission for review and written approval.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" target-path="36|10|13|.29" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -4532,7 +4532,7 @@
       <text>Except for security officers, the drop and count team members assigned to the collection of cash storage drop boxes shall wear a one-piece, pocketless jumpsuit.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" target-path="36|10|13|.34" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -5172,7 +5172,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" target-path="36|10|13|.41" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -5317,7 +5317,7 @@
       <text>Nothing in this regulation is intended to change a requirement or obligation imposed under another statute or regulation.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" target-path="36|10|13|.45" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -5338,7 +5338,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-05-27"><cite path="|36|10|13|.41">Regulation .41</cite> amended as an emergency provision effective December 12, 2023 (50:26 Md. R. 1130); amended permanently effective May 27, 2024 (51:10 Md. R. 529)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|36|10|13|.41|E.">Regulation .41E</cite> adopted effective May 25, 2026 (53:10 Md. R. 459)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|36|10|13|.45">Regulation .45</cite> adopted effective July 7, 2025 (52:13 Md. R. 657)</annotation>
-    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" type="History" display="false"/>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-226-F" target-path="36|10|13|annos" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" target-path="36|10|13|annos" type="History" display="false"/>
   </annotations>
 </container>

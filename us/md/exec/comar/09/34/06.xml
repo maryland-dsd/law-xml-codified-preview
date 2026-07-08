@@ -43,7 +43,7 @@
       <text>A permit issued by the Office shall specify if the crematory is authorized to offer and perform either cremation services, alkaline hydrolysis services, or both.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|06|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -103,7 +103,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|06|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -155,7 +155,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|06|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|34|06|.05">
@@ -279,7 +279,7 @@
       <text>An individual may be issued permits for affiliations with more than one crematory if each affiliated crematory is owned by the same individual or entity.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|06|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -335,7 +335,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|06|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -403,7 +403,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|06|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -619,7 +619,7 @@
       <text>The person or persons with the right to final disposition of the decedent are notified and have given permission prior to the cremation or alkaline hydrolysis.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|06|.14" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -634,6 +634,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|09|34|06|.06|B.">Regulation .06B</cite>, C amended effective April 13, 2026 (53:7 Md. R. 327)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|09|34|06|.07|B.">Regulation .07B</cite>, C amended effective April 13, 2026 (53:7 Md. R. 327)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13"><cite path="|09|34|06|.14">Regulation .14</cite> amended effective April 13, 2026 (53:7 Md. R. 327)</annotation>
-    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-279-F" target-path="09|34|06|annos" type="History" display="false"/>
   </annotations>
 </container>

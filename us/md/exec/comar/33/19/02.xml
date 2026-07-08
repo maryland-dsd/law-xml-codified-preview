@@ -16,7 +16,7 @@
       <text>Local Board. A local board shall include in each specimen ballot information about how a voter can change the voter’s address during early voting.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" target-path="33|19|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -26,6 +26,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|33|19|02|.01|A.">Regulation .01A</cite> amended effective March 23, 2020 (47:6 Md. R. 343)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-12-28"><cite path="|33|19|02|.01|A.">Regulation .01A</cite> amended as an emergency provision effective August 20, 2020 (47:19 Md. R. 848); adopted permanently effective December 28, 2020 (47:26 Md. R. 1108)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|33|19|02|.01|A.">Regulation .01A</cite> amended effective October 2, 2023 (50:19 Md. R. 854); April 27, 2026 (53:8 Md. R. 356)</annotation>
-    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" target-path="33|19|02|annos" type="History" display="false"/>
   </annotations>
 </container>

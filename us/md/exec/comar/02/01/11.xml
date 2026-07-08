@@ -9,7 +9,7 @@
     <heading>Authority.</heading>
     <text>These regulations are promulgated pursuant to Commercial Law Article, §§<cite doc="Md. Code" path="gcl|13-205">13-205</cite> and <cite doc="Md. Code" path="gcl|13-303">13-303</cite>, Annotated Code of Maryland.</text>
     <annotations>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" target-path="02|01|11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -25,7 +25,7 @@
       <text>These regulations are intended to further define what constitutes an “abusive” practice as set forth in <cite doc="Md. Code" path="gcl|13-301">Commercial Law Article, §13-301, Annotated Code of Maryland</cite> and prohibited by <cite doc="Md. Code" path="gcl|13-303">Commercial Law Article, §13-303, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" target-path="02|01|11" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -54,12 +54,12 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" type="History" display="false"/>
+      <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" target-path="02|01|11" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Commercial Law Article, §§<cite doc="Md. Code" path="gcl|13-205">13-205</cite> and <cite doc="Md. Code" path="gcl|13-303">13-303</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06">Effective date: July 6, 2026 (53:13 Md. R. 586)</annotation>
   </annotations>
-  <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" type="History" display="false"/>
+  <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|25-285-F" target-path="02|01|11" type="History" display="false"/>
 </container>

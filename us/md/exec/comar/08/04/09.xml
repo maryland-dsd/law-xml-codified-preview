@@ -96,7 +96,7 @@
       <text>Failure to comply with surety requirements can result in disciplinary action, which may include a verbal warning, a warning letter, increased bond requirement, suspension of temporary registration privileges, suspension of dealer license, and criminal charges.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-306-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-306-F" target-path="08|04|09|.01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -108,6 +108,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|08|04|09|.01|A.">Regulation .01A</cite> amended effective April 27, 2026 (53:8 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-05"><cite path="|08|04|09|.01|B.">Regulation .01B</cite> amended effective April 5, 2010 (37:7 Md. R. 569)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-01-01"><cite path="|08|04|09|.01|B.">Regulation .01B</cite>, C amended effective January 1, 1990 (17:25 Md. R. 2907)</annotation>
-    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-306-F" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-306-F" target-path="08|04|09|annos" type="History" display="false"/>
   </annotations>
 </container>

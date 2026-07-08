@@ -147,7 +147,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" target-path="15|01|21|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -281,7 +281,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" target-path="15|01|21|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -341,7 +341,7 @@
       <text>Within 30 days from receipt of an application, the Department shall notify the applicant whether the application has been approved and the amount of the grant funds awarded.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" target-path="15|01|21|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -401,7 +401,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" target-path="15|01|21|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -552,6 +552,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|15|01|21|.04|B.">Regulation .04B</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|15|01|21|.05|A.">Regulation .05A</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|15|01|21|.06|A.">Regulation .06A</cite> amended effective April 27, 2026 (53:8 Md. R. 356)</annotation>
-    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-182-F" target-path="15|01|21|annos" type="History" display="false"/>
   </annotations>
 </container>

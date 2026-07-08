@@ -9,7 +9,7 @@
     <heading>Applicability.</heading>
     <text>This chapter applies to the use of bicycles and electric bicycles on Department lands.</text>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|01|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -85,7 +85,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|01|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -117,7 +117,7 @@
       <text>If a recreational trail is designated as pedestrian-use only, the use of bicycles and electric bicycles is prohibited.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|01|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -169,7 +169,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|01|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -202,7 +202,7 @@
       <text>While in a prohibited area.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|01|10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -211,12 +211,12 @@
     <heading>Violations.</heading>
     <text>An individual who violates any provision of this chapter is subject to the provisions of <cite doc="Md. Code" path="gnr|5-1301">Natural Resources Article, §5-1301, Annotated Code of Maryland</cite>, in addition to any penalties under <cite doc="Md. Code" path="gcr|6-405">Criminal Law Article, §6-405, Annotated Code of Maryland</cite>.</text>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|01|10" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|5-209">5-209</cite>, <cite doc="Md. Code" path="gnr|5-1211">5-1211</cite>, and <cite doc="Md. Code" path="gnr|10-808">10-808</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25">Effective date: May 25, 2026 (53:10 Md. R. 454)</annotation>
   </annotations>
-  <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+  <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|01|10" type="History" display="false"/>
 </container>

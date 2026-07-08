@@ -12,5 +12,5 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-10-04">Effective date: October 4, 2010 (37:20 Md. R. 1394)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11">Regulations <cite path="|10|35|02|.01">.01</cite> — <cite path="|10|35|02|.09">.09</cite> repealed effective May 11, 2026 (53:9 Md. R. 414)</annotation>
   </annotations>
-  <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" type="History"/>
+  <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-288-F" target-path="10|35|02" type="History"/>
 </container>

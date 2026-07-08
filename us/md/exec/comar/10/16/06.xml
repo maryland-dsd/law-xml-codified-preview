@@ -4540,6 +4540,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-28" discontinuity="true">Chapter revised effective March 28, 2016 (43:6 Md. R. 408)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|10|16|06|.02|B.">Regulation .02B</cite> amended as an emergency provision effective January 6, 2025 (52:2 Md. R. 65); amended permanently effective April 14, 2025 (52:7 Md. R. 321)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|10|16|06|.21">Regulation .21</cite> amended as an emergency provision effective January 6, 2025 (52:2 Md. R. 65); amended permanently effective April 14, 2025 (52:7 Md. R. 321)</annotation>
-    <annotation app="2026-05-21" doc="Editor Action 2026-05-21" eff="2026-05-21" path="" type="History" display="false"/>
+    <annotation app="2026-05-21" doc="Editor Action 2026-05-21" eff="2026-05-21" path="" target-path="10|16|06|annos" type="History" display="false"/>
   </annotations>
 </container>

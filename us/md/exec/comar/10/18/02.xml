@@ -168,7 +168,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" target-path="10|18|02|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|18|02|.02">
@@ -268,7 +268,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" target-path="10|18|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|18|02|.03">
@@ -396,7 +396,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" target-path="10|18|02|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -560,7 +560,7 @@
       <text>This regulation does not relieve a physician of the duty to report as set forth in Health-General Article, §§18-201.1 and 18-202.1, Annotated Code of Maryland.</text>
     </para>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" target-path="10|18|02|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -569,7 +569,7 @@
     <heading>Out-of-State Laboratories.</heading>
     <text>An out-of-State laboratory that holds a permit to operate issued by Maryland and performs HIV detection, HIV viral load, CD4+ cell count or percentage, or HIV genotype sequence tests shall submit the report required under <cite path="|10|18|02|.06">Regulation .06 of this chapter</cite> to the Secretary.</text>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" target-path="10|18|02|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -637,7 +637,7 @@
       <text>A health officer may not transmit to the Secretary information about a case of HIV or AIDS by facsimile or another electronic method unless directed by the Secretary to submit the information by electronic method.</text>
     </para>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" target-path="10|18|02|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -701,7 +701,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" type="History" display="false"/>
+      <annotation app="2025-08-22" doc="Editor Action 2026-04-10" eff="2026-04-10" path="" target-path="10|18|02|.09" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>

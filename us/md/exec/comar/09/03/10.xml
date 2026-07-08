@@ -32,6 +32,14 @@
       </para>
       <para>
         <num>(3)</num>
+        <text>“Earned Wage Access” has the meaning stated in <cite doc="Md. Code" path="gcl|12-1501">Commercial Law Article, §12-1501, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Fee” has the meaning stated in <cite doc="Md. Code" path="gcl|12-1501">Commercial Law Article, §12-1501, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
         <text>“Fraud” means any act that:</text>
         <para>
           <num>(a)</num>
@@ -43,27 +51,37 @@
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(6)</num>
         <text>“Initial application” has the meaning stated in <cite path="09.03.06.02|B.|(14)">COMAR 09.03.06.02B(14)</cite>.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(7)</num>
         <text>“Mortgage loan” has the meaning stated in <cite doc="Md. Code" path="gfi|11-501">Financial Institutions Article, §11-501, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(8)</num>
+        <text>“Provider” has the meaning stated in <cite doc="Md. Code" path="gcl|12-1501">Commercial Law Article, §12-1501, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(9)</num>
         <text>“Regulated person” means an individual, corporation, business trust, financial institution, estate, trust, partnership, association, two or more persons having a joint or common interest, or any other legal or commercial entity that is subject to the regulatory authority of the Commissioner pursuant to Financial Institutions Article, or <cite doc="Md. Code" path="gcl">Commercial Law Article, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(10)</num>
         <text>“Residential real estate” has the meaning stated in <cite doc="Md. Code" path="gfi|11-501">Financial Institutions Article, §11-501, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(11)</num>
         <text>“Settlement” means the disbursement of the proceeds of a mortgage loan by the person conducting the settlement to the borrower or to third parties as required by the lender's instructions.</text>
       </para>
+      <para>
+        <num>(12)</num>
+        <text>“Tip” has the meaning stated in <cite doc="Md. Code" path="gcl|12-101">Commercial Law Article §12-101, Annotated Code of Maryland</cite>.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-323-F" target-path="09|03|10|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="09|03|10|.02">
     <prefix>Regulation</prefix>
@@ -191,13 +209,63 @@
     <text><cite path="09|03|10|attachments|09.03.10.05">Form on following page</cite>.</text>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Earned Wage Access.</heading>
+    <text>Annual Report.</text>
+    <para>
+      <num>A.</num>
+      <text>On or before July 1<sup>st</sup> of each year a Provider of Earned Wage Access shall provide the Commissioner with information including but not limited to the following types:</text>
+      <para>
+        <num>(1)</num>
+        <text>Total number of consumers served;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Total number of transactions;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Total number of repeat consumers;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Average number of transactions per consumer;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Such consumer demographic information as the Commissioner advises annually;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Default rates for consumers;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Total amount of revenue; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Total amount of processing fees collected.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commissioner shall advise Providers by May 1<sup>st</sup> of each year of the specific data the Commissioner is seeking.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-323-F" target-path="09|03|10|.06" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|2-105">Business Regulation Article, §2-105</cite>; Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|2-105">2-105</cite>.1, 5-909(1), 11-203, 11-503, 11-602, 12-104, 12-403(1), and 12-903(1); Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gbr|2-105">Business Regulation Article, §2-105</cite>; Financial Institutions Article, §§<cite doc="Md. Code" path="gfi|2-105">2-105</cite>.<cite doc="Md. Code" path="gfi|1">1</cite>, <cite doc="Md. Code" path="gfi|5-909">5-909</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), <cite doc="Md. Code" path="gfi|11-203">11-203</cite>, <cite doc="Md. Code" path="gfi|11-503">11-503</cite>, <cite doc="Md. Code" path="gfi|11-602">11-602</cite>, <cite doc="Md. Code" path="gfi|12-104">12-104</cite>, <cite doc="Md. Code" path="gfi|12-403">12-403</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), <cite doc="Md. Code" path="gfi|12-903">12-903</cite>(<cite doc="Md. Code" path="gfi|1">1</cite>), and <cite doc="Md. Code" path="gfi|12-1506">12-1506</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-11-03">Effective date: November 3, 2008 (35:22 Md. R. 1957)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-15"><cite path="|09|03|10|.01|B.">Regulation .01B</cite> amended effective March 15, 2010 (37:5 Md. R. 427)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|09|03|10|.01|B.">Regulation .01B</cite> amended effective March 15, 2010 (37:5 Md. R. 427); July 20, 2026 (53:14 Md. R. 638)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-03-15"><cite path="|09|03|10|.03|A.">Regulation .03A</cite>, B amended effective March 15, 2010 (37:5 Md. R. 427)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-16"><cite path="|09|03|10|.04">Regulation .04</cite> adopted effective July 16, 2020 (47:14 Md. R. 675)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-02-22"><cite path="|09|03|10|.05">Regulation .05</cite> adopted as an emergency provision effective October 5, 2020 (47:20 Md. R. 872); adopted permanently effective February 22, 2021 (48:4 Md. R. 176)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|09|03|10|.06">Regulation .06</cite> adopted effective July 20, 2026 (53:14 Md. R. 638)</annotation>
   </annotations>
   <attachments>
     <attachment name="09.03.10.05" url="/us/md/exec/comar/initial-attachments/09.03.10.05.pdf"/>

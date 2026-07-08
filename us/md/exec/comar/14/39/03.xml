@@ -188,7 +188,7 @@
       <text>If a single bid or offer is submitted following appropriate notification and solicitation procedures, the LEA may award the contract to the single bidder or offeror if the bid or offer is determined responsible and responsive.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|03|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1346,6 +1346,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|14|39|03|.06|D.">Regulation .06D</cite> amended effective May 11, 2026 (53:9 Md. R. 414)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-11-04"><cite path="|14|39|03|.07">Regulation .07</cite> amended effective November 4, 2019 (46:22 Md. R. 979)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-11-04"><cite path="|14|39|03|.09|B.">Regulation .09B</cite> amended effective November 4, 2019 (46:22 Md. R. 979)</annotation>
-    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" type="History" display="false"/>
+    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|03|annos" type="History" display="false"/>
   </annotations>
 </container>

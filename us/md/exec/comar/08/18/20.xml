@@ -74,8 +74,8 @@
       <text>Sam Abell Cove encompasses the area beginning at a point at the east side of the mouth of Sam Abell Cove, at or near Lat. 38° 19.955’ N., Long. 76° 30.228’ W., then running 299° (True) to a point, at or near Lat. 38° 20.007’ N., Long. 76° 30.345’ W., and running to the head of the cove. This area has a 6-knot speed limit on Saturdays, Sundays, and holidays, all year.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-262-F" type="History" display="false"/>
-      <annotation app="2026-05-06" doc="Editor Action 2026-05-06" eff="2026-05-06" path="" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-262-F" target-path="08|18|20|.03" type="History" display="false"/>
+      <annotation app="2026-05-06" doc="Editor Action 2026-05-06" eff="2026-05-06" path="" target-path="08|18|20|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -150,6 +150,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-08-19"><cite path="|08|18|20|.04|C.">Regulation .04C</cite>, D amended effective August 19, 2002 (29:16 Md. R. 1287)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-08-22"><cite path="|08|18|20|.04|E.">Regulation .04E</cite> amended effective August 22, 2011 (38:17 Md. R. 1012)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-02"><cite path="|08|18|20|.04|H.">Regulation .04H</cite> adopted effective August 2, 2004 (31:15 Md. R. 1185)</annotation>
-    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-262-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-262-F" target-path="08|18|20|annos" type="History" display="false"/>
   </annotations>
 </container>

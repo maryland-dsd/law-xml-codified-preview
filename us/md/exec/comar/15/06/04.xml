@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>These regulations establish a science-based status assessment protocol to determine the harm and impact caused by invasive plants, including an approval procedure for activities involving invasive plant species that cause or are likely to cause severe harm and administrative orders that the Secretary may issue to enforce these regulations.</text>
     <annotations>
-      <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false" exp="2026-07-14"/>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-186-F" target-path="15|06|04" type="History"/>
     </annotations>
   </section>
   <section cache:ref-path="15|06|04|.02">
@@ -25,7 +25,7 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Classify as a prohibited invasive plant” means the Secretary is including an invasive plant on the Consolidated List of Maryland Invasive Plant Species in accordance with the Agriculture Article, §§9.5-301 and 9.5-301.1, Annotated Code of Maryland.</text>
+        <text>“Classify as a prohibited invasive plant” means the Secretary is including an invasive plant on the Consolidated List of Maryland Invasive Plant Species in accordance with Agriculture Article, §§<cite doc="Md. Code" path="gag|9.5-301">9.5-301</cite> and <cite doc="Md. Code" path="gag|9.5-301">9.5-301</cite>.1, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -37,7 +37,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Consolidated List of Maryland Invasive Plant Species” means a list of plant species classified as prohibited invasive plants in accordance with Agriculture Article §§9.5-301 and 9.5-301.1, Annotated Code of Maryland.</text>
+        <text>“Consolidated List of Maryland Invasive Plant Species” means a list of plant species classified as prohibited invasive plants in accordance with Agriculture Article, §§<cite doc="Md. Code" path="gag|9.5-301">9.5-301</cite> and <cite doc="Md. Code" path="gag|9.5-301">9.5-301</cite>.1, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -81,10 +81,10 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>Invasive plant.</text>
+        <text>Invasive Plant.</text>
         <para>
           <num>(a)</num>
-          <text>Invasive Plant means any living part of a plant species or its subspecies that did not evolve in the State and if introduced within the State, will cause or is likely to cause, as determined by the Secretary:</text>
+          <text>“Invasive plant” means any living part of a plant species or its subspecies that did not evolve in the State and if introduced within the State, will cause or is likely to cause, as determined by the Secretary:</text>
           <para>
             <num>(i)</num>
             <text>Economic harm;</text>
@@ -140,7 +140,7 @@
         <text>“Watch List” means a list of plant species that:</text>
         <para>
           <num>(a)</num>
-          <text>Have been assessed by an expert assessor in accordance with <cite doc="Md. Code" path="gag|9">Agriculture Article, §9</cite>.5-301, Annotated Code of Maryland;</text>
+          <text>Have been assessed by an expert assessor in accordance with <cite doc="Md. Code" path="gag|9.5-301">Agriculture Article, §9.5-301, Annotated Code of Maryland</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -153,7 +153,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false" exp="2026-07-14"/>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-186-F" target-path="15|06|04" type="History"/>
     </annotations>
   </section>
   <section>
@@ -169,7 +169,7 @@
       <text>Assessments completed by an expert assessor shall be reviewed and approved by the Invasive Plant Advisory Committee.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false" exp="2026-07-14"/>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-186-F" target-path="15|06|04" type="History"/>
     </annotations>
   </section>
   <section cache:ref-path="15|06|04|.04">
@@ -297,7 +297,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false" exp="2026-07-14"/>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-186-F" target-path="15|06|04" type="History"/>
     </annotations>
   </section>
   <section>
@@ -313,7 +313,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Order the condemnation and seizure of any prohibited invasive plant owned or possessed by any person who violates <cite doc="Md. Code" path="gag|9">Agriculture Article, §9</cite>.5-302(b), Annotated Code of Maryland;</text>
+        <text>Order the condemnation and seizure of any prohibited invasive plant owned or possessed by any person who violates <cite doc="Md. Code" path="gag|9.5-302">Agriculture Article, §9.5-302(b), Annotated Code of Maryland</cite>;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -337,7 +337,7 @@
       <text>A person who violates any order issued by the Secretary is subject to a civil penalty not to exceed $500 for each violation.</text>
     </para>
     <annotations>
-      <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false" exp="2026-07-14"/>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-186-F" target-path="15|06|04" type="History"/>
     </annotations>
   </section>
   <section>
@@ -346,11 +346,11 @@
     <heading>Prohibited Invasive Plants and Watchlist Plants.</heading>
     <para>
       <num>A.</num>
-      <text>The Prohibited invasive plants are those plants listed on the Consolidated List of Maryland Invasive Plant Species found on the Maryland Department of Agriculture’s website, Plant Protection and Weed Management page.</text>
+      <text>Prohibited invasive plants are those plants listed on the Consolidated List of Maryland Invasive Plant Species found on the Maryland Department of Agriculture’s website, Plant Protection and Weed Management page.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Phase-out periods for Prohibited Invasive Plants.</text>
+      <text>Phase-out Periods for Prohibited Invasive Plants.</text>
       <para>
         <num>(1)</num>
         <text>A person in possession of a prohibited invasive plant, except a person who is growing a woody plant in ground, shall comply with the prohibited invasive plant provisions of this chapter within 1 year of that plant’s effective date on the prohibited invasive plant list.</text>
@@ -402,7 +402,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Procedures for Classification or Declassification of a prohibited invasive plant and associated cultivars.</text>
+      <text>Procedures for Classification or Declassification of a Prohibited Invasive Plant and Associated Cultivars.</text>
       <para>
         <num>(1)</num>
         <text>A person who requests the classification or declassification of a plant as a prohibited invasive plant, shall submit a written request to the Secretary that includes the name of the requestor, contact information, scientific name of the plant, and a justification for the request.</text>
@@ -457,25 +457,23 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false" exp="2026-07-14"/>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-186-F" target-path="15|06|04" type="History"/>
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|2-103">2-103</cite>(b) and <cite doc="Md. Code" path="gag|9">9</cite>.5-301, Annotated Code of Maryland</annotation>
-    <annotation managed="false" type="Emergency Action" dest="container">53:3  25-186-E  (Regulations <cite path="|15|06|04|.01">.01</cite> — <cite path="|15|06|04|.06">.06</cite>) EMERGENCY ACTION IN EFFECT 1/15/2026 — 7/14/2026</annotation>
+    <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|2-103">2-103</cite>(b) and <cite doc="Md. Code" path="gag|9.5-301">9.5-301</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-01-21">Effective date: January 21, 2013 (40:1 Md. R. 21)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-04-11" discontinuity="true">Chapter revised effective April 11, 2016 (43:7 Md. R. 452)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-15"><cite path="|15|06|04|.01">Regulation .01</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-15"><cite path="|15|06|04|.02|B.">Regulation .02B</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-15"><cite path="|15|06|04|.03">Regulation .03</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-15"><cite path="|15|06|04|.04|A.">Regulation .04A</cite>, C, D amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-15"><cite path="|15|06|04|.05|A.">Regulation .05A</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|15|06|04|.01">Regulation .01</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120); adopted permanently effective July 20, 2026 (53:14 Md. R. 640)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|15|06|04|.02|B.">Regulation .02B</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120); adopted permanently effective July 20, 2026 (53:14 Md. R. 640)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|15|06|04|.03">Regulation .03</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120); adopted permanently effective July 20, 2026 (53:14 Md. R. 640)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|15|06|04|.04">Regulation .04</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120); adopted permanently effective July 20, 2026 (53:14 Md. R. 640)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|15|06|04|.05|A.">Regulation .05A</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120); adopted permanently effective July 20, 2026 (53:14 Md. R. 640)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13"><cite path="|15|06|04|.06">Regulation .06</cite> amended effective February 13, 2017 (44:3 Md. R. 189)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-15"><cite path="|15|06|04|.06">Regulation .06</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|15|06|04|.06">Regulation .06</cite> amended as an emergency provision effective January 15, 2026 (53:3 Md. R. 120); adopted permanently effective July 20, 2026 (53:14 Md. R. 640)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-04-23"><cite path="|15|06|04|.06|A.">Regulation .06A</cite>, C amended effective April 23, 2018 (45:8 Md. R. 422)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|15|06|04|.06|C.">Regulation .06C</cite> amended effective March 23, 2020 (47:6 Md. R. 342)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-15"><cite path="|15|06|04|.07">Regulation .07</cite> repealed as an emergency provision effective January 15, 2026 (53:3 Md. R. 120)</annotation>
-    <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false" exp="2026-07-14"/>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|15|06|04|.07">Regulation .07</cite> repealed as an emergency provision effective January 15, 2026 (53:3 Md. R. 120); repealed permanently effective July 20, 2026 (53:14 Md. R. 640)</annotation>
   </annotations>
-  <annotation app="2026-01-15" doc="Maryland Register, Volume 53, Issue 3" eff="2026-02-16" path="regulations|emergency|25-186-E" type="History" display="false" exp="2026-07-14"/>
+  <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|25-186-F" target-path="15|06|04" type="History"/>
 </container>

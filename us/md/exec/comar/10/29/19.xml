@@ -2,14 +2,14 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>19</num>
-  <heading>Crematories — Crematory Procedures<annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/></heading>
+  <heading>Crematories — Crematory Procedures<annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
     <text>This chapter governs the procedures to be followed in performing a cremation or alkaline hydrolysis in this State.</text>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -113,7 +113,7 @@
       <text>A permit holder may not accept unidentified human remains for cremation or alkaline hydrolysis.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -189,7 +189,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -236,7 +236,7 @@
       <text>Whenever a permit holder is unable to cremate or hydrolyze human remains within 48 hours of taking custody thereof due to emergency circumstances, the permit holder shall maintain the human remains in a refrigerated holding facility, either on or off site, at 40°F or less, unless the remains have been embalmed.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -284,7 +284,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -432,7 +432,7 @@
       <text>Crematory services authorization records are subject to inspection and copying by the Board.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -536,7 +536,7 @@
       <text>All records and receipts required by this chapter are subject to inspection and copying by the Board.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|29|19|.09">
@@ -674,7 +674,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -758,7 +758,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.11" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|29|19|.12">
@@ -786,13 +786,13 @@
       <text>Crematories providing alkaline hydrolysis shall construct a viewing room in the area of the alkaline hydrolysis unit if the crematory intends to have more than two visitors present in the area of the alkaline hydrolysis unit during the alkaline hydrolysis.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|.12" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§5-502—5-504, 5-508, and 5-511—5-514<em>; </em>Health Occupations Article, §§<cite doc="Md. Code" path="gho|7-101">7-101</cite>, <cite doc="Md. Code" path="gho|7-102">7-102</cite>, and <cite doc="Md. Code" path="gho|7-205">7-205</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-14">Effective date: April 14, 2014 (41:7 Md. R. 421)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11">Chapter revised effective May 11, 2026 (53:9 Md. R. 413)</annotation>
-    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" type="History" display="false"/>
+    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-320-F" target-path="10|29|19|annos" type="History" display="false"/>
   </annotations>
 </container>

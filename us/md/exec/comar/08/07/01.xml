@@ -818,7 +818,7 @@
     <heading>Use of Trails.</heading>
     <text>The Service may restrict the use of bicycles and electric bicycles, subject to <cite path="|08.01.10">COMAR 08.01.10</cite>, and animals on certain trails in a State forest.</text>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|07|01|.25" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -855,6 +855,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23"><cite path="|08|07|01|.23|A.">Regulation .23A</cite> amended effective March 23, 2009 (36:6 Md. R. 489)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23"><cite path="|08|07|01|.24|C.">Regulation .24C</cite> amended effective March 23, 2009 (36:6 Md. R. 489)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|08|07|01|.25">Regulation .25</cite> amended effective May 25, 2026 (53:10 Md. R. 454)</annotation>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-167-F" target-path="08|07|01|annos" type="History" display="false"/>
   </annotations>
 </container>

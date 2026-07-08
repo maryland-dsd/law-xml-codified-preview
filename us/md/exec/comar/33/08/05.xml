@@ -80,7 +80,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" target-path="33|08|05|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -268,7 +268,7 @@
       <text>Notification. The election director shall report to the local board and the State Administrator the results of the audit.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" target-path="33|08|05|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|08|05|.07">
@@ -442,7 +442,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" target-path="33|08|05|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="33|08|05|.09">
@@ -850,7 +850,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
+      <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" target-path="33|08|05|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -902,7 +902,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|33|08|05|.09">Regulation .09</cite> adopted effective April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-29"><cite path="|33|08|05|.10">Regulation .10</cite> adopted effective July 29, 2019 (46:15 Md. R. 656)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-01-13"><cite path="|33|08|05|.10">Regulation .10</cite> amended effective January 13, 2020 (47:1 Md. R. 19)</annotation>
-    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" type="History" display="false"/>
-    <annotation app="2026-05-06" doc="Editor Action 2026-05-06" eff="2026-05-06" path="" type="History" display="false"/>
+    <annotation app="2026-04-27" doc="Maryland Register, Volume 53, Issue 8" eff="2026-04-27" path="regulations|final|25-321-F" target-path="33|08|05|annos" type="History" display="false"/>
+    <annotation app="2026-05-06" doc="Editor Action 2026-05-06" eff="2026-05-06" path="" target-path="33|08|05|annos" type="History" display="false"/>
   </annotations>
 </container>

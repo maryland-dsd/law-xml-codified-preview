@@ -64,7 +64,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-168-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-168-F" target-path="13A|05|04|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13A|05|04|.02">
@@ -388,7 +388,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-168-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-168-F" target-path="13A|05|04|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -412,7 +412,7 @@
       <text>The State Department of Education shall implement a procedure for conducting periodic reviews of local school system school library media programs in order to identify program and professional development needs that exist in library media programs. The Department shall submit a copy of the results of its periodic review to the appropriate local school system superintendent.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-168-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-168-F" target-path="13A|05|04|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -807,6 +807,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|13A|05|04|.01">Regulation .01</cite> repealed and new Regulation .01 adopted effective May 25, 2026 (53:10 Md. R. 455)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|13A|05|04|.02">Regulation .02</cite> repealed and new Regulation .02 adopted effective May 25, 2026 (53:10 Md. R. 455)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|13A|05|04|.03">Regulation .03</cite> repealed and new Regulation .03 adopted effective May 25, 2026 (53:10 Md. R. 455)</annotation>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-168-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-168-F" target-path="13A|05|04|annos" type="History" display="false"/>
   </annotations>
 </container>

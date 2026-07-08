@@ -555,7 +555,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+      <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" target-path="36|07|06|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -763,6 +763,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-12-12">Regulations <cite path="|36|07|06|.01">.01</cite>—<cite path="|36|07|06|.10">.10</cite> adopted as an emergency provision effective August 26, 2013 (40:20 Md. R. 1650); adopted permanently effective December 12, 2013 (40:24 Md. R. 2019)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-25"><cite path="|36|07|06|.08|A.">Regulation .08A</cite> amended effective May 25, 2026 (53:10 Md. R. 459)</annotation>
-    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" type="History" display="false"/>
+    <annotation app="2026-05-25" doc="Maryland Register, Volume 53, Issue 10" eff="2026-05-25" path="regulations|final|25-289-F" target-path="36|07|06|annos" type="History" display="false"/>
   </annotations>
 </container>

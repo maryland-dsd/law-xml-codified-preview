@@ -138,7 +138,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" type="History" display="false"/>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" target-path="10|09|49|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -344,7 +344,7 @@
       <text>A provider may not bill for facility, room, or board charges for telehealth visits if a professional fee can be billed separately.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" type="History" display="false"/>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" target-path="10|09|49|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -384,7 +384,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" type="History" display="false"/>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" target-path="10|09|49|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -553,6 +553,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|09|49|.02|B.">Regulation .02B</cite> amended effective June 8, 2026 (53:11 Md. R. 485)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|09|49|.07|B.">Regulation .07B</cite>, F amended effective June 8, 2026 (53:11 Md. R. 485)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|09|49|.08|B.">Regulation .08B</cite> amended effective June 8, 2026 (53:11 Md. R. 485)</annotation>
-    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" type="History" display="false"/>
+    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" target-path="10|09|49|annos" type="History" display="false"/>
   </annotations>
 </container>

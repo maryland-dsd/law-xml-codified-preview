@@ -2,14 +2,14 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>03</num>
-  <heading>Grant Programs for the Public Safety Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals<annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/></heading>
+  <heading>Grant Programs for the Public Safety Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals<annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" target-path="09|37|03|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Purpose.</heading>
     <text>These regulations prescribe the policies, procedures, and authorizations for administering the Public Safety Apprenticeship Program and the Apprenticeship Career Training Pilot Program for Formerly Incarcerated Individuals.</text>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" target-path="09|37|03|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -57,7 +57,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" target-path="09|37|03|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -126,7 +126,7 @@
       <text>The records shall be open to the inspections of representatives of the Department during reasonable working hours.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" target-path="09|37|03|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -156,7 +156,7 @@
       <text>The maximum amount that a Public Safety Agency may be awarded for a Stabilization grant may not exceed $5,000 per registered apprentice.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" target-path="09|37|03|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -179,6 +179,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|37|03|.01">Regulation .01</cite> amended effective March 30, 2026 (53:6 Md. R. 289)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|37|03|.02|B.">Regulation .02B</cite> amended effective March 30, 2026 (53:6 Md. R. 289)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|37|03|.08">Regulation .08</cite> amended effective March 30, 2026 (53:6 Md. R. 289)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" type="History" display="false"/>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-235-F" target-path="09|37|03|annos" type="History" display="false"/>
   </annotations>
 </container>

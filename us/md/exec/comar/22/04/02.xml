@@ -9,7 +9,7 @@
     <heading>Determination by the Board of Trustees.</heading>
     <text>If the eligibility of an individual for membership in the Employees' Pension System or the Teachers' Pension System is unclear, the Board of Trustees shall determine whether the individual is a member of the Employees' Pension System or the Teachers' Pension System.</text>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" target-path="22|04|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -41,7 +41,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" target-path="22|04|02|.04" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" target-path="22|04|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="22|04|02|.03">
@@ -149,7 +150,8 @@
       <text>The fact that a participating employer permitted an individual to enroll in the Employees’ Pension System shall not be relevant to the determination of whether the individual is a contractual, emergency, or temporary extra employee who is excluded from membership.</text>
     </para>
     <annotations>
-      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" target-path="22|04|02|.04" type="History" display="false"/>
+      <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" target-path="22|04|02|.03" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -161,7 +163,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-09"><cite path="|22|04|02|.04|A.">Regulation .04A</cite> amended effective September 6, 1999 (26:18 Md. R. 1377); October 9, 2017 (44:20 Md. R. 946)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-06-01"><cite path="|22|04|02|.05">Regulation .05</cite> adopted as an emergency provision effective June 1, 1998 (25:14 Md. R. 1130); emergency status expired December 1, 1998</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-13" discontinuity="true">Chapter revised effective April 13, 2026 (53:7 Md. R 329)</annotation>
-    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
+    <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" target-path="22|04|02|annos" type="History" display="false"/>
   </annotations>
-  <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" type="History" display="false"/>
+  <annotation app="2026-04-13" doc="Maryland Register, Volume 53, Issue 7" eff="2026-04-13" path="regulations|final|25-276-F" target-path="22|04|02|.04" type="History" display="false"/>
 </container>

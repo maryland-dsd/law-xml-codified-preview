@@ -74,7 +74,7 @@
       <text>Reporting. A recreational angler shall cooperate with Department-approved surveys and catch inspections necessary for harvest and by-catch determination, and biological characterization.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-026-F" type="History" display="false"/>
+      <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-026-F" target-path="08|02|21|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|21|.03">
@@ -355,6 +355,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-23"><cite path="|08|02|21|.03|K.">Regulation .03K</cite> repealed effective March 23, 2020 (47:6 Md. R. 340)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-12-24"><cite path="|08|02|21|.04|B.">Regulation .04B</cite> amended effective January 24, 2011 (38:2 Md. R. 83); December 24, 2012 (39:25 Md. R. 1611)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-05"><cite path="|08|02|21|.04|C.">Regulation .04C</cite> amended effective April 5, 2010 (37:7 Md. R. 569)</annotation>
-    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-026-F" type="History" display="false"/>
+    <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-026-F" target-path="08|02|21|annos" type="History" display="false"/>
   </annotations>
 </container>

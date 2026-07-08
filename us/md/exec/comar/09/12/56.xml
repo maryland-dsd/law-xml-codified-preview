@@ -34,7 +34,7 @@
     <heading>Incorporation by Reference.</heading>
     <text>The 2024 International Swimming Pool and Spa Code (ISPSC), International Code Council, is incorporated by reference.</text>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" target-path="09|12|56|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -127,7 +127,7 @@
       <text>Add to Section 609.2.1 “Exception: This requirement shall not apply to Class C semipublic pools (if all units are within 500 feet).”</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" target-path="09|12|56|.05" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -135,6 +135,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-01-22">Effective date: January 22, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|12|56|.03">Regulation .03</cite> amended effective March 30, 2026 (53:6 Md. R. 287)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|09|12|56|.05">Regulation .05</cite> amended effective March 30, 2026 (53:6 Md. R. 287)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" type="History" display="false"/>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-275-F" target-path="09|12|56|annos" type="History" display="false"/>
   </annotations>
 </container>

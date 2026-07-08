@@ -567,7 +567,7 @@
       <text>The monitoring agency licensee shall receive training in the use of electronic monitoring equipment from the manufacturer or its authorized representative.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" target-path="12|11|10|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1147,7 +1147,7 @@
       <text>The licensee shall conduct an annual review of policies and procedures and orientation materials and ensure their availability to staff.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" target-path="12|11|10|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1267,6 +1267,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-08-07" discontinuity="true">Regulations <cite path="|12|11|10|.01">.01</cite>—<cite path="|12|11|10|.10">.10</cite> adopted effective August 7, 2000 (27:15 Md. R. 1401)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|12|11|10|.06|G.">Regulation .06G</cite> amended effective May 27, 2024 (51:10 Md. R. 528); March 30, 2026 (53:6 Md. R. 291)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|12|11|10|.09|A.">Regulation .09A</cite> amended effective March 30, 2026 (53:6 Md. R. 291)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" type="History" display="false"/>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-299-F" target-path="12|11|10|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>08</num>
-  <heading>Sensitive Health Services<annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" type="History" display="false"/></heading>
+  <heading>Sensitive Health Services<annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" target-path="10|11|08|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -49,7 +49,7 @@
       <text>Sets forth the restrictions on data.</text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" target-path="10|11|08|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -89,7 +89,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" target-path="10|11|08|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -250,7 +250,7 @@
       </text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" target-path="10|11|08|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -305,7 +305,7 @@
       </text>
     </para>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" target-path="10|11|08|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -314,7 +314,7 @@
     <heading>Sensitive Health Services.</heading>
     <text>The Secretary shall determine what sensitive health services are subject to restriction under this chapter based on the recommendations of the Protected Health Care Commission.</text>
     <annotations>
-      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" type="History" display="false"/>
+      <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" target-path="10|11|08|.07" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -325,6 +325,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|11|08|.04|B.">Regulation .04B</cite> amended effective May 11, 2026 (53:9 Md. R. 413)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|11|08|.06">Regulation .06</cite> recodified to Regulation .07 effective May 11, 2026 (53:9 Md. R. 413)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|10|11|08|.06">Regulation .06</cite> adopted effective May 11, 2026 (53:9 Md. R. 413)</annotation>
-    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" type="History" display="false"/>
+    <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-251-F" target-path="10|11|08|annos" type="History" display="false"/>
   </annotations>
 </container>

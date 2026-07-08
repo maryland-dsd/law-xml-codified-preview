@@ -9,7 +9,7 @@
     <heading>Scope.</heading>
     <text>Pursuant to <cite doc="Md. Code" path="gho|6-101">Health Occupations Article, §6-101(f)(2)(ii), Annotated Code of Maryland</cite>, this chapter establishes standards for the use of instrument-assisted soft tissue manipulation techniques, also known as handheld tools, by a licensed massage therapist or a registered massage practitioner.</text>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" target-path="10|65|12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -73,7 +73,7 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" target-path="10|65|12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -117,7 +117,7 @@
       <text>The coursework required by this regulation shall be in addition to the 750 contact hours of education required by <cite doc="Md. Code" path="gho|6-302">Health Occupations Article, §6-302, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" target-path="10|65|12" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -161,12 +161,12 @@
       <text>Any violation of these standards of practice or of the requirements of this chapter may subject the licensee to discipline pursuant to <cite doc="Md. Code" path="gho|6-308">Health Occupations Article, §6-308, Annotated Code of Maryland</cite>.</text>
     </para>
     <annotations>
-      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" type="History" display="false"/>
+      <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" target-path="10|65|12" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|6-101">6-101</cite>(f)(<cite doc="Md. Code" path="gho|2">2</cite>)(ii) and <cite doc="Md. Code" path="gho|6-206">6-206</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>), Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-22">Effective date: June 22, 2026 (53:12 Md. R. 531)</annotation>
   </annotations>
-  <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" type="History" display="false"/>
+  <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-028-F" target-path="10|65|12" type="History" display="false"/>
 </container>

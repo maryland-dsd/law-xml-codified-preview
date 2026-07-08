@@ -28,8 +28,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -38,8 +38,8 @@
     <heading>Employer Registration Requirements.</heading>
     <text>An employer shall create and maintain an online account necessary to make required information reports, remit contribution payments, and both receive and communicate with the Division regarding reporting and contribution obligations under <cite doc="Md. Code" path="gle|8.3-101">Labor and Employment Article, §8.3-101, et seq.</cite>, Annotated Code of Maryland.</text>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -48,8 +48,8 @@
     <heading>Registration of New Employers After Contributions Begin.</heading>
     <text>An employer who commences operations after contributions begin shall, within 20 days of their first payment of wages to a qualified employee, create and maintain an online account necessary to make required information reports, remit contribution payments, and both receive and provide any necessary communication with the Division regarding reporting and contribution obligations under <cite doc="Md. Code" path="gle|8.3-101">Labor and Employment Article, §8.3-101, et seq.</cite>, Annotated Code of Maryland.</text>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -101,8 +101,8 @@
       <text>Employment is not qualified employment if the employment of an employee obligates the employer to pay unemployment insurance fund contributions to any jurisdiction other than this State for that employee and not this State.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|42|02|.05">
@@ -146,8 +146,8 @@
       <text>Contributions from an employer whose status is changed by cessation of business are due and shall be paid within 5 days of the cessation.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -171,8 +171,8 @@
       <text>The employer is only responsible for remitting 50 percent of the total rate of contribution if the employer size determined under §§A, B, and C of this regulation is below 15.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -192,8 +192,8 @@
       <text>Notwithstanding §§A and B of this regulation, within the immediately following 6 pay cycles, an employer may recoup the employee share attributable to a past pay cycle if there are insufficient paycheck funds due to other required federal, state and local withholdings that take precedence.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -225,8 +225,8 @@
       <text>Amendments by employers to quarterly wage and hour reports shall be submitted to the Division within 1 year of the initial due date.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -278,8 +278,8 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="09|42|02|.10">
@@ -299,13 +299,13 @@
       <text>If a former employee owed reimbursed contributions from their employer cannot be located via reasonable effort, including making use of all contact information the employer has on file, within 90 days as required under <cite path="09|42|02|.10|B.">§B of this regulation</cite>, the employee’s contributions shall be remitted to the State for safekeeping.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" type="History" display="false"/>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-195-F" target-path="09" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Labor and Employment Article, §§8.3-101, 201, and 601, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30">Effective date: March 30, 2026 (53:6 Md. R. 289)</annotation>
   </annotations>
-  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" type="History" display="false"/>
+  <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-196-F" target-path="09|42" type="History" display="false"/>
 </container>

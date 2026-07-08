@@ -28,7 +28,7 @@
       <text>Zebra Mussel. Except as permitted by the Secretary of Natural Resources, a person may not import into the State or possess any living life stage or reproductive products of mussels of the genus Dreissena.</text>
     </para>
     <annotations>
-      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-278-F" type="History" display="false"/>
+      <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-278-F" target-path="08|02|08|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1146,6 +1146,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|08|02|08|.10|G.">Regulation .10G</cite> amended effective August 5, 2024 (51:15 Md. R. 706)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|08|02|08|.12|D.">Regulation .12D</cite> amended effective July 7, 2025 (52:13 Md. R. 655)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-02-17"><cite path="|08|02|08|.13">Regulation .13</cite> adopted effective February 17, 2025 (52:3 Md. R. 159)</annotation>
-    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-278-F" type="History" display="false"/>
+    <annotation app="2026-03-30" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-278-F" target-path="08|02|08|annos" type="History" display="false"/>
   </annotations>
 </container>
