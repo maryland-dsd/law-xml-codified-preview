@@ -110,7 +110,23 @@
       </para>
       <para>
         <num>(12)</num>
-        <text>“Nutrient management plan” means a plan prepared by a certified nutrient management consultant or certified farm operator to manage the amount, placement, timing, and application of animal manure, fertilizer, biosolids, or other plant nutrients in order to:</text>
+        <text>“No-land operation” means an agricultural operation that has no land available to spread nutrients for the production of agricultural crops. These operations may include:</text>
+        <para>
+          <num>(a)</num>
+          <text>Concentrated Animal Feeding Operations as defined by Environment Article, Title 9, Subtitle 3, Part IV, Annotated Code of Maryland, and regulations adopted thereunder;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Maryland Animal Feeding Operations as defined by Environment Article, Title 9, Subtitle 3, Part IV, Annotated Code of Maryland, and regulations adopted thereunder; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any other livestock operation that has at least eight animal units defined as 1,000 pounds of live animal weight per animal unit or $2,500 gross annual income.</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Nutrient management plan” means a plan prepared by a certified nutrient management consultant or certified farm operator for an agricultural operation, including no-land operations and pasture-only operations, to manage the amount, placement, timing, and application of animal manure, fertilizer, biosolids, or other plant nutrients in order to:</text>
         <para>
           <num>(a)</num>
           <text>Minimize nutrient loss or runoff; and</text>
@@ -121,23 +137,30 @@
         </para>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(14)</num>
         <text>“Operator” means a person who manages or owns an agricultural operation.</text>
       </para>
       <para>
-        <num>(14)</num>
-        <text>“Person” means the State, any county, municipal corporation, or other political subdivision of the State, or any of their units, or an individual, receiver, trustee, guardian, executor, administrator, fiduciary, or representative of any kind, or any partnership, firm, association, public or private corporation, or any other entity, unless otherwise provided.</text>
-      </para>
-      <para>
         <num>(15)</num>
-        <text>“Plant production goal” means a statement of the estimated length of time that plants will be grown, and some appropriate measure of expected plant size, such as height or diameter.</text>
+        <text>“Pasture-only operation” means an agricultural operation that has livestock on pasture and does not collect or spread chemical fertilizer or any organic nutrients. These operations include any livestock operation that has at least eight animal units defined as 1,000 pounds of live animal weight per animal unit or $2,500 gross annual income.</text>
       </para>
       <para>
         <num>(16)</num>
+        <text>“Person” means the State, any county, municipal corporation, or other political subdivision of the State, or any of their units, or an individual, receiver, trustee, guardian, executor, administrator, fiduciary, or representative of any kind, or any partnership, firm, association, public or private corporation, or any other entity, unless otherwise provided.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Plant production goal” means a statement of the estimated length of time that plants will be grown, and some appropriate measure of expected plant size, such as height or diameter.</text>
+      </para>
+      <para>
+        <num>(18)</num>
         <text>“Primary nutrients” means a plant food that is essential for normal plant growth and includes total nitrogen (N), available phosphate (P<sub>2</sub>O<sub>5</sub>), and soluble potash (K<sub>2</sub>O).</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:15  26-031-E  (Regulations .03, .05) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|emergency|26-031-E" target-path="15|20|07|.03" type="History" display="false" exp="2026-12-01"/>
+    </annotations>
   </section>
   <section cache:ref-path="15|20|07|.04">
     <prefix>Regulation</prefix>
@@ -370,7 +393,7 @@
       <text>Plan Maintenance, Updates, and Revisions.</text>
       <para>
         <num>(1)</num>
-        <text>Except as provided in <cite path="15|20|07|.05|D.|(2)">§D(2) of this regulation</cite>, at least once every 3 years from the date that the current plan was prepared, the operator shall revise and update the plan.</text>
+        <text>Except as provided in §D(2) and (3) of this regulation, at least once every 3 years from the date that the current plan was prepared, the operator shall revise and update the plan.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -390,6 +413,10 @@
       </para>
       <para>
         <num>(3)</num>
+        <text>An operator who has a no-land operation or pasture-only operation shall, at least once every 5 years from the date the current plan was prepared, revise and update the plan.</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>Changes in an agricultural operation may require the operator to modify or update a plan when the information in the plan is inadequate, incomplete, or fails to address a change. These changes include a change:</text>
         <para>
           <num>(a)</num>
@@ -409,11 +436,14 @@
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(5)</num>
         <text>An operator shall maintain a plan to meet plan objectives, including implementation of best management practices, strategies, or a phased-in approach identified in the plan to achieve soil fertility within optimal ranges.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:15  26-031-E  (Regulations .03, .05) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
+      <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|emergency|26-031-E" target-path="15|20|07|.05" type="History" display="false" exp="2026-12-01"/>
+    </annotations>
   </section>
   <section cache:ref-path="15|20|07|.06">
     <prefix>Regulation</prefix>
@@ -695,8 +725,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-16"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended effective April 16, 2001 (28:7 Md. R. 692)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-04-11"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended as an emergency provision effective December 22, 2004 (32:2 Md. R. 144); amended permanently effective April 11, 2005 (32:7 Md. R. 684)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-05"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended effective October 5, 2020 (47:20 Md. R. 877)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended as an emergency provision effective June 4, 2026 (53:15 Md. R. 664)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-16"><cite path="|15|20|07|.04">Regulation .04</cite> amended effective April 16, 2001 (28:7 Md. R. 692)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-04-11"><cite path="|15|20|07|.05|A.">Regulation .05A</cite>, C, D amended as an emergency provision effective December 22, 2004 (32:2 Md. R. 144); amended permanently effective April 11, 2005 (32:7 Md. R. 684)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|15|20|07|.05|D.">Regulation .05D</cite> amended as an emergency provision effective June 4, 2026 (53:15 Md. R. 664)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-05"><cite path="|15|20|07|.06">Regulation .06</cite> amended as an emergency provision effective December 22, 2004 (32:2 Md. R. 144); amended permanently effective April 11, 2005 (32:7 Md. R. 684); October 5, 2020 (47:20 Md. R. 877)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-16"><cite path="|15|20|07|.06|A.">Regulation .06A</cite> amended effective April 16, 2001 (28:7 Md. R. 692)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-05"><cite path="|15|20|07|.07">Regulation .07</cite> amended effective October 5, 2020 (47:20 Md. R. 877)</annotation>

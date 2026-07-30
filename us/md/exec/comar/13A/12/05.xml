@@ -334,8 +334,41 @@
         <text>Applicants who qualify based on §3(b) or (c) of this regulation must present a qualifying score as established by the State Superintendent of Schools on a school leader licensure assessment approved by the State Board of Education.</text>
       </para>
     </para>
+    <para>
+      <num>C.</num>
+      <text>Administrator I and II Endorsements.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Administrator I and II endorsements are historic.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Administrator I endorsement:</text>
+        <para>
+          <num>(a)</num>
+          <text>Qualifies an individual to serve as an assistant principal and supervisor of instruction; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An individual may continue to hold that endorsement if the requirements for renewal, reinstatement, or both are met.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Administrator II endorsement:</text>
+        <para>
+          <num>(a)</num>
+          <text>Qualifies an individual to serve as a principal; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An individual may continue to hold that endorsement if the requirements for renewal, reinstatement, or both are met.</text>
+        </para>
+      </para>
+    </para>
     <annotations>
       <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-055-F" target-path="13A|12|05|.05" type="History" display="false"/>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-036-F" target-path="13A|12|05|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13A|12|05|.06">
@@ -383,14 +416,16 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Complete one of the options listed under <cite path="|13A|12|05|.05">Regulation .05 of this chapter</cite> that would lead to licensure as Administrator I.</text>
+        <text>Meet the requirements for licensure as an Administrator I or Supervisor of Instruction, Assistant Principals, and Principals under <cite path="|13A|12|05|.05">Regulation .05 of this chapter</cite>.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
       <text>Special Provision. An applicant seeking to satisfy the requirements of <cite path="13A|12|05|.06|B.|(3)">§B(3) of this regulation</cite> may, at the recommendation of the local school superintendent, substitute 2 years of related effective experience for 2 years of library media program experience.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-036-F" target-path="13A|12|05|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -510,7 +545,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Meet the requirements for licensure as an Administrator II.</text>
+        <text>Meet the requirements for licensure as an Administrator II or Supervisor of Instruction, Assistant Principals, and Principals under <cite path="|13A|12|05|.05">Regulation .05 of this chapter</cite>.</text>
       </para>
     </para>
     <para>
@@ -522,14 +557,16 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Meet the requirements for licensure as an Administrator I.</text>
+        <text>Meet the requirements for licensure as an Administrator I or Supervisor of Instruction, Assistant Principals, and Principals under <cite path="|13A|12|05|.05">Regulation .05 of this chapter</cite>.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
       <text>Special Provision. Supervisors with multiple area assignments shall meet the requirements set forth in <cite path="|13A|12|05|.05">Regulation .05 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-036-F" target-path="13A|12|05|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -962,10 +999,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01" discontinuity="true">Regulations <cite path="|13A|12|05|.01">.01</cite>—<cite path="|13A|12|05|.08">.08</cite> repealed under Subtitle 12 Certification Chapter 05 Suspensions and Revocations and new Regulations <cite path="|13A|12|05|.01">.01</cite>—<cite path="|13A|12|05|.15">.15</cite> adopted under Subtitle 12 Educator Licensure Chapter 05 Administrators and Supervisors effective April 1, 2024 (51:5 Md R. 231)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|05|.02|A.">Regulation .02A</cite> amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-15"><cite path="|13A|12|05|.05">Regulation .05</cite> repealed and new Regulation .05 adopted effective September 15, 2025 (52:18 Md. R. 924)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|05|.06|B.">Regulation .06B</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|13A|12|05|.05|C.">Regulation .05C</cite> adopted effective July 20, 2026 (53:14 Md. R. 640)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|13A|12|05|.06|B.">Regulation .06B</cite> amended effective March 3, 2025 (52:4 Md. R. 220); July 20, 2026 (53:14 Md. R. 640)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|05|.07">Regulation .07</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|05|.08|A.">Regulation .08A</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|05|.10|A.">Regulation .10A</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20"><cite path="|13A|12|05|.10|A.">Regulation .10A</cite>, B amended effective July 20, 2026 (53:14 Md. R. 640)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|13A|12|05|.15|C.">Regulation .15C</cite> amended effective March 3, 2025 (52:4 Md. R. 220)</annotation>
     <annotation app="2025-09-15" doc="Maryland Register, Volume 52, Issue 18" eff="2025-09-15" path="regulations|final|25-055-F" target-path="13A|12|05|annos" type="History" display="false"/>
     <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-107-F" target-path="13A|12|05|annos" type="History" display="false"/>

@@ -3415,13 +3415,15 @@
     </para>
     <para>
       <num>H.</num>
-      <text>A dealer controlled electronic table game system shall have no more than 14 table game positions in operation for every dealer.</text>
+      <text>A dealer controlled electronic table game system shall have no more than 28 table game positions in operation for every dealer.</text>
     </para>
     <para>
       <num>I.</num>
       <text>After installation, Agency staff shall inspect a dealer controlled electronic table game system prior to use by a facility operator.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-22" doc="Editor Action 2026-07-22" eff="2026-07-22" path="" target-path="36|05|02|.20" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>

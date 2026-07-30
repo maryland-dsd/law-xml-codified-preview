@@ -473,11 +473,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Anne Arundel County Tax Maps 3, 4, 7, 8, 9, and 15;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Howard County Tax Map 44.</text>
+          <text>Anne Arundel County Tax Maps 3, 4, 8, 9, and 15;</text>
         </para>
       </para>
       <para>
@@ -529,7 +525,9 @@
         <text>State Library Resource Center, Enoch Pratt Free Library, 400 Cathedral Street, Baltimore, MD 21201, (410) 396-1789.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-03" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|final|26-008-F-I" target-path="11|03|01|.01-1" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="11|03|01|.02">
     <prefix>Regulation</prefix>
@@ -3519,16 +3517,12 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Anne Arundel County Tax Maps 3, 4, 7, 8, 9, and 15;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Howard County Tax Map 44.</text>
+          <text>Anne Arundel County Tax Maps 3, 4, 8, 9, and 15;</text>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>The noise zone is a composite of the 65, 70, and 75 Ldn noise contours for the base year of 2020 and future years of 2025 and 2030.</text>
+        <text>The noise zone is a composite of the 65, 70, and 75 Ldn noise contours for the base year of 2025 and future years of 2030 and 2035.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -3583,7 +3577,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-03" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|final|26-008-F-I" target-path="11|03|01|.12" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3626,9 +3622,7 @@
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">
-      <cite doc="Md. Code" path="gtr">Transportation Article, Annotated Code of Maryland</cite>
-    </annotation>
+    <annotation managed="false" type="Authority" dest="container">Transportation Article, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-11-26">Effective date: November 26, 1975 (2:27 Md. R. 1628)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-06-09">Chapter revised effective June 9, 1976 (3:12 Md. R. 643)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|11.03.04">COMAR 11.03.04</cite> to <cite path="|11.03.01">11.03.01</cite></annotation>
@@ -3666,6 +3660,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-09-01"><cite path="|11|03|01|.01">Regulation .01</cite> amended effective September 1, 2001 (28:16 Md. R. 1483)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|11|03|01|.01|B.">Regulation .01B</cite> amended effective January 2, 2006 (32:26 Md. R. 1998); November 6, 2007 (34:22 Md. R. 1978); January 12, 2009 (36:1 Md. R. 22); April 5, 2010 (37:7 Md. R. 572); July 15, 2019 (46:14 Md. R. 622); April 3, 2023 (50:6 Md. R. 219); October 13, 2025 (52:20 Md. R.1002)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-04-19"><cite path="|11|03|01|.01-1B">Regulation .01-1B</cite> amended effective December 24, 2001 (28:25 Md. R. 2192); November 6, 2007 (34:22 Md. R. 1978); January 12, 2009 (36:1 Md. R. 22); December 24, 2012 (39:25 Md. R. 1614); December 22, 2014 (41:25 Md. R. 1485); April 19, 2021 (48:8 Md. R. 310)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-03"><cite path="|11|03|01|.01-1B">Regulation .01-1B</cite> amended effective August 3, 2026 (53:15 Md. R. 666)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-01-12"><cite path="|11|03|01|.01-1C">Regulation .01-1C</cite> amended effective January 12, 2009 (36:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-01-12"><cite path="|11|03|01|.02|I.">Regulation .02I</cite>, Y amended effective January 12, 2009 (36:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-01-12"><cite path="|11|03|01|.03">Regulation .03</cite> amended effective January 12, 2009 (36:1 Md. R. 22)</annotation>
@@ -3685,7 +3680,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-01-12"><cite path="|11|03|01|.09|C.">Regulation .09C</cite> amended effective January 12, 2009 (36:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-12-12"><cite path="|11|03|01|.09|D.">Regulation .09D</cite> amended effective July 15, 2019 (46:14 Md. R. 622); December 12, 2024 (Md. R. 51:24 1081)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-11-06"><cite path="|11|03|01|.12">Regulation .12</cite> amended effective November 6, 2007 (34:22 Md. R. 1978)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-12-22"><cite path="|11|03|01|.12|B.">Regulation .12B</cite> amended effective December 22, 2014 (41:25 Md. R. 1485)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-03"><cite path="|11|03|01|.12|B.">Regulation .12B</cite> amended effective December 22, 2014 (41:25 Md. R. 1485); August 3, 2026 (53:15 Md. R. 666)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-04-19"><cite path="|11|03|01|.12|B.">Regulation .12B</cite>, C amended effective April 19, 2021 (48:8 Md. R. 310)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-16"><cite path="|11|03|01|.13">Regulation .13</cite> adopted effective December 16, 2019 (46:25 Md. R. 1131)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|11|03|01|.13">Regulation .13</cite> amended effective October 13, 2025 (52:20 Md. R. 1002)</annotation>

@@ -878,7 +878,7 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.10</num>
-    <heading>Trauma Equipment Grants.</heading>
+    <heading>Trauma Grants.</heading>
     <para>
       <num>A.</num>
       <text>Eligibility.</text>
@@ -915,7 +915,9 @@
       <num>D.</num>
       <text>Before awarding grants under this regulation in a fiscal year, the Commission shall report to the Senate Finance Committee and the House Health and Government Operations Committee on the process that the Commission has developed for awarding grants in that fiscal year.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-22" doc="Editor Action 2026-07-22" eff="2026-07-22" path="" target-path="10|25|10|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|25|10|.11">
     <prefix>Regulation</prefix>

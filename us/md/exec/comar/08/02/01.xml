@@ -1876,58 +1876,50 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Bynum Run Pond — Harford County;</text>
-        </para>
-        <para>
-          <num>(d)</num>
           <text>Evitts Creek Pond — Allegany County;</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>Forest Hill Lake — Harford County;</text>
-        </para>
-        <para>
-          <num>(f)</num>
+          <num>(d)</num>
           <text>Frank Bentz Pond — Frederick County;</text>
         </para>
         <para>
-          <num>(g)</num>
+          <num>(e)</num>
           <text>Hughesville Pond — Charles County;</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(f)</num>
           <text>North Branch Potomac River — Folly and Laurel Runs — Garrett County;</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(g)</num>
           <text>North Branch Potomac River — Gary A. Yoder Landing — Allegany County;</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(h)</num>
           <text>North Branch Potomac River — McCoole — Allegany County;</text>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(i)</num>
           <text>Rising Sun Pond — Cecil County;</text>
         </para>
         <para>
-          <num>(l)</num>
+          <num>(j)</num>
           <text>Smithville Lake — Caroline County;</text>
         </para>
         <para>
-          <num>(m)</num>
+          <num>(k)</num>
           <text>Unicorn Lake — Queen Anne’s County;</text>
         </para>
         <para>
-          <num>(n)</num>
+          <num>(l)</num>
           <text>Urbana Lake — Frederick County;</text>
         </para>
         <para>
-          <num>(o)</num>
+          <num>(m)</num>
           <text>Urieville Lake — Kent County; and</text>
         </para>
         <para>
-          <num>(p)</num>
+          <num>(n)</num>
           <text>Wye Mills Lake — Queen Anne’s County.</text>
         </para>
       </para>
@@ -2012,7 +2004,9 @@
       <num>E.</num>
       <text>Projectile fishing gears, as described in <cite path="08.02.25.02">COMAR 08.02.25.02</cite> and .03, are prohibited in all Fishery Management Areas.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-03" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|final|26-051-F" target-path="08|02|01|.13" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|01|.14">
     <prefix>Regulation</prefix>
@@ -2177,7 +2171,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-205">4-205</cite>, <cite doc="Md. Code" path="gnr|4-205">4-205</cite>.1, 4-206, 4-212, 4-214, 4-215, 4-215.2, 4-2A-03, 4-216, 4-306, 4-405, 4-407, 4-602, 4-604, 4-701, 4-701.1, 4-735, 4-745, 4-1006, 4-1006.1, 4-1009, 4-1011, 4-1012, 4-1103, 4-11A-02, 4-11A-04—4-11A-09, 4-11A-11, 4-11A-20, and 4-11A-21; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>;  Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-205">4-205</cite>, <cite doc="Md. Code" path="gnr|4-205">4-205</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|4-206">4-206</cite>, <cite doc="Md. Code" path="gnr|4-212">4-212</cite>, <cite doc="Md. Code" path="gnr|4-214">4-214</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>.<cite doc="Md. Code" path="gnr|2">2</cite>, <cite doc="Md. Code" path="gnr|4-2">4-2</cite>A-<cite doc="Md. Code" path="gnr|03">03</cite>, <cite doc="Md. Code" path="gnr|4-216">4-216</cite>, <cite doc="Md. Code" path="gnr|4-306">4-306</cite>, <cite doc="Md. Code" path="gnr|4-405">4-405</cite>, <cite doc="Md. Code" path="gnr|4-407">4-407</cite>, <cite doc="Md. Code" path="gnr|4-602">4-602</cite>, <cite doc="Md. Code" path="gnr|4-604">4-604</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|4-735">4-735</cite>, <cite doc="Md. Code" path="gnr|4-745">4-745</cite>, <cite doc="Md. Code" path="gnr|4-1006">4-1006</cite>, <cite doc="Md. Code" path="gnr|4-1006">4-1006</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|4-1009">4-1009</cite>, <cite doc="Md. Code" path="gnr|4-1011">4-1011</cite>, <cite doc="Md. Code" path="gnr|4-1012">4-1012</cite>, <cite doc="Md. Code" path="gnr|4-1103">4-1103</cite>, <cite doc="Md. Code" path="gnr|4-11">4-11</cite>A-<cite doc="Md. Code" path="gnr|02">02</cite>, <cite doc="Md. Code" path="gnr|4-11">4-11</cite>A-04—4-11A-09, 4-11A-11, 4-11A-20, and 4-11A-21; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-04-29"><cite path="|08|02|01|.01">Regulation .01</cite> adopted effective April 29, 1991 (18:8 Md. R. 863)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26"><cite path="|08|02|01|.01">Regulation .01</cite> amended effective November 11, 1991 (18:22 Md. R. 2395); December 6, 1993 (20:24 Md. R. 1864); July 8, 2002 (29:13 Md. R. 990); March 26, 2018 (45:6 Md. R. 317)</annotation>
@@ -2218,6 +2212,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-06"><cite path="|08|02|01|.12|B.">Regulation .12B</cite> amended effective June 15, 2020 (47:12 Md. R. 595); February 8, 2021 (48:3 Md. R. 93); December 11, 2023 (50:24 Md. R. 1040); January 6, 2025 (51:26 Md. R. 1186)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-30"><cite path="|08|02|01|.13">Regulation .13</cite> adopted effective March 30, 2015 (42:6 Md. R. 510)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-12-12"><cite path="|08|02|01|.13|B.">Regulation .13B</cite> amended effective December 14, 2020 (47:25 Md. R. 1067); December 12, 2022 (49:25 Md. R. 1049)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-03"><cite path="|08|02|01|.13|C.">Regulation .13C</cite> amended effective August 3, 2026 (53:15 Md. R. 665)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-06-05"><cite path="|08|02|01|.13|D.">Regulation .13D</cite> amended effective June 5, 2017 (44:11 Md. R. 524)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-11"><cite path="|08|02|01|.13|E.">Regulation .13E</cite> adopted effective December 11, 2023 (50:24 Md. R. 1040)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-11-09"><cite path="|08|02|01|.14">Regulation .14</cite> adopted effective November 9, 2015 (42:22 Md. R. 1377)</annotation>

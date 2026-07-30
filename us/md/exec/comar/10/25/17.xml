@@ -2,21 +2,21 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>17</num>
-  <heading>Benchmarks for Preauthorization of Health Care Services</heading>
+  <heading>Preauthorization of Health Care Services<annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
     <para>
       <num>A.</num>
-      <text>This chapter applies to a payor that:</text>
+      <text>This chapter applies to:</text>
       <para>
         <num>(1)</num>
-        <text>Requires preauthorization for health care services; and</text>
+        <text>A payor that requires preauthorization or step therapy for health care services; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Is required to report to the Maryland Health Care Commission on its attainment and plans for attainment of certain preauthorization benchmarks.</text>
+        <text>A health care provider.</text>
       </para>
     </para>
     <para>
@@ -31,7 +31,9 @@
         <text>Personal injury protection claims pursuant to <cite doc="Md. Code" path="gin">Insurance Article, Title 19, Annotated Code of Maryland</cite>..</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -46,29 +48,37 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Commission” means the Maryland Health Care Commission.</text>
+        <text>“Carrier” has the meaning stated in <cite doc="Md. Code" path="gin|15-1301">Insurance Article, §15-1301, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Executive Director” means the Executive Director of the Commission or the Executive Director’s designee.</text>
+        <text>“Commission” means the Maryland Health Care Commission.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>“Health Care Service” has the meaning stated in <cite doc="Md. Code" path="gin|15-10">Insurance Article, §15-10</cite>A-01, Annotated Code of Maryland.</text>
+        <text>“Executive Director” means the Executive Director of the Commission or the Executive Director’s designee.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>“Payor” means one of the following State-regulated entities that require preauthorization for a health care service:</text>
+        <text>“Health care provider” has the meaning stated in Health-General Article, §19-108.3, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Health Care Service” has the meaning stated in <cite doc="Md. Code" path="gin|15-10">Insurance Article, §15-10</cite>A-01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Online process” means the process established by carriers that meets the requirements outlined in Health-General Article, §19-108.5(b)(1), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Payor” means:</text>
         <para>
           <num>(a)</num>
-          <text>An insurer or nonprofit health service plan that provides hospital, medical, or surgical benefits to individuals or groups on an expense-incurred basis under health insurance policies or contracts that are issued or delivered in the State;</text>
+          <text>A carrier; or;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>A health maintenance organization that provides hospital, medical, or surgical benefits to individuals or groups under contracts that are issued or delivered in the State; or</text>
-        </para>
-        <para>
-          <num>(c)</num>
           <text>A pharmacy benefits manager that is registered with the Maryland Insurance Commissioner, except for a pharmacy benefits manager that only provides services for:</text>
           <para>
             <num>(i)</num>
@@ -81,19 +91,19 @@
         </para>
       </para>
       <para>
-        <num>(5)</num>
-        <text>“Preauthorization” means the process of obtaining approval from a payor by meeting certain criteria before a certain health care service can be rendered by the health care provider.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>“Prescriber” means a health care practitioner who has the required license and, if necessary, scope of practice or delegation agreement that permits the health care practitioner to prescribe drugs to treat medical conditions or diseases.</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Step therapy or fail-first protocol" is a protocol established by an insurer, a nonprofit health service plan, a health maintenance organization, or a pharmacy benefits manager that requires a certain prescription drug or sequence of prescription drugs to be used by an insured individual or an enrollee before another specific prescription drug ordered by a prescriber is covered.</text>
-      </para>
-      <para>
         <num>(8)</num>
+        <text>“Preauthorization” means the process of obtaining approval from a payor by meeting certain criteria before a certain health care service is rendered by the health care provider.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Prescriber” means a health care provider who has the required license and, if necessary, scope of practice or delegation agreement that permits the health care provider to prescribe drugs to treat medical conditions or diseases.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Step therapy or fail-first protocol” is a protocol established by a payor that requires a certain prescription drug or sequence of prescription drugs to be used by an insured individual or an enrollee before another specific prescription drug ordered by a prescriber is covered.</text>
+      </para>
+      <para>
+        <num>(11)</num>
         <text>“Supporting medical information” means:</text>
         <para>
           <num>(a)</num>
@@ -105,19 +115,21 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Other information mutually agreed to that constitutes sufficient supporting medical information by an insured's or enrollee’s prescriber and a payor that requires a step therapy or fail-first protocol.</text>
+          <text>Other information that constitutes sufficient supporting medical information by an insured’s or enrollee’s prescriber and a payor that requires a step therapy or fail-first protocol.</text>
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|25|17|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
-    <heading>Benchmarks.</heading>
+    <heading>Online Process Requirements.</heading>
     <para>
       <num>A.</num>
-      <text>Each payor shall establish and maintain online access for a provider to the following:</text>
+      <text>A payor shall establish and maintain online access for a provider to the following:</text>
       <para>
         <num>(1)</num>
         <text>A list of each health care service that requires preauthorization by the payor; and</text>
@@ -129,53 +141,113 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Each payor shall establish and maintain an online process for:</text>
+      <text>Online Portal for Health Care Services.</text>
       <para>
         <num>(1)</num>
-        <text>Accepting electronically a preauthorization request from a provider; and</text>
+        <text>A payor shall establish and maintain an online portal that meets the requirements of Health General Article, §19-108.2, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Assigning to a preauthorization request a unique electronic identification number that a provider may use to track the request during the preauthorization process, whether the request is tracked electronically, through a call center, or by fax.</text>
+        <text>A payor’s online portal established and maintained under this section shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Accept electronic preauthorization requests from a health care provider;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Assign a unique electronic identification number to each preauthorization request;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Approve in real time, electronic preauthorization requests:</text>
+          <para>
+            <num>(i)</num>
+            <text>For which no additional information is needed by the payor to process the preauthorization request;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>That meet the payor’s criteria for approval;</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Render a determination within 1 business day after receiving all pertinent information on requests not approved in real time of electronic preauthorization requests for pharmaceutical services that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Are not urgent; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Do not meet the standards for real-time approval under <cite path="10|25|17|.03|B.|(2)|(c)">§B(2)(c) of this regulation</cite>; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Render a determination within 2 business days after receiving all pertinent information of electronic preauthorization requests for health care services, except pharmaceutical services, that are not urgent.</text>
+        </para>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>Each payor shall establish and maintain an online preauthorization system that meets the requirements of Health-General Article, §19-108.2(e), Annotated Code of Maryland, to:</text>
+      <text>Online Process for Pharmaceutical Services.</text>
       <para>
         <num>(1)</num>
-        <text>Approve in real time, electronic preauthorization requests for pharmaceutical services:</text>
-        <para>
-          <num>(a)</num>
-          <text>For which no additional information is needed by the payor to process the preauthorization request; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>That meet the payor’s criteria for approval;</text>
-        </para>
+        <text>A payor shall establish and maintain an online process that meets the requirements of Health General Article, §19-108.5, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Render a determination within 1 business day after receiving all pertinent information on requests not approved in real time, electronic preauthorization requests for pharmaceutical services that:</text>
+        <text>A payor’s online process established and maintained under this section shall:</text>
         <para>
           <num>(a)</num>
-          <text>Are not urgent; and</text>
+          <text>Link directly to all e-prescribing systems and electronic health record systems that use the National Council for Prescription Drug Programs SCRIPT standard and the National Council for Prescription Drug Programs Real-Time Prescription Benefit Standard;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Do not meet the standards for real-time approval under <cite path="10|25|17|.03|C.|(1)">§C(1) of this regulation</cite>; and</text>
+          <text>Provide accurate, real-time patient-specific benefit information to insureds, enrollees, and contracted health care providers, including any:</text>
+          <para>
+            <num>(i)</num>
+            <text>Copayment, deductible, coinsurance, or other out-of-pocket costs;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>More affordable medication alternatives; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Preauthorization requirements;</text>
+          </para>
         </para>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Render a determination within 2 business days after receiving all pertinent information, electronic preauthorization requests for health care services, except pharmaceutical services, that are not urgent.</text>
+        <para>
+          <num>(c)</num>
+          <text>Provide the information required under this section at the point of prescribing in an accessible and understandable format;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Approve in real-time, electronic preauthorization requests:</text>
+          <para>
+            <num>(i)</num>
+            <text>For which no additional information is needed by the payor to process the preauthorization request;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>For which no clinical review is required; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>That meet the payor’s criteria for approval.</text>
+          </para>
+        </para>
       </para>
     </para>
     <para>
       <num>D.</num>
-      <text>Each payor that requires a step therapy or fail-first protocol shall:</text>
+      <text>A payor that requires a step therapy or fail-first protocol shall:</text>
       <para>
         <num>(1)</num>
+        <text>Comply with <cite doc="Md. Code" path="gin|15-142">Insurance Article, §15-142(c), Annotated Code of Maryland</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
         <text>Establish and maintain an online process to allow a prescriber to override the step therapy or fail-first protocol if:</text>
         <para>
           <num>(a)</num>
@@ -195,19 +267,29 @@
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(3)</num>
         <text>Provide notice to prescribers regarding the availability of its online process; and</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(4)</num>
         <text>Provide information to insureds or enrollees on the availability of the step therapy or fail-first protocol within its network.</text>
       </para>
     </para>
     <para>
       <num>E.</num>
-      <text>A payor that becomes authorized to provide benefits or services within the State of Maryland after October 1, 2012, shall meet each benchmark within this chapter within 3 months of the payor's offering of services or benefits within the State and shall thereafter maintain the processes or actions required by each benchmark.</text>
+      <text>A payor may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Impose a fee or charge a person for accessing its online process established under <cite path="10|25|17|.03|C.">§C of this regulation</cite>; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Access, without health care provider consent, health care provider data via the online process other than for the insured or enrollee.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -215,32 +297,30 @@
     <heading>Reporting.</heading>
     <para>
       <num>A.</num>
-      <text>A payor that becomes authorized to provide benefits or services within the State of Maryland after October 1, 2012, shall report to the Commission in a form and manner specified by the Commission on its attainment of each benchmark in <cite path="|10|25|17|.03">Regulation .03 of this chapter</cite> within 3 months of the payor’s offering of services or benefits within the State.</text>
+      <text>If requested by the Commission, a payor shall demonstrate continued compliance with the preauthorization requirements in <cite path="|10|25|17|.03">Regulation .03 of this chapter</cite>.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>If requested by the Commission, a payor shall demonstrate continued compliance with the benchmarks in <cite path="|10|25|17|.03">Regulation .03 of this chapter</cite>.</text>
-    </para>
-    <para>
-      <num>C.</num>
       <text>A payor that has been granted a waiver under <cite path="|10|25|17|.05">Regulation .05 of this chapter</cite> shall notify the Executive Director if it can no longer demonstrate the extenuating circumstances for which the waiver was granted within 30 days after a payor can no longer demonstrate extenuating circumstances.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|25|17|.05">
     <prefix>Regulation</prefix>
     <num>.05</num>
-    <heading>Waiver from Benchmark Requirement.</heading>
+    <heading>Payor Waiver from Requirement.</heading>
     <para>
       <num>A.</num>
-      <text>A payor may request that the Commission issue or renew a waiver from the requirement to meet a benchmark in <cite path="|10|25|17|.03">Regulation .03 of this chapter</cite> by the demonstration of the following extenuating circumstances:</text>
+      <text>A payor may request that the Commission issue or renew a waiver from the requirement to meet a preauthorization requirement in <cite path="|10|25|17|.03">Regulation .03 of this chapter</cite> by the demonstration of the following extenuating circumstances:</text>
       <para>
         <num>(1)</num>
         <text>For an insurer or nonprofit health service plan, a premium volume that is less than $1,000,000 annually in the State;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>For a group model health maintenance organization, as defined in Health-General Article, §19-713.6, Annotated Code of Maryland, preauthorizations of health care services requested by providers not employed by the group model health maintenance organization; or</text>
+        <text>For a group model health maintenance organization, as defined in Health-General Article, §19-713.6, Annotated Code of Maryland, preauthorization of health care services requested by providers not employed by the group model health maintenance organization; or</text>
       </para>
       <para>
         <num>(3)</num>
@@ -255,7 +335,7 @@
         <text>A request for a waiver or renewal of waiver shall be in writing and shall include:</text>
         <para>
           <num>(a)</num>
-          <text>An identification of each preauthorization benchmark for which a waiver is requested; and</text>
+          <text>An identification of each preauthorization requirement for which a waiver is requested; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -271,7 +351,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>For a payor that becomes authorized to provide benefits or services within the State of Maryland after October 1, 2012, within 3 months after the date the payor is authorized to provide benefits or services within the State.</text>
+          <text>For a payor that becomes authorized to provide services within the State of Maryland after October 1, 2012, within 3 months after the date the payor is authorized to provide benefits or services within the State.</text>
         </para>
       </para>
     </para>
@@ -280,7 +360,7 @@
       <text>Issuance of Waiver.</text>
       <para>
         <num>(1)</num>
-        <text>The Executive Director may issue a waiver from a preauthorization benchmark to a payor that demonstrates extenuating circumstances within this chapter.</text>
+        <text>The Executive Director may issue a waiver from a preauthorization requirement to a payor that demonstrates extenuating circumstances within this chapter.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -304,7 +384,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>After a waiver or a renewal of a waiver is withdrawn, a payor shall submit a plan to the Executive Director within 30 days that includes a timeline for attaining each benchmark in <cite path="|10|25|17|.03">Regulation .03 of this chapter</cite> in a format approved by the Commission.</text>
+        <text>After a waiver or a renewal of a waiver is withdrawn, a payor shall submit a plan to the Executive Director within 30 days that includes a timeline for attaining each requirement in <cite path="|10|25|17|.03">Regulation .03 of this chapter</cite> in a format approved by the Commission.</text>
       </para>
     </para>
     <para>
@@ -343,22 +423,107 @@
       <num>F.</num>
       <text>A waiver or renewal of waiver from the requirements of this chapter may not be sold, assigned, leased, or transferred.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>G.</num>
+      <text>A payor that has been granted a waiver under this regulation shall notify the Executive Director if it can no longer demonstrate the extenuating circumstances for which the waiver was granted within 30 days after a payor can no longer demonstrate extenuating circumstances.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|.05" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|25|17|.06">
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Provider Requirements and Waiver.</heading>
+    <para>
+      <num>A.</num>
+      <text>On or before July 1, 2026, a health care provider shall ensure that each e-Prescribing system or electronic health record system owned or contracted for by the health care provider to maintain a health record of an insured or enrollee has the ability to access:</text>
+      <para>
+        <num>(1)</num>
+        <text>The online process established by a payor under <cite path="|10|25|17|.03|C.">Regulation .03C of this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The real-time patient out of pocket cost information and available medication alternatives.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Health Care Provider Waiver Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>A health care provider may request that the Commission issue or renew a waiver from the requirements in <cite path="10|25|17|.06|A.">§A of this regulation</cite> by demonstration of the following extenuating circumstances:</text>
+        <para>
+          <num>(a)</num>
+          <text>Economic hardship;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Technology limitations; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Other circumstances determined by the Commission to be extenuating.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A health care provider seeking a waiver from the requirements of <cite path="10|25|17|.06|A.">§A of this regulation</cite> shall submit an attestation to the Commission using the form on the Commission’s website.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.06</num>
+    <num>.07</num>
     <heading>Fines.</heading>
-    <text>A payor that does not meet the reporting requirements of this chapter may be assessed a fine in accordance with <cite path="10.25.12.01">COMAR 10.25.12.01</cite>, et seq.</text>
-    <annotations/>
+    <para>
+      <num>A.</num>
+      <text>A payor that becomes authorized to provide services within the State after the effective date of a requirement in this chapter shall meet each requirement within this chapter within 3 months of offering services.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A person that fails to meet a requirement of this chapter may be subject to a financial penalty based on:</text>
+      <para>
+        <num>(1)</num>
+        <text>The person’s ability to pay;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The willfulness of the improper conduct;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The extent of actual or potential public harm caused by the violation;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The cost of auditing or investigating the matter; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The person’s history of any previous violation.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A person assessed a fine may challenge the assessment in accordance with the procedure outlined in <cite path="10.25.12.02">COMAR 10.25.12.02</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-101 and 19-108.2, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-103, 19-108.2, 19-108.5, and 19-109, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-02-18">Effective date: February 18, 2013 (40:3 Md. R. 218)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-01-09"><cite path="|10|25|17|.01">Regulation .01</cite> amended effective January 9, 2023 (49:27 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-01-09"><cite path="|10|25|17|.02|B.">Regulation .02B</cite> amended effective October 12, 2015 (42:20 Md. R. 1265); January 9, 2023 (49:27 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-01-09"><cite path="|10|25|17|.03">Regulation .03</cite> amended effective October 12, 2015 (42:20 Md. R. 1265); January 9, 2023 (49:27 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-01-09"><cite path="|10|25|17|.04">Regulation .04</cite> amended effective October 12, 2015 (42:20 Md. R. 1265); January 9, 2023 (49:27 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-01-09"><cite path="|10|25|17|.05">Regulation .05</cite> amended effective October 12, 2015 (42:20 Md. R. 1265); January 9, 2023 (49:27 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20" discontinuity="true">Chapter revised effective July 20, 2026 (53:14 Md. R. 639)</annotation>
+    <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -1983,7 +1983,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Notice to Employees. The Department shall comply with the requirements as set forth in <cite doc="Md. Code" path="gle|8.3-801">Labor and Employment Article, §8.3-801(a)</cite>, Annotated Code of Maryland.</text>
+      <text>Notice to Employees. The Department shall comply with the requirements as set forth in <cite doc="Md. Code" path="gle|8.3-801">Labor and Employment Article, §8.3-801(a), Annotated Code of Maryland</cite>.</text>
     </para>
     <para>
       <num>D.</num>
@@ -1991,7 +1991,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>Job Protection and Retaliation.  Agencies shall comply with the requirements as set forth in Labor and Employment Article, §§8.3-706 and 904, Annotated Code of Maryland.</text>
+      <text>Job Protection and Retaliation.  Agencies shall comply with the requirements as set forth in Labor and Employment Article, §§<cite doc="Md. Code" path="gle|8.3-706">8.3-706</cite> and <cite doc="Md. Code" path="gle|904">904</cite>, Annotated Code of Maryland.</text>
     </para>
     <para>
       <num>F.</num>
@@ -2026,6 +2026,30 @@
         <para>
           <num>(c)</num>
           <text>If a State employee holiday is observed during the employee's continuous period of PFML, the State employee holiday will be counted toward the employee's total amount of PFML.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Parental Leave of Absence.</text>
+        <para>
+          <num>(a)</num>
+          <text>Beginning on July 1, 2026, employees shall no longer be eligible for a parental leave of absence under <cite path="17.04.11.29">COMAR 17.04.11.29</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An employee approved for a parental leave of absence on or before June 30, 2026 under <cite path="17.04.11.29">COMAR 17.04.11.29</cite> shall be eligible to request PFML for the reasons set forth in <cite doc="Md. Code" path="gsp|9-1004">State Personnel and Pensions Article, §9-1004(a)(1)(i), Annotated Code of Maryland</cite>, subject to the limitations in this subsection.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Approval of PFML after Parental Leave of Absence.</text>
+          <para>
+            <num>(i)</num>
+            <text>An employee approved for a parental leave of absence on or before June 30, 2026 who has not exceeded the 60-day parental leave of absence shall be approved by an appointing authority or their designee for PFML under <cite doc="Md. Code" path="gsp|9-1004">State Personnel and Pensions Article, §9-1004(a)(1)(i), Annotated Code of Maryland</cite>, for the remaining eligibility of any parental leave of absence previously approved under <cite path="17.04.11.29">COMAR 17.04.11.29</cite>.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>An appointing authority or their designee shall count the number of days an employee used on a parental leave of absence between July 1, 2025 and June 30, 2026 against the amount of PFML an appointing authority or their designee may approve under <cite doc="Md. Code" path="gsp|9-1004">State Personnel and Pensions Article, §9-1004(a)(1)(i), Annotated Code of Maryland</cite>, for the 12 month period following the first day of the parental leave of absence.</text>
+          </para>
         </para>
       </para>
     </para>
@@ -2494,7 +2518,9 @@
       </para>
     </para>
     <annotations>
+      <annotation managed="false" type="Emergency Action">53:15  26-077-E  (Regulation .31) EMERGENCY ACTION IN EFFECT 6/23/2026 — 11/11/2026</annotation>
       <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-269-F" target-path="17|04|11" type="History" display="false"/>
+      <annotation app="2026-06-23" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|emergency|26-077-E" target-path="17|04|11|.31" type="History" display="false" exp="2026-11-11"/>
     </annotations>
   </section>
   <annotations>
@@ -2520,6 +2546,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-17"><cite path="|17|04|11|.29">Regulation .29</cite> adopted effective December 17, 2018 (45:25 Md. R. 1207)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-08-04"><cite path="|17|04|11|.30">Regulation .30</cite> adopted effective August 4, 2025 (52:15 Md. R. 812)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|17|04|11|.31">Regulation .31</cite> adopted effective March 16, 2026 (53:5 Md. R. 246)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-23"><cite path="|17|04|11|.31|F.">Regulation .31F</cite> amended as an emergency provision effective June 23, 2026 (53:15 Md. R. 664)</annotation>
     <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-269-F" target-path="17|04|11|annos" type="History" display="false"/>
   </annotations>
 </container>

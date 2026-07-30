@@ -641,7 +641,7 @@
     </para>
     <para>
       <num>J.</num>
-      <text>Cleaning of Aircraft. The cleaning of aircraft shall be conducted in accordance with NFPA 410 Aircraft Maintenance, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(e). This cleaning shall only be permitted in areas of the Airport approved by the Administration.</text>
+      <text>Cleaning of Aircraft. The cleaning of aircraft shall be conducted in accordance with NFPA 410 Aircraft Maintenance, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(e)">COMAR 11.03.01.01-1B(2)(e)</cite>. This cleaning shall only be permitted in areas of the Airport approved by the Administration.</text>
     </para>
     <para>
       <num>K.</num>
@@ -669,7 +669,7 @@
     </para>
     <para>
       <num>O.</num>
-      <text>Grounding or Bonding of Aircraft. Aircraft in hangars shall be grounded or bonded for removal and control of static electrical accumulations on aircraft while aircraft are undergoing service or repair in accordance with NFPA 409 Aircraft Hangars, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(d). Aircraft being serviced on the Airport ramp or other designated area shall be grounded or bonded for removal and control of static electrical accumulations in accordance with NFPA 407 Aircraft Fuel Servicing, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(c).</text>
+      <text>Grounding or Bonding of Aircraft. Aircraft in hangars shall be grounded or bonded for removal and control of static electrical accumulations on aircraft while aircraft are undergoing service or repair in accordance with NFPA 409 Aircraft Hangars, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(d)">COMAR 11.03.01.01-1B(2)(d)</cite>. Aircraft being serviced on the Airport ramp or other designated area shall be grounded or bonded for removal and control of static electrical accumulations in accordance with NFPA 407 Aircraft Fuel Servicing, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(c)">COMAR 11.03.01.01-1B(2)(c)</cite>.</text>
     </para>
     <para>
       <num>P.</num>
@@ -680,7 +680,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The parking of motorized ground equipment near aircraft and hangars at the Airport shall be conducted in accordance with NFPA 407 Aircraft Fuel Servicing, §407-8, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(c).</text>
+        <text>The parking of motorized ground equipment near aircraft and hangars at the Airport shall be conducted in accordance with NFPA 407 Aircraft Fuel Servicing, §407-8, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(c)">COMAR 11.03.01.01-1B(2)(c)</cite>.</text>
       </para>
     </para>
     <para>
@@ -693,14 +693,14 @@
     </para>
     <para>
       <num>S.</num>
-      <text>Heating Systems in Hangars. The installation and operation of any heating system or device is prohibited in any hangar at the Airport, other than systems or devices listed or labeled by an independent testing laboratory or facility as suitable for use in heating aircraft hangars. Those systems and devices shall be installed in the manner prescribed by and standards set forth in NFPA 70, National Electrical Code, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(a), and NFPA 409 Aircraft Hangars, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(d)). The use of portable aircraft engine heating equipment is prohibited inside any aircraft hangar. Only listed or labeled, and Federal Aviation Administration (FAA) approved, equipment shall be used.</text>
+      <text>Heating Systems in Hangars. The installation and operation of any heating system or device is prohibited in any hangar at the Airport, other than systems or devices listed or labeled by an independent testing laboratory or facility as suitable for use in heating aircraft hangars. Those systems and devices shall be installed in the manner prescribed by and standards set forth in NFPA 70, National Electrical Code, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(a)">COMAR 11.03.01.01-1B(2)(a)</cite>, and NFPA 409 Aircraft Hangars, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(d)">COMAR 11.03.01.01-1B(2)(d)</cite>). The use of portable aircraft engine heating equipment is prohibited inside any aircraft hangar. Only listed or labeled, and Federal Aviation Administration (FAA) approved, equipment shall be used.</text>
     </para>
     <para>
       <num>T.</num>
       <text>Electrical Equipment and Lighting Systems.</text>
       <para>
         <num>(1)</num>
-        <text>All electrical equipment shall be in accordance with NFPA 70 National Electrical Code, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(a).</text>
+        <text>All electrical equipment shall be in accordance with NFPA 70 National Electrical Code, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(a)">COMAR 11.03.01.01-1B(2)(a)</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -715,7 +715,9 @@
         <text>Gasoline or diesel powered generators, compressors, or other similar equipment shall be properly grounded or bonded and may not be operated in any hangar.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-03" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|final|26-008-F-I" target-path="11|03|02|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -839,11 +841,11 @@
         <text>A person may not engage in the fueling and defueling of aircraft or the maintenance of aircraft fueling systems at a distance of less than 50 feet from any hangar or other building, unless conducted in compliance with:</text>
         <para>
           <num>(a)</num>
-          <text>NFPA 410 Aircraft Maintenance, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(e); and</text>
+          <text>NFPA 410 Aircraft Maintenance, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(e)">COMAR 11.03.01.01-1B(2)(e)</cite>; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>NFPA 407 Aircraft Fuel Servicing, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(c).</text>
+          <text>NFPA 407 Aircraft Fuel Servicing, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(c)">COMAR 11.03.01.01-1B(2)(c)</cite>.</text>
         </para>
       </para>
       <para>
@@ -881,7 +883,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>The Administration shall adhere to NFPA 407 Aircraft Fuel Servicing, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(c), and NFPA 410 Aircraft Maintenance, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(e).</text>
+      <text>The Administration shall adhere to NFPA 407 Aircraft Fuel Servicing, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(c)">COMAR 11.03.01.01-1B(2)(c)</cite>, and NFPA 410 Aircraft Maintenance, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(e)">COMAR 11.03.01.01-1B(2)(e)</cite>.</text>
     </para>
     <para>
       <num>E.</num>
@@ -891,7 +893,9 @@
       <num>F.</num>
       <text>Clothes Lockers. A person may not install or use at the Airport a clothes locker constructed of anything besides metal. All clothes lockers shall be either secured to a wall or anchored to the floor.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-03" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|final|26-008-F-I" target-path="11|03|02|.03-2" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="11|03|02|.04">
     <prefix>Regulation</prefix>
@@ -1521,15 +1525,15 @@
         <text>All building, construction, and modifications to existing or new structures shall comply with:</text>
         <para>
           <num>(a)</num>
-          <text>The International Building Code, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(3);</text>
+          <text>The International Building Code, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(3)">COMAR 11.03.01.01-1B(3)</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>NFPA 1 Uniform Fire Code, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(1); and</text>
+          <text>NFPA 1 Uniform Fire Code, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(1)">COMAR 11.03.01.01-1B(1)</cite>; and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>NFPA 101 Life Safety Code, which is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(2)(b).</text>
+          <text>NFPA 101 Life Safety Code, which is incorporated by reference at <cite path="11.03.01.01-1|B.|(2)|(b)">COMAR 11.03.01.01-1B(2)(b)</cite>.</text>
         </para>
       </para>
     </para>
@@ -1577,7 +1581,9 @@
       <num>I.</num>
       <text>Festivals, Exhibits, and Trade Shows. A public or special event held at the Airport requires a Special Use permit authorized by the Airport Director and issued by the fire marshal in accordance with <cite path="|29.06.01">COMAR 29.06.01</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-03" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|final|26-008-F-I" target-path="11|03|02|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2061,7 +2067,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The Martin State Airport — Airport Noise Zone, certified by the Executive Director, and consisting of the 65, 70, and 75 L<sub>dn</sub> contours overprinted on county tax maps as follows, is incorporated by reference at <cite path="11.03.01.01">COMAR 11.03.01.01</cite>-1B(6):</text>
+        <text>The Martin State Airport — Airport Noise Zone, certified by the Executive Director, and consisting of the 65, 70, and 75 L<sub>dn</sub> contours overprinted on county tax maps as follows, is incorporated by reference at <cite path="11.03.01.01-1|B.|(6)">COMAR 11.03.01.01-1B(6)</cite>:</text>
         <para>
           <num>(a)</num>
           <text>Airport Noise Zone Map;</text>
@@ -2077,7 +2083,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>The noise zone is a composite of the 65, 70, and 75 Ldn noise contours for the base year of 2019 and future years of 2025 and 2030.</text>
+        <text>The noise zone is a composite of the 65, 70, and 75 Ldn noise contours for the base year of 2025 and future years of 2030 and 2035.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -2136,10 +2142,12 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-03" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|final|26-008-F-I" target-path="11|03|02|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|5-202">5-202</cite>.1, 5-204, 5-208, 5-426, 5-805, 5-806, and 5-819, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|5-202">5-202</cite>.<cite doc="Md. Code" path="gtr|1">1</cite>, <cite doc="Md. Code" path="gtr|5-204">5-204</cite>, <cite doc="Md. Code" path="gtr|5-208">5-208</cite>, <cite doc="Md. Code" path="gtr|5-426">5-426</cite>, <cite doc="Md. Code" path="gtr|5-805">5-805</cite>, <cite doc="Md. Code" path="gtr|5-806">5-806</cite>, and <cite doc="Md. Code" path="gtr|5-819">5-819</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-10-01">Effective date: October 1, 1975 (2:24 Md. R. 1479)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1977-12-02">Chapter revised effective December 2, 1977 (4:25 Md. R. 1912)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Chapter recodified from <cite path="|11.03.05">COMAR 11.03.05</cite> to <cite path="|11.03.02">11.03.02</cite></annotation>
@@ -2164,7 +2172,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-05-23"><cite path="|11|03|02|.07|A.">Regulation .07A</cite> amended effective May 23, 1994 (21:10 Md. R. 845)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-01-12"><cite path="|11|03|02|.08|C.">Regulation .08C</cite> amended effective January 12, 2009 (36:1 Md. R. 22)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-11-20"><cite path="|11|03|02|.10">Regulation .10</cite> repealed and new Regulation .10 adopted effective November 20, 1995 (22:23 Md. R. 1802)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-12-24"><cite path="|11|03|02|.10|B.">Regulation .10B</cite> amended effective October 16, 2000 (27:20 Md. R. 1840); December 24, 2001 (28:25 Md. R. 2192); December 24, 2012 (39:25 Md. R. 1614)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-03"><cite path="|11|03|02|.10|B.">Regulation .10B</cite> amended effective October 16, 2000 (27:20 Md. R. 1840); December 24, 2001 (28:25 Md. R. 2192); December 24, 2012 (39:25 Md. R. 1614); August 3, 2026 (53:15 Md. R. 666)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-04-19"><cite path="|11|03|02|.10|B.">Regulation .10B</cite>, C amended effective April 19, 2021 (48:8 Md. R. 310)</annotation>
   </annotations>
 </container>
