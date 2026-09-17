@@ -35,11 +35,11 @@
     <heading>Use of Hard-Shell Clam Dredges in Tangier Sound and Pocomoke Sound.</heading>
     <para>
       <num>A.</num>
-      <text>Size of Dredge. A person may not catch hard-shell clams in the waters of Tangier Sound and Pocomoke Sound with a hydraulic dredge or mechanical dredge more than 36 inches in width.</text>
+      <text>Size of Dredge. A person may not catch or attempt to catch hard-shell clams in the waters of Tangier Sound and Pocomoke Sound with a hydraulic dredge or mechanical dredge more than 36 inches in width.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Areas Where Hard-Shell Clams May Be Taken by Dredge. Subject to <cite path="|08|02|07|.05">Regulation .05 of this chapter</cite> and except as provided in <cite path="08|02|07|.02|C.">§C of this regulation</cite>, an individual licensed to catch hard-shell clams may catch hard-shell clams with a dredge only in the waters of:</text>
+      <text>Areas Where Hard-Shell Clams May Be Taken by Dredge. Subject to <cite path="|08|02|07|.05">Regulation .05 of this chapter</cite> and except as provided in <cite path="08|02|07|.02|C.">§C of this regulation</cite>, an individual licensed to catch hard-shell clams may catch or attempt to catch hard-shell clams with a dredge only in the waters of:</text>
       <para>
         <num>(1)</num>
         <text>Tangier Sound that are bounded on the:</text>
@@ -61,7 +61,9 @@
       <num>C.</num>
       <text>Exception. Hard-shell clams may not be taken with a dredge in the waters of Apes Hole Creek westerly of a line drawn from a point at Cedar Gut defined by Lat. 37°57.448' N, Long. 75°48.752' W; then running 215° True to a point at Long Point defined by Lat. 37°56.854' N, Long. 75° 49.283 W.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|07|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -69,7 +71,7 @@
     <heading>Commercial Fishery.</heading>
     <para>
       <num>A.</num>
-      <text>An individual may not catch hard-shell clams for commercial purposes on Sunday.</text>
+      <text>An individual may not catch or attempt to catch hard-shell clams for commercial purposes on Sunday.</text>
     </para>
     <para>
       <num>B.</num>
@@ -127,7 +129,9 @@
       <num>D.</num>
       <text>In addition to the requirements of this chapter, a commercial licensee who harvests hard-shell clams shall harvest hard-shell clams in accordance with the National Shellfish Sanitation Program Model Ordinance that is incorporated by reference by the Maryland Department of Health in <cite path="10.15.07.01|A.">COMAR 10.15.07.01A</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|07|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|07|.04">
     <prefix>Regulation</prefix>
@@ -327,5 +331,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-09-06"><cite path="|08|02|07|.03|C.">Regulation .03C</cite> adopted effective September 6, 2010 (37:18 Md. R. 1213)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-01-29"><cite path="|08|02|07|.03|C.">Regulation .03C</cite> amended effective January 29, 2018 (45:2 Md. R. 68)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13" discontinuity="true">Chapter revised effective November 13, 2023 (50:22 Md. R. 973)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|07|.02|A.">Regulation .02A</cite>, B amended effective August 31, 2026 (53:17 Md. R. 710)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|07|.03|A.">Regulation .03A</cite> amended effective August 31, 2026 (53:17 Md. R. 710)</annotation>
   </annotations>
 </container>

@@ -384,27 +384,7 @@
       </para>
       <para>
         <num>(47-1)</num>
-        <text>“Information technology” means all electronic information processing, including:</text>
-        <para>
-          <num>(a)</num>
-          <text>Maintenance;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Telecommunications; <strong>[</strong>and<strong>]</strong></text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Hardware;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Software; and</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Associated services.</text>
-        </para>
+        <text>“Information technology” has the meaning stated in <cite doc="Md. Code" path="gsf|3.5-301">State Finance and Procurement Article, §3.5-301, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(48)</num>
@@ -631,7 +611,7 @@
         <text>Services.</text>
         <para>
           <num>(a)</num>
-          <text>“Services” means the rendering of time, effort, or work, rather than the furnishing of a specific physical product other than reports incidental to the required performance. It includes, but is not limited to, the professional, personal, and/or contractual services provided by attorneys, accountants, physicians, consultants, and other professionals who are independent contractors.</text>
+          <text>“Services” means the rendering of time, effort, or work, rather than the furnishing of a specific physical product other than reports incidental to the required performance. It includes, but is not limited to, the professional, personal, and/or contractual services provided by attorneys, accountants, physicians, consultants, and other professionals who are independent contractors, information technology services, and cybersecurity services.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -652,7 +632,7 @@
       </para>
       <para>
         <num>(83)</num>
-        <text>“Solicitation” means invitation for bids, request for proposals, or any other method or instrument used to communicate to potential bidders or offerors a procurement agency's procurement needs.</text>
+        <text>“Solicitation” means invitation for bids, request for proposals, or any other method or instrument used to communicate to potential bidders or offerors a procurement agency's procurement needs. For the purpose of clarity, every procurement, regardless of procurement method, employs a solicitation.</text>
       </para>
       <para>
         <num>(84)</num>
@@ -668,6 +648,10 @@
       </para>
       <para>
         <num>(84-1)</num>
+        <text>“Statewide Contract” means a contract that has been procured by a primary procurement unit to be used by all units or any entity listed in <cite doc="Md. Code" path="gsf|4-316">State Finance and Procurement Article, §4-316, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(84-2)</num>
         <text>“Stevedoring or terminal services” means the loading or unloading of cargo or equipment to or from vessels or the receiving, delivery, handling, or processing of cargo or equipment to or from terminals.</text>
       </para>
       <para>
@@ -683,7 +667,7 @@
         <text>Supplies.</text>
         <para>
           <num>(a)</num>
-          <text>“Supplies” means all tangible personal property, including equipment, and leases of equipment, including necessarily associated services.</text>
+          <text>“Supplies” means all tangible personal property, including equipment, leases of equipment, information technology hardware, and printing, information technology software, insurance, and necessarily associated services.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -759,7 +743,9 @@
         <text>“Voucher” means a claim for reimbursement of funds resulting from an expenditure related to official State business.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|01|02|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|3.5-301">3.5-301</cite>, <cite doc="Md. Code" path="gsf|11-101">11-101</cite>, <cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-101">13-101</cite> and <cite doc="Md. Code" path="gsf|13-108">13-108</cite>, Annotated Code of Maryland</annotation>
@@ -781,6 +767,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-07-29"><cite path="|21|01|02|.68-1">Regulation .68-1</cite> amended effective July 29, 1985 (12:15 Md. R. 1526)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-09" discontinuity="true">Chapter revised effective January 9, 1989 (15:27 Md. R. 3138)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-09">Chapter revised effective January 9, 1989 (15:27 Md. R. 3138)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|01|02|.01|B.">Regulation .01B</cite> amended effective September 2, 1991 (18:17 Md. R. 1922); August 1, 1994 (21:15 Md. R. 1307); December 4, 1995 (22:24 Md. R. 1904); January 12, 1998 (25:1 Md. R. 17); January 26, 1998 (25:2 Md. R. 79); March 8, 1999 (26:5 Md. R. 393); October 18, 1999 (26:21 Md. R. 1631); March 18, 2002 (29:5 Md. R. 505); May 12, 2003 (30:9 Md. R. 615); April 11, 2005 (32:7 Md. R. 685); April 7, 2008 (35:7 Md. R. 751); February 23, 2009 (36:4 Md. R. 355); September 3, 2012 (39:17 Md. R. 1149); May 13, 2013 (40:9 Md. R. 789); April 28, 2014 (41:8 Md. R. 473); July 21, 2014 (41:14 Md. R. 799); January 2, 2017 (43:26 Md. R. 1449); March 11, 2019 (46:5 Md. R. 310); July 15, 2019 (46:14 Md. R. 623); June 29, 2020 (47:13 Md. R. 643); September 5, 2022 (49:18 Md. R. 819); September 18, 2023 (50:18 Md. R. 800): March 3, 2025 (52:4 Md. R. 221)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|01|02|.01|B.">Regulation .01B</cite> amended effective September 2, 1991 (18:17 Md. R. 1922); August 1, 1994 (21:15 Md. R. 1307); December 4, 1995 (22:24 Md. R. 1904); January 12, 1998 (25:1 Md. R. 17); January 26, 1998 (25:2 Md. R. 79); March 8, 1999 (26:5 Md. R. 393); October 18, 1999 (26:21 Md. R. 1631); March 18, 2002 (29:5 Md. R. 505); May 12, 2003 (30:9 Md. R. 615); April 11, 2005 (32:7 Md. R. 685); April 7, 2008 (35:7 Md. R. 751); February 23, 2009 (36:4 Md. R. 355); September 3, 2012 (39:17 Md. R. 1149); May 13, 2013 (40:9 Md. R. 789); April 28, 2014 (41:8 Md. R. 473); July 21, 2014 (41:14 Md. R. 799); January 2, 2017 (43:26 Md. R. 1449); March 11, 2019 (46:5 Md. R. 310); July 15, 2019 (46:14 Md. R. 623); June 29, 2020 (47:13 Md. R. 643); September 5, 2022 (49:18 Md. R. 819); September 18, 2023 (50:18 Md. R. 800): March 3, 2025 (52:4 Md. R. 221); August 31, 2026 (53:17 Md. R. 711)</annotation>
   </annotations>
 </container>

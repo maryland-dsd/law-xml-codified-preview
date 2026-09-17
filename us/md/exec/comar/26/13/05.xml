@@ -1356,14 +1356,14 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The provisions of <cite path="|26.13">COMAR 26.13</cite>.03-3.03-10 are applicable to the on-site accumulation of hazardous waste by generators, and therefore only apply to the owner or operator of a facility who is shipping hazardous waste that the owner or operator:</text>
+          <text>The provisions of <cite path="|26.13">COMAR 26.13</cite>.03-3—.03-10 are applicable to the on-site accumulation of hazardous waste by generators, and therefore only apply to the owner or operator of a facility who is shipping hazardous waste that the owner or operator:</text>
           <para>
             <num>(i)</num>
             <text>Generated at the facility; or</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Consolidated at the facility under the provisions of <cite path="26.13.03.11">COMAR 26.13.03.11</cite>-3 that apply to wastes accepted from off-site generators that are under control of the same person that controls the facility.</text>
+            <text>Consolidated at the facility under the provisions of <cite path="26.13.03.03-11">COMAR 26.13.03.03-11</cite> that apply to wastes accepted from off-site generators that are under control of the same person that controls the facility.</text>
           </para>
         </para>
       </para>
@@ -2023,6 +2023,7 @@
     </para>
     <annotations>
       <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|05|.05" type="History" display="false"/>
+      <annotation app="2026-09-15" doc="Editor Action 2026-09-15" eff="2026-09-15" path="" target-path="26|13|05|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|05|.06">

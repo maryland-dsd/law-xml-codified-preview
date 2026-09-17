@@ -39,10 +39,18 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>“Commission” means the Workers' Compensation Commission.</text>
+        <text>“Central Repository” has the meaning stated in <cite path="10.27.01.01">COMAR 10.27.01.01</cite>.</text>
       </para>
       <para>
         <num>(4)</num>
+        <text>“Commission” means the Workers' Compensation Commission.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Criminal history records check (CHRC)” has the meaning stated in <cite path="10.27.01.01">COMAR 10.27.01.01</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
         <text>Medical Case Management.</text>
         <para>
           <num>(a)</num>
@@ -78,15 +86,15 @@
         </para>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(7)</num>
         <text>“Medical claims consultant” means a registered nurse who consults on medical aspects of an injured worker's rehabilitation without any contact with the injured worker.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(8)</num>
         <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B.">COMAR 10.27.01.01B</cite>.</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(9)</num>
         <text>“Registered nurse (RN)” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -98,11 +106,14 @@
         </para>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(10)</num>
         <text>“RN-WCCM” means a registered nurse-workers' compensation medical case manager.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations <cite path="|10|27|16|.02">.02</cite>—<cite path="|10|27|16|.04">.04</cite>) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|27|16|.02" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -121,11 +132,15 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Submit to the Board a completed application for certification as an RN-WCCM; and</text>
+        <text>Submit to the Board a completed application for certification as an RN-WCCM;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Pay all fees.</text>
+        <text>Pay all fees; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Submit to a criminal history records check (CHRC) in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
     <para>
@@ -136,7 +151,9 @@
       <num>C.</num>
       <text>Certification by Endorsement. An applicant from out-of-State shall meet the requirements as stated in this regulation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|27|16|.03" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|27|16|.04">
     <prefix>Regulation</prefix>
@@ -159,18 +176,92 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Submits a completed application for renewal on the form the Board requires; and</text>
+        <text>Submits a completed application for renewal on the form the Board requires;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Pays all fees.</text>
+        <text>Pays all fees; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>If required to submit to a CHRC in accordance with <cite path="10|27|16|.04|E.">§E of this regulation</cite>, submits written evidence satisfactory to the Board that the applicant has submitted to a CHRC by submitting:</text>
+        <para>
+          <num>(a)</num>
+          <text>One complete set of fingerprints, as required by the Central Repository and the FBI; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All fees required by the Central Repository and the FBI.</text>
+        </para>
       </para>
     </para>
     <para>
       <num>C.</num>
       <text>If the registered nurse does not meet the practice requirement stated in <cite path="10|27|16|.04|B.|(2)">§B(2) of this regulation</cite>, the registered nurse shall complete a Board-approved course to be eligible for renewal of the RN-WCCM certification.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>Upon notification by the Board that a CHRC is required before the certification can be renewed, a renewal applicant shall comply with all of the requirements under <cite path="10|27|16|.04|B.">§B of this regulation</cite>.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Criminal history records checks for renewal applicants shall be scheduled according to the certification holder’s birth month as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>In 2026 — all applicants with a September or October birth month;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In 2027 — all applicants with an October or November birth month;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In 2028 — all applicants with a November or December birth month;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In 2029 — all applicants with a December or January birth month;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In 2030 — all applicants with a January or February birth month;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In 2031 — all applicants with a February or March birth month;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>In 2032 — all applicants with a March or April birth month;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>In 2033 — all applicants with an April or May birth month;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>In 2034 — all applicants with a May or June birth month;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>In 2035 — all applicants with a June or July birth month.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>In 2036 — all applicants with a July or August birth month; and</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>In 2037— all applicants with an August or September birth month.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>For renewal applicants who are required to submit a CHRC, the Board may not renew a certification without written documentation that the applicant has submitted to a CHRC in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|27|16|.04" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -360,12 +451,16 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-102">8-102</cite> and <cite doc="Md. Code" path="gho|8-205">8-205</cite>; Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §4-403; Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-102">8-102</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-302">8-302</cite>.<cite doc="Md. Code" path="gho|2">2</cite>, and <cite doc="Md. Code" path="gho|8-303">8-303</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-11-15">Regulations <cite path="|10|27|16|.01">.01</cite>—<cite path="|10|27|16|.10">.10</cite> adopted as an emergency provision effective August 2, 1999; adopted permanently effective November 15, 1999 (26:23 Md. R. 1777)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|16|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R.943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.03">Regulation .03</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|16|.03|A.">Regulation .03A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R.943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.04">Regulation .04</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|16|.04|B.">Regulation .04B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|16|.04|D.">Regulation .04D</cite>, E, F adopted as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.05|A.">Regulation .05A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|16|.06|C.">Regulation .06C</cite> adopted effective October 13, 2025 (52:20 Md. R. 1002)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.09|A.">Regulation .09A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>

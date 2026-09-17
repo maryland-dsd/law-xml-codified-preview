@@ -644,15 +644,11 @@
       </para>
       <para>
         <num>(9)</num>
-        <text>Statutory maximum and mandatory minimum penalties;</text>
+        <text>Statutory maximum and mandatory minimum penalties; and</text>
       </para>
       <para>
         <num>(10)</num>
-        <text>The case or docket number; and</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>Whether or not victim-related court costs were imposed.</text>
+        <text>The case or docket number.</text>
       </para>
     </para>
     <para>
@@ -848,30 +844,14 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Whether the victim participated in the sentencing process;</text>
+        <text>Whether the victim was present at the sentencing;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Whether the victim filed a Crime Victim Notification and Demand for Rights form;</text>
+        <text>Whether there was a written or an oral Victim Impact Statement (VIS); and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Whether the victim was notified of a plea agreement;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Whether the victim was notified of and present at the sentencing;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Whether there was a written or an oral Victim Impact Statement (VIS);</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Whether the victim or State requested that the defendant have no contact with the victim; and</text>
-      </para>
-      <para>
-        <num>(8)</num>
         <text>Whether the judge ordered that the defendant have no contact with the victim.</text>
       </para>
     </para>
@@ -907,11 +887,9 @@
       <num>O.</num>
       <text>Economic Loss. In the area labeled “Actual Sentence”, the individual completing the worksheet shall record in the designated space the dollar amount of the economic loss or mark “unknown amount” for all offenses involving theft and related crimes under Criminal Law Article, Title 7, or fraud and related crimes under <cite doc="Md. Code" path="gcr">Criminal Law Article, Title 8, Annotated Code of Maryland</cite>.</text>
     </para>
-    <para>
-      <num>P.</num>
-      <text>Record of Announcement. The court shall make a record of the statement in open court required under <cite doc="Md. Code" path="gcp|6-217">Criminal Procedure Article, §6-217, Annotated Code of Maryland</cite>, of the minimum time the defendant must serve before becoming eligible for parole.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-095-F" target-path="14|22|01|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -995,23 +973,47 @@
         <text>Victim Injury.</text>
         <para>
           <num>(a)</num>
-          <text>Victim injury, whether physical or psychological, shall be based on reasonable proof. Physical injury shall be more than minimal. Physical injuries such as lasting muscle damage or amputation are permanent. Proof of psychological injury shall be based on confirmed medical diagnosis or psychological counseling or treatment, or other forms of reasonable proof. Rape crisis hotlines, clergy conferences, educational counseling, and other similar services are considered psychological counseling or treatment. Permanent psychological injury shall be based on proof of a substantial impairment likely to be of an extended or continuous duration. Offenses involving photographic or video evidence of child pornography shall be scored as permanent victim injury.</text>
+          <text>In General. Victim injury means physical or psychological injury to the crime victim, the cause of which is directly linked to the conduct of the defendant in the commission of the offense. Injury is scored as none/minor, non-permanent, or permanent/death. The victim injury component of the offense score shall be completed for each offense to be sentenced.</text>
+          <para>
+            <num>(i)</num>
+            <text>Zero points are scored if there was no or minor victim injury.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>One point is scored if victim injury occurred and the injury was not permanent.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Two points are scored if victim injury occurred and the injury was permanent or resulted in the death of the victim.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>The individual completing the worksheet shall assign a score of 0 if there was no victim injury.</text>
+          <text>Proof of Injury.</text>
+          <para>
+            <num>(i)</num>
+            <text>Victim injury, whether physical or psychological, shall be based on reasonable proof, but does not necessarily require proof of medical or psychological treatment.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The sentencing guidelines recognize that not all victims have access to psychological counseling or treatment. Victims may not have been provided treatment, and the psychological impact on certain victims, for example minors, may not manifest until later in life. Proof of psychological injury shall be based on confirmed medical diagnosis or psychological counseling or treatment, or other forms of reasonable proof. Rape crisis hotlines, clergy conferences, educational counseling, and other similar services are considered psychological counseling or treatment.</text>
+          </para>
         </para>
         <para>
           <num>(c)</num>
-          <text>The individual completing the worksheet shall assign a score of 1 if victim injury occurred and the injury was not permanent.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The individual completing the worksheet shall assign a score of 2 if victim injury occurred and the injury was permanent or resulted in the death of the victim.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The victim injury component of the offense score shall be completed for each offense to be sentenced.</text>
+          <text>Types of Injuries/Examples.</text>
+          <para>
+            <num>(i)</num>
+            <text>No/Minor Injury. Examples of no/minor injuries include, but are not limited to, small cuts, scrapes, minimal or superficial bruises, and mild sprains that do not require immediate emergency care.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Non-Permanent Injury. Non-permanent injury shall be more than minor. Examples of non-permanent injuries include, but are not limited to, significant bruises and contusions accompanied by demonstrable pain and discomfort, lacerations and abrasions that have no residual effect, concussions without lasting neurological impact, and fractures, internal injuries, wounds, and sexually transmitted infections, which are serious but not life-threatening.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Permanent Injury or Death. Permanent injury shall be based on a substantial impairment or loss of function likely to be of an extended or continuous duration, or death. Examples of permanent injuries include, but are not limited to, lasting muscle damage, amputation, paralysis, protracted disfigurement, significant scarring, and death. Offenses involving photographic or video evidence of child pornography shall be scored as permanent victim injury.</text>
+          </para>
         </para>
       </para>
       <para>
@@ -1081,6 +1083,7 @@
     </para>
     <annotations>
       <annotation app="2026-01-01" doc="Maryland Register, Volume 52, Issue 25" eff="2025-12-22" path="regulations|final|25-220-F" target-path="14|22|01|.09" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-095-F" target-path="14|22|01|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="14|22|01|.10">
@@ -1107,7 +1110,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>An offender is not considered to be in the criminal justice system if the offender was on unsupervised probation for an offense not punishable by imprisonment.</text>
+          <text>An offender is not considered to be in the criminal justice system if the offender was on unsupervised probation for an offense not punishable by imprisonment or if the offender’s only involvement with the criminal justice system was to comply with the ongoing reporting requirements associated with sex offender registration in the State or elsewhere.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1313,7 +1316,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>Criminal Record Decay Factor. If an offender has lived in the community for at least 10 years prior to the instant offense without criminal justice system involvement resulting from an adjudication or a plea of nolo contendere, the criminal record shall be reduced by one level: from Major to Moderate, from Moderate to Minor, or from Minor to None. An offender was in the criminal justice system if the offender was on parole, on probation, incarcerated, on work release, on mandatory supervision, was an escapee, or had a comparable status. An offender is not considered to be in the criminal justice system if the offender was on unsupervised probation for an offense not punishable by imprisonment.</text>
+          <text>Criminal Record Decay Factor. If an offender has lived in the community for at least 10 years prior to the instant offense without criminal justice system involvement resulting from an adjudication or a plea of nolo contendere, the criminal record shall be reduced by one level: from Major to Moderate, from Moderate to Minor, or from Minor to None. An offender was in the criminal justice system if the offender was on parole, on probation, incarcerated, on work release, on mandatory supervision, was an escapee, or had a comparable status. An offender is not considered to be in the criminal justice system if the offender was on unsupervised probation for an offense not punishable by imprisonment or if the offender’s only involvement with the criminal justice system was to comply with the ongoing reporting requirements associated with sex offender registration in the State or elsewhere.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -1355,6 +1358,7 @@
     </para>
     <annotations>
       <annotation app="2026-07-06" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|final|26-048-F" target-path="14|22|01|.10" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-095-F" target-path="14|22|01|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -2015,20 +2019,23 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-10-01"><cite path="|14|22|01|.03|F.">Regulation .03F</cite> amended effective October 1, 2017 (44:18 Md. R. 866)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-01"><cite path="|14|22|01|.05|B.">Regulation .05B</cite> amended effective July 1, 2025 (52:10 Md. R. 438)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.07">Regulation .07</cite> amended effective July 1, 2019 (46:11 Md. R. 516); February 1, 2024 (51:1 Md. R. 16)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|22|01|.07|A.">Regulation .07A</cite> amended effective September 14, 2026 (53:18 Md. R. 879)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|14|22|01|.07|A.">Regulation .07A</cite> amended and I—M adopted effective July 7, 2003 (30:13 Md. R. 854); November 14, 2022 (49:23 Md. R. 997)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-11-01"><cite path="|14|22|01|.07|A.">Regulation .07A</cite>, J amended effective November 1, 2010 (37:21 Md. R. 1437); November 1, 2012 (39:20 Md. R. 1307)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-03-01"><cite path="|14|22|01|.07|A.">Regulation .07A</cite>, M amended effective March 1, 2008 (35:4 Md. R. 515)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-04-01"><cite path="|14|22|01|.07|H.">Regulation .07H</cite> amended effective January 19, 2004 (31:1 Md. R. 31); September 1, 2009 (36:17 Md. R. 1313); April 1, 2021 (48:6 Md. R. 238)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|22|01|.07|K.">Regulation .07K</cite> amended effective September 14, 2026 (53:18 Md. R. 879)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-01-19"><cite path="|14|22|01|.07|N.">Regulation .07N</cite>, O adopted effective January 19, 2004 (31:1 Md. R. 31)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-03-28"><cite path="|14|22|01|.07|N.">Regulation .07N</cite> amended effective March 28, 2005 (32:6 Md. R. 636)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|22|01|.07|P.">Regulation .07P</cite> repealed effective September 14, 2026 (53:18 Md. R. 879)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-02-01"><cite path="|14|22|01|.08|B.">Regulation .08B</cite> amended effective February 1, 2015 (42:1 Md. R. 18)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.08|C.">Regulation .08C</cite> amended effective July 1, 2020 (47:11 Md. R. 560); February 1, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.09">Regulation .09</cite> amended effective February 1, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-01"><cite path="|14|22|01|.09|A.">Regulation .09A</cite>, B amended effective May 1, 2010 (37:7 Md. R. 575)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-01-01"><cite path="|14|22|01|.09|B.">Regulation .09B</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); January 19, 2004 (31:1 Md. R. 31); August 14, 2006 (33:16 Md. R. 1365); April 1, 2009 (36:6 Md. R. 492); February 1, 2015 (42:1 Md. R. 18); February 1, 2021 (48:1 Md. R. 10); October 1, 2021 (48:18 Md. R. 692); November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); January 1, 2026 (52:25 Md. R. 1269)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|22|01|.09|B.">Regulation .09B</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); January 19, 2004 (31:1 Md. R. 31); August 14, 2006 (33:16 Md. R. 1365); April 1, 2009 (36:6 Md. R. 492); February 1, 2015 (42:1 Md. R. 18); February 1, 2021 (48:1 Md. R. 10); October 1, 2021 (48:18 Md. R. 692); November 14, 2022 (49:23 Md. R. 997); April 1, 2023 (50:5 Md. R. 182); January 1, 2026 (52:25 Md. R. 1269); September 14, 2026 (53:18 Md. R. 879)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.10">Regulation .10</cite> amended effective February 1, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-01"><cite path="|14|22|01|.10|A.">Regulation .10A</cite> amended effective July 1, 2008 (35:13 Md. R. 1181); May 1, 2010 (37:7 Md. R. 575)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-06"><cite path="|14|22|01|.10|B.">Regulation .10B</cite> amended effective January 19, 2004 (31:1 Md. R. 31); effective August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); March 1, 2008 (35:4 Md. R. 515); July 1, 2008 (35:13 Md. R. 1181); September 8, 2008 (35:18 Md. R. 1601); November 1, 2012 (39:20 Md. R. 1307); February 1, 2015 (42:1 Md. R. 18); June 1, 2015 (42:10 Md. R. 685); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); February 1, 2020 (46:26 Md. R. 1167); July 1, 2020 (47:11 Md. R. 560); February 1, 2021 (48:1 Md. R. 10); October 1, 2022 (49:18 Md. R. 819); April 1, 2023 (50:5 Md. R. 182); June 10, 2024 (51:11 Md. R. 580); July 6, 2026 (53:13 Md. R. 587)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|22|01|.10|B.">Regulation .10B</cite> amended effective January 19, 2004 (31:1 Md. R. 31); effective August 14, 2006 (33:16 Md. R. 1365); October 23, 2006 (33:21 Md. R. 1678); March 1, 2008 (35:4 Md. R. 515); July 1, 2008 (35:13 Md. R. 1181); September 8, 2008 (35:18 Md. R. 1601); November 1, 2012 (39:20 Md. R. 1307); February 1, 2015 (42:1 Md. R. 18); June 1, 2015 (42:10 Md. R. 685); November 1, 2016 (43:21 Md. R. 1169); October 1, 2017 (44:18 Md. R. 866); July 1, 2018 (45:11 Md. R. 578); November 5, 2018 (45:22 Md. R. 1027); November 4, 2019 (46:22 Md. R. 978); February 1, 2020 (46:26 Md. R. 1167); July 1, 2020 (47:11 Md. R. 560); February 1, 2021 (48:1 Md. R. 10); October 1, 2022 (49:18 Md. R. 819); April 1, 2023 (50:5 Md. R. 182); June 10, 2024 (51:11 Md. R. 580); July 6, 2026 (53:13 Md. R. 587); September 14, 2026 (53:18 Md. R. 879)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-01"><cite path="|14|22|01|.11">Regulation .11</cite> amended effective February 1, 2024 (51:1 Md. R. 16)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-04-01"><cite path="|14|22|01|.11|D.">Regulation .11D</cite> amended effective December 24, 2001 (28:25 Md. R. 2193); July 7, 2003 (30:13 Md. R. 854); January 1, 2008 (34:24 Md. R. 2159); July 1, 2016 (43:6 Md. R. 411); April 1, 2023 (50:5 Md. R. 182)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-01"><cite path="|14|22|01|.11|D.">Regulation .11D</cite>, E amended effective July 1, 2022 (49:7 Md. R. 468)</annotation>

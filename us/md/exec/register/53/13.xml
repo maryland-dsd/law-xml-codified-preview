@@ -15,7 +15,7 @@
     <container name="emergency">
       <container codify:applicability="2026-04-03" codify:expire="2026-09-03">
         <num>26-040-E</num>
-        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="09|19|02|.04" codified:replace-or-insert-action="replace" codified:doc="Code of Maryland Regulations" codified:path="09|19|02|.04">
+        <codify:replace-or-insert history="false" doc="Code of Maryland Regulations" path="09|19|02|.04">
           <section cache:ref-path="09|19|02|.04">
             <prefix>Regulation</prefix>
             <num emergency="true">.04</num>
@@ -193,7 +193,7 @@
             </annotations>
           </section>
         </codify:replace-or-insert>
-        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="09|19|02|annos" codified:replace-or-insert-action="replace">
+        <codify:replace-or-insert history="none" doc="Code of Maryland Regulations" path="09|19|02|annos">
           <annotations>
             <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article, §§<cite doc="Md. Code" path="gbo|16-208">16-208</cite>(a), <cite doc="Md. Code" path="gbo|16-216">16-216</cite>, <cite doc="Md. Code" path="gbo|16-220">16-220</cite>, <cite doc="Md. Code" path="gbo|16-302">16-302</cite>(d)(<cite doc="Md. Code" path="gbo|1">1</cite>) and (3) and (g), 16-308,<br/>16-309, 16-503(b)(1)(iii), (3), and (4), (e), and (f), 16-511, and 16-5A-01, Annotated Code of Maryland</annotation>
             <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1991-09-30">Effective date: September 30, 1991 (18:19 Md. R. 2099)</annotation>

@@ -543,6 +543,10 @@
         </para>
       </para>
       <para>
+        <num>(32-1)</num>
+        <text>“Medical and therapeutic claim” means any representation that indicates cannabis will improve, relieve, treat, diagnose, or prevent health conditions or any other ailment.</text>
+      </para>
+      <para>
         <num>(33)</num>
         <text>“Micro license” means a license to operate a cannabis business that does not exceed the limits established in Alcoholic Beverages and Cannabis Article, §36-401(c)(2), Annotated Code of Maryland.</text>
       </para>
@@ -739,6 +743,10 @@
         <text>“State Cannabis Testing Laboratory” means the laboratory operated by the Administration in accordance with Alcoholic Beverages and Cannabis Article, §36-204, Annotated Code of Maryland.</text>
       </para>
       <para>
+        <num>(52-1)</num>
+        <text>“Sublingual pouch” means a permeable sachet containing concentrated cannabis product that is intended to be dissolved in the mouth and absorbed buccally or sublingually.</text>
+      </para>
+      <para>
         <num>(53)</num>
         <text>“Tetrahydrocannabinol” or “THC”, unless otherwise specified, means any:</text>
         <para>
@@ -849,6 +857,7 @@
     </para>
     <annotations>
       <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|01|.01" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -857,7 +866,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01"><cite path="|14|17|01|.01">Regulation .01</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07"><cite path="|14|17|01|.01">Regulation .01</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22"><cite path="|14|17|01|.01">Regulation .01</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|01|.01|B.">Regulation .01B</cite> amended effective April 14, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|01|.01|B.">Regulation .01B</cite> amended effective April 14, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244); September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|01|annos" type="History" display="false"/>
   </annotations>
 </container>

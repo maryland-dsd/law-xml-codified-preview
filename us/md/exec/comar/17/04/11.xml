@@ -2518,9 +2518,9 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:15  26-077-E  (Regulation .31) EMERGENCY ACTION IN EFFECT 6/23/2026 — 11/11/2026</annotation>
       <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-269-F" target-path="17|04|11" type="History" display="false"/>
       <annotation app="2026-06-23" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|emergency|26-077-E" target-path="17|04|11|.31" type="History" display="false" exp="2026-11-11"/>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-077-F" target-path="17|04|11|.31" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -2546,7 +2546,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-17"><cite path="|17|04|11|.29">Regulation .29</cite> adopted effective December 17, 2018 (45:25 Md. R. 1207)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-08-04"><cite path="|17|04|11|.30">Regulation .30</cite> adopted effective August 4, 2025 (52:15 Md. R. 812)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|17|04|11|.31">Regulation .31</cite> adopted effective March 16, 2026 (53:5 Md. R. 246)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-23"><cite path="|17|04|11|.31|F.">Regulation .31F</cite> amended as an emergency provision effective June 23, 2026 (53:15 Md. R. 664)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|17|04|11|.31|F.">Regulation .31F</cite> amended as an emergency provision effective June 23, 2026 (53:15 Md. R. 664); adopted permanently effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-269-F" target-path="17|04|11|annos" type="History" display="false"/>
   </annotations>
 </container>

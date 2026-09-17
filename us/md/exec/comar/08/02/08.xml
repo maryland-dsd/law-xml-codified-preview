@@ -670,10 +670,24 @@
       </para>
       <para>
         <num>(2)</num>
+        <text>Prior to selling their own catch of soft-shell clams of the species Mya arenaria, hard-shell clams, or oysters, a harvester licensed in accordance with <cite doc="Md. Code" path="gnr|4-701">Natural Resources Article, §4-701, Annotated Code of Maryland</cite> and licensed and certified to sell shellfish by the Maryland Department of Health in accordance with <cite path="|10.15.04">COMAR 10.15.04</cite> and <cite path="|10.15.07">10.15.07</cite>, shall on a form provided by the Department:</text>
+        <para>
+          <num>(a)</num>
+          <text>Declare their intent to deal in shellfish; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Provide their certification number issued by the Maryland Department of Health.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
         <text>A declaration of intent under this section shall be valid for the remainder of the license year.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-070-F" target-path="08|02|08|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1143,6 +1157,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-30"><cite path="|08|02|08|.01">Regulation .01</cite> amended effective March 30, 2026 (53:6 Md. R. 286</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|08|02|08|.06|E.">Regulation .06E</cite>, F amended effective August 5, 2024 (51:15 Md. R. 706)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|08|02|08|.09|D.">Regulation .09D</cite> adopted effective July 7, 2025 (52:13 Md. R. 655)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|08|.09|D.">Regulation .09D</cite> amended effective August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|08|02|08|.10|G.">Regulation .10G</cite> amended effective August 5, 2024 (51:15 Md. R. 706)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|08|02|08|.12|D.">Regulation .12D</cite> amended effective July 7, 2025 (52:13 Md. R. 655)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-02-17"><cite path="|08|02|08|.13">Regulation .13</cite> adopted effective February 17, 2025 (52:3 Md. R. 159)</annotation>

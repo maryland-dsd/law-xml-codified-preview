@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>23</num>
+  <heading>Community Reinvestment and Repair Fund</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose.</heading>
+    <text>This regulation applies to all Political Subdivisions that receive funds from the Community Reinvestment and Repair Fund.</text>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:17  26-094-E  (Regulations <cite path="|14|17|23|.01">.01</cite> — <cite path="|14|17|23|.09">.09</cite>) EMERGENCY ACTION IN EFFECT 7/20/2026 — 1/16/2027</annotation>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this subtitle, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Community-Based Organizations” means a nonprofit organization where community residents are involved in program design, implementation, and evaluation, often taking on leadership roles.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Disproportionately Impacted Areas” has the meaning stated in Alcoholic Beverages and Cannabis Article, §36–101, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Fund” has the meaning stated in Alcohol Beverages and Cannabis Article, §1-3A-01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Internal Controls” means processes, policies, and procedures implemented by a Community Reinvestment and Repair Fund commission to ensure effectiveness and efficiency of operations.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Low-Income Communities” means a geographic area, or the residents of a geographic area, that is either:</text>
+        <para>
+          <num>(a)</num>
+          <text>Designated as a Qualified Census Tract by the U.S. Department of Housing and Urban Development under 26 U.S.C. §42(d)(5)(B)(ii); or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For a Political Subdivision in which two or fewer census tracts are designated as Qualified Census Tracts, an area in which at least 51 percent of households earn at or below 80 percent of the area median income, as determined by the most recent data published by the U.S. Department of Housing and Urban Development.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Nonprofit” means a tax-exempt entity under the Internal Revenue Code of the United States, 26 U.S.C. §501(c), organized for charitable, educational, or socially beneficial purposes, that is qualified to do business and in good standing with the Maryland Department of Assessments and Taxation.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Office” has the meaning stated in Alcohol Beverages and Cannabis Article, §1–3A–01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Political Subdivision” has the meaning stated in Alcoholic Beverages and Cannabis Article, §1-101, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Public Hearing” means a hearing subject to the Open Meetings Act, General Provisions Article, §§<cite doc="Md. Code" path="ggp|3-301">3-301</cite>—<cite doc="Md. Code" path="ggp|3-501">3-501</cite>, Annotated Code of Maryland, held by a Political Subdivision for the express purpose of receiving public comment and ensuring public participation in the decision-making process.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Political Subdivision Financial Accountability.</heading>
+    <para>
+      <num>A.</num>
+      <text>Administrative Expenses.</text>
+      <para>
+        <num>(1)</num>
+        <text>Political Subdivisions may use up to 15 percent of the funds received from the Fund in the fiscal year for administrative expenses incurred by the Political Subdivision in managing or administering the funds.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In general, administrative expenses include the costs of overall program management, budgeting, monitoring, reporting, and evaluation. Eligible administrative expenses are limited to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Salary expenses for employees related to managing the funds;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Technology related to administration of the funds;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Fees for professional services related to the administration of the funds;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Employee training related to the administration of the funds;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Consulting or legal services related to the administration of the funds;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Technology systems used for fund tracking or reporting related to the administration of the funds; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Community and stakeholder engagement, and public hearing expenses related to the administration of the funds.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Political Subdivisions shall certify that administrative expenses are reasonable and proportionate to the overall funding disbursed and in compliance with statutory limits established by Alcoholic Beverages and Cannabis Article, §1-3A-03, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Financial Accountability and Fund Management. Money expended from the Fund must be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Supplemental to, and may not supplant, funding that otherwise would be appropriated for preexisting programs; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Held separately from other revenue and general funds.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Community Reinvestment and Repair Fund Commissions.</heading>
+    <para>
+      <num>A.</num>
+      <text>Political Subdivisions may establish a commission to support or assume the decision-making authority of the Political Subdivision to utilize money expended from the Fund.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Commission Membership. A commission shall include at least five members who collectively possess the requisite expertise in community advocacy, social services, economic development, and fiscal oversight, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>A resident of a Disproportionately Impacted Area;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An individual impacted by the criminal justice system;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An individual knowledgeable about the impacts of cannabis criminalization on communities;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An individual with experience in providing services for recently incarcerated individuals reentering the community;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An individual with expertise in small business development, job training, and adult professional development; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An individual having demonstrated expertise or experience in accounting, business, financial management, budgeting, or related fiscal oversight functions.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Internal Controls. Commissions shall establish procedures for internal controls through a public engagement process.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Distribution Plan.</heading>
+    <para>
+      <num>A.</num>
+      <text>Before utilizing any money expended from the Fund, a Political Subdivision shall develop a plan in consultation with stakeholders.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The plan must be the subject of a Public Hearing. The Public Hearing shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Include time for public questions and responses;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be publicized at least 14 days in advance;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be held at a time and location accessible to individuals living in Disproportionately Impacted Areas; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide opportunity for written comment.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The plan shall be approved by the Political Subdivision’s governing body and submitted to the Office for reporting purposes. All Political Subdivisions shall submit a plan to the Office by October 1, 2026.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The plan must:</text>
+      <para>
+        <num>(1)</num>
+        <text>Include assessment data to rank community needs;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reflect community input; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Describe outreach efforts to Low-Income Communities.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Allowable Uses and Expenditures Guidelines.</heading>
+    <text>Allowable uses for funds received from the Community Reinvestment and Repair Fund are defined by Alcoholic Beverages and Cannabis Article, §1-3A-03(a)(6), Annotated Code of Maryland.</text>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Oversight, Reporting, and Compliance Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>Reporting Requirements.</text>
+      <para>
+        <num>(1)</num>
+        <text>On or before October 1, 2026, and each October 1 thereafter, each Political Subdivision shall submit a report to the Office.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reports shall be submitted in the format, manner, and on the schedule prescribed by the Office.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Reports shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>Total funds received;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any funds carried over from the prior year or years;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Total funds utilized;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Name and email of Fund point of contact;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Name or names of any entity receiving awards;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Award amount or amounts</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Description of the services or programs funded and population served;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Duration or term of the funding agreement; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Administrative Expenses:</text>
+          <para>
+            <num>(i)</num>
+            <text>Salary expenses for employees related to managing the funds;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Fees for professional services related to the administration of the funds;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Employee training related to the administration of the funds;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Technology related to administration of the funds;</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Community and stakeholder engagement, and public hearing expenses related to the administration of the funds; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>The methods used by the Political Subdivision to solicit, review, and select entities that may be eligible to receive funds; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The Office may request information at any time related to the annual report.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Audit Requirements.</heading>
+    <text>The Office of Legislative Audits shall audit the Fund as provided under <cite doc="Md. Code" path="gsg|2-1220">State Government Article, §2-1220, Annotated Code of Maryland</cite>.</text>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Non-Compliance Protocols.</heading>
+    <text>The Office may recommend corrective measures in cases of non-compliance with fund distribution plans or the establishment of a Community Reinvestment and Repair Fund Commission.</text>
+    <annotations>
+      <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §1-3A-03, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-07-20">Effective date: Regulations <cite path="|14|17|23|.01">.01</cite>—<cite path="|14|17|23|.09">.09</cite> adopted as an emergency provision effective July 20, 2026 (53:17 Md. R. 708)</annotation>
+  </annotations>
+  <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+</container>

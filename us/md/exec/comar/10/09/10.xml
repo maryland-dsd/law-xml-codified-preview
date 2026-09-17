@@ -36,7 +36,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>“Case mix index (CMI)” means a numeric score that identifies the average relative nursing resource needs for the residents classified under the Resource Utilization Group (RUG) based on the assessed nursing needs of the resident, whose values are set forth as CMI Set F01, located at https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/NHQIMDS30TechnicalInformation.html.</text>
+        <text>“Case mix index (CMI)” means a numeric score that identifies the average relative nursing resource needs for the residents classified under the Patient-Driven Payment Model (PDPM) based on the assessed nursing needs of the resident, whose values are set forth in the PDPM case-mix, nursing component only.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -104,54 +104,66 @@
       </para>
       <para>
         <num>(13)</num>
-        <text>“Facility” means a facility licensed under <cite path="|10.07.02">COMAR 10.07.02</cite> and certified as meeting the requirements of Title XIX of the Social Security Act, 42 U.S.C. §1396 et seq., for participation as a nursing facility.</text>
+        <text>“ES3” means an extensive services group receiving services for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Tracheostomy care; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An invasive mechanical ventilator or respirator.</text>
+        </para>
       </para>
       <para>
         <num>(14)</num>
-        <text>“Facility average Medicaid case mix index” means the day-weighted average case mix index for all identified Medicaid days from each nursing facility's final resident roster for each resident roster quarter calculated as the sum of the number of days each assessment associated with a Medicaid payer source is active times the assessment CMI divided by the sum of all Medicaid payer source days.</text>
+        <text>“Facility” means a facility licensed under <cite path="|10.07.02">COMAR 10.07.02</cite> and certified as meeting the requirements of Title XIX of the Social Security Act, 42 U.S.C. §1396 et seq., for participation as a nursing facility.</text>
       </para>
       <para>
         <num>(15)</num>
-        <text>“Final report” means the third party liability audit report issued to a provider stating the total amount due to the Department as a result of the completed audit.</text>
+        <text>“Facility average Medicaid case mix index” means the day-weighted average case mix index for all identified Medicaid days from each nursing facility's final resident roster for each resident roster quarter calculated as the sum of the number of days each assessment associated with a Medicaid payer source is active times the assessment CMI divided by the sum of all Medicaid payer source days.</text>
       </para>
       <para>
         <num>(16)</num>
-        <text>“Fiscal year” means a 12-month reporting period covering the same period as the facility's tax return, unless waived by the Department according to standards found in Medicare Provider Reimbursement Manual, HCFA Publication 15-1.</text>
+        <text>“Final report” means the third party liability audit report issued to a provider stating the total amount due to the Department as a result of the completed audit.</text>
       </para>
       <para>
         <num>(17)</num>
-        <text>“Indemnity bond” means a bond posted by the provider to ensure that the provider is able to fulfill any financial obligations to the Department upon sale of the facility.</text>
+        <text>“Fiscal year” means a 12-month reporting period covering the same period as the facility's tax return, unless waived by the Department according to standards found in Medicare Provider Reimbursement Manual, HCFA Publication 15-1.</text>
       </para>
       <para>
         <num>(18)</num>
-        <text>“Interim Working Capital Fund” means funding made available to providers on a temporary basis that shall be repaid to the Department.</text>
+        <text>“Indemnity bond” means a bond posted by the provider to ensure that the provider is able to fulfill any financial obligations to the Department upon sale of the facility.</text>
       </para>
       <para>
         <num>(19)</num>
-        <text>“Market basket index” means inflation indices from the latest Skilled Nursing Home without Capital Market Basket Index, published 2 months before the period in which rates are being calculated and which is available from CMS at www.cms.gov, or a comparable index available from, and used by, CMS, if this index ceases to be published by Global Insight, Inc. or its successor.</text>
+        <text>“Interim Working Capital Fund” means funding made available to providers on a temporary basis that shall be repaid to the Department.</text>
       </para>
       <para>
         <num>(20)</num>
-        <text>“Maryland Health Care Commission” means the agency established by Health-General Article, Title 19, Subtitle 1, Annotated Code of Maryland.</text>
+        <text>“Market basket index” means inflation indices from the latest Skilled Nursing Home without Capital Market Basket Index, published 2 months before the period in which rates are being calculated and which is available from CMS at www.cms.gov, or a comparable index available from, and used by, CMS, if this index ceases to be published by Global Insight, Inc. or its successor.</text>
       </para>
       <para>
         <num>(21)</num>
-        <text>“Medicaid” means Medical Assistance provided under the State Plan approved under Title XIX of the Social Security Act.</text>
+        <text>“Maryland Health Care Commission” means the agency established by Health-General Article, Title 19, Subtitle 1, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(22)</num>
-        <text>“Medical Assistance Program” means a program of comprehensive medical and other health-related care for indigent and medically indigent persons.</text>
+        <text>“Medicaid” means Medical Assistance provided under the State Plan approved under Title XIX of the Social Security Act.</text>
       </para>
       <para>
         <num>(23)</num>
-        <text>“Medicare upper payment limit” means that aggregate payments to nursing facilities may not exceed the limits established for such payment in 42 CFR §447.272.</text>
+        <text>“Medical Assistance Program” means a program of comprehensive medical and other health-related care for indigent and medically indigent persons.</text>
       </para>
       <para>
         <num>(24)</num>
-        <text>“Minimum Data Set (MDS)” means the MDS required by 42 CFR §483.20 and set forth in the Resident Assessment Instrument published by CMS, and available at www.cms.gov, incorporated herein by reference, as amended and supplemented, a core set of screening, clinical, and functional status elements, including common definitions and coding categories that forms the foundation of the assessment required for all residents in Medicare-certified or Medicaid-certified nursing facilities.</text>
+        <text>“Medicare upper payment limit” means that aggregate payments to nursing facilities may not exceed the limits established for such payment in 42 CFR §447.272.</text>
       </para>
       <para>
         <num>(25)</num>
+        <text>“Minimum Data Set (MDS)” means the MDS required by 42 CFR §483.20 and set forth in the Resident Assessment Instrument published by CMS, and available at www.cms.gov, incorporated herein by reference, as amended and supplemented, a core set of screening, clinical, and functional status elements, including common definitions and coding categories that forms the foundation of the assessment required for all residents in Medicare-certified or Medicaid-certified nursing facilities.</text>
+      </para>
+      <para>
+        <num>(26)</num>
         <text>“New facility” means:</text>
         <para>
           <num>(a)</num>
@@ -163,7 +175,7 @@
         </para>
       </para>
       <para>
-        <num>(26)</num>
+        <num>(27)</num>
         <text>“Noncompliant” means:</text>
         <para>
           <num>(a)</num>
@@ -179,7 +191,7 @@
         </para>
       </para>
       <para>
-        <num>(27)</num>
+        <num>(28)</num>
         <text>Nursing Facility (NF).</text>
         <para>
           <num>(a)</num>
@@ -207,27 +219,31 @@
         </para>
       </para>
       <para>
-        <num>(28)</num>
+        <num>(29)</num>
         <text>“Nursing facility services” means services provided to individuals who do not require hospital care, but who, because of their mental or physical condition, require skilled nursing care and related services, rehabilitation services, or, on a regular basis, health-related care and services (above the level of room and board) which can be made available to them only through institutional facilities.</text>
       </para>
       <para>
-        <num>(29)</num>
+        <num>(30)</num>
         <text>“Owner” means a party or entity having any ownership interest in the facility.</text>
       </para>
       <para>
-        <num>(30)</num>
+        <num>(31)</num>
         <text>“Patient day” means care of one patient for 1 day of service. The day of admission is counted as 1 day of care, but the day of discharge is not counted. If a patient is discharged on his day of admission, 1 patient day will be counted.</text>
       </para>
       <para>
-        <num>(31)</num>
-        <text>“Payroll-Based Journal” means a system for facilities to submit staffing information to meet the requirements of §6106 of the Affordable Care Act (ACA) that requires facilities to electronically submit direct care staffing information (including agency and contract staff) based on payroll and other auditable data.</text>
-      </para>
-      <para>
         <num>(32)</num>
-        <text>“Personal needs fund” means that portion of the recipient's resource retained by the recipient for his personal use.</text>
+        <text>“Patient-Driven Payment Model (PDPM)” means a case-mix classification model that has been developed by CMS for grouping nursing facility residents according to the residents’​ unique needs, characteristics, and goals.</text>
       </para>
       <para>
         <num>(33)</num>
+        <text>“Payroll-Based Journal” means a system for facilities to submit staffing information to meet the requirements of §6106 of the Affordable Care Act (ACA) that requires facilities to electronically submit direct care staffing information (including agency and contract staff) based on payroll and other auditable data.</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>“Personal needs fund” means that portion of the recipient's resource retained by the recipient for his personal use.</text>
+      </para>
+      <para>
+        <num>(35)</num>
         <text>“Predischarge plan” means:</text>
         <para>
           <num>(a)</num>
@@ -255,12 +271,12 @@
         </para>
       </para>
       <para>
-        <num>(34)</num>
+        <num>(36)</num>
         <text>“Program” means the Medical Assistance Program.</text>
       </para>
       <para>
-        <num>(35)</num>
-        <text>“Prospective rate” means a facility-specific quarterly per diem rate based on the RUG classification system, and calculated as the sum of:</text>
+        <num>(37)</num>
+        <text>“Prospective rate” means a facility-specific quarterly per diem rate based on the PDPM classification system, and calculated as the sum of:</text>
         <para>
           <num>(a)</num>
           <text>Administrative and Routine rate as calculated in accordance with <cite path="|10|09|10|.09">Regulation .09 of this chapter</cite>;</text>
@@ -279,15 +295,15 @@
         </para>
       </para>
       <para>
-        <num>(36)</num>
+        <num>(38)</num>
         <text>“Provider” means a facility which has in effect a provider agreement with the Department.</text>
       </para>
       <para>
-        <num>(37)</num>
+        <num>(39)</num>
         <text>“Provider agreement” means the contract between the Department and the provider covering the obligations of the parties under the Medical Assistance Program.</text>
       </para>
       <para>
-        <num>(38)</num>
+        <num>(40)</num>
         <text>“Purchaser” means an entity that participates in a change of ownership with a provider by:</text>
         <para>
           <num>(a)</num>
@@ -303,31 +319,31 @@
         </para>
       </para>
       <para>
-        <num>(39)</num>
+        <num>(41)</num>
         <text>“Quality measure” means a specific performance criterion, as described in <cite path="|10|09|10|.15">Regulation .15 of this chapter</cite>, used to assess a facility’s performance level.</text>
       </para>
       <para>
-        <num>(40)</num>
+        <num>(42)</num>
         <text>“Random sample” means the selection for audit by the Department of representative share of the providers complying with the requirement of submitting a quarterly report of credit balances to the Department.</text>
       </para>
       <para>
-        <num>(41)</num>
+        <num>(43)</num>
         <text>“Recipient” means a person who is certified as eligible for, and is receiving, Medical Assistance benefits.</text>
       </para>
       <para>
-        <num>(42)</num>
+        <num>(44)</num>
         <text>“Recreational services” means those organized activities provided for the enjoyment of the patients that are designed to promote their physical, social, and mental well-being.</text>
       </para>
       <para>
-        <num>(43)</num>
+        <num>(45)</num>
         <text>“Reimbursement class” means the group of providers for which a separate per diem rate will be prepared in the Administrative and Routine, Other Patient Care, and Nursing Service cost centers based on geographic region as set forth in <cite path="|10|09|10|.30">Regulation .30 of this chapter</cite>.</text>
       </para>
       <para>
-        <num>(44)</num>
+        <num>(46)</num>
         <text>“Relative of the owner” means the owner's husband, wife, natural parent, natural child, sibling, adopted child, adoptive parent, stepparent, stepchild, stepbrother, stepsister, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, grandparent, or grandchild.</text>
       </para>
       <para>
-        <num>(45)</num>
+        <num>(47)</num>
         <text>“Replacement facility” means:</text>
         <para>
           <num>(a)</num>
@@ -339,23 +355,23 @@
         </para>
       </para>
       <para>
-        <num>(46)</num>
+        <num>(48)</num>
         <text>“Resident roster” means a list of all residents in a nursing facility for a calendar quarter based on MDS assessments and tracking forms, accurately and successfully transmitted by the nursing facility into the CMS-approved submission system, used for the calculated day-weighted case mix indices for Medicaid, Medicare, and other payment sources.</text>
       </para>
       <para>
-        <num>(47)</num>
+        <num>(49)</num>
         <text>“Resource” means that portion of a recipient's income available toward the cost of medical and remedial care as determined by the Department or its designee.</text>
       </para>
       <para>
-        <num>(48)</num>
+        <num>(50)</num>
         <text>“Resource Utilization Group (RUG)” means the version IV (RUG-IV), 48-Group classification system, that has been developed by CMS for grouping nursing facility residents according to the residents’ functional status and anticipated uses of services and resources as identified from data supplied by the MDS.</text>
       </para>
       <para>
-        <num>(49)</num>
+        <num>(51)</num>
         <text>“Secretary” means the Secretary of Health.</text>
       </para>
       <para>
-        <num>(50)</num>
+        <num>(52)</num>
         <text>“Special focus facility” means a facility identified by the Centers for Medicare and Medicaid Services as having:</text>
         <para>
           <num>(a)</num>
@@ -371,43 +387,45 @@
         </para>
       </para>
       <para>
-        <num>(51)</num>
+        <num>(53)</num>
         <text>“Specialized rehabilitative therapy services” means those services furnished by a provider as an integral part of a patient's care plan ordered by a physician and provided in conjunction with continuous nursing care for the purpose of the restoration of normal form and function after injury or illness. The services shall be performed by a licensed physical therapist, licensed physical therapy assistant, or registered occupational therapist.</text>
       </para>
       <para>
-        <num>(52)</num>
+        <num>(54)</num>
         <text>“Standby letter of credit” means a written instrument prepared by a provider's bank authorizing the Department to draw on the bank, upon sale of the facility.</text>
       </para>
       <para>
-        <num>(53)</num>
+        <num>(55)</num>
         <text>“Statewide average case mix index” means the simple average of all of the cost report period case mix indices for the rate year.</text>
       </para>
       <para>
-        <num>(54)</num>
+        <num>(56)</num>
         <text>“Statewide average Medicaid case mix index” means the Medicaid day weighted average of all nursing facilities’ case mix indices for the Medicaid days identified on the final resident rosters for each resident roster quarter.</text>
       </para>
       <para>
-        <num>(55)</num>
+        <num>(57)</num>
         <text>“Substandard quality of care” means a finding of substandard care in accordance with 42 CFR §488.301.</text>
       </para>
       <para>
-        <num>(56)</num>
+        <num>(58)</num>
         <text>“Third party” means any individual entity or program that is or may be liable to pay all or part of the medical cost of any medical assistance furnished to a recipient under the Medical Assistance Program, including private health insurance, employment related health insurance, medical support from absent parents, automobile insurance, court judgments or settlements from a liability insurer, state workers' compensation, first party probate-estate recoveries, or any federal programs.</text>
       </para>
       <para>
-        <num>(57)</num>
+        <num>(59)</num>
         <text>“Third party liability audit” means a financial review of Medical Assistance payments to a provider to ascertain the legal liability of third parties to pay for care and services available under the Medical Assistance Program.</text>
       </para>
       <para>
-        <num>(58)</num>
+        <num>(60)</num>
         <text>“Third party liability review” means a financial review of the credit balances of a nursing facility to ascertain the legal liability of third parties to pay for care and services available under the Medical Assistance Program.</text>
       </para>
       <para>
-        <num>(59)</num>
+        <num>(61)</num>
         <text>“Uniform cost report” means the cost report format which each facility is required to use in the submission of its fiscal year cost and utilization data, including supplemental schedules and other balance sheet and administrative data.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-014-F" target-path="10|09|10|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1173,9 +1191,32 @@
     </para>
     <para>
       <num>G.</num>
-      <text>Final facility rates for the period July 1, 2024 through June 30, 2025 shall be each nursing facility’s quarterly rate, exclusive of the amount identified in <cite path="|10|09|10|.13|A.|(2)">Regulation .13A(2) of this chapter</cite>, increased by the budget adjustment factor of 2.703 percent, plus the Nursing Facility Quality Assessment add-on identified in <cite path="|10|09|10|.11|E.">Regulation .11E of this chapter</cite> and the ventilator care add-on amount identified in <cite path="|10|09|10|.13|A.|(2)">Regulation .13A(2) of this chapter</cite> when applicable.</text>
+      <text>Final facility rates for the period July 1, 2025 through June 30, 2026 shall be each nursing facility’s quarterly rate, exclusive of the amount identified in <cite path="|10|09|10|.13|A.|(2)">Regulation .13A(2) of this chapter</cite>, increased by the budget adjustment factor of 0.176 percent, plus the Nursing Facility Quality Assessment add-on identified in <cite path="|10|09|10|.11|E.">Regulation .11E of this chapter</cite> and the ventilator care add-on amount identified in <cite path="|10|09|10|.13|A.|(2)">Regulation .13A(2) of this chapter</cite> when applicable.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>H.</num>
+      <text>Effective January 1, 2025, the Department will transition from RUG CMIs to the PDPM CMIs for nursing facility rate calculation.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>PDPM nursing component CMIs will be phased in at the following intervals:</text>
+      <para>
+        <num>(1)</num>
+        <text>Effective January 1, 2025, rate calculations will consist of 75 percent RUG-based CMI rate and 25 percent PDPM-based CMI rate;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Effective April 1, 2025, rate calculations will include 50 percent RUG-based CMI rate and 50 percent PDPM-based CMI rate; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Effective July 1, 2025, rate calculations will consist of 100 percent PDPM-based CMI rate.</text>
+      </para>
+      <aftertext>.</aftertext>
+    </para>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-014-F" target-path="10|09|10|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|10|.08">
     <prefix>Regulation</prefix>
@@ -1259,9 +1300,11 @@
     </para>
     <para>
       <num>H.</num>
-      <text>The Interim Working Capital Fund expires on May 1, 2025. Providers shall repay all outstanding funds to the Department by May 1, 2025. The Department may grant repayment extensions, not longer than 60 days, under extraordinary circumstances.</text>
+      <text>The Interim Working Capital Fund expires on May 1, 2026. Providers shall repay all outstanding funds to the Department by May 1, 2026. The Department may grant repayment extensions, not longer than 60 days, under extraordinary circumstances.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-014-F" target-path="10|09|10|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|10|.09">
     <prefix>Regulation</prefix>
@@ -1785,7 +1828,7 @@
       <text>Case Mix Index Calculation.</text>
       <para>
         <num>(1)</num>
-        <text>The Department shall use the resource utilization group to adjust Nursing Service costs and to determine each nursing facility’s Nursing Service rate component.</text>
+        <text>The Department shall use the PDPM to adjust Nursing Service costs and to determine each nursing facility’s Nursing Service rate component.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1809,18 +1852,14 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If the Department or its contractor determines that a nursing facility has delinquent MDS resident assessments, for purposes of determining both facility CMI averages, the assessments shall be assigned the case mix index associated with the RUG group “BC1” or its successor.</text>
+        <text>A delinquent MDS shall be assigned a CMI value equal to the lowest CMI in the PDPM classification system, or its successor.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>A delinquent MDS shall be assigned a CMI value equal to the lowest CMI in the RUG classification system, or its successor.</text>
-      </para>
-      <para>
-        <num>(5)</num>
         <text>For each resident roster quarter, the Department shall calculate a Statewide average case mix index and a Statewide average Medicaid case mix index from all final resident rosters.</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(5)</num>
         <text>A Medicaid case mix index equalizer shall be used to prevent any aggregate increase or decrease in expected State fiscal year Medicaid program expenditures for the rate quarters beginning every October, January and April, as follows:</text>
         <para>
           <num>(a)</num>
@@ -1836,7 +1875,7 @@
         </para>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(6)</num>
         <text>To determine cost report period case mix index for cost reporting periods starting before the midpoint of a calendar quarter, the associated quarterly resident roster period CMIs are used. If a cost report end date is before the midpoint of a calendar quarter, the associated quarterly resident roster period CMIs are not used.</text>
       </para>
     </para>
@@ -1856,7 +1895,9 @@
         <text>Nursing Service prices established in <cite path="10|09|10|.12|B.">§B of this regulation</cite> shall be based on all facilities in a geographic region that do not have an approved waiver to be included in a different geographic region plus facilities with an approved waiver to receive prices in that geographic region.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-014-F" target-path="10|09|10|.12" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|10|.13">
     <prefix>Regulation</prefix>
@@ -1881,7 +1922,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Nursing facilities adding ventilator care services for the first time, which have been determined by the Department to meet the standards for ventilator care under <cite path="|10.07.02">COMAR 10.07.02</cite>, shall be reimbursed as described in <cite path="10|09|10|.13|A.">§A of this regulation</cite>, except that the facility average Medicaid case mix index is assumed to be that of RUG classification ES3 (or its future equivalent);</text>
+      <text>Nursing facilities adding ventilator care services for the first time, which have been determined by the Department to meet the standards for ventilator care under <cite path="|10.07.02">COMAR 10.07.02</cite>, shall be reimbursed as described in <cite path="10|09|10|.13|A.">§A of this regulation</cite>, except that the facility average Medicaid case mix index is assumed to be that of PDPM classification ES3 (or its future equivalent);</text>
     </para>
     <para>
       <num>D.</num>
@@ -1895,7 +1936,9 @@
       <num>F.</num>
       <text>For residents not receiving ventilator care, the Initial Facility Nursing Service rate identified in <cite path="|10|09|10|.12">Regulation .12 of this chapter</cite> shall be calculated with a facility average Medicaid case mix index that excludes residents receiving ventilator care.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-014-F" target-path="10|09|10|.13" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1908,21 +1951,27 @@
     </para>
     <para>
       <num>B.</num>
-      <text>During the 1 year period ending March 31 of the prior State fiscal year, the provider may not have been:</text>
+      <text>During the 1-year period ending March 31 of the prior State fiscal year, the provider may not have been:</text>
       <para>
         <num>(1)</num>
         <text>Identified by the federal Centers for Medicare and Medicaid Services as a special focus facility;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Denied payment for new admissions by the Department; or</text>
+        <text>Denied payment for new admissions by the Department;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Identified by the Department as delivering substandard quality of care.</text>
+        <text>Identified by the Department as delivering substandard quality of care; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Identified by the Department as failing to pay the quality assessment in accordance with the timetables established in <cite path="|10.01.20">COMAR 10.01.20</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-014-F" target-path="10|09|10|.14" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|10|.15">
     <prefix>Regulation</prefix>
@@ -1965,7 +2014,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>A facility’s average acuity shall be determined based on the facilities Minimum Data Set Resource Utilization Groups (RUG) during the 6-month period ending December 31 of the most recent State fiscal year. To establish expected staffing hours, each RUG group will be multiplied by the corresponding hours under <cite path="|10|09|10|.31|B.">Regulation .31B of this chapter</cite> and divided by the total days of care during the same period.</text>
+        <text>A facility’s average acuity shall be determined based on the facilities Minimum Data Set Patient-Driven Payment Model (PDPM) during the 6-month period ending December 31 of the most recent State fiscal year. To establish expected staffing hours, each PDPM group will be multiplied by the corresponding hours under <cite path="|10|09|10|.31|B.">Regulation .31B of this chapter</cite> and divided by the total days of care during the same period.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -2092,7 +2141,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-014-F" target-path="10|09|10|.15" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3515,213 +3566,126 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Minimum Data Set Resource Utilization Groups Hourly Weights.</text>
+      <text>PDPM Case-mix, Nursing Component Only.</text>
       <text>
         <table>
           <thead>
             <tr>
-              <th>RUG-IV 48</th>
-              <th>Total Hours</th>
+              <th colspan="2" class="text-indent-1">Nursing</th>
+            </tr>
+            <tr>
+              <th class="text-indent-1">Nursing Group</th>
+              <th class="text-indent-1">CMI</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td data-vertical-align="middle">ES3</td>
-              <td data-vertical-align="middle">6.17733333</td>
+              <td class="text-indent-1">ES3</td>
+              <td class="text-indent-1">3.84</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">ES2</td>
-              <td data-vertical-align="middle">5.04483333</td>
+              <td class="text-indent-1">ES2</td>
+              <td class="text-indent-1">2.90</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">ES1</td>
-              <td data-vertical-align="middle">5.69500000</td>
+              <td class="text-indent-1">ES1</td>
+              <td class="text-indent-1">2.77</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">RAE</td>
-              <td data-vertical-align="middle">5.17450000</td>
+              <td class="text-indent-1">HDE2</td>
+              <td class="text-indent-1">2.27</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">RAD</td>
-              <td data-vertical-align="middle">4.70150000</td>
+              <td class="text-indent-1">HDE1</td>
+              <td class="text-indent-1">1.88</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">RAC</td>
-              <td data-vertical-align="middle">3.86266667</td>
+              <td class="text-indent-1">HBC2</td>
+              <td class="text-indent-1">2.12</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">RAB</td>
-              <td data-vertical-align="middle">3.07583333</td>
+              <td class="text-indent-1">HBC1</td>
+              <td class="text-indent-1">1.76</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">RAA</td>
-              <td data-vertical-align="middle">2.28500000</td>
+              <td class="text-indent-1">LDE2</td>
+              <td class="text-indent-1">1.97</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">HE2</td>
-              <td data-vertical-align="middle">5.43733333</td>
+              <td class="text-indent-1">LDE1</td>
+              <td class="text-indent-1">1.64</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">HE1</td>
-              <td data-vertical-align="middle">4.49366667</td>
+              <td class="text-indent-1">LBC2</td>
+              <td class="text-indent-1">1.63</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">HD2</td>
-              <td data-vertical-align="middle">5.00533333</td>
+              <td class="text-indent-1">LBC1</td>
+              <td class="text-indent-1">1.35</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">HD1</td>
-              <td data-vertical-align="middle">3.99700000</td>
+              <td class="text-indent-1">CDE2</td>
+              <td class="text-indent-1">1.77</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">HC2</td>
-              <td data-vertical-align="middle">4.26566667</td>
+              <td class="text-indent-1">CDE1</td>
+              <td class="text-indent-1">1.53</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">HC1</td>
-              <td data-vertical-align="middle">3.84616667</td>
+              <td class="text-indent-1">CBC2</td>
+              <td class="text-indent-1">1.47</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">HB2</td>
-              <td data-vertical-align="middle">5.30500000</td>
+              <td class="text-indent-1">CA2</td>
+              <td class="text-indent-1">1.03</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">HB1</td>
-              <td data-vertical-align="middle">3.02300000</td>
+              <td class="text-indent-1">CBC1</td>
+              <td class="text-indent-1">1.27</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">LE2</td>
-              <td data-vertical-align="middle">4.89816667</td>
+              <td class="text-indent-1">CA1</td>
+              <td class="text-indent-1">0.89</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">LE1</td>
-              <td data-vertical-align="middle">4.01933333</td>
+              <td class="text-indent-1">BAB2</td>
+              <td class="text-indent-1">0.98</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">LD2</td>
-              <td data-vertical-align="middle">4.31583333</td>
+              <td class="text-indent-1">BAB1</td>
+              <td class="text-indent-1">0.94</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">LD1</td>
-              <td data-vertical-align="middle">3.35383333</td>
+              <td class="text-indent-1">PDE2</td>
+              <td class="text-indent-1">1.48</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">LC2</td>
-              <td data-vertical-align="middle">3.32883333</td>
+              <td class="text-indent-1">PDE1</td>
+              <td class="text-indent-1">1.39</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">LC1</td>
-              <td data-vertical-align="middle">3.36916667</td>
+              <td class="text-indent-1">PBC2</td>
+              <td class="text-indent-1">1.15</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">LB2</td>
-              <td data-vertical-align="middle">4.07566667</td>
+              <td class="text-indent-1">PA2</td>
+              <td class="text-indent-1">0.67</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">LB1</td>
-              <td data-vertical-align="middle">2.91083333</td>
+              <td class="text-indent-1">PBC1</td>
+              <td class="text-indent-1">1.07</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">CE2</td>
-              <td data-vertical-align="middle">4.28650000</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CE1</td>
-              <td data-vertical-align="middle">3.86816667</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CD2</td>
-              <td data-vertical-align="middle">4.46816667</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CD1</td>
-              <td data-vertical-align="middle">3.80533333</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CC2</td>
-              <td data-vertical-align="middle">3.02250000</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CC1</td>
-              <td data-vertical-align="middle">2.98650000</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CB2</td>
-              <td data-vertical-align="middle">2.83283333</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CB1</td>
-              <td data-vertical-align="middle">2.68883333</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CA2</td>
-              <td data-vertical-align="middle">1.87200000</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">CA1</td>
-              <td data-vertical-align="middle">1.75983333</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">BB2</td>
-              <td data-vertical-align="middle">2.49116667</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">BB1</td>
-              <td data-vertical-align="middle">2.46466667</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">BA2</td>
-              <td data-vertical-align="middle">2.12716667</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">BA1</td>
-              <td data-vertical-align="middle">1.65100000</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PE2</td>
-              <td data-vertical-align="middle">3.84716667</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PE1</td>
-              <td data-vertical-align="middle">3.81933333</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PD2</td>
-              <td data-vertical-align="middle">3.74566667</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PD1</td>
-              <td data-vertical-align="middle">3.46050000</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PC2</td>
-              <td data-vertical-align="middle">2.68133333</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PC1</td>
-              <td data-vertical-align="middle">2.90283333</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PB2</td>
-              <td data-vertical-align="middle">2.74100000</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PB1</td>
-              <td data-vertical-align="middle">2.00416667</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PA2</td>
-              <td data-vertical-align="middle">1.07683333</td>
-            </tr>
-            <tr>
-              <td data-vertical-align="middle">PA1</td>
-              <td data-vertical-align="middle">1.34950000</td>
+              <td class="text-indent-1">PA1</td>
+              <td class="text-indent-1">0.62</td>
             </tr>
           </tbody>
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-014-F" target-path="10|09|10|.31" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -4103,18 +4067,27 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-19"><cite path="|10|09|10|.25|C.">Regulation .25C</cite> adopted effective December 19, 2016 (43:25 Md. R. 1384)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-02-29"><cite path="|10|09|10|.28|B.">Regulation .28B</cite> amended effective February 29, 2016 (43:4 Md. R. 331)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02" discontinuity="true">Chapter revised effective July 2, 2018 (45:13 Md. R. 664)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-06-14"><cite path="|10|09|10|.01|B.">Regulation .01B</cite> amended effective June 14, 2021 (48:12 Md. R. 472)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.01|B.">Regulation .01B</cite> amended effective June 14, 2021 (48:12 Md. R. 472); August 17, 2026 (53:16 Md. R. 687)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-07"><cite path="|10|09|10|.07">Regulation .07</cite> amended effective August 7, 2023 (50:15 Md. R. 681)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-31"><cite path="|10|09|10|.07|G.">Regulation .07G</cite> amended effective May 20, 2019 (46:10 Md. R. 486); December 30, 2019 (46:26 Md. R. 1164); November 14, 2022 (49:23 Md. R. 995); September 16, 2024 (51:18 Md. R. 808), March 31, 2025 (52:6 Md. R. 267)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|10|09|10|.07|G.">Regulation .07G</cite> amended effective May 20, 2019 (46:10 Md. R. 486); December 30, 2019 (46:26 Md. R. 1164); November 14, 2022 (49:23 Md. R. 995)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-07"><cite path="|10|09|10|.07|G.">Regulation .07G</cite> repealed and new .07G adopted effective August 7, 2023 (50:15 Md. R. 681);</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.07|G.">Regulation .07G</cite> amended effective September 16, 2024 (51:18 Md. R. 808), March 31, 2025 (52:6 Md. R. 267); August 17, 2026 (53:16 Md. R. 687)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|10|09|10|.07|H.">Regulation .07H</cite>, I adopted effective November 14, 2022 (49:23 Md. R. 995)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-31"><cite path="|10|09|10|.08|H.">Regulation .08H</cite> amended effective May 20, 2019 (46:10 Md. R. 486); December 30, 2019 (46:26 Md. R. 1164); June 14, 2021 (48:12 Md. R. 472); November 14, 2022 (49:23 Md. R. 995); August 7, 2023 (50:15 Md. R. 681); September 16, 2024 (51:18 Md. R. 808); March 31, 2025 (52:6 Md. R. 267)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-07"><cite path="|10|09|10|.07|H.">Regulation .07H</cite>, I repealed effective August 7, 2023 (50:15 Md. R. 681)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.07|H.">Regulation .07H</cite>, I adopted effective August 17, 2026 (53:16 Md. R. 687)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.08|H.">Regulation .08H</cite> amended effective May 20, 2019 (46:10 Md. R. 486); December 30, 2019 (46:26 Md. R. 1164); June 14, 2021 (48:12 Md. R. 472); November 14, 2022 (49:23 Md. R. 995); August 7, 2023 (50:15 Md. R. 681); September 16, 2024 (51:18 Md. R. 808); March 31, 2025 (52:6 Md. R. 267); August 17, 2026 (53:16 Md. R. 687)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|10|.11|B.">Regulation .11B</cite> amended effective May 20, 2019 (46:10 Md. R. 486)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.12|F.">Regulation .12F</cite> amended effective August 17, 2026 (53:16 Md. R. 687)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|09|10|.13|A.">Regulation .13A</cite> amended effective May 20, 2019 (46:10 Md. R. 486)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.13|C.">Regulation .13C</cite> amended effective August 17, 2026 (53:16 Md. R. 687)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.14|B.">Regulation .14B</cite> amended effective August 17, 2026 (53:16 Md. R. 687)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-06-14"><cite path="|10|09|10|.15">Regulation .15</cite> amended effective June 14, 2021 (48:12 Md. R. 472)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.15|B.">Regulation .15B</cite> amended effective August 17, 2026 (53:16 Md. R. 687)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-06-14"><cite path="|10|09|10|.19">Regulation .19</cite> amended effective June 14, 2021 (48:12 Md. R. 472</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|10|09|10|.19|A.">Regulation .19A</cite> amended effective November 14, 2022 (49:23 Md. R. 995)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|10|09|10|.21|P.">Regulation .21P</cite> adopted effective November 14, 2022 (49:23 Md. R. 995)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-11-14"><cite path="|10|09|10|.22|B.">Regulation .22B</cite> amended effective November 14, 2022 (49:23 Md. R. 995)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-12-30"><cite path="|10|09|10|.30">Regulation .30</cite> amended effective December 30, 2019 (46:26 Md. R. 1164)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|10|09|10|.31|B.">Regulation .31B</cite> amended effective August 17, 2026 (53:16 Md. R. 687)</annotation>
   </annotations>
 </container>

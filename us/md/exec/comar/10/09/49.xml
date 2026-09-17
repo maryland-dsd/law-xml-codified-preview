@@ -31,7 +31,10 @@
         <text>Capacity and choice for ongoing treatment in underserved areas of the State.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|09|49|.02">
     <prefix>Regulation</prefix>
@@ -139,6 +142,8 @@
     </para>
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" target-path="10|09|49|.02" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -174,7 +179,10 @@
       <num>D.</num>
       <text>Services permitted to be provided via telehealth as set forth in the COMAR chapter defining the covered service being rendered..</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -224,7 +232,10 @@
       <num>E.</num>
       <text>Distant Site Providers may render services via telehealth within the provider's scope of practice.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -258,7 +269,10 @@
         <text>Utilize technology that meets the standards required by State and federal laws governing the privacy and security of protected health information (HIPAA compliant).</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -293,7 +307,10 @@
       <num>E.</num>
       <text>May not store the video images or audio portion of the service delivered via telehealth for future use.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -345,6 +362,8 @@
     </para>
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" target-path="10|09|49|.07" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -385,135 +404,9 @@
     </para>
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" target-path="10|09|49|.08" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
     </annotations>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.09</num>
-    <heading>Limitations.</heading>
-    <para>
-      <num>A.</num>
-      <text>A service provided through telehealth is subject to the same program restrictions, preauthorizations, limitations, and coverage that exist for the service when provided in person.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>A telehealth service does not include:</text>
-      <para>
-        <num>(1)</num>
-        <text>An audio-only telephone conversation between a health care provider and a patient;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>An electronic mail message between a health care provider and a patient;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A facsimile transmission between a health care provider and a patient; or</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>A telephone conversation, electronic mail message, or facsimile transmission between the originating and distant site providers without interaction between the distant site provider and the patient.</text>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Store and forward technology does not meet the Maryland Medical Assistance Program’s definition of telehealth. The Maryland Medical Assistance Program covers services such as dermatology, ophthalmology, and radiology according to <cite path="10.09.02.07">COMAR 10.09.02.07</cite>.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>Telehealth-delivered services may not bill to the Maryland Medical Assistance Program or to the ASO when technical difficulties preclude the delivery of part or all of the telehealth session.</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>The Department may not reimburse a provider for the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>Services that occur during an ambulance transport;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Communications between providers where the participant is not physically present at the originating site;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Telehealth services delivered where the originating site is not a permitted originating site provider as set forth in <cite path="|10|09|49|.06">Regulation .06 of this chapter</cite>; or</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Mental health and substance use disorder services that did not receive prior authorization from the Department or its ASO.</text>
-      </para>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>The Department may not reimburse for services that:</text>
-      <para>
-        <num>(1)</num>
-        <text>Require in-person evaluation; or</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Cannot be reasonably delivered via telehealth.</text>
-      </para>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>The Department may not reimburse distant site providers for a facility fee.</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>The Department may not reimburse for home health monitoring services.</text>
-    </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.10</num>
-    <heading>Reimbursement.</heading>
-    <para>
-      <num>A.</num>
-      <text>To receive reimbursement for telehealth services, a provider shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>Be actively enrolled with Maryland Medical Assistance;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Participate with a telehealth partner that meets provider conditions for participation as set forth in <cite path="|10|09|49|.06">Regulation .06 of this chapter</cite>; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>If a provider is a behavioral health service provider, be registered as a provider through the ASO on the date the service is rendered.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Distant Site Reimbursement.</text>
-      <para>
-        <num>(1)</num>
-        <text>The distant site shall be reimbursed:</text>
-        <para>
-          <num>(a)</num>
-          <text>For somatic services provided via telehealth, as set forth in <cite path="10.09.02.07|D.">COMAR 10.09.02.07D</cite>;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>For mental health services provided via telehealth, as set forth in <cite path="10.09.59.09">COMAR 10.09.59.09</cite>; or</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>For substance use disorder services provided via telehealth, as set forth in <cite path="10.09.80.08">COMAR 10.09.80.08</cite>.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Services delivered via telehealth shall be billed with the telehealth GT modifier.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Services delivered via telehealth shall be within the provider’s scope of practice as determined by its governing licensure or credentialing board.</text>
-      </para>
-    </para>
-    <annotations/>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b), 15-103, 15-105, and 15-105.2(b), Annotated Code of Maryland; Ch. 280, Acts of 2013; Ch. 366, Acts of 2016; <br/>Ch. 367, Acts of 2016</annotation>
@@ -555,4 +448,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|09|49|.08|B.">Regulation .08B</cite> amended effective June 8, 2026 (53:11 Md. R. 485)</annotation>
     <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|25-281-F" target-path="10|09|49|annos" type="History" display="false"/>
   </annotations>
+  <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.09" type="History" display="false"/>
+  <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|09|49|.10" type="History" display="false"/>
 </container>

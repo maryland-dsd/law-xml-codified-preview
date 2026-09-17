@@ -159,7 +159,7 @@
         <text>The reviewing authority shall mail or deliver written notification of its decision to the contractor within:</text>
         <para>
           <num>(a)</num>
-          <text>90 days after the procurement officer receives the claim if the claim is an amount for which the Appeals Board accelerated procedure, set forth in <cite path="21.10.06.12">COMAR 21.10.06.12</cite>, may be used;</text>
+          <text>90 days after the procurement officer receives the claim if the claim is an amount for which the Appeals Board “Small Claims” procedure, set forth in <cite path="21.10.06.12">COMAR 21.10.06.12</cite>, may be used;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -183,7 +183,9 @@
         <text>If the final decision grants the claim in part and denies the claim in part, the procurement agency shall pay the contractor the amount granted. Payment of the partial claim is not an admission of liability by the unit on the claim and does not preclude the unit from recovering the amount paid if a subsequent determination modifies the final decision.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|10|04|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -376,7 +378,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-05-09" discontinuity="true">Chapter revised effective May 9, 2005 (32:9 Md. R. 849)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|10|04|.02|E.">Regulation .02E</cite> amended effective April 7, 2008 (35:7 Md. R. 751)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11"><cite path="|21|10|04|.04|C.">Regulation .04C</cite>, D amended effective March 11, 2019 (46:5 Md. R. 310)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|10|04|.04|E.">Regulation .04E</cite> amended effective April 7, 2008 (35:7 Md. R. 751)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|10|04|.04|E.">Regulation .04E</cite> amended effective April 7, 2008 (35:7 Md. R. 751), August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|10|04|.05|C.">Regulation .05C</cite>, D amended effective April 7, 2008 (35:7 Md. R. 751)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|10|04|.09|B.">Regulation .09B</cite> amended effective April 7, 2008 (35:7 Md. R. 751)</annotation>
   </annotations>

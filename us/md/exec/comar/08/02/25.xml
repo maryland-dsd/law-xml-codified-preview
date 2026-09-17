@@ -338,7 +338,7 @@
       <text>Recreational Gear.</text>
       <para>
         <num>(1)</num>
-        <text>An individual may only use the gear specified in this regulation to catch fish for recreational purposes from nontidal waters.</text>
+        <text>An individual may only use the gear specified in this regulation to catch or attempt to catch fish for recreational purposes from nontidal waters.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -410,7 +410,7 @@
       <text>Active Line Fishing Gear.</text>
       <para>
         <num>(1)</num>
-        <text>Individuals catching fish in nontidal waters may only use the following active line fishing gear:</text>
+        <text>Individuals catching or attempting to catch fish in nontidal waters may only use the following active line fishing gear:</text>
         <para>
           <num>(a)</num>
           <text>Hook and line;</text>
@@ -450,7 +450,7 @@
       <text>Nets.</text>
       <para>
         <num>(1)</num>
-        <text>Individuals catching fish in nontidal waters may only use the following nets:</text>
+        <text>Individuals catching or attempting to catch fish in nontidal waters may only use the following nets:</text>
         <para>
           <num>(a)</num>
           <text>Seines;</text>
@@ -538,7 +538,7 @@
       <text>Projectile Gear.</text>
       <para>
         <num>(1)</num>
-        <text>Individuals catching fish in nontidal waters may only use the following projectile gear:</text>
+        <text>Individuals catching or attempting to catch fish in nontidal waters may only use the following projectile gear:</text>
         <para>
           <num>(a)</num>
           <text>Archery equipment;</text>
@@ -659,7 +659,7 @@
     </para>
     <para>
       <num>F.</num>
-      <text>Hand Gear. Individuals catching fish in nontidal waters may only use the following hand gear:</text>
+      <text>Hand Gear. Individuals catching or attempting to catch fish in nontidal waters may only use the following hand gear:</text>
       <para>
         <num>(1)</num>
         <text>Hand; and</text>
@@ -669,7 +669,9 @@
         <text>Noodling.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|25|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|25|.03">
     <prefix>Regulation</prefix>
@@ -684,7 +686,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>An individual may only use the gear specified in this regulation to catch fish for recreational purposes from tidal waters.</text>
+        <text>An individual may only use the gear specified in this regulation to catch or attempt to catch fish for recreational purposes from tidal waters.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -828,7 +830,7 @@
       <text>Active Line Fishing Gear.</text>
       <para>
         <num>(1)</num>
-        <text>Individuals catching fish in tidal waters may only use the following active line fishing gear:</text>
+        <text>Individuals catching or attempting to catch fish in tidal waters may only use the following active line fishing gear:</text>
         <para>
           <num>(a)</num>
           <text>Hook and line;</text>
@@ -864,7 +866,7 @@
       <text>Nonactive Line Fishing Gear.</text>
       <para>
         <num>(1)</num>
-        <text>The only nonactive line fishing gear that an individual may use to catch fish in tidal waters is a jug.</text>
+        <text>The only nonactive line fishing gear that an individual may use to catch or attempt to catch fish in tidal waters is a jug.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -895,7 +897,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>May be used to take any fish except for the following species:</text>
+          <text>May be used to take or attempt to take any fish except for the following species:</text>
           <para>
             <num>(i)</num>
             <text>Largemouth and smallmouth bass;</text>
@@ -924,7 +926,7 @@
       <text>Nets.</text>
       <para>
         <num>(1)</num>
-        <text>Individuals catching fish in tidal waters may only use the following nets:</text>
+        <text>Individuals catching or attempting to catch fish in tidal waters may only use the following nets:</text>
         <para>
           <num>(a)</num>
           <text>Cast nets;</text>
@@ -984,7 +986,7 @@
       <text>Projectile Gear.</text>
       <para>
         <num>(1)</num>
-        <text>Individuals catching fish in tidal waters may only use the following projectile gear:</text>
+        <text>Individuals catching or attempting to catch fish in tidal waters may only use the following projectile gear:</text>
         <para>
           <num>(a)</num>
           <text>Archery equipment;</text>
@@ -1012,7 +1014,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>An individual may use projectile gear to take any fish except for the following species:</text>
+        <text>An individual may use projectile gear to take or attempt to take any fish except for the following species:</text>
         <para>
           <num>(a)</num>
           <text>All trout species;</text>
@@ -1105,7 +1107,7 @@
     </para>
     <para>
       <num>I.</num>
-      <text>Hand Gear. Individuals catching fish in tidal waters may only use the following hand gear:</text>
+      <text>Hand Gear. Individuals catching or attempting to catch fish in tidal waters may only use the following hand gear:</text>
       <para>
         <num>(1)</num>
         <text>Hand; and</text>
@@ -1117,6 +1119,7 @@
     </para>
     <annotations>
       <annotation app="2026-04-01" doc="Maryland Register, Volume 53, Issue 6" eff="2026-03-30" path="regulations|final|25-316-F" target-path="08|02|25|.03" type="History" display="false"/>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|25|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|25|.04">
@@ -1692,7 +1695,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-221">4-221</cite>, <cite doc="Md. Code" path="gnr|4-505">4-505</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>.1, 4-701.2, 4-711, and 4-713, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-221">4-221</cite>, <cite doc="Md. Code" path="gnr|4-505">4-505</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>.<cite doc="Md. Code" path="gnr|2">2</cite>, <cite doc="Md. Code" path="gnr|4-711">4-711</cite>, and <cite doc="Md. Code" path="gnr|4-713">4-713</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-12-23">Regulations <cite path="|08|02|25|.01">.01</cite>—<cite path="|08|02|25|.02">.02</cite> adopted as an emergency provision effective July 1, 2013 (40:15 Md. R. 1221); adopted permanently effective December 23, 2013 (40:25 Md. R. 2067)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-09-16"><cite path="|08|02|25|.02|C.">Regulation .02C</cite> amended as an emergency provision effective March 20, 2014 (41:8 Md. R. 467); emergency provision expired effective September 16, 2014</annotation>
@@ -1700,9 +1703,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-09-29">Chapter revised effective September 29, 2014 (41:19 Md. R. 1076)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26"><cite path="|08|02|25|.01|B.">Regulation .01B</cite> amended effective March 27, 2017 (44:6 Md. R. 325); March 26, 2018 (45:6 Md. R. 318)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|08|02|25|.01|B.">Regulation .01B</cite> amended as an emergency provision effective May 3, 2018 (Md. R. 45:11 577); amended permanently effective July 2, 2018 (45:13 Md. R. 664)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-03-27"><cite path="|08|02|25|.02">Regulation .02</cite> amended effective March 27, 2017 (44:6 Md. R. 325)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|25|.02">Regulation .02</cite> amended effective March 27, 2017 (44:6 Md. R. 325); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|08|02|25|.02|B.">Regulation .02B</cite> amended effective March 14, 2016 (43:5 Md. R. 384)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-02-08"><cite path="|08|02|25|.03">Regulation .03</cite> amended effective February 8, 2021 (48:3 Md. R. 93)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|25|.03">Regulation .03</cite> amended effective February 8, 2021 (48:3 Md. R. 93); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14"><cite path="|08|02|25|.03|A.">Regulation .03A</cite>, B amended effective March 14, 2016 (43:5 Md. R. 384)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-03-09"><cite path="|08|02|25|.03|A.">Regulation .03A</cite>, C amended effective March 9, 2020 (47:5 Md. R. 310)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-17"><cite path="|08|02|25|.03|B.">Regulation .03B</cite> amended effective March 17, 2025 (52:5 Md. R. 237)</annotation>

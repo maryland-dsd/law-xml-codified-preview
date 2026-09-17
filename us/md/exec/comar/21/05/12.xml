@@ -50,7 +50,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Human, social, cultural, and educational services of $50,000 or less may be procured in accordance with the small procurement method, <cite path="|21.05.07">COMAR 21.05.07</cite>.</text>
+      <text>Human, social, cultural, and educational services of the applicable small procurement amount specified in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> or less may be procured in accordance with the small procurement method, <cite path="|21.05.07">COMAR 21.05.07</cite>.</text>
     </para>
     <para>
       <num>D.</num>
@@ -64,7 +64,9 @@
       <num>F.</num>
       <text>Human, social, and educational services may be procured in accordance with the noncompetitive negotiation procurement method, <cite path="|21|05|12|.04">Regulation .04 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|12|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -79,7 +81,7 @@
       <text>The noncompetitive negotiated procurement method may be used if:</text>
       <para>
         <num>(1)</num>
-        <text>The procurement officer, with the approval of the agency head, determines that two or more sources for the services are available but that, because of the absence of effective competition, it is unreasonable to expect those sources to respond to an invitation for bids under <cite path="|21.05.02">COMAR 21.05.02</cite> or request for proposals under <cite path="|21.05.03">COMAR 21.05.03</cite>.</text>
+        <text>The procurement officer, with the approval of the agency head or designee determines that two or more sources for the services are available but that, because of the absence of effective competition, it is unreasonable to expect those sources to respond to an invitation for bids under <cite path="|21.05.02">COMAR 21.05.02</cite> or request for proposals under <cite path="|21.05.03">COMAR 21.05.03</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -131,7 +133,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If the procurement agency expects that any contract may exceed $25,000, the request for general expressions of interest shall so state and shall be published in eMaryland Marketplace.</text>
+        <text>If the procurement agency expects that any contract may exceed $100,000, the request for general expressions of interest shall so state and shall be published in eMaryland Marketplace.</text>
       </para>
     </para>
     <para>
@@ -154,7 +156,9 @@
       <num>F.</num>
       <text>Notice of any award, regardless of amount, under this regulation shall be published in eMaryland Marketplace.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|12|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -286,7 +290,8 @@
     <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-102">13-102</cite>, <cite doc="Md. Code" path="gsf|13-104">13-104</cite>, <cite doc="Md. Code" path="gsf|13-106">13-106</cite>, <cite doc="Md. Code" path="gsf|13-108">13-108</cite>, and <cite doc="Md. Code" path="gsf|13-109">13-109</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02">Effective date: January 2, 2017 (43:26 Md. R. 1449)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|05|12|.02|B.">Regulation .02B</cite> amended effective March 3, 2025 (52:4 Md. R. 221)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-15"><cite path="|21|05|12|.03|C.">Regulation .03C</cite> amended effective July 15, 2019 (46:14 Md. R. 623)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|12|.03|C.">Regulation .03C</cite> amended effective July 15, 2019 (46:14 Md. R. 623); August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|12|.04|B.">Regulation .04B</cite>, C amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-06-29"><cite path="|21|05|12|.07|B.">Regulation .07B</cite>, C amended effective June 29, 2020 (47:13 Md. R. 643)</annotation>
   </annotations>
 </container>

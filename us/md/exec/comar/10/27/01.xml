@@ -650,7 +650,7 @@
         <text>Written evidence satisfactory to the Board that the applicant has submitted to a CHRC as required by <cite path="10|27|01|.04|A.|(2)">§A(2) of this regulation</cite> by submitting:</text>
         <para>
           <num>(a)</num>
-          <text>Two sets of fingerprints, as required by the Central Repository and the FBI; and</text>
+          <text>One complete set of fingerprints, as required by the Central Repository and the FBI; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -718,7 +718,10 @@
         <text>Pay the required fees that are in effect at the time of re-application.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .04, .14) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|27|01|.04" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|27|01|.05">
     <prefix>Regulation</prefix>
@@ -1473,7 +1476,7 @@
           <text>Written, verified evidence that the licensee has submitted to a criminal history records check in accordance with <cite path="|10|27|01|.13">Regulation .13 of this chapter</cite> by:</text>
           <para>
             <num>(i)</num>
-            <text>Submitting two sets of fingerprints required by the Central Repository and the FBI; and</text>
+            <text>Submitting one complete set of fingerprints required by the Central Repository and the FBI; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -1486,7 +1489,10 @@
       <num>D.</num>
       <text>An additional fee may not be charged to change from inactive to active status.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .04, .14) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|27|01|.14" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1866,6 +1872,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-03"><cite path="|10|27|01|.03|A.">Regulation .03A</cite>, C amended as an emergency provision effective January 4, 2022 (49:4 Md. R. 297); emergency status expired effective July 3, 2022</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-31"><cite path="|10|27|01|.03|C.">Regulation .03C</cite> amended as an emergency provision effective September 7, 2022 (49:21 Md. R. 940); emergency status expired effective March 5, 2023; Regulation .03C amended as an emergency provision effective May 4, 2023 (50:10 Md. R. 405); emergency status expired effective October 31, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|01|.03|C.">Regulation .03C</cite> amended as an emergency provision effective August 26, 2025 (52:20 Md. R. 999); amended permanently effective October 13, 2025 (52:20 Md. R. 1001)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|01|.04|A.">Regulation .04A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R.943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-04-27"><cite path="|10|27|01|.05">Regulation .05</cite> amended effective July 2, 2018 (45:13 Md. R. 667); April 27, 2026 (53:8 Md. R. 356)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-08-23"><cite path="|10|27|01|.05|C.">Regulation .05C</cite> amended effective August 23, 2021 (48:17 Md. R. 669)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-03"><cite path="|10|27|01|.05|C.">Regulation .05C</cite> amended as an emergency provision effective October 6, 2023 (50:22 Md. R. 972); emergency status expired effective April 3, 2024</annotation>
@@ -1878,6 +1885,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-06-17"><cite path="|10|27|01|.13">Regulation .13</cite> amended effective July 2, 2018 (45:13 Md. R. 667); June 17, 2019 (46:12 Md. R. 544)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-08-18"><cite path="|10|27|01|.13|N.">Regulation .13N</cite> amended as an emergency provision effective June 24, 2025 (52:15 Md. R. 810); amended permanently effective August 18, 2025 (52:16 Md. R. 846)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.14">Regulation .14</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|01|.14|C.">Regulation .14C</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.15|B.">Regulation .15B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|01|.16|E.">Regulation .16E</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-07-03"><cite path="|10|27|01|.17|C.">Regulation .17C</cite> adopted as an emergency provision effective January 4, 2022 (49:4 Md. R. 297); emergency status expired effective July 3, 2022</annotation>

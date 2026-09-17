@@ -1799,7 +1799,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Protected from sources of heat;</text>
+          <text>Protected from sources of heat; and</text>
         </para>
       </para>
       <para>
@@ -1876,7 +1876,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Ensure that persons performing puncturing and draining activities are trained in the proper procedures for conducting the activities.</text>
+        <text>Ensure that persons performing puncturing and draining activities are trained in the proper procedures for conducting the activities;</text>
       </para>
       <para>
         <num>(6)</num>
@@ -1899,11 +1899,11 @@
         </para>
         <para>
           <num>(b)</num>
-          <text><cite path="26.13.03.03">COMAR 26.13.03.03</cite>-3; or</text>
+          <text><cite path="26.13.03.03-3">COMAR 26.13.03.03-3</cite>; or</text>
         </para>
         <para>
           <num>(c)</num>
-          <text><cite path="26.13.03.03">COMAR 26.13.03.03</cite>-4 —.03-11, .05E, .05-1, and .05-2;</text>
+          <text><cite path="26.13.03.03-4">COMAR 26.13.03.03-4</cite> —.03-11, .05E, .05-1, and .05-2;</text>
         </para>
       </para>
       <para>
@@ -1949,6 +1949,7 @@
     </para>
     <annotations>
       <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10" type="History" display="false"/>
+      <annotation app="2026-08-04" doc="Editor Action 2026-08-04" eff="2026-08-04" path="" target-path="26|13|10|.16-1" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="26|13|10|.17">
@@ -2042,7 +2043,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>“Used Lamp(s)”; and</text>
+            <text>“Used Lamp(s)”;</text>
           </para>
         </para>
         <para>
@@ -2050,7 +2051,7 @@
           <text>Clearly label or mark each universal waste PCB-containing lamp ballast that is not in a container, and each container or package in which universal waste PCB-containing lamp ballasts are being held, with one of the following phrases:</text>
           <para>
             <num>(i)</num>
-            <text>“Universal Waste—PCB-containing lamp ballast(s)”;</text>
+            <text>“Universal Waste—PCB-containing lamp ballast(s)”; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -2058,7 +2059,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>“Used PCB-containing lamp ballast(s)”.</text>
+            <text>“Used PCB-containing lamp ballast(s)”; and</text>
           </para>
         </para>
         <para>
@@ -2074,7 +2075,7 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>“Used Aerosol Can(s)</text>
+            <text>“Used Aerosol Can(s)”.</text>
           </para>
         </para>
       </para>
@@ -2193,6 +2194,7 @@
     </para>
     <annotations>
       <annotation app="2025-10-01" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|24-159-F" target-path="26|13|10|.17" type="History" display="false"/>
+      <annotation app="2026-08-04" doc="Editor Action 2026-08-04" eff="2026-08-04" path="" target-path="26|13|10|.17" type="History" display="false"/>
     </annotations>
   </section>
   <section>

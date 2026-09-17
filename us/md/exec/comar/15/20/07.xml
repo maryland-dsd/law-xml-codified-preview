@@ -158,8 +158,8 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:15  26-031-E  (Regulations .03, .05) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
       <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|emergency|26-031-E" target-path="15|20|07|.03" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-031-F" target-path="15|20|07|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="15|20|07|.04">
@@ -441,8 +441,8 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:15  26-031-E  (Regulations .03, .05) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
       <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 15" eff="2026-08-03" path="regulations|emergency|26-031-E" target-path="15|20|07|.05" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-031-F" target-path="15|20|07|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="15|20|07|.06">
@@ -716,7 +716,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|8-801">8-801</cite>—<cite doc="Md. Code" path="gag|8-806">8-806</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|8-801">8-801</cite>—<cite doc="Md. Code" path="gag|8-806">8-806</cite>, and <cite doc="Md. Code" path="gag|8-8">8-8</cite>A-01 et seq., Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-05-29">Effective date: May 29, 2000 (27:10 Md. R. 967)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-08-05"><cite path="|15|20|07|.02">Regulation .02</cite> amended effective April 16, 2001 (28:7 Md. R. 692); August 5, 2002 (29:15 Md. R. 1143)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-04-11"><cite path="|15|20|07|.02">Regulation .02</cite> amended as an emergency provision effective December 22, 2004 (32:2 Md. R. 144); amended permanently effective April 11, 2005 (32:7 Md. R. 684)</annotation>
@@ -724,11 +724,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-17"><cite path="|15|20|07|.02">Regulation .02</cite> amended as an emergency provision effective October 16, 2024 (51:23 Md. R. 1035); amended permanently effective March 17, 2025 (52:5 Md. R. 238)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-16"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended effective April 16, 2001 (28:7 Md. R. 692)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-04-11"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended as an emergency provision effective December 22, 2004 (32:2 Md. R. 144); amended permanently effective April 11, 2005 (32:7 Md. R. 684)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-05"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended effective October 5, 2020 (47:20 Md. R. 877)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended as an emergency provision effective June 4, 2026 (53:15 Md. R. 664)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|15|20|07|.03|B.">Regulation .03B</cite> amended effective October 5, 2020 (47:20 Md. R. 877); August 17, 2026 (53:16 Md. R. 688)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-16"><cite path="|15|20|07|.04">Regulation .04</cite> amended effective April 16, 2001 (28:7 Md. R. 692)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-04-11"><cite path="|15|20|07|.05|A.">Regulation .05A</cite>, C, D amended as an emergency provision effective December 22, 2004 (32:2 Md. R. 144); amended permanently effective April 11, 2005 (32:7 Md. R. 684)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|15|20|07|.05|D.">Regulation .05D</cite> amended as an emergency provision effective June 4, 2026 (53:15 Md. R. 664)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|15|20|07|.05|D.">Regulation .05D</cite> amended effective August 17, 2026 (53:16 Md. R. 688)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-05"><cite path="|15|20|07|.06">Regulation .06</cite> amended as an emergency provision effective December 22, 2004 (32:2 Md. R. 144); amended permanently effective April 11, 2005 (32:7 Md. R. 684); October 5, 2020 (47:20 Md. R. 877)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-04-16"><cite path="|15|20|07|.06|A.">Regulation .06A</cite> amended effective April 16, 2001 (28:7 Md. R. 692)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-05"><cite path="|15|20|07|.07">Regulation .07</cite> amended effective October 5, 2020 (47:20 Md. R. 877)</annotation>

@@ -695,7 +695,53 @@
         <text>A grower shall maintain an accurate log of cleaning and sanitation required under <cite path="14|17|10|.03|E.|(1)">§E(1) of this regulation</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>F.</num>
+      <text>Corrective and Preventive Action.</text>
+      <para>
+        <num>(1)</num>
+        <text>If a grower’s test results indicate a failure rate as determined and published by the Administration, the grower shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Conduct an investigation to determine the root cause of repeated tests outside action limits;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Decontaminate all areas, including rooms, equipment, and surfaces used for cultivation;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Provide, in the manner designated by the Administration:</text>
+          <para>
+            <num>(i)</num>
+            <text>A report of the investigation; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The licensee’s plan to correct and prevent future contamination; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If applicable, update and implement standard operating procedures needed to ensure passing samples in the future.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Administration may require a grower to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Conduct further investigation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Implement additional procedures to prevent future contamination.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|10|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -958,7 +1004,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Remediation steps and resulting environmental analysis.</text>
+          <text>Remediation steps and resulting environmental analysis;</text>
         </para>
       </para>
       <para>
@@ -970,8 +1016,16 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Maintaining independent and unique security video surveillance control.</text>
+          <text>Maintaining independent and unique security video surveillance control;</text>
         </para>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Prohibiting discrimination, harassment, and retaliation against an individual based on the individual’s race, color, religion, sex, age, national origin, marital status, sexual orientation, gender identity, genetic information, military status, disability, or participation in protected activity pursuant to <cite doc="Md. Code" path="gsg|20">State Government Article, §20</cite>–606, Annotated Code of Maryland; and</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>Prohibiting discrimination or retaliation against an employee for participation in protected activity pursuant to <cite doc="Md. Code" path="gle|5">Labor and Employment Article, §5</cite>–604, Annotated Code of Maryland.</text>
       </para>
     </para>
     <para>
@@ -992,6 +1046,59 @@
     </para>
     <annotations>
       <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|10|.09" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|10|.09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="14|17|10|.10">
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Minimum Labor Standards.</heading>
+    <para>
+      <num>A.</num>
+      <text>A grower shall comply with all applicable federal, State, and local laws and regulations related to worker training, safety, health, and wages including, but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The Maryland Occupational Safety and Health Act, <cite doc="Md. Code" path="gle">Labor and Employment Article, Title 5, Annotated Code of Maryland</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>29 CFR Part 1928;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>40 CFR Part 170;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text><cite path="|09.12.20">COMAR 09.12.20</cite>;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text><cite path="|09.12.32">COMAR 09.12.32</cite>;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text><cite path="15.05.01.02">COMAR 15.05.01.02</cite>;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Labor and Employment Article, §§<cite doc="Md. Code" path="gle|3-413">3-413</cite>, <cite doc="Md. Code" path="gle|3-415">3-415</cite>, and <cite doc="Md. Code" path="gle|3-420">3-420</cite>, Annotated Code of Maryland; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>State Government Article, §§<cite doc="Md. Code" path="gsg|20-601">20-601</cite>–<cite doc="Md. Code" path="gsg|611">611</cite> and <cite doc="Md. Code" path="gsg|20-801">20-801</cite>, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Administration may require a licensed grower to conspicuously display information provided by the Administration about labor rights and occupational health and safety in English and in the primary language of any non-English speaking employee.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A grower shall maintain records related to trainings, assessments, and other documents demonstrating compliance with <cite path="14|17|10|.10|A.">§A of this regulation</cite> and make them available for Administration review.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|10|.10" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -1002,9 +1109,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|10|.01">.01</cite>—<cite path="|14|17|10|.09">.09</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|10|.02">Regulation .02</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|10|.03|B.">Regulation .03B</cite>, D amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|10|.03|F.">Regulation .03F</cite> adopted effective September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|10|.07|D.">Regulation .07D</cite> adopted effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|10|.08|B.">Regulation .08B</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|10|.09|A.">Regulation .09A</cite> amended effective May 26, 2025 (52:10 Md. R. 436); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|10|.09|A.">Regulation .09A</cite> amended effective May 26, 2025 (52:10 Md. R. 436); March 16, 2026 (53:5 Md. R. 244); September 14, 2026 (53:18 Md. R. 878)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|10|.10">Regulation .10</cite> adopted effective September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|10|annos" type="History" display="false"/>
   </annotations>
 </container>

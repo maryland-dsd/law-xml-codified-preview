@@ -101,7 +101,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>The construction manager or procurement unit shall send the solicitation notice for trade proposals to the Governor's Office of Small, Minority &amp; Women Business Affairs and publish the notice in a newspaper of general circulation near the project, or Internet media, or both, at least 14 days before trade proposals are due.  If the construction manager restricts trade proposals to prequalified contractors, the solicitation notice shall include information on the prequalification process.</text>
+      <text>The construction manager or procurement unit shall send the solicitation notice for trade proposals to the Office of Small, Minority &amp; Women Business Affairs and publish the notice in a newspaper of general circulation near the project, or Internet media, or both, at least 14 days before trade proposals are due. If the construction manager restricts trade proposals to prequalified contractors, the solicitation notice shall include information on the prequalification process.</text>
     </para>
     <para>
       <num>D.</num>
@@ -115,10 +115,13 @@
       <num>F.</num>
       <text>The construction manager shall comply with the State's Nondiscrimination Clause as provided in <cite doc="Md. Code" path="gsf|13-219">State Finance and Procurement Article, §13-219, Annotated Code of Maryland</cite>, and the Commercial Nondiscrimination Policy as provided in <cite doc="Md. Code" path="gsf">State Finance and Procurement Article, Title 19, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|10|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite> and <cite doc="Md. Code" path="gsf|13-103">13-103</cite>—<cite doc="Md. Code" path="gsf|13-104">13-104</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite> and <cite doc="Md. Code" path="gsf|13-103">13-103</cite>—<cite doc="Md. Code" path="gsf|13-104">13-104</cite>, Annotated Code of Maryland; Ch. 601, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-08-23">Effective date: August 23, 2010 (37:17 Md. R. 1186)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|10|.05|C.">Regulation .05C</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
   </annotations>
 </container>

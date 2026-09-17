@@ -674,7 +674,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>The State share percentage for the Maryland School for the Blind shall be 93 percent of eligible costs of approved projects.</text>
+        <text>The State share percentage for the Maryland School for the Blind shall be 100 percent of eligible costs of approved projects.</text>
       </para>
     </para>
     <para>
@@ -694,7 +694,7 @@
       <text>LEA State Cost Share. The IAC shall add the following amounts to calculate the recommended revised cost share amounts:</text>
       <para>
         <num>(1)</num>
-        <text>The LEA's current State share of the Foundation program divided by the Foundation program of the LEA as defined under <cite doc="Md. Code" path="ged|5-202">Education Article, §5-202, Annotated Code of Maryland</cite>;</text>
+        <text>The LEA's current State share of the Foundation program divided by the Foundation program of the LEA as defined under <cite doc="Md. Code" path="ged|5-201">Education Article, §5-201, Annotated Code of Maryland</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -706,19 +706,31 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>5 percent if the county where the LEA is located is a Tier I county that has an unemployment rate greater than the average rate or number of percentage points identified in <cite doc="Md. Code" path="gec|1-101">Economic Development Article, §1-101, Annotated Code of Maryland</cite>, or has met the average rate or number of percentage points identified in <cite doc="Md. Code" path="gec|1-101">Economic Development Article, §1-101, Annotated Code of Maryland</cite>, at some time during the preceding 24-month period;</text>
+        <text>10 percent if the county where the LEA is located is a Tier I county as defined in <cite doc="Md. Code" path="gec|1-101">Economic Development Article, §1-101, Annotated Code of Maryland</cite>;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>5 percent if the county where the LEA is located is a Tier I county that has a median household income level below the level identified in <cite doc="Md. Code" path="gec|1-101">Economic Development Article, §1-101, Annotated Code of Maryland</cite>, or has had a median household income level below the level identified in <cite doc="Md. Code" path="gec|1-101">Economic Development Article, §1-101, Annotated Code of Maryland</cite>, at some time during the preceding 24-month period;</text>
+        <text>The difference between the percent growth in the LEA's full-time equivalent enrollment, as defined by <cite doc="Md. Code" path="ged|5-202">Education Article, §5-202, Annotated Code of Maryland</cite>, from the 6th prior year to the prior year, and the percent growth in the Statewide full-time equivalent enrollment from the 6th prior year to the prior year, provided this calculation results in a positive number;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>The difference between the percent growth in the LEA's full-time equivalent enrollment, as defined by <cite doc="Md. Code" path="ged|5-202">Education Article, §5-202, Annotated Code of Maryland</cite>, from the 6th prior year to the prior year, and the percent growth in the Statewide full-time equivalent enrollment from the 6th prior year to the prior year, provided this calculation results in a positive number; and</text>
+        <text>10 times the amount by which the county's and local board’s total outstanding school construction debt at the end of the 2nd prior fiscal year plus the county's total school construction expenditures from its operating budget from the 4th to the 2nd prior fiscal years exceeds 1 percent of the county wealth, as defined by <cite doc="Md. Code" path="ged|5-202">Education Article, §5-202, Annotated Code of Maryland</cite>, for the prior fiscal year; and</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>10 times the amount by which the county's and local board’s total outstanding school construction debt at the end of the 2nd prior fiscal year plus the county's total school construction expenditures from its operating budget from the 4th to the 2nd prior fiscal years exceeds 1 percent of the county wealth, as defined by <cite doc="Md. Code" path="ged|5-202">Education Article, §5-202, Annotated Code of Maryland</cite>, for the prior fiscal year.</text>
+        <text>Beginning in FY 2028, 25 percent if:</text>
+        <para>
+          <num>(a)</num>
+          <text>The county is not Garrett County;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The county’s total wealth as used by MSDE to calculate the State share of the Foundation program is less than 10 percent of the average of the top four wealthiest counties’ total wealth as defined under <cite doc="Md. Code" path="ged|5-201">Education Article, §5-201, Annotated Code of Maryland</cite>; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The county’s average Total Untapped Tax Revenue per Capita over the most recent three available years is less than ten times the statewide median Total Untapped Tax Revenue per Capita.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -755,21 +767,21 @@
     </para>
     <para>
       <num>F.</num>
-      <text>For FY 2025 and 2026, the State share percentages of public school construction funding for eligible costs of approved projects are as follows:</text>
+      <text>For FY 2027 and 2028, the State share percentages of public school construction funding for eligible costs of approved projects are as follows:</text>
       <text>
         <table>
           <thead>
             <tr>
               <th>County</th>
-              <th>FY 2025</th>
-              <th>FY 2026</th>
+              <th>FY 2027</th>
+              <th>FY 2028</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <td>Allegany</td>
-              <td>89%</td>
-              <td>89%</td>
+              <td>95%</td>
+              <td>100%</td>
             </tr>
             <tr>
               <td>Anne Arundel</td>
@@ -778,68 +790,68 @@
             </tr>
             <tr>
               <td>Baltimore City</td>
-              <td>94%</td>
+              <td>91%</td>
               <td>91%</td>
             </tr>
             <tr>
               <td>Baltimore</td>
-              <td>59%</td>
-              <td>57%</td>
+              <td>56%</td>
+              <td>56%</td>
             </tr>
             <tr>
               <td>Calvert</td>
-              <td>56%</td>
-              <td>56%</td>
-            </tr>
-            <tr>
-              <td>Caroline</td>
-              <td>94%</td>
-              <td>94%</td>
-            </tr>
-            <tr>
-              <td>Carroll</td>
-              <td>57%</td>
-              <td>54%</td>
-            </tr>
-            <tr>
-              <td>Cecil</td>
-              <td>64%</td>
-              <td>61%</td>
-            </tr>
-            <tr>
-              <td>Charles</td>
-              <td>64%</td>
-              <td>64%</td>
-            </tr>
-            <tr>
-              <td>Dorchester</td>
-              <td>98%</td>
-              <td>98%</td>
-            </tr>
-            <tr>
-              <td>Frederick</td>
-              <td>67%</td>
-              <td>67%</td>
-            </tr>
-            <tr>
-              <td>Garrett</td>
-              <td>89%</td>
-              <td>89%</td>
-            </tr>
-            <tr>
-              <td>Harford</td>
-              <td>61%</td>
-              <td>58%</td>
-            </tr>
-            <tr>
-              <td>Howard</td>
               <td>54%</td>
               <td>51%</td>
             </tr>
             <tr>
+              <td>Caroline</td>
+              <td>97%</td>
+              <td>100%</td>
+            </tr>
+            <tr>
+              <td>Carroll</td>
+              <td>57%</td>
+              <td>57%</td>
+            </tr>
+            <tr>
+              <td>Cecil</td>
+              <td>63%</td>
+              <td>88%</td>
+            </tr>
+            <tr>
+              <td>Charles</td>
+              <td>66%</td>
+              <td>66%</td>
+            </tr>
+            <tr>
+              <td>Dorchester</td>
+              <td>97%</td>
+              <td>100%</td>
+            </tr>
+            <tr>
+              <td>Frederick</td>
+              <td>69%</td>
+              <td>69%</td>
+            </tr>
+            <tr>
+              <td>Garrett</td>
+              <td>95%</td>
+              <td>100%</td>
+            </tr>
+            <tr>
+              <td>Harford</td>
+              <td>59%</td>
+              <td>59%</td>
+            </tr>
+            <tr>
+              <td>Howard</td>
+              <td>50%</td>
+              <td>50%</td>
+            </tr>
+            <tr>
               <td>Kent</td>
               <td>50%</td>
-              <td>50%</td>
+              <td>75%</td>
             </tr>
             <tr>
               <td>Montgomery</td>
@@ -848,13 +860,13 @@
             </tr>
             <tr>
               <td>Prince George’s</td>
-              <td>71%</td>
-              <td>68%</td>
+              <td>67%</td>
+              <td>67%</td>
             </tr>
             <tr>
               <td>Queen Anne’s</td>
               <td>50%</td>
-              <td>50%</td>
+              <td>75%</td>
             </tr>
             <tr>
               <td>St. Mary’s</td>
@@ -863,7 +875,7 @@
             </tr>
             <tr>
               <td>Somerset</td>
-              <td>100%</td>
+              <td>98%</td>
               <td>100%</td>
             </tr>
             <tr>
@@ -873,18 +885,18 @@
             </tr>
             <tr>
               <td>Washington</td>
-              <td>78%</td>
-              <td>78%</td>
+              <td>82%</td>
+              <td>82%</td>
             </tr>
             <tr>
               <td>Wicomico</td>
-              <td>98%</td>
-              <td>95%</td>
+              <td>99%</td>
+              <td>100%</td>
             </tr>
             <tr>
               <td>Worcester</td>
               <td>50%.</td>
-              <td>50%.</td>
+              <td>50%</td>
             </tr>
           </tbody>
         </table>
@@ -892,6 +904,7 @@
     </para>
     <annotations>
       <annotation app="2026-05-11" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|final|25-189-F" target-path="14|39|02|.06" type="History" display="false"/>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-049-F" target-path="14|39|02|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="14|39|02|.07">
@@ -1307,9 +1320,23 @@
     </para>
     <para>
       <num>C.</num>
-      <text>The project development and design funding allocation may not exceed 10 percent of a preliminary maximum State construction allocation as set forth in <cite path="|14|39|02|.06">Regulation .06 of this chapter</cite> and as calculated in the year of the request for project development and design funding.</text>
+      <text>Unless project development and design funding includes funding for early sitework, the project development and design funding allocation may not exceed 10 percent of a preliminary maximum State construction allocation as set forth in <cite path="|14|39|02|.06">Regulation .06 of this chapter</cite> and as calculated in the year of the request for project development and design funding.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>Upon request by an LEA, project development and design funding may be provided for early site work packages.</text>
+      <para>
+        <num>(1)</num>
+        <text>In order to be considered for project development and design funding, early site work packages must occur prior to the execution of the primary construction contract or contracts.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If early site work is included, the project development and design funding award may not exceed 20 percent of a preliminary maximum State construction allocation as set forth in <cite path="|14|39|02|.06">Regulation .06 of this chapter</cite> and as calculated in the year of the request for project development and design funding.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-049-F" target-path="14|39|02|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2936,11 +2963,14 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07" discontinuity="true"><cite path="|14|39|02|.04">Regulation .04</cite> amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|14|39|02|.05|B.">Regulation .05B</cite>, C amended effective July 7, 2025 (52:13 Md. R. 656); May 11, 2026 (53:9 Md. R. 414)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-01-20"><cite path="|14|39|02|.05|F.">Regulation .05F</cite> amended effective January 20, 2025 (52:1 Md. R. 19)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|14|39|02|.06">Regulation .06</cite> amended effective August 17, 2026 (53:16 Md. R. 688)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.07">Regulation .07</cite> amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|14|39|02|.08|A.">Regulation .08A</cite>, C amended effective May 11, 2026 (53:9 Md. R. 414)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.08|B.">Regulation .08B</cite>, C amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|14|39|02|.08|D.">Regulation .08D</cite> adopted effective May 11, 2026 (53:9 Md. R. 414)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.09">Regulation .09</cite> amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|14|39|02|.09|C.">Regulation .09C</cite> amended effective August 17, 2026 (53:16 Md. R. 688)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|14|39|02|.09|D.">Regulation .09D</cite> adopted effective August 17, 2026 (53:16 Md. R. 688)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|14|39|02|.10|A.">Regulation .10A</cite> amended effective May 11, 2026 (53:9 Md. R. 414)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-11"><cite path="|14|39|02|.11|A.">Regulation .11A</cite> amended effective May 11, 2026 (53:9 Md. R. 414)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|14|39|02|.12">Regulation .12</cite> amended effective July 7, 2025 (52:13 Md. R. 656)</annotation>

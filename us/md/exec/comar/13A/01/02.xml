@@ -366,6 +366,126 @@
     </para>
     <annotations/>
   </section>
+  <section cache:ref-path="13A|01|02|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>State Superintendent of Schools Removal of a County Superintendent.</heading>
+    <para>
+      <num>A.</num>
+      <text>Authority to Remove.</text>
+      <para>
+        <num>(1)</num>
+        <text>Pursuant to <cite doc="Md. Code" path="ged|4-201">Education Article, §4-201(e), Annotated Code of Maryland</cite>, the State Superintendent of Schools may remove a county superintendent for one or more of the following reasons:</text>
+        <para>
+          <num>(a)</num>
+          <text>Immorality;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Misconduct in office;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Insubordination;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Incompetency; or</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Willful neglect of duty.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>This regulation does not apply to Baltimore City.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notice and Opportunity for Hearing. Prior to removal, the State Superintendent shall provide the county superintendent with:</text>
+      <para>
+        <num>(1)</num>
+        <text>Written notice identifying the specific grounds for removal under <cite path="13A|01|02|.07|A.">§A of this regulation</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Documentation supporting the proposed removal; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An opportunity to request a hearing before the State Superintendent or designee, provided the request is made within 10 calendar days of the date of the written notice of grounds for removal.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Failure to Request a Hearing. If the county superintendent does not request a hearing within the 10-day period specified in <cite path="13A|01|02|.07|B.|(3)">§B(3) of this regulation</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>The written notice and supporting documentation shall constitute the final written decision of removal; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of the written notice shall be the effective date of the removal decision.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Hearing Procedures.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the county superintendent timely requests a hearing under <cite path="13A|01|02|.07|B.|(3)">§B(3) of this regulation</cite>, the State Superintendent or designee shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Schedule a hearing, which may not be held earlier than 10 calendar days after the date the hearing notice is issued;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Conduct the hearing in a manner that provides the county superintendent with the opportunity to:</text>
+          <para>
+            <num>(i)</num>
+            <text>Be heard publicly, in person or through legal counsel;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Call witnesses who shall be sworn or put under affirmation to tell the truth; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Submit documents and other evidence; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Issue a final written decision following the hearing.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Appeal to State Board.</text>
+      <para>
+        <num>(1)</num>
+        <text>The State Superintendent’s decision to remove a county superintendent may be appealed to the State Board in accordance with COMAR 13A.01.05.01B(5)(a), within 30 calendar days of the date of the State Superintendent’s final written decision.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The appeal shall be governed by the procedures set forth in COMAR 13A.01.05, as applicable.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The decision of the State Superintendent shall be considered prima facie correct, and the State Board may not substitute its judgment for that of the State Superintendent unless the decision is arbitrary, unreasonable, or illegal.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The county superintendent shall have the burden of proof by a preponderance of the evidence.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-033-F" target-path="13A|01|02|.07" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>, <cite doc="Md. Code" path="ged|2-303">2-303</cite>, <cite doc="Md. Code" path="ged|2-305">2-305</cite>, <cite doc="Md. Code" path="ged|5-301">5-301</cite>, <cite doc="Md. Code" path="ged|7-103">7-103</cite>, and <cite doc="Md. Code" path="ged|7-409">7-409</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1963-08-28">Effective date: August 28, 1963</annotation>
@@ -377,6 +497,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-03-12"><cite path="|13A|01|02|.04">Regulation .04</cite> adopted effective March 12, 2007 (34:5 Md. R. 561)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-03"><cite path="|13A|01|02|.05">Regulation .05</cite> adopted effective October 3, 2011 (38:20 Md. R. 1203)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-12-22"><cite path="|13A|01|02|.06">Regulation .06</cite> adopted effective December 22, 2014 (41:25 Md. R. 1486)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|13A|01|02|.07">Regulation .07</cite> adopted effective August 17, 2026 (53:16 Md. R. 687)</annotation>
     <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-154-F" target-path="13A|01|02|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -16,30 +16,1428 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Board” means State Board of Dental Examiners.</text>
+        <text>“Board” means the State Board of Dental Examiners.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Dental assistant” means a person, other than an individual licensed in the state as a dentist or dental hygienist, employed for the purpose of assisting a dentist in the performance of intraoral duties related to dental care.</text>
+        <text>“Central Repository” means the Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>“Direct supervision” means that the supervising dentist is in the dental office, personally diagnoses the condition to be treated, personally authorizes the procedure, and, before dismissal of the patient, personally evaluates the performance of the dental assistant.</text>
+        <text>“Dental assistant” means an individual, other than an individual licensed in the State as a dentist or a dental hygienist, who directly assists a dentist in the practice of dentistry.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>“General supervision” means the supervision of a dental assistant by a dentist where the dentist may or may not be present when the dental assistant performs the dental assisting procedures.</text>
+        <text>“Dental Assisting National Board (DANB)” means the national certification and credentialing agency for dental assistants that examines and certifies qualified individuals as orthodontic EFDAs and general duties EFDAs.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Direct supervision” means that the supervising dentist is in the dental office personally:</text>
+        <para>
+          <num>(a)</num>
+          <text>Diagnoses the condition to be treated;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Authorizes the procedure; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Evaluates the performance of the dental assistant, before the dismissal of the patient.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“General duties EFDA” means an individual who is certified by the Board to perform the intraoral procedures of a general duties expanded function dental assistant as set forth in this chapter.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“General supervision” means the supervision of a dental assistant by a dentist where the dentist may or may not be present in the dental office when the dental assistant performs the dental assisting procedures.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Level one dental assistant” means a dental assistant who may perform the duties of a level one dental assistant as provided in this chapter without being certified by the Board.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Orthodontic EFDA” means an individual who is certified by the Board to perform the intraoral procedures of an orthodontic expanded function dental assistant as set forth in this chapter.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.01" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="10|44|01|.02">
+  <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
-    <heading>Exceptions.</heading>
+    <heading>Classifications No Longer Recognized by the Board.</heading>
     <para>
       <num>A.</num>
-      <text>Notwithstanding any other provisions of this chapter, a dental assistant may provide the following dental assisting duties under the general supervision of a dentist for a dental sealant program:</text>
+      <text>Dental Assistant Recognized as Qualified in Orthodontics.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board no longer recognizes the classification “dental assistant recognized as qualified in orthodontics.”</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A dental assistant previously recognized by the Board as a “dental assistant recognized as qualified in orthodontics” shall obtain certification from the Board as an orthodontic EFDA before the dental assistant may perform any of the duties of an orthodontic EFDA as set forth in <cite path="|10|44|01|.24">Regulation .24 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Dental Assistant Recognized as Qualified in General Duties.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board no longer recognizes the classification “dental assistant recognized as qualified in general duties.”</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A dental assistant previously recognized by the Board as a “dental assistant recognized as qualified in general duties” may, under the direct supervision of a licensed dentist, perform the duties of a level one dental assistant as set forth in <cite path="|10|44|01|.03">Regulation .03 of this chapter</cite> without obtaining certification from the Board.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.02" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.03">
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Level One Dental Assistants.</heading>
+    <para>
+      <num>A.</num>
+      <text>A Level one dental assistant shall be at least 18 years old.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Except as otherwise provided, a dentist may use the services of a level one dental assistant to perform the following intraoral procedures under the direct supervision of a licensed dentist without first receiving certification from the Board:</text>
+      <para>
+        <num>(1)</num>
+        <text>Rinsing and aspiration of the oral cavity;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Retraction of the lips, cheeks, tongue, and flaps;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Placement and removal of the materials for the isolation of the dentition, provided that the material is not retained by the dentition;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Instructing on oral hygiene;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Taking alginate or digital impressions for study models or diagnostic casts;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Constructing athletic mouthguards on models;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Applying topical anesthetic;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Light curing;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Checking for loose bands;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Assisting in performing intraoral photography, other than conventional or digital X-ray, under the general supervision of a licensed dentist who reviews the photography and authorizes the treatment plan;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Placing and removing cotton rolls;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Delivery of restorative material with dentist at chairside;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>Fluoride application — rinse or foam tray or fluoride varnish;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Taking and recording vital signs, including blood pressure and pulse readings;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Performing vitality tests;</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Taking alginate impressions for intraoral appliances;</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Taking digital and electronic impressions;</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>Applying desensitizing agents;</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>Placing or removing a rubber dam;</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>Fabricating indirect restorations in a dental office;</text>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>Placing or removing a matrix band;</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>Drying a root canal;</text>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>Preparing and fitting stainless steel crowns;</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>Placing or removing a retraction cord;</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>Fabricating temporary crowns;</text>
+      </para>
+      <para>
+        <num>(26)</num>
+        <text>Cementing temporary crowns or restorations;</text>
+      </para>
+      <para>
+        <num>(27)</num>
+        <text>Removing temporary crowns;</text>
+      </para>
+      <para>
+        <num>(28)</num>
+        <text>Removing excess cement;</text>
+      </para>
+      <para>
+        <num>(29)</num>
+        <text>Removing or replacing a periodontal dressing (except placing the original periodontal dressing);</text>
+      </para>
+      <para>
+        <num>(30)</num>
+        <text>Removing sutures;</text>
+      </para>
+      <para>
+        <num>(31)</num>
+        <text>Bite registration;</text>
+      </para>
+      <para>
+        <num>(32)</num>
+        <text>Placing temporary restorations;</text>
+      </para>
+      <para>
+        <num>(33)</num>
+        <text>Placing and removing wedges; and</text>
+      </para>
+      <para>
+        <num>(34)</num>
+        <text>Fabricating on models:</text>
+        <para>
+          <num>(a)</num>
+          <text>Athletic mouthguards;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Bleaching trays;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Fluoride trays;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Impression trays; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Nightguards.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A level one dental assistant may perform duties in accordance with <cite path="10|44|01|.03|B.">§B of this regulation</cite> if a licensed dentist:</text>
+      <para>
+        <num>(1)</num>
+        <text>Provides the level one dental assistant with specific instructions to perform the intraoral procedure; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except as otherwise provided, directly supervises the level one dental assistant performing the intraoral procedure.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A dentist who supervises a level one dental assistant shall ensure that the level one dental assistant is properly trained in:</text>
+      <para>
+        <num>(1)</num>
+        <text>Infection control; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Cardiopulmonary resuscitation.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.03" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Dental Assisting National Board.</heading>
+    <text>The Board shall in consultation with DANB determine:</text>
+    <para>
+      <num>A.</num>
+      <text>The subjects, scope, form, and passing score for EFDA examinations; and</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The grading method.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.04" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Qualifications for General Duties Expanded Function Dental Assistants.</heading>
+    <para>
+      <num>A.</num>
+      <text>To qualify for a Board certification to be a general duties EFDA, an applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be of good moral character;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be at least 18 years old;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be a high school graduate or have attained a high school equivalency;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Submit to a State criminal history records check;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Have successfully completed a Board-approved course of at least 60 hours related to Maryland general duties EFDA which shall include at least 15 hours of in-person hands-on clinical training apart from the in-person hands-on clinical training required by <cite path="|10|44|01|.18|A.|(2)">Regulation .18A(2) of this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Have the appropriate general duties EFDA certification from the Dental Assisting National Board;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Submit proof of having passed the Maryland Jurisprudence Examination on Dental Assisting with a score of 75 or greater in each required section; and</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Maintain cardiopulmonary resuscitation certification from one of the following programs:</text>
+        <para>
+          <num>(a)</num>
+          <text>The American Heart Association’s Basic Life Support for Healthcare Providers;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The American Red Cross’s Cardiopulmonary Resuscitation for Professional Rescuers; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An equivalent program approved by the Board.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Criminal History Records Check.</text>
+      <para>
+        <num>(1)</num>
+        <text>An applicant shall apply to the Central Repository for a State criminal history records check.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An applicant shall submit to the Central Repository:</text>
+        <para>
+          <num>(a)</num>
+          <text>Two complete sets of legible fingerprints taken on forms approved by the Director of the Central Repository and the Director of the Federal Bureau of Investigation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The fee authorized under <cite doc="Md. Code" path="gcp|10-221">Criminal Procedure Article, §10-221(b)(7), Annotated Code of Maryland</cite>, for access to State criminal history records.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In accordance with Criminal Procedure Article, §§<cite doc="Md. Code" path="gcp|10">10</cite>–<cite doc="Md. Code" path="gcp|201">201</cite>—10–229, Annotated Code of Maryland, the Central Repository shall forward to the Board and to the applicant the criminal history record information of the applicant.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If criminal history record information is reported to the Central Repository after the date of the initial criminal history records check, the Central Repository shall provide to the Board and the individual a revised printed statement of the individual’s State criminal history record.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Information obtained from the Central Repository under this section:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is confidential;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May not be redisseminated; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>May be used only for the licensing purpose authorized by this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The applicant may contest the contents of the printed statement issued by the Central Repository in accordance with <cite doc="Md. Code" path="gcp|10">Criminal Procedure Article, §10</cite>–223, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Subject to the notice and hearing provisions set forth in <cite doc="Md. Code" path="gho|4-318">Health Occupations Article, §4-318, Annotated Code of Maryland</cite>, the Board may deny certification under this chapter if the applicant has been convicted of or has plead guilty or nolo contendere to a felony or to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.05" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.06">
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Application for Board Certification—General Duties Expanded Function Dental Assistants.</heading>
+    <para>
+      <num>A.</num>
+      <text>To apply for a Board certification as a general duties EFDA, an applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit to the Board an application on the form provided by the Board;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submit a recent photograph of the applicant not to exceed 3 inches by 3 inches accompanied by a notarized statement attesting to the photograph’s authenticity;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pay the application fee set by the Board in <cite path="|10.44.20">COMAR 10.44.20</cite>;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide evidence satisfactory to the Board that the applicant meets the qualifications for Board certification as a general duties EFDA as set forth in <cite path="|10|44|01|.05|A.">Regulation .05A of this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide any other pertinent documents or information requested by the Board.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The applicant shall include with the application proof of completion of a 60-hour Board-approved course of instruction in general duties EFDA in the form of a letter from one of the institutions referenced in <cite path="|10|44|01|.18|C.">Regulation .18C of this chapter</cite> indicating that the applicant has successfully completed the course.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The letter referenced in <cite path="10|44|01|.06|B.">§B of this regulation</cite> shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be on the letterhead of one of the institutions referenced in <cite path="|10|44|01|.18|C.">Regulation .18C of this chapter</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contain a raised embossed school seal or institution seal; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Contain the original signature of either:</text>
+        <para>
+          <num>(a)</num>
+          <text>The dean or principal of the school or program; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The head of the department.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Board may issue a Board certification as a general duties EFDA after the Board’s review of:</text>
+      <para>
+        <num>(1)</num>
+        <text>The applicant’s application;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The applicant’s qualifications;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The applicant’s criminal history records check; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any other pertinent documents or information that may affect the applicant’s ability to safely provide dental assistant duties.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.06" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Qualifications for Orthodontic Expanded Function Dental Assistants.</heading>
+    <para>
+      <num>A.</num>
+      <text>To qualify for a Board certification to be an orthodontic EFDA, an applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be of good moral character;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Be at least 18 years old;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be a high school graduate or have attained a high school equivalency;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Submit to a State criminal history records check in accordance with <cite path="10|44|01|.07|B.">§B of this regulation</cite>;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Have successfully completed a Board-approved course of at least 35 hours related to Maryland orthodontic EFDA, of which at least 10 hours shall include in-person hands-on clinical training;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Have the appropriate orthodontic EFDA certification from the Dental Assisting National Board;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Submit proof of having passed the Maryland Jurisprudence Examination on Dental Assisting with a score of at least 75 or greater in each required section;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Maintain cardiopulmonary resuscitation certification from one of the following programs:</text>
+        <para>
+          <num>(a)</num>
+          <text>The American Heart Association’s Basic Life Support for Healthcare Providers;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The American Red Cross’s Cardiopulmonary Resuscitation for Professional Rescuers; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An equivalent program approved by the Board.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Criminal History Records Check.</text>
+      <para>
+        <num>(1)</num>
+        <text>An applicant shall apply to the Central Repository for a State criminal history records check.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An applicant shall submit to the Central Repository:</text>
+        <para>
+          <num>(a)</num>
+          <text>Two complete sets of legible fingerprints taken on forms approved by the Director of the Central Repository and the Director of the Federal Bureau of Investigation; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The fee authorized under <cite doc="Md. Code" path="gcp|10-221">Criminal Procedure Article, §10-221(b)(7), Annotated Code of Maryland</cite>, for access to State criminal history records.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In accordance with Criminal Procedure Article, §§<cite doc="Md. Code" path="gcp|10">10</cite>–<cite doc="Md. Code" path="gcp|201">201</cite>—10–229, Annotated Code of Maryland, the Central Repository shall forward to the Board and to the applicant the criminal history record information of the applicant..</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If criminal history record information is reported to the Central Repository after the date of the initial criminal history records check, the Central Repository shall provide to the Board and the individual a revised printed statement of the individual’s State criminal history record.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Information obtained from the Central Repository under this section:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is confidential;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>May not be redisseminated; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>May be used only for the licensing purpose authorized by this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The applicant may contest the contents of the printed statement issued by the Central Repository in accordance with <cite doc="Md. Code" path="gcp|10">Criminal Procedure Article, §10</cite>–223, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Subject to the notice and hearing provisions set forth in <cite doc="Md. Code" path="gho|4-318">Health Occupations Article, §4-318, Annotated Code of Maryland</cite>, the Board may deny certification under this chapter if the applicant has been convicted of or has plead guilty or nolo contendere to a felony or to a crime involving moral turpitude, whether or not any appeal or other proceeding is pending to have the conviction or plea set aside.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.07" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.08">
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Application for Board Certification for Orthodontic Expanded Function Dental Assistants.</heading>
+    <para>
+      <num>A.</num>
+      <text>To apply for a Board certification as an orthodontic EFDA, an applicant shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Submit to the Board an application on the form provided by the Board;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submit a recent photograph of the applicant not to exceed 3 inches by 3 inches accompanied by a notarized statement attesting to the photograph’s authenticity;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pay the application fee set by the Board in <cite path="|10.44.20">COMAR 10.44.20</cite>;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Provide evidence satisfactory to the Board that the applicant meets the qualifications for Board certification as an orthodontic EFDA as set forth in <cite path="|10|44|01|.07|A.">Regulation .07A of this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Provide any other pertinent documents or information requested by the Board.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The applicant shall include with the application proof of completion of a 35-hour Board-approved course of instruction in orthodontic EFDA in the form of a letter from one of the institutions referenced in <cite path="|10|44|01|.18|E.">Regulation .18E of this chapter</cite> indicating that the applicant has successfully completed the course.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The letter referenced in <cite path="10|44|01|.08|B.">§B of this regulation</cite> shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be on the letterhead of one of the institutions referenced in <cite path="|10|44|01|.18|E.">Regulation .18E of this chapter</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contain a raised embossed school seal or institution seal; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Contain the original signature of either:</text>
+        <para>
+          <num>(a)</num>
+          <text>The dean or principal of the school or program; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The head of the department.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Board may issue a Board certification as an orthodontic EFDA after the Board’s review of:</text>
+      <para>
+        <num>(1)</num>
+        <text>The applicant’s application;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The applicant’s qualifications;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The applicant’s criminal history records check; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Any other pertinent documents or information that may affect the applicant’s ability to safely provide dental assistant duties.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.08" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Dental Assistants Previously Recognized as Qualified in Orthodontics.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except as otherwise provided in this regulation, in order to perform the intraoral procedures of an orthodontic EFDA, a dental assistant recognized by the Board as qualified in orthodontics prior to August 31, 2026 shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Apply to the Board for certification as an orthodontic EFDA;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Submit a recent photograph of the applicant not to exceed 3 inches by 3 inches accompanied by a notarized statement attesting to the photograph’s authenticity;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pay the appropriate fee; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Meet all of the qualifications of an orthodontic EFDA set forth in <cite path="|10|44|01|.07">Regulation .07 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A dental assistant recognized by the Board as qualified in orthodontics prior to August 31, 2026 is not required to take the Board-approved course or take the DANB orthodontic EFDA examination.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>After initial orthodontic EFDA certification, a dental assistant recognized by the Board as qualified in orthodontics prior to August 31, 2026 who becomes an orthodontic EFDA shall meet all of the requirements of renewal in accordance with <cite path="|10|44|01|.11">Regulation .11 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Grace Period.</text>
+      <para>
+        <num>(1)</num>
+        <text>A dental assistant recognized by the Board as qualified in orthodontics prior to August 31, 2026 may lawfully perform the duties of an orthodontic EFDA until February 28, 2027.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A dental assistant recognized by the Board as qualified in orthodontics prior to August 31, 2026 who has not become an orthodontic EFDA February 28, 2027 may not perform the duties of either a dental assistant recognized as qualified in orthodontics or an orthodontic EFDA.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Board Issuance of Expanded Function Dental Assistant Certificates.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board shall issue an appropriate certificate to an applicant who meets the requirements of <cite doc="Md. Code" path="gho">Health Occupations Article, Title 4, Subtitle 3, Annotated Code of Maryland</cite>, this chapter, and any other applicable laws or regulations.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Board shall include on each certificate that the Board issues:</text>
+      <para>
+        <num>(1)</num>
+        <text>The designation of the certificate as either orthodontic expanded function or general duties expanded function dental assistant;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The name of the certified individual;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The date the certificate was issued;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A serial number or certificate number;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The signatures of the President and Secretary of the Board which may be electronic; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The seal of the Board.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.10" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Term and Renewal of Expanded Function Dental Assistant Certificates.</heading>
+    <para>
+      <num>A.</num>
+      <text>Term of Certificate. A certification as an orthodontic EFDA or a general duties EFDA shall expire on October 31 of the second year following the effective date of the certificate unless it is renewed for an additional 2-year term in accordance with this regulation.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Renewal Notice. At least 1 month before a certificate expires, the Board shall send to the EFDA, by electronic means to the last known electronic address of the EFDA, a renewal notice that states:</text>
+      <para>
+        <num>(1)</num>
+        <text>The date on which the current certificate expires;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date by which the application shall be received by the Board for the renewal to be issued and forwarded before expiration; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The amount of the renewal fee set by the Board in accordance with <cite path="|10.44.20">COMAR 10.44.20</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Renewal of Certificate. Before a certification as an orthodontic EFDA or a general duties EFDA expires, the individual may renew the certification for an additional 2 years if the individual:</text>
+      <para>
+        <num>(1)</num>
+        <text>Applies for renewal of the certification on the form provided by the Board;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Pays to the Board a renewal fee set by the Board in accordance with <cite path="|10.44.20">COMAR 10.44.20</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Successfully completes the required continuing education requirements set forth in <cite path="|10|44|01|.16">Regulation .16 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.11" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>Renewal and Reinstatement of Expired Certificates.</heading>
+    <para>
+      <num>A.</num>
+      <text>Renewal of Expired Certificates Held for 30 Days or Less.</text>
+      <para>
+        <num>(1)</num>
+        <text>After the expiration date of a certificate to practice EFDA in the State, the certificate holder may renew the certificate within 30 days of its expiration if the certificate holder:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is otherwise entitled to be issued a certificate;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submits to the Board a completed renewal application on the form provided by the Board; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Pays the Board the renewal fee and late fee in accordance with <cite path="|10.44.20">COMAR 10.44.20</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An individual who uses continuing education credits to renew their certificate after the expiration date of their certificate may not use the same continuing education credits for the renewal period succeeding the renewal period in which the continuing education credits were used.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Reinstatement of Expired Certificates.</text>
+      <para>
+        <num>(1)</num>
+        <text>An individual holding an expired orthodontic EFDA certificate or an individual holding an expired general duties EFDA certificate may apply for reinstatement if the individual:</text>
+        <para>
+          <num>(a)</num>
+          <text>Has held an expired orthodontic EFDA certificate or an expired general duties EFDA certificate for more than 30 days and less than 3 years;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is otherwise entitled to be reinstated;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Completes the reinstatement application on the form provided by the Board;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provides proof of completion of 15 hours of dental assisting continuing education from Board-approved courses of which 3 hours shall be in infection control as provided in <cite path="|10|44|01|.16">Regulation .16 of this chapter</cite>; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Pays to the Board a certification reinstatement fee set in <cite path="|10.44.20">COMAR 10.44.20</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An individual who uses continuing education credits to renew their certificate after the expiration date of their certificate may not use the same continuing education credits for the renewal period succeeding the renewal period in which the continuing education credits were used.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Certificates Expired for 3 or More Years.</text>
+      <para>
+        <num>(1)</num>
+        <text>An individual holding an expired orthodontic EFDA certificate or an expired general duties EFDA certificate which has been expired for 3 years or more may not apply for reinstatement.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An individual holding an expired orthodontic EFDA certificate or an expired general duties EFDA certificate which has been expired for 3 years or more shall meet the qualifications for initial certification set forth in either <cite path="|10|44|01|.07">Regulation .07 of this chapter</cite> for orthodontic EFDAs, or <cite path="|10|44|01|.05">Regulation .05 of this chapter</cite> for general duties EFDAs.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Lost or Destroyed Certificates.</heading>
+    <text>The Board shall issue a certificate to replace a lost or destroyed certificate if the EFDA pays the fee set by the Board in accordance with <cite path="|10.44.20">COMAR 10.44.20</cite> that approximates the actual cost of replacing the certificate.</text>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.13" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.14</num>
+    <heading>Display of Regulations and Certificates.</heading>
+    <para>
+      <num>A.</num>
+      <text>Regulations. The supervising dentist in charge of a dental office where an orthodontic EFDA or a general duties EFDA performs intraoral procedures shall display a copy of this chapter in a conspicuous place in the office for the information of office personnel.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Certificates. The supervising dentist in charge of a dental office where one or more orthodontic EFDAs or one or more general duties EFDAs perform intraoral duties shall display the certificates and any current renewal certificates conspicuously in the office where the holders are engaged in practice.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.14" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.15</num>
+    <heading>Retention of Certification and Qualification Documents.</heading>
+    <para>
+      <num>A.</num>
+      <text>An individual certified as either an orthodontic EFDA or a general duties EFDA shall keep their original Board certification and their original current renewal document in the office where the dental assistant is employed for the greatest number of hours.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An individual certified as either an orthodontic EFDA or a general duties EFDA who works in more than one dental office shall keep a copy of their original Board certification and a copy of their current renewal document in all other offices in which the dental assistant is employed.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.15" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.16</num>
+    <heading>Continuing Education.</heading>
+    <para>
+      <num>A.</num>
+      <text>In addition to the requirements set forth in <cite path="|10|44|01|.11">Regulation .11 of this chapter</cite>, an orthodontic EFDA or a general duties EFDA seeking certification renewal shall, at minimum, complete:</text>
+      <para>
+        <num>(1)</num>
+        <text>15 hours of Board-approved continuing education specifically designed to enhance their clinical knowledge and ability to perform their duties; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A 3-hour Board-approved course on infection control which shall count toward the required 15 hours of continuing education.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A clock hour constitutes 1 hour of continuing education.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Certificate holders shall have a 2-year period to complete the required continuing education in the 2-year period preceding the expiration date of the immediately preceding certificate.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.16" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.17">
+    <prefix>Regulation</prefix>
+    <num>.17</num>
+    <heading>Continuing Education Certificates of Completion.</heading>
+    <para>
+      <num>A.</num>
+      <text>A Board-approved continuing education sponsor shall, at a minimum, issue a hard copy of a Continuing Education Certificate of Completion to an EFDA who successfully completes a Board-approved continuing education course.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Certificate of Completion set forth in <cite path="10|44|01|.17|A.">§A of this regulation</cite> shall contain at least the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The exact name of the course sponsor as approved by the Board;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The full business address of the course sponsor;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The exact name of the course as approved by the Board;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An indication whether the course was taught in person or electronically;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The full name of the student recipient;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The number of credit hours obtained;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The name of the course instructors;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The signature of the course instructors which may be electronic; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The Board’s course approval number.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.17" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.18</num>
+    <heading>Requirements for Board-Approved Courses.</heading>
+    <para>
+      <num>A.</num>
+      <text>General Duties EFDA. The course identified in <cite path="|10|44|01|.05|A.|(5)">Regulation .05A(5) of this chapter</cite> shall include at a minimum, the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>6 hours of instruction on nitrous oxide monitoring;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>2 hours of in-person hands-on clinical training, including the direct observation of the performance of procedures; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>4 hours of didactic training, including at least the following subjects:</text>
+        <para>
+          <num>(a)</num>
+          <text>The history, philosophy, and psychology of nitrous oxide minimal sedation;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The definition and descriptions of the physiological and psychological aspects of pain and anxiety;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Concepts and management of pain and anxiety;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Indications and contraindications for nitrous oxide sedation;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Anatomy and physiology of pediatric and adult respiration;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Medical assessment of a patient before nitrous oxide administration by a dentist or a dental hygienist;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Moderate sedation, deep sedation, and general anesthesia versus nitrous oxide;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Pharmacological and physiological effects of nitrous oxide, including drug interactions;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>A description of the stages of drug induced central nervous system depression through all levels of consciousness and unconsciousness with emphasis on the distinction between the conscious and unconscious state;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Monitoring of a patient to whom nitrous oxide has been administered, including the monitoring of a patient’s vital functions;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Recognition and management of complications and medical emergencies;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Occupational exposure; and</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Preventing, recognizing, and managing possible complications of inhalation sedation.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The course identified in Regulation .05A(5) shall adequately prepare the student to competently and safely perform each of the intraoral procedures that a general duties EFDA may perform under <cite path="|10|44|01|.22">Regulation .22 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The course identified in <cite path="|10|44|01|.05|A.|(5)">Regulation .05A(5) of this chapter</cite> shall be part of:</text>
+      <para>
+        <num>(1)</num>
+        <text>A U.S. Department of Labor Jobs Corps dental assisting program;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A dental assisting program located within an institution of postsecondary education that is accredited by an accrediting institution recognized by the U.S. Department of Education;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A dental assisting program that is located within a high school and is recognized by an accrediting body recognized by the U.S. Department of Education or the high school accrediting body of a state, or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A dental assisting program that is accredited by the Council on Dental Accreditation, or a successor organization.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Orthodontic EFDA.  The course identified in <cite path="|10|44|01|.07|A.|(5)">Regulation .07A(5) of this chapter</cite> shall adequately prepare the student to competently and safely perform each of the orthodontic procedures that an orthodontic EFDA may perform under <cite path="|10|44|01|.24">Regulation .24 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The course identified in <cite path="|10|44|01|.07|A.|(5)">Regulation .07A(5) of this chapter</cite> shall be part of:</text>
+      <para>
+        <num>(1)</num>
+        <text>A U.S. Department of Labor Job Corps dental assisting program;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A dental Assisting Program located within an institution of postsecondary education that is accredited by an accrediting institution recognized by the U.S. Department of Education;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A dental assisting program that is located within a high school and is recognized by an accrediting body recognized by the U.S. Department of Education or the high school accrediting body of a state; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A dental assisting program that is accredited by the Council on Dental Accreditation, or a successor organization.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.18" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.19</num>
+    <heading>Requirements for Instructors of Expanded Function Dental Assistant and Courses.</heading>
+    <para>
+      <num>A.</num>
+      <text>Any instructor of either an orthodontic EFDA course or a general duties EFDA course shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be qualified by education and experience to provide instruction in the subject matter; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide instruction in a competent manner.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Encumbered License.</text>
+      <para>
+        <num>(1)</num>
+        <text>To the extent that an instructor is a licensed dentist or a licensed dental hygienist, the instructor may not have an encumbered license in any state.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For the purposes of the regulation, an encumbered license does not include a reprimand issued more than 5 years prior to the date of instructing a Board-approved course.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.19" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.20">
+    <prefix>Regulation</prefix>
+    <num>.20</num>
+    <heading>Assessment of Board-Approved Courses.</heading>
+    <para>
+      <num>A.</num>
+      <text>At least once every calendar year, each Board-approved orthodontic EFDA course and each Board-approved general duties EFDA course shall be assessed by a dentist licensed in the State other than the dentist who is the instructor.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The results of the assessment shall be entered on the form provided by the Board and maintained in accordance with <cite path="10|44|01|.20|D.">§D of this regulation</cite> by the dentist performing the assessment and the entity presenting the course.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Course Deficiencies. If an assessment indicates that there are course deficiencies, the entity presenting the course shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Immediately correct the deficiencies;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide the Board in writing within 5 business days:</text>
+        <para>
+          <num>(a)</num>
+          <text>Notice of the deficiencies;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A copy of the assessment; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any corrective measures taken.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>All assessments shall be maintained by the dentist conducting the assessment and the entity presenting the course for at least 5 years and be made available to the Board upon written request within 5 working days of the request.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.20" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.21</num>
+    <heading>Rescission of Course Approval.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board may rescind approval of a previously approved orthodontic EFDA course or a general duties EFDA course if the Board determines that the course:</text>
+      <para>
+        <num>(1)</num>
+        <text>Does not meet the requirements of this chapter;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Does not meet its stated objectives; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The sponsor has committed fraud or made other misrepresentations to the Board.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>On its own initiative or on a written complaint filed with the Board by any person, the Board may conduct an investigation of the:</text>
+      <para>
+        <num>(1)</num>
+        <text>Sponsor of the course;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Course site; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Instructors of the course.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.21" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.22">
+    <prefix>Regulation</prefix>
+    <num>.22</num>
+    <heading>Procedures Permitted to be Performed by General Duties EFDAs.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except for an individual licensed as a dentist or a dental hygienist under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 4, Annotated Code of Maryland</cite>, an individual shall be expressly certified by the State Board of Dental Examiners as a general duties EFDA before the individual may perform any of the following intraoral procedures:</text>
+      <para>
+        <num>(1)</num>
+        <text>Placing dental sealants;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Coronal polishing only to remove stain or biofilm, in connection with a dental prophylaxis:</text>
+        <para>
+          <num>(a)</num>
+          <text>As determined necessary and appropriate, secondary to the more complex dental procedures of a dental prophylaxis, such as removal of hard and soft deposits and stain of the tooth crown, root surfaces, and periodontal pockets; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If applicable, in consultation with the treating dental hygienist or before a dentist performs an esthetic or cementation procedure;</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Applying silver diamine fluoride;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Monitoring nitrous oxide by observing a patient;</text>
+        <para>
+          <num>(a)</num>
+          <text>During the flow of nitrous oxide;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>During the reduction of the flow of nitrous oxide;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>During the shutting off of equipment controlling the flow of nitrous oxide; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>At all times in between the start of the flow of nitrous oxide until the nitrous oxide has been terminated and the patient has fully awoken and is coherent;</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Acid etching; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Applying bonding agents.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In addition to the intraoral procedures set forth in <cite path="10|44|01|.22|A.">§A of this regulation</cite>, a general duties EFDA may perform the intraoral procedures of level one dental assistant set forth in <cite path="|10|44|01|.03|B.">Regulation .03B of this chapter</cite> if performed in accordance with the requirements of <cite path="|10|44|01|.03|C.">Regulation .03C of this chapter</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.22" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.23</num>
+    <heading>Monitoring Nitrous Oxide—Standards of Practice for General Duties EFDAs.</heading>
+    <para>
+      <num>A.</num>
+      <text>A general duties EFDA who monitors a patient to whom nitrous oxide has been administered may not:</text>
+      <para>
+        <num>(1)</num>
+        <text>Increase the nitrous oxide levels;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Monitor more than one patient at a time;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Treat any other patient during the course of the monitoring; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Leave the operatory during the monitoring except in emergency circumstances.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A dentist who orders a general duties EFDA to monitor a patient to whom nitrous oxide has been administered shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Have a written emergency plan;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Remain in the dental office and in close proximity to be summoned in the event of an emergency; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Discharge the patient.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.23" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.24">
+    <prefix>Regulation</prefix>
+    <num>.24</num>
+    <heading>Procedures Permitted to be Performed by Orthodontic EFDAs.</heading>
+    <para>
+      <num>A.</num>
+      <text>Except for an individual licensed as a dentist or a dental hygienist under <cite doc="Md. Code" path="gho">Health Occupations Article, Title 4, Annotated Code of Maryland</cite>, an individual shall be expressly certified by the State Board of Dental Examiners as an orthodontic EFDA before the individual may perform any of the following intraoral procedures:</text>
+      <para>
+        <num>(1)</num>
+        <text>Preparing and fitting orthodontic bands;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Placing and removing arch wires;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Cementing of orthodontic bands, placement of bonded attachments, or removal of cemented or bonded orthodontic bands and attachments;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Placing elastics and ligatures;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Selecting headgear;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Acid etching; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Applying bonding agents.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In addition to the intraoral procedures set forth in <cite path="10|44|01|.24|A.">§A of this regulation</cite>, an orthodontic EFDA may perform the intraoral procedures of a level one dental assistant set forth in <cite path="|10|44|01|.03|B.">Regulation .03B of this chapter</cite> if performed in accordance with the requirements of <cite path="|10|44|01|.03|C.">Regulation .03C of this chapter</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.24" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.25</num>
+    <heading>Radiographs.</heading>
+    <text>A dentist may not permit a dental assistant to place and expose radiographs unless the individual is certified to practice dental radiation technology in accordance with <cite path="|10.44.19">COMAR 10.44.19</cite>.</text>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.25" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.26</num>
+    <heading>Simultaneous Certification.</heading>
+    <text>An individual may be simultaneously certified as an orthodontic EFDA, a general duties EFDA, a dental radiation technologist, or any combination thereof.</text>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.26" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|44|01|.27">
+    <prefix>Regulation</prefix>
+    <num>.27</num>
+    <heading>Dental Sealant Program Exception — General Supervision.</heading>
+    <para>
+      <num>A.</num>
+      <text>This regulation applies only to the dental assistant dental sealant program described in <cite path="10|44|01|.27|C.">§C of this regulation</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notwithstanding any other provision of this chapter, a level one dental assistant may provide the following dental assisting duties under the general supervision of a dentist for a dental sealant program:</text>
       <para>
         <num>(1)</num>
         <text>Instructing on oral hygiene;</text>
@@ -74,8 +1472,8 @@
       </para>
     </para>
     <para>
-      <num>B.</num>
-      <text>Under general supervision of a dentist, a dental assistant may only perform the duties enumerated in <cite path="10|44|01|.02|A.">§A of this regulation</cite>:</text>
+      <num>C.</num>
+      <text>Under the general supervision of a dentist, a level one dental assistant may only perform the duties enumerated in <cite path="10|44|01|.27|B.">§B of this regulation</cite>:</text>
       <para>
         <num>(1)</num>
         <text>For a facility that has been granted a waiver of on-site supervision for a dental hygienist under <cite path="|10.44.21">COMAR 10.44.21</cite>; and</text>
@@ -86,8 +1484,12 @@
       </para>
     </para>
     <para>
-      <num>C.</num>
-      <text>A dental assistant who provides dental assistant duties under this regulation shall maintain cardiopulmonary resuscitation certification from one of the following programs:</text>
+      <num>D.</num>
+      <text>A dental assistant performing dental assistant duties under this regulation may not place dental sealants.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>A level one dental assistant who provides dental assistant duties under this regulation shall maintain cardiopulmonary resuscitation certification from one of the following programs:</text>
       <para>
         <num>(1)</num>
         <text>The American Heart Association's Basic Life Support for Healthcare Providers;</text>
@@ -102,32 +1504,24 @@
       </para>
     </para>
     <para>
-      <num>D.</num>
-      <text>A dental assistant who provides dental assistant duties under this regulation shall have at least 400 hours of dental assisting clinical practice in direct patient care.</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>A dental assistant who provides dental assistant duties under this regulation shall successfully complete a Board-approved course of at least 2 hours in infection control with OSHA protocol if the dental assistant is not:</text>
-      <para>
-        <num>(1)</num>
-        <text>Certified by the Dental Assisting National Board as qualified in general duties and recognized by the Dental Board as qualified in general duties;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Certified by the Dental Assisting National Board as qualified in orthodontics and recognized by the Dental Board as qualified in orthodontics; or</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Certified by the Dental Assisting National Board as a certified dental assistant or certified orthodontic assistant.</text>
-      </para>
-    </para>
-    <para>
       <num>F.</num>
-      <text>A facility that uses a dental assistant to provide dental assistant duties under this regulation shall ensure that there is a written agreement between the supervising dentist and the dental assistant practicing under general supervision that clearly sets forth the terms and conditions under which the dental assistant may practice, including a statement that the dental assistant may provide dental assistant duties without the supervising dentist on the premises.</text>
+      <text>A level one dental assistant who provides dental assistant duties under this regulation shall have at least 400 hours of dental assisting clinical practice in direct patient care.</text>
     </para>
     <para>
       <num>G.</num>
-      <text>Each facility that uses the services of a dental assistant to provide dental assistant duties under this regulation shall maintain for 5 years for inspection by the Board:</text>
+      <text>An orthodontic EFDA who provides dental assistant duties under this regulation shall successfully complete a Board-approved course of at least 3 hours in infection control every renewal cycle.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>A level one dental assistant who provides dental assistant duties under this regulation shall successfully complete a Board-approved course with at least 3 hours in infection control before providing dental assistant duties under this regulation, and within every 2 calendar years thereafter.</text>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>A facility that uses a level one dental assistant to provide dental assistant duties under this regulation shall ensure that there is a written agreement between the supervising dentist and the dental assistant practicing under general supervision that clearly sets forth the terms and conditions under which the dental assistant may practice, including a statement that the dental assistant may provide dental assistant duties without the supervising dentist on the premises.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Each facility that uses the services of a level one dental assistant to provide dental assistant duties under this regulation shall maintain for 5 years for inspection by the Board:</text>
       <para>
         <num>(1)</num>
         <text>The name of the dentist providing general supervision to the dental assistant;</text>
@@ -142,15 +1536,15 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>The date the dental assistant provided dental assistant duties.</text>
+        <text>Any dates in which the dental assistant provided dental assistant duties.</text>
       </para>
     </para>
     <para>
-      <num>H.</num>
-      <text>This regulation does not affect the duties a dental assistant may lawfully perform under the direct supervision of a dentist under this chapter.</text>
+      <num>K.</num>
+      <text>This regulation does not affect the duties a level one dental assistant may lawfully perform under the direct supervision of a dentist under this chapter.</text>
     </para>
     <para>
-      <num>I.</num>
+      <num>L.</num>
       <text>A violation of this regulation may result in:</text>
       <para>
         <num>(1)</num>
@@ -162,464 +1556,78 @@
       </para>
     </para>
     <para>
-      <num>J.</num>
+      <num>M.</num>
       <text>Penalties.</text>
       <para>
         <num>(1)</num>
-        <text>For violations of this regulation, a dentist or dental assistant is subject to the penalties contained in <cite path="|10|44|01|.08">Regulation .08 of this chapter</cite>.</text>
+        <text>For violations of this regulation, a dentist and a dental hygienist is subject to the penalties set forth in <cite path="|10|44|01|.29">Regulation .29 of this chapter</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A dental hygienist who uses the services of a dental assistant who is not qualified or for purposes other than what are permitted under this regulation may be found guilty of:</text>
+        <text>A dentist or a dental hygienist who uses the services of a dental assistant who is not qualified or for purposes other than what are permitted under this regulation may be found guilty of:</text>
         <para>
           <num>(a)</num>
-          <text>Unprofessional conduct under <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315(b)(3), Annotated Code of Maryland</cite>; or</text>
+          <text>Unprofessional conduct in accordance with <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315, Annotated Code of Maryland</cite>; or</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Violating any rule or regulation adopted by the Board under <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315(b)(9), Annotated Code of Maryland</cite>.</text>
+          <text>Violating any rule or regulation adopted by the Board in accordance with <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315, Annotated Code of Maryland</cite>.</text>
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.27" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.03</num>
-    <heading>Intraoral Procedures Permitted To Be Performed by a Dental Assistant.</heading>
-    <text>A dentist may use the services of a dental assistant to perform the following intraoral duties under the direct supervision of a dentist:</text>
+    <num>.28</num>
+    <heading>Expanded Function Dental Assistant Practicing After Certificate Has Expired.</heading>
+    <text>A supervising dentist who allows an EFDA to practice EFDA duties after their certificate has expired may be found guilty of unprofessional conduct under <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315(a)(16), Annotated Code of Maryland</cite>.</text>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.28" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.29</num>
+    <heading>Violations.</heading>
+    <text>A dentist who uses the services of a dental assistant who is not qualified or for purposes other than what is permitted may be found guilty of:</text>
     <para>
       <num>A.</num>
-      <text>Rinsing and aspiration of the oral cavity;</text>
+      <text>Unprofessional conduct in accordance with <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315(a)(16), Annotated Code of Maryland</cite>;</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Retraction of the lips, cheek, tongue, and flaps;</text>
+      <text>Violating any rule or regulation adopted by the Board in accordance with <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315(a)(20), Annotated Code of Maryland</cite>;</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Placement and removal of materials for the isolation of the dentition, provided that the material is not retained by the dentition;</text>
+      <text>Allowing a dental assistant to assist in the practice of dentistry in violation of <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315(a)(38), Annotated Code of Maryland</cite>;</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Instructing on oral hygiene;</text>
+      <text>Violating <cite path="|10.44.23">COMAR 10.44.23</cite>; or</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Performing intraoral photography;</text>
+      <text>Violating any other applicable law or regulation.</text>
     </para>
-    <para>
-      <num>F.</num>
-      <text>Taking impressions for study models or diagnostic casts;</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>Constructing athletic mouth guards on models;</text>
-    </para>
-    <para>
-      <num>H.</num>
-      <text>Applying topical anesthesia;</text>
-    </para>
-    <para>
-      <num>I.</num>
-      <text>Curing by the use of halogen light;</text>
-    </para>
-    <para>
-      <num>J.</num>
-      <text>Checking for loose bands; and</text>
-    </para>
-    <para>
-      <num>K.</num>
-      <text>Any other duty approved by the Board.</text>
-    </para>
-    <annotations/>
-  </section>
-  <section cache:ref-path="10|44|01|.04">
-    <prefix>Regulation</prefix>
-    <num>.04</num>
-    <heading>Dental Assistants Recognized as Qualified in Orthodontics.</heading>
-    <para>
-      <num>A.</num>
-      <text>A dentist may use the services of a dental assistant to perform certain duties if the dental assistant:</text>
-      <para>
-        <num>(1)</num>
-        <text>Has successfully completed a Board-approved course of at least 35 hours related to Maryland orthodontic dental assisting; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Is certified by the Dental Assisting National Board in orthodontics or was recognized by the Board of Dental Examiners, on or before June 19, 1974, as a dental assistant qualified in orthodontics.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>If a dental assistant meets the qualifications of <cite path="10|44|01|.04|A.">§A of this regulation</cite>, a dentist may permit the dental assistant qualified in orthodontics to perform the following intraoral tasks, provided that the tasks are performed only in response to a specific instruction from and under direct supervision of a licensed dentist:</text>
-      <para>
-        <num>(1)</num>
-        <text>Taking impressions for study models or diagnostic casts;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Applying topical fluoride;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Preparing and fitting orthodontic bands;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Etching;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Removing excess cement from around orthodontic bands;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Placing and removing arch wires;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Cementing of orthodontic bands, placement of bonded attachments, or the removal of cemented or bonded orthodontic bands and attachments:</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Placing elastics and ligatures;</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>Selecting headgear;</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>Applying desensitizing agents;</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>Applying topical anesthesia;</text>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>Constructing athletic mouth guards on models;</text>
-      </para>
-      <para>
-        <num>(13)</num>
-        <text>Taking alginate impressions for intraoral appliances;</text>
-      </para>
-      <para>
-        <num>(14)</num>
-        <text>Curing by the use of halogen light; and</text>
-      </para>
-      <para>
-        <num>(15)</num>
-        <text>Any other duty approved by the Board.</text>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>A dentist may not use the services of a dental assistant qualified in orthodontics to perform any of the following services on the basis that the dental assistant meets the qualifications of <cite path="10|44|01|.04|A.">§A of this regulation</cite>:</text>
-      <para>
-        <num>(1)</num>
-        <text>Examination, diagnosis, and treatment planning;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Surgery on hard or soft tissues;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Oral prophylactic procedures, including scaling, root planing, and polishing of teeth with rotary instruments;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Condensing, carving, or finishing any restoration;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Administering injectable local anesthesia;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Applying pit and fissure sealants;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Initiation of treatment at any time for the correction of malocclusions and malformations of the teeth or jaws;</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Adjusting occlusion of natural teeth, restorations, or appliances;</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>Placing an initial surgical dressing;</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>Performing vitality tests;</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>Preparing temporary crowns;</text>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>Cementing temporary or permanent crowns or restorations;</text>
-      </para>
-      <para>
-        <num>(13)</num>
-        <text>Removing temporary crowns;</text>
-      </para>
-      <para>
-        <num>(14)</num>
-        <text>Placing or removing retraction cord;</text>
-      </para>
-      <para>
-        <num>(15)</num>
-        <text>Placing or removing a rubber dam;</text>
-      </para>
-      <para>
-        <num>(16)</num>
-        <text>Placing or removing a matrix band;</text>
-      </para>
-      <para>
-        <num>(17)</num>
-        <text>Preparing and fitting stainless steel crowns;</text>
-      </para>
-      <para>
-        <num>(18)</num>
-        <text>Drying a root canal;</text>
-      </para>
-      <para>
-        <num>(19)</num>
-        <text>Removing or placing a periodontal dressing; and</text>
-      </para>
-      <para>
-        <num>(20)</num>
-        <text>Adjusting prosthetic appliances.</text>
-      </para>
-    </para>
-    <annotations/>
-  </section>
-  <section cache:ref-path="10|44|01|.05">
-    <prefix>Regulation</prefix>
-    <num>.05</num>
-    <heading>Dental Assistants Recognized as Qualified in General Duties.</heading>
-    <para>
-      <num>A.</num>
-      <text>A dentist may use the services of a dental assistant to perform certain duties if the dental assistant:</text>
-      <para>
-        <num>(1)</num>
-        <text>Has successfully completed a Board-approved course of at least 35 hours related to Maryland general duties dental assisting; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Is certified by the Dental Assisting National Board as qualified in general duties or was recognized by the Board of Dental Examiners, on or before June 19, 1974, as a dental assistant qualified in general duties.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>If a dental assistant meets the qualifications of <cite path="10|44|01|.05|A.">§A of this regulation</cite>, a dentist may use the services of the dental assistant qualified in general duties to perform the following intraoral tasks, provided that the tasks are performed only in response to a specific instruction from and under the direct supervision of a licensed dentist:</text>
-      <para>
-        <num>(1)</num>
-        <text>Performing vitality tests;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Taking impressions for study models or diagnostic casts;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Taking alginate impressions for intraoral appliances;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Applying topical fluoride;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Applying desensitizing agents;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Applying topical anesthesia;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Placing or removing a rubber dam;</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Etching;</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>Curing by the use of a halogen light;</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>Fabricating indirect restorations in a dental office;</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>Placing or removing a matrix band;</text>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>Drying a root canal;</text>
-      </para>
-      <para>
-        <num>(13)</num>
-        <text>Preparing and fitting stainless steel crowns;</text>
-      </para>
-      <para>
-        <num>(14)</num>
-        <text>Placing or removing retraction cord;</text>
-      </para>
-      <para>
-        <num>(15)</num>
-        <text>Preparing temporary crowns;</text>
-      </para>
-      <para>
-        <num>(16)</num>
-        <text>Cementing temporary crowns or restorations;</text>
-      </para>
-      <para>
-        <num>(17)</num>
-        <text>Removing temporary crowns;</text>
-      </para>
-      <para>
-        <num>(18)</num>
-        <text>Removing excess cement;</text>
-      </para>
-      <para>
-        <num>(19)</num>
-        <text>Removing or placing a periodontal dressing (except placing the original periodontal dressing);</text>
-      </para>
-      <para>
-        <num>(20)</num>
-        <text>Removing sutures;</text>
-      </para>
-      <para>
-        <num>(21)</num>
-        <text>Constructing athletic mouth guards on models; and</text>
-      </para>
-      <para>
-        <num>(22)</num>
-        <text>Any other duty approved by the Board.</text>
-      </para>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>A dentist may not use the services of a dental assistant qualified in general duties to perform any of the following services on the basis that the dental assistant meets the qualifications of <cite path="10|44|01|.05|A.">§A of this regulation</cite>:</text>
-      <para>
-        <num>(1)</num>
-        <text>Examination, diagnosis, and treatment planning;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Surgery on hard or soft tissues;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Oral prophylactic procedures, including scaling, root planing, and polishing teeth;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Condensing, carving, or finishing any restoration;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Administering injectable local anesthesia;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Applying pit and fissure sealants;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>Initiation of treatment at any time for the correction of malocclusions and malformations of the teeth or jaws;</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>Cementing of orthodontic bands, placement of bonded attachments or the removal of cemented or bonded orthodontic bands and attachments;</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>Cementing permanent crowns or restorations;</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>Adjusting occlusion of natural teeth, restorations, or appliances;</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>Registration of jaw relations;</text>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>Placing an initial surgical dressing;</text>
-      </para>
-      <para>
-        <num>(13)</num>
-        <text>Preparing or fitting orthodontic bands;</text>
-      </para>
-      <para>
-        <num>(14)</num>
-        <text>Placing or removing an arch wire;</text>
-      </para>
-      <para>
-        <num>(15)</num>
-        <text>Selecting headgear;</text>
-      </para>
-      <para>
-        <num>(16)</num>
-        <text>Placing elastics or ligatures; and</text>
-      </para>
-      <para>
-        <num>(17)</num>
-        <text>Adjusting prosthetic appliances.</text>
-      </para>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.29" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.06</num>
-    <heading>Radiographs.</heading>
-    <text>A dentist may not permit a dental assistant to place and expose radiographs unless the dental assistant is a dental assistant certified to practice dental radiation technology.</text>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.07</num>
-    <heading>Posting.</heading>
-    <text>The dentist in charge of a dental office shall post a copy of these regulations and the list of Board-approved dental assistant duties in a conspicuous place in the office for the information of office personnel.</text>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.08</num>
-    <heading>Penalties for Violations of These Regulations.</heading>
-    <para>
-      <num>A.</num>
-      <text>A dentist who uses the services of a dental assistant who is not qualified or for purposes other than what is permitted may be found guilty of unprofessional conduct under <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315(a)(16), Annotated Code of Maryland</cite>, or violating any rule or regulation adopted by the Board under <cite doc="Md. Code" path="gho|4-315">Health Occupations Article, §4-315(a)(18), Annotated Code of Maryland</cite>.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The performance of intraoral duties not authorized by these regulations by a dental assistant may constitute the illegal practice of dentistry, a misdemeanor which on conviction is subject to:</text>
-      <para>
-        <num>(1)</num>
-        <text>For a first offense, a fine not exceeding $2,000 or imprisonment in jail not exceeding 6 months; or</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>For a subsequent offense, a fine not exceeding $6,000 or imprisonment in the State penitentiary not exceeding 1 year.</text>
-      </para>
-    </para>
-    <annotations/>
+    <num>.30</num>
+    <heading>Severability.</heading>
+    <text>If any provision of this chapter or its application to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of this chapter which can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable.</text>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|25-178-F" target-path="10|44|01|.30" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|4-205">Health Occupations Article, §4-205, </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|4-205">4-205</cite>(a)(<cite doc="Md. Code" path="gho|1">1</cite>)(iii), <cite doc="Md. Code" path="gho|4-301">4-301</cite>.<cite doc="Md. Code" path="gho|1">1</cite>, <cite doc="Md. Code" path="gho|4-302">4-302</cite>.<cite doc="Md. Code" path="gho|1">1</cite>, <cite doc="Md. Code" path="gho|4-304">4-304</cite>.<cite doc="Md. Code" path="gho|1">1</cite>, <cite doc="Md. Code" path="gho|4-305">4-305</cite>.<cite doc="Md. Code" path="gho|1">1</cite>, and <cite doc="Md. Code" path="gho|4-311">4-311</cite>.1, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1974-06-19">Effective date: June 19, 1974</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-20">Chapter revised effective July 20, 1981 (8:14 Md. R. 1228)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-12-31">Chapter revised effective December 31, 1984 (11:26 Md. R. 2278)</annotation>
@@ -635,5 +1643,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-01-07"><cite path="|10|44|01|.05">Regulation .05</cite> amended effective January 7, 2002 (28:26 Md. R. 2274)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-06-06"><cite path="|10|44|01|.05|A.">Regulation .05A</cite> amended effective June 6, 2016 (43:11 Md. R. 634)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-08-24"><cite path="|10|44|01|.07">Regulation .07</cite> amended effective August 24, 1998 (25:17 Md. R. 1360)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31" discontinuity="true">Existing Regulations <cite path="|10|44|01|.01">.01</cite>—<cite path="|10|44|01|.08">.08</cite> repealed and new Regulations <cite path="|10|44|01|.01">.01</cite>—<cite path="|10|44|01|.30">.30</cite> adopted effective August 31, 2026 (53:17 Md. R. 710)</annotation>
   </annotations>
 </container>

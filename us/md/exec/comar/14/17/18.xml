@@ -65,7 +65,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Plain and opaque.</text>
+          <text>Opaque.</text>
         </para>
       </para>
       <para>
@@ -105,7 +105,9 @@
         <text>Any package containing multiple servings shall be resealable.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|18|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="14|17|18|.03">
     <prefix>Regulation</prefix>
@@ -484,10 +486,10 @@
     <heading>Prohibited Packaging and Labeling.</heading>
     <para>
       <num>A.</num>
-      <text>Cannabis products packaging and labeling may not bear any:</text>
+      <text>Cannabis products packaging and labeling may not include any:</text>
       <para>
         <num>(1)</num>
-        <text>Image that may appeal to minors, including:</text>
+        <text>Aspects that may appeal to minors, including but not limited to:</text>
         <para>
           <num>(a)</num>
           <text>Resemblance to the trademarked, characteristic, or product-specialized packaging of any commercially available candy, snack, baked good or beverage;</text>
@@ -498,7 +500,27 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Images, graphics, features, or likeness to images, graphics, or features that are popularly used to advertise to children, such as cartoons, animals, neon colors, celebrities, mascots, or phrases;</text>
+          <text>Images, graphics, font styles, features, or likeness to images, graphics, font styles, or features that are popularly used to advertise to children, such as cartoons, animals, neon colors, celebrities, mascots, or phrases;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Graphics that include the attribution of:</text>
+          <para>
+            <num>(i)</num>
+            <text>Human characteristics to animals, plants, or other objects, or the similar use of anthropomorphic technique;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Animal, plant, or other object characteristics to humans; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Unnatural or extra-human abilities or characteristics to humans, plants, animals, or other objects; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Sensory effects, including but not limited to texture, scent, or sound.</text>
         </para>
       </para>
       <para>
@@ -519,7 +541,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Claims regarding health or physical benefits to the consumer; or</text>
+        <text>Medical or therapeutic claims; or</text>
       </para>
       <para>
         <num>(7)</num>
@@ -528,13 +550,43 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Labels, marketing layers or any other aspect of the product package are prohibited from obscuring any warnings, statements, or information required under this chapter.</text>
+      <text>Labels, marketing layers, images, graphics, or any other aspect of the product package are prohibited from obscuring any warnings, statements, or information required under this chapter.</text>
     </para>
     <para>
       <num>C.</num>
       <text>Products are prohibited from targeting or being designed to appeal to any individuals younger than 21 years old.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|18|.07" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="14|17|18|.08">
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Sublingual Pouch Packaging and Labeling.</heading>
+    <para>
+      <num>A.</num>
+      <text>Unless otherwise stated, packaging and labeling regulations under Regulations <cite path="|14|17|18|.02">.02</cite>—<cite path="|14|17|18|.04">.04</cite> of this chapter apply to sublingual pouches.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A sublingual pouch package shall include the warning statement in <cite path="14|17|18|.08|C.">§C of this regulation</cite> in a manner that complies with <cite path="14.17.18.03|B.">COMAR 14.17.18.03B</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The warning statement shall read, “Pouches are not intended to be heated, burned, or swallowed.”</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Each sublingual pouch shall be marked with the universal symbol in <cite path="14.17.18.03|F.|(2)">COMAR 14.17.18.03F(2)</cite>.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If marking each pouch as described in <cite path="14|17|18|.08|D.">§D of this regulation</cite> is impractical, each individual pouch shall be individually wrapped with the universal symbol on the wrapper.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|18|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §§36-202, 36-203, and 36-203.1, Annotated Code of Maryland</annotation>
@@ -542,6 +594,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|18|.01">.01</cite>—<cite path="|14|17|18|.08">.08</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|18|.01">.01</cite>—<cite path="|14|17|18|.07">.07</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|18|.01">.01</cite>—<cite path="|14|17|18|.07">.07</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|18|.02|B.">Regulation .02B</cite> amended effective September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|18|.03|D.">Regulation .03D</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|18|.07|A.">Regulation .07A</cite>, B amended effective September 14, 2026 (53:18 Md. R. 878)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|18|.08">Regulation .08</cite> adopted effective September 14, 2026 (53:18 Md. R. 878)</annotation>
   </annotations>
 </container>

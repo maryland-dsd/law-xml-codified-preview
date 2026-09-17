@@ -16,7 +16,7 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Late payment” means any amount that is due and payable by law under a written procurement contract, without deferral, delay, or set-off under <cite path="21.02.07.03">COMAR 21.02.07.03</cite>, and remains unpaid more than 37 days after an agency receives a  proper invoice.</text>
+        <text>“Late payment” means any amount that is due and payable by law under a written procurement contract, without deferral, delay, or set-off under <cite path="21.02.07.03">COMAR 21.02.07.03</cite>, and remains unpaid more than 37 days after an agency receives a proper invoice.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -27,7 +27,9 @@
         <text>“Proper invoice” means a bill, written document, or electronic transmission, readable by the agency, provided by a vendor requesting an amount that is due and payable by law under a written procurement contract for property received or services rendered that meets the requirements of <cite path="|21|06|09|.02">Regulation .02 of this chapter</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|06|09|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -100,14 +102,14 @@
     <heading>Payment Period.</heading>
     <para>
       <num>A.</num>
-      <text>Unless payment is deferred, delayed, or set-off under <cite path="21.02.07.03">COMAR 21.02.07.03</cite>, payment under a procurement contract shall be made within 30 days:</text>
+      <text>Unless payment is deferred, delayed, or set-off under <cite path="21.02.07.03">COMAR 21.02.07.03</cite>, payment under a procurement contract shall be made:</text>
       <para>
         <num>(1)</num>
-        <text>After the day on which the payment becomes due under the procurement contract; or</text>
+        <text>Within 30 days after the day on which the payment becomes due and the agency receives a proper invoice; or</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If later, after the day on which the agency receives a proper invoice.</text>
+        <text>For a small business reserve contract, within 15 days after the day on which the payment becomes due and the procuring agency receives a proper invoice.</text>
       </para>
     </para>
     <para>
@@ -118,7 +120,9 @@
       <num>C.</num>
       <text>Payments falling due on a weekend, State holiday, or federal holiday may be made on the following business day without incurring late payment interest penalties.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|06|09|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -151,8 +155,9 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|15-101">15-101</cite>—<cite doc="Md. Code" path="gsf|15-105">15-105</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|15-101">15-101</cite>—<cite doc="Md. Code" path="gsf|15-105">15-105</cite>, Annotated Code of Maryland; Ch. 601, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02">Effective date: January 2, 2017 (43:26 Md. R. 1449)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|06|09|.01">Regulation .01</cite> amended effective September 18, 2023 (50:18 Md. R. 800)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|06|09|.05">Regulation .05</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
   </annotations>
 </container>

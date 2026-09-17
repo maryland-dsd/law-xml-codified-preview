@@ -27,56 +27,49 @@
       <num>B.</num>
       <text>The fee for an identification card is as set forth in <cite path="|11.11.05">COMAR 11.11.05</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.07" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.08" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.09" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
-    <heading>Not a License — Repealed.</heading>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.03</num>
-    <heading>Surrender — Repealed.</heading>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.04</num>
     <heading>Minor Application.</heading>
     <para>
       <num>A.</num>
-      <text>The application for an identification card for a minor under 18 years old shall be cosigned by a parent or a legal guardian of the applicant. If the applicant has no parent or legal guardian, or is married, an adult employer of the applicant or any other responsible adult over 18 years old can cosign.</text>
+      <text>The application for an identification card for a minor under 15 years old shall be cosigned by a parent or a legal guardian of the applicant. If the applicant has no parent or legal guardian, an adult employer of the applicant or any other responsible adult over 18 years old can cosign.</text>
     </para>
     <para>
       <num>B.</num>
       <text>The individual cosigning the application of a minor shall certify that the statements made in the application are true to the best of the cosigner's knowledge, information, and belief.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.07" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.08" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.09" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.10" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.05</num>
-    <heading>Repealed.</heading>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.06</num>
-    <heading>Repealed.</heading>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.07</num>
+    <num>.03</num>
     <heading>Duplicate.</heading>
-    <text>A duplicate identification card may be issued to replace one which has been lost, stolen, mutilated, or destroyed if the person applying for a duplicate card furnishes information satisfactory to the Administration of the above circumstances, pays the required fee, and is entitled to a duplicate license.</text>
-    <annotations/>
+    <text>A duplicate identification card may be issued to replace one which has been lost, stolen, mutilated, or destroyed if the person applying for a duplicate card furnishes information satisfactory to the Administration of the above circumstances, pays the required fee, and is entitled to a duplicate identification card.</text>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.07" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.08" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.09" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.10" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.08</num>
+    <num>.04</num>
     <heading>Correction.</heading>
     <para>
       <num>A.</num>
@@ -95,25 +88,45 @@
       <text>There is no fee for adding or deleting:</text>
       <para>
         <num>(1)</num>
-        <text>An organ donor designation to an identification card; or</text>
+        <text>An organ donor designation to an identification card;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A veteran designation to an identification card.</text>
+        <text>A veteran designation to an identification card;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A nonapparent disability designation to an identification card; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A blind or visual impairment designation to an identification card.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.07" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.08" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.09" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.10" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.09</num>
+    <num>.05</num>
     <heading>Fees Not Refundable.</heading>
     <text>The fees authorized by <cite doc="Md. Code" path="gtr|12-301">Transportation Article, §12-301, Annotated Code of Maryland</cite>, and this chapter for issuance, duplication, correction, or renewal of the identification cards may not be refunded.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.07" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.08" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.09" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.10" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.10</num>
+    <num>.06</num>
     <heading>Waiver of Fee.</heading>
     <para>
       <num>A.</num>
@@ -143,7 +156,13 @@
         <text>Signed statement by a licensed physician attesting to the permanent disability, except in a case when a loss of limb is clearly visible.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.07" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.08" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.09" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.10" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|12-104">12-104</cite>(b), <cite doc="Md. Code" path="gtr|12-301">12-301</cite>, and <cite doc="Md. Code" path="gtr|12-302">12-302</cite>, Annotated Code of Maryland</annotation>
@@ -173,5 +192,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-07-28"><cite path="|11|17|06|.11|D.">Regulation .11D</cite> amended effective December 17, 2007 (34:25 Md. R. 2211); July 28, 2008 (35:15 Md. R. 1349)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-09-22">Regulations .12 and .13 adopted as an emergency provision effective April 1, 1997 (24:9 Md. R. 654); adopted permanently effective September 22, 1997 (24:19 Md. R. 1342)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-11-02">Regulations .12 and .13 repealed effective November 2, 2009 (36:22 Md. R. 1724)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14" discontinuity="true">Chapter revised effective September 14, 2026 (53:15 Md. R. 878)</annotation>
   </annotations>
+  <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.07" type="History" display="false"/>
+  <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.08" type="History" display="false"/>
+  <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.09" type="History" display="false"/>
+  <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-061-F" target-path="11|17|06|.10" type="History" display="false"/>
 </container>

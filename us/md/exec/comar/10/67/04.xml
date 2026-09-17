@@ -23,7 +23,15 @@
     </para>
     <para>
       <num>C.</num>
-      <text>An MCO shall enter a memorandum of understanding with each local health department (LHD) in its service area addressing the method by which the MCO and the LHD will collaborate and communicate on matters of mutual interest and concern, including but not limited to the responsibility of the LHD for contact tracing for sexually transmitted diseases and directly observed therapy for tuberculosis.</text>
+      <text>An MCO shall enter a memorandum of understanding with each local health department in its service area addressing the method by which the MCO and the local health department will collaborate and communicate on matters of mutual interest and concern, including but not limited to the responsibility of the local health department for:</text>
+      <para>
+        <num>(1)</num>
+        <text>Contact tracing for sexually transmitted diseases; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Directly observed therapy for tuberculosis.</text>
+      </para>
     </para>
     <para>
       <num>D.</num>
@@ -106,7 +114,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Provide each enrollee within 10 days of notification to the MCO of the enrollees enrollment with a distinctive, durable identification card, clearly indicating the bearer to be a member of the MCO and containing, at a minimum:</text>
+        <text>Provide each enrollee within 10 days of notification to the MCO of the enrollee’s enrollment with a distinctive, durable identification card, clearly indicating the bearer to be a member of the MCO and containing, at a minimum:</text>
         <para>
           <num>(a)</num>
           <text>The enrollee's Medicaid number;</text>
@@ -117,11 +125,15 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The Department's enrollee hotline telephone number; and</text>
+          <text>The Department's enrollee hotline telephone number;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Enrollee's assigned primary care provider's name and telephone number;</text>
+          <text>Enrollee's assigned primary care provider's name and telephone number; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Department’s name, logo, or other Department branding as approved by the Department;</text>
         </para>
       </para>
       <para>
@@ -148,11 +160,15 @@
           </para>
           <para>
             <num>(iii)</num>
-            <text>The telephone number that providers may call for pharmacy benefit assistance; and</text>
+            <text>The telephone number that providers may call for pharmacy benefit assistance;</text>
           </para>
           <para>
             <num>(iv)</num>
-            <text>All electronic transaction routing information and other numbers required by the MCO or its benefit administrator to process a prescription claim electronically.</text>
+            <text>The unique Medicaid-specific Bank Identification Number and Processor Control Number combination, along with group number identifiers, necessary for the participant to obtain pharmacy benefits; and</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>All additional electronic transaction routing information and other numbers required by the MCO or its pharmacy benefits manager to process a prescription claim electronically.</text>
           </para>
         </para>
       </para>
@@ -298,7 +314,11 @@
       <text>Disclosure of Provider Incentive Plans.</text>
       <para>
         <num>(1)</num>
-        <text>An MCO shall disclose to the Department the information on its provider incentive plans listed in 42 CFR §417.479(h)(1):</text>
+        <text>An MCO shall include, at a minimum, the provisions required by 42 CFR §438.3(i)(3) in all provider incentive plans.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An MCO shall disclose the provisions detailed in <cite path="10|67|04|.02|N.|(1)">§N(1) of this regulation</cite>:</text>
         <para>
           <num>(a)</num>
           <text>Prior to approval of its contract or agreement; and</text>
@@ -309,8 +329,8 @@
         </para>
       </para>
       <para>
-        <num>(2)</num>
-        <text>An MCO shall include in the disclosures required by <cite path="10|67|04|.02|N.|(1)">§N(1) of this regulation</cite> information sufficient for the Department to determine whether the incentive plans meet the requirements of 42 CFR §417.479(d)(g) and, as applicable (i), when there exist compensation arrangements under which payment for designated health services furnished to an individual on the basis of a physician referral would otherwise be denied under §1903(a) of the Social Security Act.</text>
+        <num>(3)</num>
+        <text>An MCO shall include in the disclosures required by <cite path="10|67|04|.02|N.|(2)">§N(2) of this regulation</cite> information sufficient for the Department to determine whether the incentive plans meet the requirements of 42 CFR §438.3(i)(3) when there exist compensation arrangements under which payment for designated health services furnished to an individual on the basis of a physician referral would otherwise be denied under §1903(a) of the Social Security Act.</text>
       </para>
     </para>
     <para>
@@ -385,7 +405,9 @@
         <text>The MCO shall assist the health homes as necessary in accessing somatic care services for health home recipients.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|67|04|.03">
     <prefix>Regulation</prefix>
@@ -933,7 +955,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>An MCO may be eligible for an incentive payment for the following performance measures:</text>
+      <text>An MCO may be eligible for an incentive payment for the following measures through measurement year 2025:</text>
       <para>
         <num>(1)</num>
         <text>Ambulatory care visits for Supplemental Security Income (SSI) adults;</text>
@@ -977,30 +999,70 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Each measure identified in <cite path="10|67|04|.03-2|B.">§B of this regulation</cite> shall be valued equally at a proportional share of available incentive funds, except for measures §B(5)(a) and (b), which are each valued at half of the available incentive funds relative to one of the other measures.</text>
+      <text>Effective measurement year 2026, an MCO may be eligible for an incentive payment for the following measures:</text>
+      <para>
+        <num>(1)</num>
+        <text>Child and adolescent well-care visits—total rate indicator;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Childhood immunization status—combination 3 indicator;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Colorectal cancer screening—total rate indicator;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Controlling high blood pressure;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Glycemic status assessment for patients with diabetes—Glycemic status &gt;=9.0 percent indicator;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Immunizations for adolescents—combination 2 indicator;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Prenatal and postpartum care—timeliness of prenatal care indicator;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Well-child visits in the first 30 months of life—ages 0-15 months indicator; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Well-child visits in the first 30 months of life—ages 15-30 months indicator.</text>
+      </para>
     </para>
     <para>
       <num>D.</num>
-      <text>There shall be two rounds of potential incentive payments an MCO may earn.</text>
+      <text>Each measure identified in <cite path="10|67|04|.03-2|B.">§B of this regulation</cite> shall be valued equally at a proportional share of available incentive funds, except for measures §B(5)(a) and (b), which are each valued at half of the available incentive funds relative to one of the other measures.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Subject to budget approval, total PHIP funding shall be determined prior to the measurement year and included in the MCO contract.</text>
+      <text>There shall be two rounds of potential incentive payments an MCO may earn.</text>
     </para>
     <para>
       <num>F.</num>
-      <text>All PHIP payments shall be funded independently from and outside of MCO capitation payments during a given calendar year.</text>
+      <text>Subject to budget approval, total PHIP funding shall be determined prior to the measurement year and included in the MCO contract.</text>
     </para>
     <para>
       <num>G.</num>
-      <text>Each MCO shall be eligible for no more than 1 percent of the plan's measurement year capitation payments, excluding supplemental payments outside of capitation, as total payment from round one and round two.</text>
+      <text>All PHIP payments shall be funded independently from and outside of MCO capitation payments during a given calendar year.</text>
     </para>
     <para>
       <num>H.</num>
-      <text>If the Department determines that the score for any measure identified in <cite path="10|67|04|.03-2|B.">§B of this regulation</cite> may not be comparable to the previous year's score due to alterations in measure specifications or other factors, the Department may exclude the measure from the PHIP and adjust the incentive valuation in accordance with the remaining performance measures.</text>
+      <text>Each MCO shall be eligible for no more than 1 percent of the plan's measurement year capitation payments, excluding supplemental payments outside of capitation, as total payment from round one and round two.</text>
     </para>
     <para>
       <num>I.</num>
+      <text>If the Department determines that the score for any measure identified in <cite path="10|67|04|.03-2|B.">§B of this regulation</cite> may not be comparable to the previous year's score due to alterations in measure specifications or other factors, the Department may exclude the measure from the PHIP and adjust the incentive valuation in accordance with the remaining performance measures.</text>
+    </para>
+    <para>
+      <num>J.</num>
       <text>Round One Incentives.</text>
       <para>
         <num>(1)</num>
@@ -1026,15 +1088,15 @@
           <text>Performance incentive payments shall be based on the following categories for each performance measure:</text>
           <para>
             <num>(i)</num>
-            <text>Superlative performance, meaning the performance measure's score is at or above the 90th percentile of HEDIS Medicaid performance nationwide during the measurement year, or estimated 90th percentile among Maryland HealthChoice MCO performance for non-HEDIS performance measures;</text>
+            <text>Superlative performance, meaning the performance measure’s score is at or above the 90th percentile of HEDIS Medicaid performance nationwide during the prior measurement year, or estimated 90th percentile among Maryland HealthChoice MCO performance for non-HEDIS performance measures;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Very strong performance, meaning the performance measure's score is between the 75th and 89th percentiles, inclusive, of HEDIS Medicaid performance nationwide during the measurement year, or between the estimated 75th and 89th percentiles, inclusive, among Maryland HealthChoice MCO performance for non-HEDIS performance measures; or</text>
+            <text>Very strong performance, meaning the performance measure’s score is between the 75th and 89th percentiles, inclusive, of HEDIS Medicaid performance nationwide during the prior measurement year, or between the estimated 75th and 89th percentiles, inclusive, among Maryland HealthChoice MCO performance for non-HEDIS performance measures; or</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>Strong performance, meaning the performance measure's score is between the 50th and 74th percentiles, inclusive, of HEDIS Medicaid performance nationwide during the measurement year, or between the estimated 50th and 74th percentiles, inclusive, among Maryland HealthChoice MCO performance for non-HEDIS performance measures.</text>
+            <text>Strong performance, meaning the performance measure’s score is between the 50th and 74th percentiles, inclusive, of HEDIS Medicaid performance nationwide during the prior measurement year, or between the estimated 50th and 74th percentiles, inclusive, among Maryland HealthChoice MCO performance for non-HEDIS performance measures.</text>
           </para>
         </para>
         <para>
@@ -1054,7 +1116,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>Any MCO earning a performance measure score below the 50th percentile of HEDIS Medicaid performance nationwide during the measurement year on a HEDIS-based measure, or below the calculated 50th percentile among Maryland HealthChoice MCO performance for a non-HEDIS measure, shall be ineligible for a round one performance incentive payment.</text>
+            <text>Any MCO earning a performance measure score below the 50<sup>th</sup> percentile of HEDIS Medicaid performance nationwide during the prior measurement year on a HEDIS-based measure, or below the calculated 50<sup>th</sup> percentile among Maryland HealthChoice MCO performance for a non-HEDIS measure, shall be ineligible for a round one performance incentive payment.</text>
           </para>
         </para>
       </para>
@@ -1088,23 +1150,35 @@
       </para>
     </para>
     <para>
-      <num>J.</num>
+      <num>K.</num>
       <text>Round Two Incentive Payments.</text>
       <para>
         <num>(1)</num>
         <text>An MCO may qualify for payments under round two if the following conditions are met:</text>
         <para>
           <num>(a)</num>
-          <text>The MCO earned above 80 percent of possible round one incentives; and</text>
+          <text>For measurement years up to and including 2024:</text>
+          <para>
+            <num>(i)</num>
+            <text>The MCO earned above 80 percent of possible round one incentives; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>The MCO did not have penalties applied during the measurement year for failure to meet the HEDIS MCO Performance Monitoring Policy included in the MCO contract.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>The MCO did not have penalties applied during the measurement year for failure to meet the HEDIS MCO Performance Monitoring Policy included in the MCO contract.</text>
+          <text>For measurement year 2025, the MCO earned above 80 percent of possible round one incentives; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Effective measurement year 2026, the MCO earned above 75 percent of possible round one incentives.</text>
         </para>
       </para>
       <para>
         <num>(2)</num>
-        <text>Any remaining funds that were unallocated during round one may be awarded to eligible MCOs in round two for a maximum incentive award of up to 1 percent of its total capitation payment during the PHIP measurement year, excluding supplemental payments outside of capitation.</text>
+        <text>Subject to budget approval, any remaining funds that were unallocated during round one may be awarded to eligible MCOs in round two for a maximum incentive award of up to 1 percent of its total capitation payment during the PHIP measurement year, excluding supplemental payments outside of capitation.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -1112,7 +1186,7 @@
       </para>
     </para>
     <para>
-      <num>K.</num>
+      <num>L.</num>
       <text>If additional funds remain after both round one and round two, the Department may, within its discretion, allocate the funding as follows:</text>
       <para>
         <num>(1)</num>
@@ -1124,14 +1198,16 @@
       </para>
     </para>
     <para>
-      <num>L.</num>
+      <num>M.</num>
       <text>Effective measurement year 2025, an MCO with penalties under the HEDIS MCO Performance Monitoring Policy included in the HealthChoice MCO Agreement shall be excluded from all rounds of PHIP for that measurement year.</text>
     </para>
     <para>
-      <num>M.</num>
+      <num>N.</num>
       <text>Incentives awarded under this regulation and exclusion from PHIP participation are not appealable under <cite path="|10.67.10">COMAR 10.67.10</cite>..</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.03-2" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|67|04|.04">
     <prefix>Regulation</prefix>
@@ -1775,10 +1851,12 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>An MCO shall provide enrollees with HIV/AIDS access to clinical trials in accordance with <cite path="10.67.06.26">COMAR 10.67.06.26</cite>-1.</text>
+        <text>An MCO shall provide enrollees with HIV/AIDS access to clinical trials in accordance with <cite path="10.67.06.26-1">COMAR 10.67.06.26-1</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -5003,7 +5081,7 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>An MCO shall reimburse out-of-plan doulas at the Medicaid fee-for-service rate for services performed during the prenatal, labor and delivery, and postpartum periods of pregnancy as described in <cite path="10.67.06.28">COMAR 10.67.06.28</cite> through December 31, 2025.</text>
+        <text>An MCO shall reimburse out-of-plan doulas at the Medicaid fee-for-service rate for services performed during the prenatal, labor and delivery, and postpartum periods of pregnancy as described in <cite path="10.67.06.28">COMAR 10.67.06.28</cite> through December 31, 2026.</text>
       </para>
     </para>
     <para>
@@ -5067,7 +5145,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>For any reimbursement paid by an MCO under <cite path="10|67|04|.20|C.">§C of this regulation</cite>, the Program shall pay the MCO the difference between the rates identified in <cite path="10.67.04.21">COMAR 10.67.04.21</cite> and <cite path="10.09.08.05">COMAR 10.09.08.05</cite>-1.</text>
+        <text>For any reimbursement paid by an MCO under <cite path="10|67|04|.20|C.">§C of this regulation</cite>, the Program shall pay the MCO the difference between the rates identified in <cite path="10.67.04.21">COMAR 10.67.04.21</cite> and <cite path="10.09.08.05-1">COMAR 10.09.08.05-1</cite>.</text>
       </para>
     </para>
     <para>
@@ -5102,7 +5180,9 @@
         <text>Upon the direction of the Department, an MCO shall reduce payments by 20 percent to a hospital located in a contiguous state or in the District of Columbia for services rendered to its enrollees, if the hospital has failed to supply appropriate discharge data to the Health Services Cost Review Commission.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.20" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|67|04|.21">
     <prefix>Regulation</prefix>
@@ -5125,14 +5205,16 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>MCOs shall reimburse any contracted FQHC, the FQHC’s rate established in accordance with <cite path="10.09.08.05">COMAR 10.09.08.05</cite>-1A.</text>
+        <text>MCOs shall reimburse any contracted FQHC, the FQHC’s rate established in accordance with <cite path="10.09.08.05-1|A.">COMAR 10.09.08.05-1A</cite>.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
       <text>For self-referred services described in <cite path="|10|67|04|.20">Regulation .20 of this chapter</cite>, the MCO shall pay the FQHC’s usual rate in accordance with <cite path="10|67|04|.21|A.">§A of this regulation</cite>, regardless of the FQHC’s contracted status with the MCO.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.21" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|67|04|.22">
     <prefix>Regulation</prefix>
@@ -5636,7 +5718,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-05-18"><cite path="|10|67|04|.25|B.">Regulation .25B</cite> amended effective May 18, 2020 (47:10 Md. R. 515)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-05-18"><cite path="|10|67|04|.27|C.">Regulation .27C</cite> amended effective May 18, 2020 (47:10 Md. R. 515)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-10-18" discontinuity="true">Chapter revised effective October 18, 2021 (48:21 Md. R. 889)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|04|.02">Regulation .02</cite> amended effective September 28, 2026 (53:19 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|04|.03-1">Regulation .03-1</cite> repealed and new Regulation .03-1 adopted effective June 24, 2024 (51:12 Md. R. 620)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|04|.03-2">Regulation .03-2</cite> amended effective September 28, 2026 (53:19 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|04|.03-2B">Regulation .03-2B</cite> amended effective June 24, 2024 (51:12 Md. R. 620)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|04|.03-2L">Regulation .03-2L</cite> adopted effective June 24, 2024 (51:12 Md. R. 620)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|10|67|04|.03-2L">Regulation .03-2L</cite> repealed and new Regulation .03-2 adopted effective April 28, 2025 (52:8 Md. R. 359)</annotation>
@@ -5650,6 +5734,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|10|67|04|.19|E.">Regulation .19E</cite> adopted effective April 28, 2025 (52:8 Md. R. 359)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|04|.19-4A">Regulation .19-4A</cite> amended effective June 24, 2024 (51:12 Md. R. 620)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-06-13"><cite path="|10|67|04|.19-4M">Regulation .19-4M</cite>, N amended effective June 13, 2022 (49:12 Md. R. 641)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|04|.20|A.">Regulation .20A</cite> amended effective September 28, 2026 (53:19 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|04|.20|A.">Regulation .20A</cite>, C amended effective June 24, 2024 (51:12 Md. R. 618)</annotation>
   </annotations>
 </container>

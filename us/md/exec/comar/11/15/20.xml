@@ -39,23 +39,15 @@
         <text>“Self-unloading by gravity or mechanical means” means that once the unloading process is started, gravity or a mechanism which is an integral part of the vehicle takes over the unloading process.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.03" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.04" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.02</num>
-    <heading>Eligible Classes of Vehicles — Repealed.</heading>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.03</num>
-    <heading>Noncompliant Vehicles — Repealed.</heading>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.04</num>
     <heading>Requirements.</heading>
     <para>
       <num>A.</num>
@@ -65,49 +57,12 @@
       <num>B.</num>
       <text>Dump service registered vehicles operating in combination with another vehicle may not be allowed the weight exemptions provided for this class of registration.</text>
     </para>
-    <annotations/>
-  </section>
-  <section>
-    <prefix>Regulation</prefix>
-    <num>.05</num>
-    <heading>Procedures for Applying for Dump Service Registration.</heading>
-    <para>
-      <num>A.</num>
-      <text>Two or Three Axle Dump Service Vehicles. The original application for registration shall be accompanied by:</text>
-      <para>
-        <num>(1)</num>
-        <text>A dump service certification (Form VR-98);</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A sideview photograph of the vehicle; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>The fee as set forth in <cite doc="Md. Code" path="gtr|13-919">Transportation Article, §13-919, Annotated Code of Maryland</cite>.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>Four or More Axle Dump Service Vehicles. The original application for registration shall be accompanied by:</text>
-      <para>
-        <num>(1)</num>
-        <text>A dump service certification (Form VR-98);</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A sideview photograph of the vehicle, clearly showing the lift axle;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>The manufacturer's, second-stage manufacturer's, or authorized dealer's certification that the vehicle is in compliance with the requirements of <cite path="11.15.27.05">COMAR 11.15.27.05</cite>; and</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>The fee as set forth in <cite doc="Md. Code" path="gtr|13-919">Transportation Article, §13-919, Annotated Code of Maryland</cite>.</text>
-      </para>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.03" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.04" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.05" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|12-104">12-104</cite>(b) and <cite doc="Md. Code" path="gtr|13-919">13-919</cite>, Annotated Code of Maryland</annotation>
@@ -116,7 +71,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|20|.03">Regulation .03</cite> repealed effective July 30, 2018 (45:15 Md. R. 725)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-08-29">Regulations .03 and .05 amended as an emergency provision effective January 1, 1995 (22:2 Md. R. 73); emergency status extended to August 29, 1995 (22:9 Md. R. 643)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-08-14"><cite path="|11|15|20|.03|F.">Regulation .03F</cite> adopted effective August 14, 1995 (22:16 Md. R. 1222)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|11|15|20|.04">Regulation .04</cite> recodified to Regulation .02 effective September 28, 2026 (53:19 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|20|.04|C.">Regulation .04C</cite> repealed effective July 30, 2018 (45:15 Md. R. 725)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|20|.05">Regulation .05</cite> amended effective January 1, 1992 (18:25 Md. R. 2754); August 14, 1995 (22:16 Md. R. 1222); July 30, 2018 (45:15 Md. R. 725)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|11|15|20|.05">Regulation .05</cite> repealed effective September 28, 2026 (53:19 Md. R. 944</annotation>
   </annotations>
+  <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.03" type="History" display="false"/>
+  <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.04" type="History" display="false"/>
+  <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|20|.05" type="History" display="false"/>
 </container>

@@ -60,7 +60,7 @@
       <text>Suspension Only. A license may be suspended by the State Superintendent of Schools under the following conditions:</text>
       <para>
         <num>(1)</num>
-        <text>Breach of Contract. A license may be suspended for not more than 365 days if the license holder leaves the employment of a local school system after July 15 in the absence of an emergency and without the consent of the local board of education in violation of the provisions of the Regular State Teacher’s Contract set forth in COMAR 13A.07.02.01B. If an emergency arises, the local board may not unreasonably withhold its consent.</text>
+        <text>Breach of Contract. A license may be suspended for not more than 365 days if the license holder leaves the employment of a local school system in the absence of an emergency and without the consent of the local board of education in violation of the provisions of the Regular State Teacher’s Contract set forth in COMAR 13A.07.02.01B. If an emergency arises, the local board may not unreasonably withhold its consent.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -197,6 +197,7 @@
     </para>
     <annotations>
       <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|.02" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-081-F" target-path="13A|12|06|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="13A|12|06|.03">
@@ -391,8 +392,25 @@
         </para>
       </para>
     </para>
+    <para>
+      <num>L.</num>
+      <text>Reciprocal Discipline and Denial.</text>
+      <para>
+        <num>(1)</num>
+        <text>If a licensing authority in another jurisdiction has sanctioned or taken final disciplinary action against a Maryland licensee or applicant based on grounds for disciplinary action set forth in .02C of this chapter, the State Superintendent may nevertheless deny, suspend, or revoke the licensee's or applicant's Maryland license.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The State Superintendent may adopt the other jurisdiction's sanction or impose an independent sanction consistent with this chapter.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the sanction has been fully satisfied for all grounds set forth in .02C of this chapter, the State Superintendent may decline to take further disciplinary action in Maryland.</text>
+      </para>
+    </para>
     <annotations>
       <annotation app="2025-10-27" doc="Maryland Register, Volume 52, Issue 21" eff="2025-10-27" path="regulations|final|25-122-F" target-path="13A|12|06|.03" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-081-F" target-path="13A|12|06|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -610,15 +628,15 @@
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">
-      <cite doc="Md. Code" path="ged|6-706">Education Article, §6-706, Annotated Code of Maryland</cite>
-    </annotation>
+    <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>, <cite doc="Md. Code" path="ged|2-303">2-303</cite>(g), <cite doc="Md. Code" path="ged|6-127">6-127</cite>, <cite doc="Md. Code" path="ged|6-701">6-701</cite>—<cite doc="Md. Code" path="ged|6-708">6-708</cite>, <cite doc="Md. Code" path="ged|8-303">8-303</cite>, and <cite doc="Md. Code" path="ged|8-3">8-3</cite>A-03; <cite doc="Md. Code" path="gfl|10-119">Family Law Article, §10-119</cite>.3; and <br/><cite doc="Md. Code" path="gcr|5-810">Criminal Law Article, §5-810</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-06-06">Effective date: June 6, 1994 (21:11 Md. R. 953)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-12-28">Regulations <cite path="|13A|12|06|.01">.01</cite>—<cite path="|13A|12|06|.07">.07</cite> recodified and new Regulation .01 adopted effective December 28, 1998 (25:26 Md. R. 1926)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01" discontinuity="true">Regulations <cite path="|13A|12|06|.01">.01</cite>—<cite path="|13A|12|06|.08">.08</cite> repealed under Subtitle 12 Certification Chapter 06 Professional Standards and Teacher Education Board and new Regulations <cite path="|13A|12|06|.01">.01</cite>—<cite path="|13A|12|06|.09">.09</cite> adopted under Subtitle 12 Educator Licensure Chapter 06 Disciplinary Actions and Denials effective April 1, 2024 (51:5 Md R. 231)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.01|B.">Regulation .01B</cite> amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.02|A.">Regulation .02A</cite>, C amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|13A|12|06|.02|B.">Regulation .02B</cite> amended effective September 14, 2026 (53:18 Md R. 878)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.03">Regulation .03</cite> amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|13A|12|06|.03|L.">Regulation .03L</cite> adopted effective September 14, 2026 (53:18 Md R. 878)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.04|B.">Regulation .04B</cite>, D amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.08|D.">Regulation .08D</cite> amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-27"><cite path="|13A|12|06|.09|D.">Regulation .09D</cite>, E amended effective October 27, 2025 (52:21 Md. R. 1025)</annotation>

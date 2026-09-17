@@ -758,9 +758,55 @@
     </para>
     <para>
       <num>E.</num>
-      <text>The Administration reserves the right to make a final determination on the request</text>
+      <text>The Administration reserves the right to make a final determination on the request.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|13|.12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Sublingual Pouches.</heading>
+    <para>
+      <num>A.</num>
+      <text>A sublingual pouch may be sold to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Individuals 21 years old or older; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Qualifying patients and registered caregivers.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A sublingual pouch may only include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A concentrated cannabis product; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Fillers, sweeteners, and other flavors or preservatives approved by the Administration.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Unless expressly authorized by the Administration, a sublingual pouch may not contain more than:</text>
+      <para>
+        <num>(1)</num>
+        <text>10 milligrams of THC per serving; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>100 milligrams of THC per package.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|13|.13" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Alcoholic Beverages and Cannabis Article, §§36-202, 36-203, and 36-203.1, Annotated Code of Maryland</annotation>
@@ -771,6 +817,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|13|.05|G.">Regulation .05G</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|13|.08|C.">Regulation .08C</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|13|.12">Regulation .12</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|13|.13">Regulation .13</cite> adopted effective September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|13|annos" type="History" display="false"/>
   </annotations>
 </container>

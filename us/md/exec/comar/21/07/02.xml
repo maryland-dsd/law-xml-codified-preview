@@ -104,7 +104,7 @@
       <text>“E. Contemporaneously with, or within 90 days after, the filing of a notice of claim, contractor shall submit the written claim to the procurement officer. If contractor so requests, the procurement officer, on conditions the procurement officer deems satisfactory to the unit, may extend the time in which contractor must submit the claim. An example of when a procurement officer may grant an extension includes situations in which the procurement officer finds that a contemporaneous or timely cost quantification following the filing of the notice of claim is impossible or impractical.</text>
       <text>“F. The claim shall set forth all the facts surrounding the controversy. Contractor, at the discretion of the procurement officer, may be afforded an opportunity to be heard and to offer evidence in support of the claim.</text>
       <text>“G. The procurement officer shall mail or deliver written notification of the final decision within:</text>
-      <text>“(1) 90 days after the procurement officer receives the claim if the claim is an amount for which the Appeals Board accelerated procedure, set forth in <cite path="21.10.06.12">COMAR 21.10.06.12</cite>, may be used;</text>
+      <text>“(1) 90 days after the procurement officer receives the claim if the claim is an amount for which the Appeals Board “Small Claims” procedure, set forth in <cite path="21.10.06.12">COMAR 21.10.06.12</cite>, may be used;</text>
       <text>“(2) 180 days after the procurement officer receives the claim for a claim not covered under G(1) of this clause; or</text>
       <text>“(3) A longer period that the procurement officer and contractor agree to in writing.</text>
       <text>“H. The final decision may award a contract claim only for those expenses incurred not more than 30 days before contractor was initially required to have filed the notice of claim.</text>
@@ -113,7 +113,9 @@
       <text>“K. Contractor may file a written appeal with the Maryland State Board of Contract Appeals within 30 days of receipt of notice of the decision.</text>
       <text>“L. Pending resolution of a claim, contractor shall proceed diligently with the performance of the contract in accordance with the procurement officer's decision.”</text>
     </include>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|07|02|.05-1" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="21|07|02|.05-2">
     <prefix>Regulation</prefix>
@@ -176,9 +178,11 @@
     <text>Mandatory provision for all construction contracts:</text>
     <include>
       <text>"Site Investigation</text>
-      <text>“The Contractor acknowledges that the Contractor has investigated and satisfied itself as to the conditions affecting the work, including but not restricted to those bearing upon transportation, disposal, handling and storage of materials, availability of labor, water, electric power, roads and uncertainties of weather, river stages, tides or similar physical conditions at the site, the conformation and conditions of the ground, the character of equipment and facilities needed preliminary to and during prosecution of the work. The Contractor further acknowledges that the Contractor has satisfieditself as to the character, quality and quantity of surface and subsurface materials or obstacles to be encountered insofar as this information is reasonably ascertainable from an inspection of the site, including all exploratory work done by the State, as well as from information presented by the drawings and specifications made a part of this contract. Any failure by the Contractor to acquaint itself with the available information may not relieve the Contractor from responsibility for estimating properly the difficulty or cost of successfully performing the work. The State assumes no responsibility for any conclusions or interpretations made by the Contractor on the basis of the information made available by the State.”</text>
+      <text>“The Contractor acknowledges that the Contractor has investigated and satisfied itself as to the conditions affecting the work, including but not restricted to those bearing upon transportation, disposal, handling and storage of materials, availability of labor, water, electric power, roads and uncertainties of weather, river stages, tides or similar physical conditions at the site, the conformation and conditions of the ground, the character of equipment and facilities needed preliminary to and during prosecution of the work. The Contractor further acknowledges that the Contractor has satisfied itself as to the character, quality and quantity of surface and subsurface materials or obstacles to be encountered insofar as this information is reasonably ascertainable from an inspection of the site, including all exploratory work done by the State, as well as from information presented by the drawings and specifications made a part of this contract. Any failure by the Contractor to acquaint itself with the available information may not relieve the Contractor from responsibility for estimating properly the difficulty or cost of successfully performing the work. The State assumes no responsibility for any conclusions or interpretations made by the Contractor on the basis of the information made available by the State.”</text>
     </include>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|07|02|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -307,7 +311,7 @@
     <prefix>Regulation</prefix>
     <num>.10</num>
     <heading>Performance and Payment Bonds.</heading>
-    <text>Mandatory provision for all construction contracts exceeding $100,000:</text>
+    <text>Mandatory provision for all construction contracts exceeding the small procurement amount for construction contracts in <cite doc="Md. Code" path="gsf|13-109">State Finance and Procurement Article, §13-109, Annotated Code of Maryland</cite>:</text>
     <include>
       <para>
         <num>A.</num>
@@ -550,11 +554,11 @@
         <text>NOW THEREFORE, the condition of this obligation is such that if the Principal shall promptly make payment to all claimants as hereinafter defined, for all labor and materials furnished, supplied and reasonably required for use in the performance of the Contract, then this obligation shall be null and void; otherwise it shall remain in full force and effect, subject to the following conditions:</text>
         <para>
           <num>1.</num>
-          <text>A claimant is defined to be any and all of those persons supplying labor and materials (including lessors of the equipment to the extent of the fair market value thereof) to the Principal or its subcontractors and subcontractors in the prosecution of the work provided for in the Contract, entitled to the protection provided by Section 9-113 of the <cite doc="Md. Code" path="grp">Real Property Article of the Annotated Code of Maryland</cite>, as from time to time amended.</text>
+          <text>A claimant is defined to be any and all of those persons supplying labor and materials (including lessors of the equipment to the extent of the fair market value thereof) to the Principal or its subcontractors and subcontractors in the prosecution of the work provided for in the Contract, entitled to the protection provided by <cite doc="Md. Code" path="gsf">State Finance and Procurement Article, Title 17, Subtitle 1, Annotated Code of Maryland</cite>, as from time to time amended.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>The above named Principal and Surety hereby jointly and severally agree with the Obligee that every claimant as herein defined, who has not been paid in full may, pursuant to and when in compliance with the provisions of the aforesaid Section 9-113, sue on this Bond for the use of such claimant, prosecute the suit to final judgment for such sum or sums as may be justly due claimant and have execution thereon. The Obligee shall not be liable for the payment of any costs or expenses of any such suit.</text>
+          <text>The above named Principal and Surety hereby jointly and severally agree with the Obligee that every claimant as herein defined, who has not been paid in full may, pursuant to and when in compliance with the provisions of <cite doc="Md. Code" path="gsf">State Finance and Procurement Article, Title 17, Subtitle 1, Annotated Code of Maryland</cite>, sue on this Bond for the use of such claimant, prosecute the suit to final judgment for such sum or sums as may be justly due claimant and have execution thereon. The Obligee shall not be liable for the payment of any costs or expenses of any such suit.</text>
         </para>
         <aftertext>The Surety hereby stipulates and agrees that no change, extension of time, alteration or addition to the terms of the Contract or to the work to be performed thereunder or the Specifications accompanying the same shall in any way affect its obligation on this Payment Bond, and it does hereby waive notice of any such change, extension of time, alteration or addition to the terms of the Contract or to the work or to the Specifications.</aftertext>
         <aftertext>This Payment Bond shall be governed by and construed in accordance with the laws of the State of Maryland and any reference herein to Principal or Surety in the singular shall include all entities in the plural who or which are signatories under the Principal or Surety heading below.</aftertext>
@@ -686,16 +690,355 @@
         </aftertext>
       </para>
     </include>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|07|02|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.11</num>
     <heading>Performance and Payment Bonds — Multiyear Annual and Renewable.</heading>
-    <text>
-      <cite path="21|07|02|attachments|21.07.02.11">For full text of Regulation 21.07.02.11, at end of chapter (FORM AT END OF CHAPTER)</cite>
-    </text>
-    <annotations/>
+    <text>Optional forms for multiyear construction contracts exceeding the small procurement amount for construction contracts in <cite doc="Md. Code" path="gsf|13-109">State Finance and Procurement Article, §13-109, Annotated Code of Maryland</cite>, with annual and renewable surety bonds:</text>
+    <para>
+      <num>A.</num>
+      <text>Performance Bond. The required performance bond shall be in the form specified as follows:</text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td colspan="2">ANNUAL PERFORMANCE BOND—RENEWABLE FOR MULTIYEAR AWARDS</td>
+            </tr>
+            <tr>
+              <td>Principal</td>
+              <td class="text-indent-1">Business Address of Principal</td>
+            </tr>
+            <tr>
+              <td>Surety</td>
+              <td class="text-indent-1">Obligee</td>
+            </tr>
+            <tr>
+              <td>a corporation of the State of</td>
+              <td class="text-indent-1">STATE OF MARYLAND</td>
+            </tr>
+            <tr>
+              <td>and authorized to do business in the State of Maryland</td>
+              <td/>
+            </tr>
+            <tr>
+              <td>Penal Sum of Bond (express in words and figures)</td>
+              <td>
+                <p class="text-indent-1">Date Bond Executed</p>
+                <p class="text-indent-10">, 20</p>
+                <p class="text-indent-1">Initial Term Fiscal Year Ending June 30, 20</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>KNOW ALL BY THESE PRESENTS, That we, the Principal named above and Surety named above, are held and firmly bound unto the Obligee named above in the Penal Sum of this Performance Bond stated above, for the payment of which Penal Sum we bind ourselves, our heirs, executors, administrators, personal representatives, successors, and assigns, jointly and severally, firmly by these presents. However, where Surety is composed of corporations acting as co-sureties, we the co-sureties, bind ourselves, our successors and assigns, in such Penal Sum jointly and severally as well as severally only for the purpose of allowing a joint action or actions against any or all of us, and for all other purposes each co-surety binds itself, jointly and severally with the Principal, for the payment of such sum as appears above its name below, but if no limit of liability is indicated, the limit of such liability shall be the full amount of the Penal Sum.</text>
+      <text>WHEREAS, Principal has entered into or will enter into a multiyear contract with the State, by and through the Administration named above acting for the State of Maryland, which contract is described above, and incorporated herein by reference. The contract and all items incorporated into the contract, together with any and all changes, extensions of time, alterations, modifications, or additions to the contract or to the work to be performed thereunder or to the Plans, Specifications, and Special Provisions, or any of them, or to any other items incorporated into the contract shall hereinafter be referred to as the “Contract”.</text>
+      <text>The term of this Bond is for the period beginning on the date the bond is executed and ending on the indicated Initial Term Fiscal Year Ending Date (the “Initial Term”). If requested by the Principal, the Initial Term may be extended, solely at the option of the Surety, for additional one (1) year periods (each a “Renewal Term”), ending on the subsequent Fiscal Year ending date. This Bond shall expire at the end of the Initial Term or, if extended, at the end of the final Renewal Term. Provided that at any time should the surety elect not to extend the bond for a Renewal Term, it must so inform the Obligee in writing prior to ninety (90) days before the expiry of the existing Initial Term or final Renewal Term. If the surety does not so inform the Obligee of its intention not to extend the bond as stated herein, the bond will automatically be deemed extended for an additional Renewal Term.</text>
+      <text>WHEREAS, it is one of the conditions precedent to the final award of the Contract that these presents be executed.</text>
+      <text>NOW, THEREFORE, during the initial term of said Contract, any renewal term, and during any extensions thereto that may be granted by the Administration, and during the guarantee and warranty period, if any, required under the Contract, unless otherwise stated therein, this Performance Bond shall remain in full force and effect unless and until the following terms and conditions are met:</text>
+      <para>
+        <num>1.</num>
+        <text>Principal shall well and truly perform the Contract; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Principal and Surety shall comply with the terms and conditions in this Performance Bond.</text>
+      </para>
+      <aftertext>Whenever Principal shall be declared by the Administration to be in default under the Contract, the Surety may, within 15 days after notice of default from the Administration, notify the Administration of its election to either promptly proceed to remedy the default or promptly proceed to complete the contract in accordance with and subject to its terms and conditions. In the event the Surety does not elect to exercise either of the above stated options, then the Administration thereupon shall have the remaining contract work completed, Surety to remain liable hereunder for all expenses of completion up to but not exceeding the penal sum stated above.</aftertext>
+      <aftertext>The Surety hereby stipulates and agrees that no change, extension of time, alteration or addition to the terms of the Contract or to the work to be performed thereunder or the Specifications accompanying the same shall in any way affect its obligation on this Performance Bond, and it does hereby waive notice of any such change, extension of time, alteration or addition to the terms of the Contract or to the work or to the Specifications.</aftertext>
+      <aftertext>This Performance Bond shall be governed by and construed in accordance with the laws of the State of Maryland and any reference herein to Principal or Surety in the singular shall include all entities in the plural who or which are signatories under the Principal or Surety heading below.</aftertext>
+      <aftertext>IN WITNESS WHEREOF, Principal and Surety have set their hands and seals to this Performance Bond. If any individual is a signatory under the Principal heading below, then each such individual has signed below on his or her own behalf, has set forth below the name of the firm, if any, in whose name he or she is doing business, and has set forth below his or her title as a sole proprietor. If any partnership or joint venture is a signatory under the Principal heading below, then all members of each such partnership or joint venture have signed below, each member has set forth below the name of the partnership or joint venture, and each member has set forth below his or her title as a general partner, limited partner, or member of joint venture, whichever is applicable. If any corporation is a signatory under the Principal or Surety heading below, then each such corporation has caused the following: the corporation’s name to be set forth below, a duly authorized representative of the corporation to affix below the corporation’s seal and to attach hereto a notarized corporate resolution of power of attorney authorizing such action, and each such duly authorized representative to sign below and set forth below his or her title as a representative of the corporation. If any individual acts as a witness to any signature below, then each such individual has signed below and has set forth below his or her title as a witness. All of the above has been done as of the Date of Bond shown above.</aftertext>
+      <aftertext>
+        <table>
+          <tbody>
+            <tr>
+              <td>In Presence of:</td>
+              <td>Individual Principal</td>
+            </tr>
+            <tr>
+              <td>
+                <p>Witness:</p>
+                <p class="text-indent-14">as to</p>
+              </td>
+              <td class="text-indent-15">(SEAL)</td>
+            </tr>
+            <tr>
+              <td>In Presence of:</td>
+              <td>Co-Partnership Principal</td>
+            </tr>
+            <tr>
+              <td>Witness:</td>
+              <td class="text-indent-15">(SEAL)</td>
+            </tr>
+            <tr>
+              <td/>
+              <td>(Name of Co-Partnership)</td>
+            </tr>
+            <tr>
+              <td class="text-indent-14">as to</td>
+              <td>By:	(SEAL)</td>
+            </tr>
+            <tr>
+              <td class="text-indent-14">as to</td>
+              <td class="text-indent-15">(SEAL)</td>
+            </tr>
+            <tr>
+              <td class="text-indent-14">as to</td>
+              <td class="text-indent-15">(SEAL)</td>
+            </tr>
+            <tr>
+              <td/>
+              <td>Corporate Principal</td>
+            </tr>
+            <tr>
+              <td/>
+              <td/>
+            </tr>
+            <tr>
+              <td>Attest:</td>
+              <td>(Name of Corporation)</td>
+            </tr>
+            <tr>
+              <td/>
+              <td>AFFIX</td>
+            </tr>
+            <tr>
+              <td class="text-indent-14">as to</td>
+              <td>By: 	CORPORATE</td>
+            </tr>
+            <tr>
+              <td>Corporate Secretary</td>
+              <td class="text-indent-1">President	SEAL</td>
+            </tr>
+            <tr>
+              <td/>
+              <td/>
+            </tr>
+            <tr>
+              <td/>
+              <td>(Corporate Surety)</td>
+            </tr>
+            <tr>
+              <td>Attest:	(SEAL)</td>
+              <td>By: 	 (SEAL)</td>
+            </tr>
+            <tr>
+              <td/>
+              <td>Title</td>
+            </tr>
+            <tr>
+              <td>Signature</td>
+              <td/>
+            </tr>
+            <tr>
+              <td>Bonding Agent’s Name:</td>
+              <td/>
+            </tr>
+            <tr>
+              <td/>
+              <td>(Business Address of Surety)</td>
+            </tr>
+            <tr>
+              <td>Agent’s Address</td>
+              <td/>
+            </tr>
+            <tr>
+              <td/>
+              <td>Approved as to legal form and sufficiency this</td>
+            </tr>
+            <tr>
+              <td/>
+              <td class="text-indent-2">day of 	20</td>
+            </tr>
+            <tr>
+              <td/>
+              <td/>
+            </tr>
+            <tr>
+              <td/>
+              <td>Asst. Attorney General</td>
+            </tr>
+          </tbody>
+        </table>
+      </aftertext>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Payment Bond. The required payment bond shall be in the form specified as follows:</text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td colspan="2">ANNUAL PAYMENT BOND – RENEWABLE FOR MULTIYEAR AWARDS</td>
+            </tr>
+            <tr>
+              <td>Principal</td>
+              <td class="text-indent-1">Business Address of Principal</td>
+            </tr>
+            <tr>
+              <td>Surety</td>
+              <td class="text-indent-1">Obligee</td>
+            </tr>
+            <tr>
+              <td>a corporation of the State of</td>
+              <td class="text-indent-1">STATE OF MARYLAND</td>
+            </tr>
+            <tr>
+              <td>and authorized to do business in the State of Maryland</td>
+              <td/>
+            </tr>
+            <tr>
+              <td>Penal Sum of Bond (express in words and figures)</td>
+              <td>
+                <p class="text-indent-1">Date Bond Executed</p>
+                <p class="text-indent-10">, 20</p>
+              </td>
+            </tr>
+            <tr>
+              <td/>
+              <td class="text-indent-1">Initial Term Fiscal Year Ending June 30, 20</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>KNOW ALL BY THESE PRESENTS, That we, the Principal named above and Surety named above, being authorized to do business in Maryland, and having business address as shown above, are held and firmly bound unto the Obligee named above, for the use and benefit of claimants as hereinafter defined, in the Penal Sum of this Payment Bond stated above, for the payment of which Penal Sum we bind ourselves, our heirs, executors, administrators, personal representatives, successors, and assigns, jointly and severally, firmly by these co-sureties, bind ourselves, our successors and assigns, in such Penal Sum jointly and severally as well as severally only for the purpose of allowing a joint action or actions against any or all of us, and for all other purposes each co-surety binds itself, jointly and severally with the Principal, for the payment of such sum as appears above its name below, but if no limit of liability is indicated, the limit of such liability shall be the full amount of the Penal Sum.</text>
+      <text>WHEREAS, Principal has entered into or will enter into a multiyear contract with the State, by and through the Administration named above acting for the State of Maryland, which contract is described above, and incorporated herein by reference. The contract and all items incorporated into the contract, together with any and all changes, extensions of time, alterations, modifications, or additions to the contract or to the work to be performed thereunder or to the Plans, Specifications, and Special Provisions, or any of them, or to any other items incorporated into the contract shall hereinafter be referred to as the “Contract”.</text>
+      <text>The term of this Bond is for the period beginning on the date the bond is executed and ending on the indicated Initial Term Fiscal Year Ending Date (the “Initial Term”). If requested by the Principal, the Initial Term may be extended, solely at the option of the Surety, for additional one (1) year periods (each a “Renewal Term”), ending on the subsequent Fiscal Year ending date. This Bond shall expire at the end of the Initial Term or, if extended, at the end of the final Renewal Term. Provided that at any time should the surety elect not to extend the bond for a Renewal Term, it must so inform the Obligee in writing prior to ninety (90) days before the expiry of the existing Initial Term or final Renewal Term. If the surety does not so inform the Obligee of its intention not to extend the bond as stated herein, the bond will automatically be deemed extended for an additional Renewal Term.</text>
+      <text>WHEREAS, it is one of the conditions precedent to the final award of the Contract that these presents be executed.</text>
+      <text>NOW THEREFORE, the condition of this obligation is such that if the Principal shall promptly make payment to all claimants as hereinafter defined, for all labor and materials furnished, supplied and reasonably required for use in the performance of the Contract, then this obligation shall be null and void; otherwise it shall remain in full force and effect, subject to the following conditions:</text>
+      <para>
+        <num>1.</num>
+        <text>A claimant is defined to be any and all of those persons supplying labor and materials (including lessors of the equipment to the extent of the fair market value thereof) to the Principal or its subcontractors and subcontractors in the prosecution of the work provided for in a Contract, entitled to the protection provided by <cite doc="Md. Code" path="gsf">State Finance and Procurement Article, Title 17, Subtitle 1, Annotated Code of Maryland</cite>, as from time to time amended.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The above named Principal and Surety hereby jointly and severally agree with the Obligee that every claimant as herein defined, who has not been in full may, pursuant to and when in compliance with the provisions of <cite doc="Md. Code" path="gsf">State Finance and Procurement Article, Title 17, Subtitle 1, Annotated Code of Maryland</cite>, sue on this Bond for the use of such claimant, prosecute the suit to final judgment for such sum or sums as may be justly due claimant and have execution thereon. The Obligee shall not be liable for the payment of any costs or expenses of any such suit.</text>
+      </para>
+      <aftertext>The Surety hereby stipulates and agrees that no change, extension of time, alteration or addition to the terms of a Contract or to the work to be performed thereunder or the Specifications accompanying the same shall in any way affect its obligation on this Payment Bond, and it does hereby waive notice of any such change, extension of time, alteration or addition to the terms of a Contract or to the work or to the Specifications.</aftertext>
+      <aftertext>This Payment Bond shall be governed by and construed in accordance with the laws of the State of Maryland and any reference herein to Principal or Surety in the singular shall include all entities in the plural who or which are signatories under the Principal or Surety heading below.</aftertext>
+      <aftertext>IN WITNESS WHEREOF, Principal and Surety have set their hands and seals to this Payment Bond. If any individual is a signatory under the Principal heading below, then each such individual has signed below on his or her own behalf, has set forth below the name of the firm, if any, in whose name he or she is doing business, and has set forth below his or her title as a sole proprietor. If any partnership or joint venture is a signatory under the Principal heading below, then all members of each such partnership or joint venture have signed below, each member has set forth below the name of the partnership or joint venture, and</aftertext>
+    </para>
+    <aftertext>each member has set forth below his or her title as a general partner, limited partner, or member of joint venture, whichever is applicable. If any corporation is a signatory under the Principal or Surety heading below, then each such corporation has caused the following: the corporation’s name to be set forth below, a duly authorized representative of the corporation to affix below the corporation’s seal and to attach hereto a notarized corporate resolution of power of attorney authorizing such action, and each such duly authorized representative to sign below and set forth below his or her title as a representative of the corporation. If any individual acts as a witness to any signature below, then each such individual has signed below and has set forth below his or her title as a witness. All of the above has been done as of the Date of Bond shown above.</aftertext>
+    <aftertext>
+      <table>
+        <tbody>
+          <tr>
+            <td>In Presence of:</td>
+            <td>Individual Principal</td>
+          </tr>
+          <tr>
+            <td>
+              <p>Witness:</p>
+              <p class="text-indent-14">as to</p>
+            </td>
+            <td class="text-indent-15">(SEAL)</td>
+          </tr>
+          <tr>
+            <td>In Presence of:</td>
+            <td>Co-Partnership Principal</td>
+          </tr>
+          <tr>
+            <td>Witness:</td>
+            <td class="text-indent-15">(SEAL)</td>
+          </tr>
+          <tr>
+            <td/>
+            <td>(Name of Co-Partnership)</td>
+          </tr>
+          <tr>
+            <td class="text-indent-14">as to</td>
+            <td>By:	(SEAL)</td>
+          </tr>
+          <tr>
+            <td class="text-indent-14">as to</td>
+            <td class="text-indent-15">(SEAL)</td>
+          </tr>
+          <tr>
+            <td class="text-indent-14">as to</td>
+            <td class="text-indent-15">(SEAL)</td>
+          </tr>
+          <tr>
+            <td/>
+            <td>Corporate Principal</td>
+          </tr>
+          <tr>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td>Attest:</td>
+            <td>(Name of Corporation)</td>
+          </tr>
+          <tr>
+            <td/>
+            <td>AFFIX</td>
+          </tr>
+          <tr>
+            <td/>
+            <td>By: 	CORPORATE</td>
+          </tr>
+          <tr>
+            <td>Corporate Secretary</td>
+            <td class="text-indent-1">President	SEAL</td>
+          </tr>
+          <tr>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td/>
+            <td>(Corporate Surety)</td>
+          </tr>
+          <tr>
+            <td>Attest:	(SEAL)</td>
+            <td>By: 	(SEAL)</td>
+          </tr>
+          <tr>
+            <td/>
+            <td>Title</td>
+          </tr>
+          <tr>
+            <td>Signature</td>
+            <td/>
+          </tr>
+          <tr>
+            <td>Bonding Agent’s Name:</td>
+            <td/>
+          </tr>
+          <tr>
+            <td/>
+            <td>(Business Address of Surety)</td>
+          </tr>
+          <tr>
+            <td>Agent’s Address</td>
+            <td/>
+          </tr>
+          <tr>
+            <td/>
+            <td>Approved as to legal form and sufficiency this</td>
+          </tr>
+          <tr>
+            <td/>
+            <td class="text-indent-2">day of 	20</td>
+          </tr>
+          <tr>
+            <td/>
+            <td/>
+          </tr>
+          <tr>
+            <td/>
+            <td>Asst. Attorney General</td>
+          </tr>
+        </tbody>
+      </table>
+    </aftertext>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|07|02|.11" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -722,6 +1065,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-15"><cite path="|21|07|02|.05">Regulation .05</cite> amended effective July 15, 2019 (46:14 Md. R. 623)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-10-06"><cite path="|21|07|02|.05-1">Regulation .05-1</cite> adopted effective October 6, 1997 (24:20 Md. R. 1405)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-01-24"><cite path="|21|07|02|.05-1E">Regulation .05-1E</cite> amended effective January 24, 2000 (27:1 Md. R. 78)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|07|02|.05-1G">Regulation .05-1G</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-10-02"><cite path="|21|07|02|.05-2">Regulation .05-2</cite> adopted effective October 2, 2000 (27:19 Md. R. 1730)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|07|02|.05-2">Regulation .05-2</cite> amended effective July 9, 2001 (28:13 Md. R. 1216); September 18, 2023 (50:18 Md. R. 800); March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2001-07-09"><cite path="|21|07|02|.05-3">Regulation .05-3</cite> adopted effective July 9, 2001 (28:13 Md. R. 1216)</annotation>
@@ -731,10 +1075,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-15"><cite path="|21|07|02|.09">Regulation .09</cite> amended effective July 15, 2019 (46:14 Md. R. 623)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16"><cite path="|21|07|02|.10">Regulation .10</cite> amended effective May 20, 1996 (23:10 Md. R. 733); February 23, 2009 (36:4 Md. R. 355); March 16, 2015 (42:5 Md. R. 488)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|07|02|.10|A.">Regulation .10A</cite> amended effective March 11, 2019 (46:5 Md. R. 310); March 3, 2025 (52:4 Md. R. 221)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|07|02|.10|B.">Regulation .10B</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-15"><cite path="|21|07|02|.11">Regulation .11</cite> adopted effective July 15, 2019 (46:14 Md. R. 623)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|07|02|.11">Regulation .11</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-05-17"><cite path="|21|07|02|.12">Regulation .12</cite> adopted effective May 17, 2021 (48:10 Md. R. 401)</annotation>
   </annotations>
   <attachments>
-    <attachment name="21.07.02.11" url="/us/md/exec/comar/initial-attachments/21.07.02.11.pdf"/>
+    <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|07|02|attachments|21.07.02.11" type="History" display="false"/>
   </attachments>
 </container>

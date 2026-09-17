@@ -90,10 +90,12 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>“Party” means a licensee, registrant, selected applicant, or the Administrative Prosecutor.</text>
+        <text>“Party” means a licensee, registrant, selected applicant, or the Administration.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|22|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -256,7 +258,7 @@
     </para>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="14|17|22|.09">
     <prefix>Regulation</prefix>
     <num>.09</num>
     <heading>Hearings.</heading>
@@ -274,6 +276,58 @@
     </para>
     <para>
       <num>B.</num>
+      <text>Discovery.</text>
+      <para>
+        <num>(1)</num>
+        <text>Discovery on Request. By written request filed with the hearing officer and served on other parties at least 20 calendar days before the scheduled hearing, a party may require another party to produce, within 15 calendar days:</text>
+        <para>
+          <num>(a)</num>
+          <text>A list of witnesses to be called;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Copies of documents intended to be produced at the hearings; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The name and curriculum vitae of any expert who will testify at the hearing.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Stipulation of Discovery.</text>
+        <para>
+          <num>(a)</num>
+          <text>By stipulation of the parties, filed not later than 30 calendar days before the scheduled hearing, a party may request documents, objects, or tangible items, including electronically stored information, for inspection and copying to be produced within 15 calendar days of the stipulation that is:</text>
+          <para>
+            <num>(i)</num>
+            <text>Relevant to the subject matter of the case; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Not privileged.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If such a stipulation is entered, the hearing officer may issue such orders as are necessary to implement discovery.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Parties are not entitled to discovery of items other than as listed in <cite path="14|17|22|.09|B.|(1)">§B(1) of this regulation</cite> or by stipulation as described in <cite path="14|17|22|.09|B.|(2)">§B(2) of this regulation</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Parties may request governmental documents under the Maryland Public Information Act, <cite doc="Md. Code" path="gsg">State Government Article, Title 43, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Unless provided by law or by agreement of the parties, no other discovery procedure may be required.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
       <text>Written Subpoenas.</text>
       <para>
         <num>(1)</num>
@@ -301,7 +355,7 @@
       </para>
     </para>
     <para>
-      <num>C.</num>
+      <num>D.</num>
       <text>Evidence.</text>
       <para>
         <num>(1)</num>
@@ -317,7 +371,7 @@
       </para>
     </para>
     <para>
-      <num>D.</num>
+      <num>E.</num>
       <text>Burden of Proof.</text>
       <para>
         <num>(1)</num>
@@ -337,7 +391,7 @@
       </para>
     </para>
     <para>
-      <num>E.</num>
+      <num>F.</num>
       <text>Construction.</text>
       <para>
         <num>(1)</num>
@@ -349,7 +403,7 @@
       </para>
     </para>
     <para>
-      <num>F.</num>
+      <num>G.</num>
       <text>Hearings Conducted by Electronic Means.</text>
       <para>
         <num>(1)</num>
@@ -365,7 +419,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>For a telephone, video, or other electronic hearing, the following may be considered a failure to appear and result in the assessment or denial of the application for refund becoming final and not subject to appeal:</text>
+        <text>For a telephone, video, or other electronic hearing, the following may be considered a failure to appear and shall result in a final order being issued by the Administration:</text>
         <para>
           <num>(a)</num>
           <text>Failure to answer the telephone for 15 minutes from the time set for the hearing;</text>
@@ -380,7 +434,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|22|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -464,10 +520,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|22|.01">.01</cite>—<cite path="|14|17|22|.12">.12</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|22|.01">.01</cite>—<cite path="|14|17|22|.12">.12</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|22|.01|A.">Regulation .01A</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|22|.02|B.">Regulation .02B</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|22|.02|B.">Regulation .02B</cite> amended effective April 14, 2025 (52:7 Md. R. 324); September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|22|.06|C.">Regulation .06C</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|22|.07|B.">Regulation .07B</cite>, C amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|22|.09">Regulation .09</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|22|.09">Regulation .09</cite> amended effective April 14, 2025 (52:7 Md. R. 324); September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|22|.10">Regulation .10</cite> amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>
   </annotations>
 </container>

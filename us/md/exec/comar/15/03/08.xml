@@ -48,8 +48,8 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:13  26-043-E  (Regulation .01) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
       <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-043-E" target-path="15|03|08|.01" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-043-F" target-path="15|03|08|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -193,9 +193,9 @@
       <text>Device registration fee 30 days or more delinquent—$125 per account.</text>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:13  26-043-E  (Regulation .05) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
       <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-144-F" target-path="15|03|08|.05" type="History" display="false"/>
       <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-043-E" target-path="15|03|08|.05" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-043-F" target-path="15|03|08|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -227,9 +227,9 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Agriculture Article, §§<cite doc="Md. Code" path="gag|11-204">11-204</cite>.<cite doc="Md. Code" path="gag|1">1</cite>—11-204.7, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-10-12">Effective date: October 12, 1992 (19:20 Md. R. 1818)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|15|03|08|.01|B.">Regulation .01B</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. 583)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|15|03|08|.01|B.">Regulation .01B</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. 583); amended permanently effective August 17, 2026 (53:16 Md. R. 688)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-09-29"><cite path="|15|03|08|.05">Regulation .05</cite> amended effective October 2, 2000 (27:19 Md. R. 1728); September 29, 2025 (52:19 Md. R. 957)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-04"><cite path="|15|03|08|.05|Q.">Regulation .05Q</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. 583)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|15|03|08|.05|Q.">Regulation .05Q</cite> amended as an emergency provision effective June 4, 2026 (53:13 Md. R. 583); amended permanently effective August 17, 2026 (53:16 Md. R. 688)</annotation>
     <annotation app="2025-09-29" doc="Maryland Register, Volume 52, Issue 19" eff="2025-09-29" path="regulations|final|25-144-F" target-path="15|03|08|annos" type="History" display="false"/>
   </annotations>
 </container>

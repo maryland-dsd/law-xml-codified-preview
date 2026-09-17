@@ -9,7 +9,7 @@
     <heading>Patent Tong Areas.</heading>
     <para>
       <num>A.</num>
-      <text>A person may not use patent tongs to catch oysters in any of the waters listed in this section.</text>
+      <text>A person may not use patent tongs to catch or attempt to catch oysters in any of the waters listed in this section.</text>
       <para>
         <num>(1)</num>
         <text>Tidal waters of the following counties, other than those waters included as part of the Chesapeake Bay, Tangier Sound, and Pocomoke Sound as defined by <cite path="08.02.01.06|B.">COMAR 08.02.01.06B</cite>:</text>
@@ -53,7 +53,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Exceptions. A person may catch oysters by patent tong in the areas listed in this section.</text>
+      <text>Exceptions. A person may catch or attempt to catch oysters by patent tong in the areas listed in this section.</text>
       <para>
         <num>(1)</num>
         <text>Natural Oyster Bar 5-2: All of the waters enclosed by a line beginning at a point defined by Lat. 39°6.272’ N, Long. 76°17.175’ W; then running 335° True to a point defined by Lat. 39°6.765’ N, Long. 76°17.464’ W; then running 63° True to a point defined by Lat. 39°6.861’ N, Long. 76°17.222’ W; then running 143° True to a point defined by Lat. 39°6.575’ N, Long. 76°16.944’ W; then running 211° True to the point of beginning.</text>
@@ -79,7 +79,9 @@
         <text>Patuxent River. All of the waters of the Patuxent River enclosed by a line beginning at a point on the shore at Hog Point defined by Lat. 38°18.586' N, Long. 76°23.993' W; then running westerly along the shore to a point on the shore at Fishing Point defined by Lat. 38°18.285' N, Long. 76°25.355' W; then running 345° True to a point defined by Lat. 38°18.525' N, Long. 76°25.434' W; then running 251° True to a point defined by Lat. 38°18.271' N, Long. 76°26.356' W; then running 196° True to a point on the shore, defined by Lat. 38°17.503' N, Long. 76°26.640' W; then running northwesterly along the shore to a point on shore at Sotterly Wharf, defined by Lat. 38°22.728' N, Long. 76°32.003' W; then running 77° True to a point near St Leonard’s Creek Beacon, defined by Lat. 38°23.065' N, Long. 76°30.177' W; then running 77° True to a point on the shore, defined by Lat. 38°23.128' N, Long. 76°29.826' W; then running southeasterly along the shore to a point defined by Lat. 38°20.631' N, Long. 76°28.241' W; then running 282° True to a point defined by Lat. 38°20.638' N, Long. 76°28.287' W; then running 213° True to a point defined by Lat. 38°20.008' N, Long. 76°28.815' W; then running 132° True to a point on the shore, defined by Lat. 38°19.983' N, Long. 76°28.780' W; then running southeasterly along the shore to a point at the south entrance of Solomon’s Harbor, defined by Lat. 38°19.263' N, Long. 76°27.103' W; then running 7° True to a point at the north entrance of Solomon’s Harbor, defined by Lat. 38°19.370' N, Long. 76°27.087' W; then running easterly along the shore to Drum Point defined by Lat. 38°19.143' N, Long. 76°25.266' W; then running 119° True to the point of beginning, excluding the waters of Neal Addition Sanctuary which is defined as: All of the waters of the area enclosed by a line beginning at a point defined by Lat. 38°22.480' N, Long. 76°31.460' W; then running approximately 307° True to a point defined by Lat. 38°22.552' N, Long. 76°31.580' W; then running approximately 28° True to a point defined by Lat. 38°22.612' N, Long. 76°31.540' W; then running approximately 127° True to a point defined by Lat. 38°22.540' N, Long. 76°31.420' W; then running approximately 208° True to the point of beginning.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|04|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|04|.02">
     <prefix>Regulation</prefix>
@@ -99,13 +101,15 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Lawful Methods. A person may catch oysters for recreational purposes only by hand, rake, shaft tong, or diving with or without scuba equipment.</text>
+      <text>Lawful Methods. A person may catch or attempt to catch oysters for recreational purposes only by hand, rake, shaft tong, or diving with or without scuba equipment.</text>
     </para>
     <para>
       <num>E.</num>
       <text>A person may not take oysters for recreational purposes while aboard a vessel where any other person is engaged in commercial oystering.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|04|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|04|.03">
     <prefix>Regulation</prefix>
@@ -129,14 +133,14 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Lawful Methods. A person may catch oysters for commercial purposes only by shaft tong, patent tong, diving apparatus, dredge boat, dredge boat propelled by means of an auxiliary yawl boat, or power dredge.</text>
+      <text>Lawful Methods. A person may catch or attempt to catch oysters for commercial purposes only by shaft tong, patent tong, diving apparatus, dredge boat, dredge boat propelled by means of an auxiliary yawl boat, or power dredge.</text>
     </para>
     <para>
       <num>C.</num>
       <text>Times for Catching.</text>
       <para>
         <num>(1)</num>
-        <text>During an open season in November and December, a person may catch oysters for commercial purposes only from:</text>
+        <text>During an open season in November and December, a person may catch or attempt to catch oysters for commercial purposes only from:</text>
         <para>
           <num>(a)</num>
           <text>Sunrise until sunset when using shaft tong, patent tong, diving apparatus, dredge boat, or dredge boat propelled by means of an auxiliary yawl boat; and</text>
@@ -148,7 +152,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Except as described in <cite path="08|02|04|.03|C.|(1)">§C(1) of this regulation</cite>, during an open season a person may catch oysters for commercial purposes only from:</text>
+        <text>Except as described in <cite path="08|02|04|.03|C.|(1)">§C(1) of this regulation</cite>, during an open season a person may catch or attempt to catch oysters for commercial purposes only from:</text>
         <para>
           <num>(a)</num>
           <text>Sunrise until 3 p.m. when using shaft tong, patent tong, dredge boat, diving apparatus, or power dredge; and</text>
@@ -187,7 +191,9 @@
       <num>G.</num>
       <text>In addition to the requirements of this chapter, a commercial licensee shall harvest oysters in accordance with the National Shellfish Sanitation Program Model Ordinance that is incorporated by reference by the Maryland Department of Health in <cite path="10.15.07.01|A.">COMAR 10.15.07.01A</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|04|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|04|.04">
     <prefix>Regulation</prefix>
@@ -591,7 +597,7 @@
     <heading>Dredge Boat Areas.</heading>
     <para>
       <num>A.</num>
-      <text>Except as listed in <cite path="08|02|04|.08|B.">§B of this regulation</cite> a person may catch oysters by a dredge boat, as defined in <cite doc="Md. Code" path="gnr|4-1001">Natural Resources Article, §4-1001(g), Annotated Code of Maryland</cite>, only in the following waters:</text>
+      <text>Except as listed in <cite path="08|02|04|.08|B.">§B of this regulation</cite> a person may catch or attempt to catch oysters by a dredge boat, as defined in <cite doc="Md. Code" path="gnr|4-1001">Natural Resources Article, §4-1001(g), Annotated Code of Maryland</cite>, only in the following waters:</text>
       <para>
         <num>(1)</num>
         <text>All of the waters of Hoopers Straits enclosed by a line beginning at a point defined by Lat. 38°11.923’ N, Long. 76°5.674’ W; then running 309° True to a point defined by the shore of Richland Point defined by Lat. 38°14.846’ N, Long. 76°10.332’ W; then running easterly along the shore of Lower Hoopers Island to a point defined by Lat. 38°13.968’ N, Long. 76°7.871’ W; then running 92° True to a point defined by Lat. 38°13.93’ N, Long. 76°6.66’ W; then running 150° True to a point defined by Lat. 38°13.203’ N, Long. 76°6.122’ W; then running 165° True to the point of beginning;</text>
@@ -619,7 +625,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Exceptions. A person may not catch oysters by dredge boat in the areas listed in this section.</text>
+      <text>Exceptions. A person may not catch or attempt to catch oysters by dredge boat in the areas listed in this section.</text>
       <para>
         <num>(1)</num>
         <text>Pocomoke Sound, as defined by <cite path="08.02.01.06|B.|(5)">COMAR 08.02.01.06B(5)</cite>.</text>
@@ -645,7 +651,9 @@
         <text>Chesapeake Bay. All areas described in <cite doc="Md. Code" path="gnr|4-1012">Natural Resources Article, §4-1012(a), Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|04|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -836,7 +844,7 @@
     <heading>Dredging with an Auxiliary Yawl Boat.</heading>
     <para>
       <num>A.</num>
-      <text>A dredge boat may be propelled by means of an auxiliary yawl boat carried on the dredge boat to catch oysters in areas where dredge boats are permitted, except in:</text>
+      <text>A dredge boat may be propelled by means of an auxiliary yawl boat carried on the dredge boat to catch or attempt to catch oysters in areas where dredge boats are permitted, except in:</text>
       <para>
         <num>(1)</num>
         <text>The waters upstream of a line in the Choptank River extending from a point at or near Martin Point defined by Lat. 38°37.695’ N, Long. 76°7.323’ W; then running approximately 212° True to a point defined by Lat. 38°36.791’ N, Long. 76°8.067’ W;</text>
@@ -852,13 +860,15 @@
     </para>
     <para>
       <num>B.</num>
-      <text>A dredge boat may be propelled in accordance with <cite path="08|02|04|.10|A.">§A of this regulation</cite> for not more than 2 of the days of the week, specified by public notice, that a person may catch oysters for commercial purposes during the season for dredging oysters.</text>
+      <text>A dredge boat may be propelled in accordance with <cite path="08|02|04|.10|A.">§A of this regulation</cite> for not more than 2 of the days of the week, specified by public notice, that a person may catch or attempt to catch oysters for commercial purposes during the season for dredging oysters.</text>
     </para>
     <para>
       <num>C.</num>
       <text>Notice shall be provided to the Department in advance of each day a dredge boat is propelled in accordance with <cite path="08|02|04|.10|A.">§A of this regulation</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|04|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="08|02|04|.11">
     <prefix>Regulation</prefix>
@@ -1116,7 +1126,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Power Dredge Study Areas. An individual may catch oysters only by power dredge in the areas listed in §C(1)—(3) of this regulation.</text>
+      <text>Power Dredge Study Areas. An individual may catch or attempt to catch oysters only by power dredge in the areas listed in §C(1)—(3) of this regulation.</text>
       <para>
         <num>(1)</num>
         <text>Queen Anne’s County Power Dredge Study Areas:</text>
@@ -1202,7 +1212,9 @@
         <text>A violation of the restrictions set by the Secretary in accordance with this section is a violation of this regulation.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|04|.12" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1333,9 +1345,9 @@
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-2">4-2</cite>A-<cite doc="Md. Code" path="gnr|03">03</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>, <cite doc="Md. Code" path="gnr|4-1008">4-1008</cite>.1, 4-1009, 4-1009.1, 4-1012, 4-1013, 4-1015, 4-1015.1, 4-1018, 4-1019,<br/>4-1019.2, 4-1027, 4-1103, 4-1106, 4-11A-04, 4-11A-05, and 4-11A-12, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-2">4-2</cite>A-<cite doc="Md. Code" path="gnr|03">03</cite>, <cite doc="Md. Code" path="gnr|4-221">4-221</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>, <cite doc="Md. Code" path="gnr|4-1008">4-1008</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|4-1009">4-1009</cite>, <cite doc="Md. Code" path="gnr|4-1009">4-1009</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|4-1012">4-1012</cite>, <cite doc="Md. Code" path="gnr|4-1013">4-1013</cite>, <cite doc="Md. Code" path="gnr|4-1015">4-1015</cite>, <cite doc="Md. Code" path="gnr|4-1015">4-1015</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|4-1018">4-1018</cite>, <cite doc="Md. Code" path="gnr|4-1019">4-1019</cite>,<br/>4-1019.2, 4-1027, 4-1103, 4-1106, 4-11A-04, 4-11A-05, and 4-11A-12, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-07-23">Effective date: July 23, 1975 (2:16 Md. R. 1138)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-10-07"><cite path="|08|02|04|.01">Regulation .01</cite> amended effective November 29, 2010 (37:24 Md. R. 1657); October 7, 2019 (46:20 Md. R. 843)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|04|.01">Regulation .01</cite> amended effective November 29, 2010 (37:24 Md. R. 1657); October 7, 2019 (46:20 Md. R. 843); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-05"><cite path="|08|02|04|.01|B.">Regulation .01B</cite> amended effective October 5, 2020 (47:20 Md. R. 874)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-06-21"><cite path="|08|02|04|.02">Regulation .02</cite> amended effective August 15, 1983 (10:16 Md. R. 1450); June 21, 1993 (20:12 Md. R. 996)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-12-28"><cite path="|08|02|04|.02">Regulation .02</cite> amended as an emergency provision effective September 14, 1998 (25:21 Md. R. 1570); amended permanently effective December 28, 1998 (25:26 Md. R. 1919)</annotation>
@@ -1352,7 +1364,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-09-15">Regulations .02B and .06 amended as an emergency provision effective September 15, 1996 (23:19 Md. R. 1370); emergency status expired March 31, 1997</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-10-01">Regulations .02B and .06 amended as an emergency provision effective October 1, 1997 (24:22 Md. R. 1549); emergency status expired April 1, 1998</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|08|02|04|.02|B.">Regulation .02B</cite> amended effective April 20, 2009 (36:8 Md. R. 595); October 19, 2009 (36:21 Md. R. 1590)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-31"><cite path="|08|02|04|.02|D.">Regulation .02D</cite> amended effective July 31, 1995 (22:15 Md. R. 1118)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|04|.02|D.">Regulation .02D</cite> amended effective July 31, 1995 (22:15 Md. R. 1118); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-03-17"><cite path="|08|02|04|.02|F.">Regulation .02F</cite> adopted effective March 17, 1976 (3:6 Md. R. 358)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-08-15"><cite path="|08|02|04|.03">Regulation .03</cite> amended effective August 15, 1983 (10:16 Md. R. 1450)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-12-28"><cite path="|08|02|04|.03">Regulation .03</cite> repealed and new Regulation .03 adopted as an emergency provision effective September 14, 1998 (25:21 Md. R. 1570); adopted permanently effective December 28, 1998 (25:26 Md. R. 1919)</annotation>
@@ -1362,8 +1374,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-10-19"><cite path="|08|02|04|.03|A.">Regulation .03A</cite> amended effective April 20, 2009 (36:8 Md. R. 595); October 19, 2009 (36:21 Md. R. 1590)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-05-29"><cite path="|08|02|04|.03|B.">Regulation .03B</cite> amended effective May 29, 1981 (8:11 Md. R. 972)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-12-11"><cite path="|08|02|04|.03|B.">Regulation .03B</cite> amended as an emergency provision effective November 1, 2000 (27:20 Md. R. 1835); amended permanently effective December 11, 2000 (27:24 Md. R. 2199)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-10-11"><cite path="|08|02|04|.03|B.">Regulation .03B</cite> amended effective October 11, 2004 (31:20 Md. R. 1484)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|08|02|04|.03|C.">Regulation .03C</cite> amended effective November 5, 2007 (34:22 Md. R. 1976); November 13, 2023 (50:22 Md. R. 973)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|04|.03|B.">Regulation .03B</cite> amended effective October 11, 2004 (31:20 Md. R. 1484); August 31, 2026 (53:17 Md. R. 710)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|04|.03|C.">Regulation .03C</cite> amended effective November 5, 2007 (34:22 Md. R. 1976); November 13, 2023 (50:22 Md. R. 973); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-11-05"><cite path="|08|02|04|.03|D.">Regulation .03D</cite> adopted effective November 5, 2007 (34:22 Md. R. 1976)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-08-18"><cite path="|08|02|04|.03|E.">Regulation .03E</cite> adopted as an emergency provision effective August 18, 2011 (38:19 Md. R. 1143); emergency status expired January 9, 2012</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-01-09"><cite path="|08|02|04|.03|E.">Regulation .03E</cite> adopted effective January 9, 2012 (38:27 Md. R. 1763)</annotation>
@@ -1395,7 +1407,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1978-06-30"><cite path="|08|02|04|.07|B.">Regulation .07B</cite> amended effective June 30, 1978 (5:13 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-10-04"><cite path="|08|02|04|.08">Regulation .08</cite>, Oyster Culling — Commercial, adopted as an emergency provision effective October 10, 1978 (5:21 Md. R. 1584), expired February 28, 1979; March 21, 1979 (6:7 Md. R. 575), expired August 4, 1979; October 4, 1979 (6:21 Md. R. 1705), expired March 31, 1980</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-03-29"><cite path="|08|02|04|.08">Regulation .08</cite> adopted effective March 29, 1982 (9:6 Md. R. 613)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-10-07"><cite path="|08|02|04|.08">Regulation .08</cite> amended effective November 29, 2010 (37:24 Md. R. 1657); October 7, 2019 (46:20 Md. R. 843)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|04|.08">Regulation .08</cite> amended effective November 29, 2010 (37:24 Md. R. 1657); October 7, 2019 (46:20 Md. R. 843); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1977-02-09"><cite path="|08|02|04|.09">Regulation .09</cite>, Handscraping for Oysters, adopted as an emergency provision effective February 9, 1977 (4:6 Md. R. 503), expired February 23, 1977</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-09-15"><cite path="|08|02|04|.09">Regulation .09</cite>, Power Assisted Hand Tonging, adopted as an emergency provision effective September 15, 1982 (9:21 Md. R. 2103), expired January 15, 1983</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1983-09-12"><cite path="|08|02|04|.09">Regulation .09</cite>, Areas Reserved for Hand Tonging, Exceptions, adopted effective September 12, 1983 (10:18 Md. R. 1607)</annotation>
@@ -1408,7 +1420,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-12-28"><cite path="|08|02|04|.10">Regulation .10</cite>, Dredging with an Auxiliary Yawl Boat, adopted as an emergency provision effective September 14, 1998 (25:21 Md. R. 1570); adopted permanently effective December 28, 1998 (25:26 Md. R. 1919)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-12-11"><cite path="|08|02|04|.10">Regulation .10</cite> amended as an emergency provision effective November 1, 2000 (27:20 Md. R. 1835); amended permanently effective December 11, 2000 (27:24 Md. R. 2199)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-09-06"><cite path="|08|02|04|.10|A.">Regulation .10A</cite> amended effective September 6, 2010 (37:18 Md. R. 1213)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-08-26"><cite path="|08|02|04|.10|A.">Regulation .10A</cite>, B amended effective August 26, 2019 (46:17 Md. R. 725)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|04|.10|A.">Regulation .10A</cite>, B amended effective August 26, 2019 (46:17 Md. R. 725); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-10-19"><cite path="|08|02|04|.11">Regulation .11</cite>, Hand Tonging in South River, adopted as an emergency provision effective October 19, 1979 (6:22 Md. R. 1774), expired March 31, 1980</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1980-03-28"><cite path="|08|02|04|.11">Regulation .11</cite>, Extending the Tonging Season for Catching Oysters, adopted as an emergency provision effective March 28, 1980 (7:8 Md. R. 769); expired April 5, 1980</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-12-28"><cite path="|08|02|04|.11">Regulation .11</cite>, General Provisions, adopted as an emergency provision effective September 14, 1998 (25:21 Md. R. 1570); adopted permanently effective December 28, 1998 (25:26 Md. R. 1919)</annotation>
@@ -1425,7 +1437,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29"><cite path="|08|02|04|.12">Regulation .12</cite> amended effective November 10, 2003 (30:22 Md. R. 1577); October 11, 2004 (31:20 Md. R. 1484); October 23, 2006 (33:21 Md. R. 1674); November 29, 2010 (37:24 Md. R. 1657)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-11-10"><cite path="|08|02|04|.12">Regulation .12</cite> amended effective October 1, 2012 (39:19 Md. R. 1236); November 10, 2014 (41:22 Md. R. 1318)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-10-07"><cite path="|08|02|04|.12|B.">Regulation .12B</cite> amended effective October 7, 2019 (46:20 Md. R. 843)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-10-12"><cite path="|08|02|04|.12|C.">Regulation .12C</cite> amended effective October 12, 2015 (42:20 Md. R. 1263)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|04|.12|C.">Regulation .12C</cite> amended effective October 12, 2015 (42:20 Md. R. 1263); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-03-21"><cite path="|08|02|04|.12|D.">Regulation .12D</cite> adopted as an emergency provision effective December 15, 2010 (38:2 Md. R. 79); adopted permanently effective March 21, 2011 (38:6 Md. R. 393)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-04-02"><cite path="|08|02|04|.12|D.">Regulation .12D</cite> amended as an emergency provision effective January 19, 2012 (39:3 Md. R. 256); amended permanently effective April 2, 2012 (39:6 Md. R. 407)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-02-27"><cite path="|08|02|04|.12|E.">Regulation .12E</cite> adopted as an emergency provision effective December 16, 2005 (33:1 Md. R. 33); adopted permanently effective February 27, 2006 (33:4 Md. R. 352)</annotation>

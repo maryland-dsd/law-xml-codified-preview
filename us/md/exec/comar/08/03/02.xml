@@ -178,7 +178,7 @@
               <td data-vertical-align="middle">Worcester</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">Dierrsen</td>
+              <td data-vertical-align="middle">Dierssen</td>
               <td data-vertical-align="middle">Montgomery</td>
             </tr>
             <tr>
@@ -239,7 +239,7 @@
             </tr>
             <tr>
               <td data-vertical-align="middle">Islands of the Potomac</td>
-              <td data-vertical-align="middle">Frederick, Montgomery</td>
+              <td data-vertical-align="middle">Allegany, Frederick, Montgomery, Washington</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">Isle of Wight</td>
@@ -299,7 +299,7 @@
             </tr>
             <tr>
               <td data-vertical-align="middle">Nanticoke River</td>
-              <td data-vertical-align="middle">Wicomico</td>
+              <td data-vertical-align="middle">Dorchester, Wicomico</td>
             </tr>
             <tr>
               <td data-vertical-align="middle">Old Bohemia</td>
@@ -350,7 +350,11 @@
               <td data-vertical-align="middle">Montgomery</td>
             </tr>
             <tr>
-              <td data-vertical-align="middle">Tall Oak</td>
+              <td data-vertical-align="middle">Swanson Creek</td>
+              <td data-vertical-align="middle">Charles</td>
+            </tr>
+            <tr>
+              <td data-vertical-align="middle">Tall Oaks</td>
               <td data-vertical-align="middle">Queen Anne's</td>
             </tr>
             <tr>
@@ -394,26 +398,40 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Fort Hill;</text>
+        <text>Dierssen;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>Globe Comm;</text>
+        <text>Fort Hill;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Hopkin’s Branch;</text>
+        <text>Globe Comm;</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>Kent Island Research Center; and</text>
+        <text>Hopkin’s Branch;</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>Little Patuxent Oxbow.</text>
+        <text>Kent Island Research Center;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Little Patuxent Oxbow;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>McIntosh Run; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Tall Oaks.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-106-F" target-path="08|03|02|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1355,14 +1373,10 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>Hugg-Thomas;</text>
+          <text>Hugg-Thomas; and</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>McIntosh Run; and</text>
-        </para>
-        <para>
-          <num>(g)</num>
           <text>Strider.</text>
         </para>
       </para>
@@ -1371,11 +1385,19 @@
         <text>From September 1 to February 28 and during spring turkey season, a person may not hunt without a valid public hunting permit from the Service on the following WMAs:</text>
         <para>
           <num>(a)</num>
-          <text>Grove Farm; and</text>
+          <text>Cheltenham;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Old Bohemia.</text>
+          <text>Grove Farm;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Old Bohemia; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Swanson Creek.</text>
         </para>
       </para>
       <para>
@@ -1455,7 +1477,9 @@
       <num>F.</num>
       <text>Violations of any provision of the public hunting permit shall constitute a violation of this regulation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-106-F" target-path="08|03|02|.27" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1474,11 +1498,15 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Johnson WMA; and</text>
+        <text>Johnson WMA;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>Ridenour Swamp.</text>
+        <text>Ridenour Swamp; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Swanson Creek.</text>
       </para>
     </para>
     <para>
@@ -1585,11 +1613,9 @@
       <num>H.</num>
       <text>Only waterfowl and rails may be hunted on Bowen WMA.</text>
     </para>
-    <para>
-      <num>I.</num>
-      <text>Only deer and dove may be hunted on Cheltenham WMA.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-106-F" target-path="08|03|02|.28" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1618,28 +1644,16 @@
       <text>Permit fees are:</text>
       <para>
         <num>(1)</num>
-        <text>$5 for a resident or nonresident individual younger than 18 years old;</text>
+        <text>$5 for a one day pass; and;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>$20 for a resident individual 18 years old or older;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>$10 for an individual who possesses a current, valid Maryland hunting license;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>$5 for a one-day pass regardless of residency; and</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>$25 for a nonresident 18 years old or older.</text>
+        <text>$20 for an annual permit;</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>A permit is valid from date of issue to December 31 of each year.</text>
+      <text>An annual permit is valid from August 1 or date of issue through July 31 annually.</text>
     </para>
     <para>
       <num>D.</num>
@@ -1681,7 +1695,9 @@
         <text>An individual under 18 years old shall be accompanied by an adult while shooting.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-106-F" target-path="08|03|02|.30" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|10-205">10-205</cite>, <cite doc="Md. Code" path="gnr|10-801">10-801</cite>, and <cite doc="Md. Code" path="gnr|10-808">10-808</cite>, Annotated Code of Maryland</annotation>
@@ -1730,8 +1746,13 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-10-11"><cite path="|08|03|02|.37">Regulation .37</cite> adopted effective October 11, 2004 (31:20 Md. R. 1485)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-11-08"><cite path="|08|03|02|.38">Regulation .38</cite> adopted effective November 8, 2004 (31:22 Md. R. 1595)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-03-14" discontinuity="true">Chapter revised effective March 14, 2016 (43:5 Md. R. 384)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-09-23"><cite path="|08|03|02|.02|B.">Regulation .02B</cite> amended effective September 23, 2019 (46:19 Md. R. 813)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|08|03|02|.02|B.">Regulation .02B</cite> amended effective September 23, 2019 (46:19 Md. R. 813); August 17, 2026 (53:16 Md. R. 686)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|08|03|02|.02|C.">Regulation .02C</cite> amended effective August 17, 2026 (53:16 Md. R. 686)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|08|03|02|.27|B.">Regulation .27B</cite> amended effective August 17, 2026 (53:16 Md. R. 686)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-09-06"><cite path="|08|03|02|.28">Regulation .28</cite> amended effective September 6, 2021 (48:14 Md. R. 692)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|08|03|02|.28|A.">Regulation .28A</cite> amended effective August 17, 2026 (53:16 Md. R. 686)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-10-05"><cite path="|08|03|02|.28|F.">Regulation .28F</cite> amended effective September 11, 2017 (44:18 Md. R. 864); October 5, 2020 (47:20 Md. R. 874)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|08|03|02|.28|I.">Regulation .28I</cite> repealed effective August 17, 2026 (53:16 Md. R. 686)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|08|03|02|.30|B.">Regulation .30B</cite>, C amended effective August 17, 2026 (53:16 Md. R. 686)</annotation>
   </annotations>
 </container>

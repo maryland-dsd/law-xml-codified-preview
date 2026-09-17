@@ -58,8 +58,14 @@
         <num>(6)</num>
         <text>“Secondary competition” means a procurement process in which only approved master contractors may compete to provide the services, supplies, or commodities under the procurement.</text>
       </para>
+      <para>
+        <num>(7)</num>
+        <text>“Secondary competition award” has the meaning stated in <cite doc="Md. Code" path="gsf|13-101">State Finance and Procurement Article, §13-101(h), Annotated Code of Maryland</cite>, and must be one of the types listed in <cite path="21.05.13.05">COMAR 21.05.13.05</cite>.B.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|13|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -159,7 +165,7 @@
         <text>Pre-Proposal Conference Records.</text>
         <para>
           <num>(a)</num>
-          <text>When a pre-proposal conference is held in connection with a procurement that is expected to exceed $100,000, the procurement officer shall ensure that a written record of the conference is prepared as soon as practicable and that the record is sent to all prospective offerors who were sent a solicitation or who are known by the procurement officer to have obtained the solicitation.</text>
+          <text>When a pre-proposal conference is held in connection with a procurement that is expected to exceed the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>, the procurement officer shall ensure that a written record of the conference is prepared as soon as practicable and that the record is sent to all prospective offerors who were sent a solicitation or who are known by the procurement officer to have obtained the solicitation.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -243,7 +249,9 @@
         <text>The identity of an offeror and the register of proposals may not be disclosed before the procurement officer makes a determination recommending the award of the master contractor agreement pursuant to <cite path="|21|05|13|.04|B.">Regulation .04B of this chapter</cite>. After master contractor agreement award, proposals shall be open to public inspection subject to the provisions of the Public Information Act, <cite doc="Md. Code" path="ggp">General Provisions Article, Title 4, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|13|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -304,11 +312,19 @@
       <text>A unit of the Executive Branch that requires services, supplies, or commodities available under a master contract may, with the approval of the designated procurement unit that awarded the master contract, issue a secondary competition solicitation to master contractors within that master contract, as follows:</text>
       <para>
         <num>(1)</num>
-        <text>If the unit of the Executive Branch expects the total cost of the services, supplies, or commodities in the secondary competition to exceed $100,000, the unit shall issue the secondary competition solicitation to all master contractors in the appropriate category in the master contract established by the designated procurement unit; or</text>
+        <text>If the unit of the Executive Branch expects the total cost of the services, supplies, or commodities in the secondary competition to exceed $500,000, the unit shall issue the secondary competition solicitation to all master contractors in the appropriate category in the master contract established by the designated procurement unit; or</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If the unit of the Executive Branch expects the total cost of the services, supplies, or commodities in the secondary competition to be $100,000 or less, the unit shall issue the secondary competition solicitation to a minimum of six master contractors or all master contractors, whichever is less, in the appropriate category in the master contract established by the designated procurement unit. If the total number of master contractors available to be solicited exceeds six, the procurement officer shall make a written determination including the reasons why the particular master contractors were selected to be solicited.</text>
+        <text>If the unit of the Executive Branch expects the total cost of the services, supplies, or commodities in the secondary competition to exceed $100,000 but will not exceed $500,000, the unit shall issue the secondary competition solicitation to a minimum of six master contractors on a rotating basis for master contracts designated by the Chief Procurement Officer or all master contractors, whichever is less, in the appropriate category in the master contract established by the designated procurement unit.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the unit of the Executive Branch expects that the total cost of the services, supplies, or commodities to be procured by the secondary competition solicitation to be $100,000 or less, the unit shall issue a secondary competition solicitation for a secondary competition award to a minimum of three master contractors on a rotating basis for master contracts designated by the Chief Procurement Officer or all master contractors, whichever is less, in the appropriate category of the master contract established by the designated procurement unit.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Sections A(1)—(3) of this regulation do not apply to a secondary competition procurement designated as a small business reserve in accordance with <cite doc="Md. Code" path="gsf|14">State Finance and Procurement Article, §14</cite>–502, Annotated Code of Maryland..</text>
       </para>
     </para>
     <para>
@@ -363,54 +379,94 @@
       <num>E.</num>
       <text>The designated procurement unit that awarded the master contract may require the secondary competition solicitation to be reviewed and approved by that designated procurement unit prior to publication.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|13|.05" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="21|05|13|.06">
     <prefix>Regulation</prefix>
     <num>.06</num>
-    <heading>Secondary Competition Evaluation, and Awards.</heading>
+    <heading>Secondary Competition Evaluation.</heading>
     <para>
       <num>A.</num>
       <text>The procuring unit of the Executive Branch that has received responses from master contractors to a secondary competition solicitation shall evaluate the responses and may select a master contractor for award based on the response that is determined to be the most advantageous to the State considering the evaluation factors set forth in the secondary competition solicitation.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>If expressly permitted in the secondary competition solicitation, secondary competition awards may include renewal options, and awards may be made to more than one master contractor.</text>
+      <text>Except as provided in <cite path="21|05|13|.06|C.">§C of this regulation</cite>, oral presentations are required prior to selecting a master Contractor when:</text>
+      <para>
+        <num>(1)</num>
+        <text>The total value of the secondary competition award is expected to exceed $2,000,000 for architectural and engineering services;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The total value of the secondary competition award is expected to exceed $10,000,000 for construction and construction related services; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For all other procurements, including information technology and professional services, when the total value of the secondary competition award is expected to exceed $5,000,000.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
-      <text>The total dollar amount of secondary competition awards to master contractors may not exceed the monetary ceiling value of the particular master contract from which the secondary competition was solicited.</text>
+      <text>If the procurement officer makes a written determination that oral presentations are unlikely to aid in the evaluation process, oral presentations will not be required.</text>
     </para>
-    <para>
-      <num>D.</num>
-      <text>Secondary competition awards to master contractors may not exceed the period of performance of the particular master contract from which the secondary competition was solicited unless the master contract is modified to be extended for a period of time to allow for a task order to continue beyond the term of the original master contract, and that period of time is no longer than one-third of the base term of the original master contract. No additional task orders may be issued after the master contract’s original, unmodified end date.</text>
-    </para>
-    <para>
-      <num>E.</num>
-      <text>A TORFP award by a unit of the Executive Branch shall include a performance evaluation procedure to be used by the unit to evaluate the performance of the master contractor that has completed work on the task order.</text>
-    </para>
-    <para>
-      <num>F.</num>
-      <text>The designated procurement unit that awarded the master contract may require the secondary competition award recommendation to be reviewed and approved by that designated procurement unit prior to award.</text>
-    </para>
-    <para>
-      <num>G.</num>
-      <text>Procurement agencies are required to report secondary competition awards over $50,000 in eMaryland Marketplace.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|13|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.07</num>
+    <heading>Secondary Competition Awards.</heading>
+    <para>
+      <num>A.</num>
+      <text>If expressly permitted in the secondary competition solicitation, secondary competition awards may include renewal options, and awards may be made to more than one master contractor.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The total dollar amount of secondary competition awards to master contractors may not exceed the monetary ceiling value of the particular master contract from which the secondary competition was solicited.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Secondary competition awards to master contractors may not exceed the period of performance of the particular master contract from which the secondary competition was solicited unless the master contract is modified to be extended for a period of time to allow for a secondary competition award to continue beyond the term of the original master contract, and that period of time is no longer than one-third of the base term of the original master contract. No additional secondary competition awards may be issued after the master contract’s original, unmodified end date.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A TORFP award by a unit of the Executive Branch shall include a performance evaluation procedure to be used by the unit to evaluate the performance of the master contractor that has completed work on the task order.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The designated procurement unit that awarded the master contract may require the secondary competition award recommendation to be reviewed and approved by that designated procurement unit prior to award.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Procurement agencies are required to report secondary competition awards over the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> in eMaryland Marketplace.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|13|.07" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
     <heading>Construction Master Contract Exceptions.</heading>
-    <text>The requirements in Regulations .05A(1) and (2) and C and .06A of this chapter do not apply to a master contract for construction that is procured and awarded under this chapter and states how task orders will be awarded and the maximum number of qualified contractors that will be awarded a master contractor agreement for construction.</text>
-    <annotations/>
+    <text>The requirements in Regulations .05A(1)—(4) and .06A of this chapter do not apply to a master contract for construction that is procured and awarded under this chapter and states how secondary competition awards will be awarded and the maximum number of qualified contractors that will be awarded a master contractor agreement for construction.</text>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|13|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-101">13-101</cite>, <cite doc="Md. Code" path="gsf|13-102">13-102</cite>, <cite doc="Md. Code" path="gsf|13-113">13-113</cite>, <cite doc="Md. Code" path="gsf|13-114">13-114</cite> and <cite doc="Md. Code" path="gsf|14-303">14-303</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-101">13-101</cite>, <cite doc="Md. Code" path="gsf|13-102">13-102</cite>, <cite doc="Md. Code" path="gsf|13-113">13-113</cite>, <cite doc="Md. Code" path="gsf|13-114">13-114</cite> and <cite doc="Md. Code" path="gsf|14-303">14-303</cite>, Annotated Code of Maryland; <br/>Ch. 601, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11">Effective date: March 11, 2019 (46:5 Md. R. 310)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|13|.01|B.">Regulation .01B</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|13|.03|D.">Regulation .03D</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|13|.05|A.">Regulation .05A</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-02"><cite path="|21|05|13|.05|B.">Regulation .05B</cite> amended effective May 2, 2022 (49:9 Md. R. 531)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|05|13|.05|D.">Regulation .05D</cite> adopted effective September 18, 2023 (50:18 Md. R. 800)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|13|.06">Regulation .06</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-02"><cite path="|21|05|13|.06|H.">Regulation .06H</cite> repealed effective May 2, 2022 (49:9 Md. R. 531)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|13|.07">Regulation .07</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|13|.08">Regulation .08</cite> adopted effective August 31, 2026 (53:17 Md. R. 711)</annotation>
   </annotations>
 </container>

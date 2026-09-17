@@ -58,9 +58,11 @@
     </para>
     <para>
       <num>K.</num>
-      <text>Pay-for-success contracting under <cite path="|21.05.15">COMAR 21.05.15</cite>.</text>
+      <text>Legislative Fast-Track procurements under <cite path="|21.05.15">COMAR 21.05.15</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|01|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -382,7 +384,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">: State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|11-201">11-201</cite>, <cite doc="Md. Code" path="gsf|11-205">11-205</cite>, <cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-102">13-102</cite>, <cite doc="Md. Code" path="gsf|13-110">13-110</cite>, <cite doc="Md. Code" path="gsf|13-202">13-202</cite>, and <cite doc="Md. Code" path="gsf|14-401">14-401</cite>, Annotated Code of Maryland; Ch. 216, Acts of 2009; Chs. 633 and 624, Acts of 2018; Ch. 356, Acts of 2019</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|11-201">11-201</cite>, <cite doc="Md. Code" path="gsf|11-205">11-205</cite>, <cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-102">13-102</cite>, <cite doc="Md. Code" path="gsf|13-110">13-110</cite>, <cite doc="Md. Code" path="gsf|13-202">13-202</cite>, and <cite doc="Md. Code" path="gsf|14-401">14-401</cite>, Annotated Code of Maryland; Ch. 216, Acts of 2009; Chs. 633 and 624, Acts of 2018; Ch. 356, Acts of 2019; Chs. 601 and 625, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01">Effective date: July 1, 1981 (8:13 Md. R. II-5)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-05-06"><cite path="|21|05|01|.01|D.">Regulation .01D</cite> amended effective May 6, 1985 (12:9 Md. R. 815)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-07-29"><cite path="|21|05|01|.01|F.">Regulation .01F</cite> adopted effective July 29, 1985 (12:15 Md. R. 1526)</annotation>
@@ -391,6 +393,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|05|01|.01">Regulation .01</cite> amended effective October 5, 1998 (25:20 Md. R. 1533); March 11, 2019 (46:5 Md. R. 310); September 18, 2023 (50:18 Md. R. 800)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02"><cite path="|21|05|01|.01|F.">Regulation .01F</cite> amended effective January 2, 2017 (43:26 Md. R. 1449)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-06-29"><cite path="|21|05|01|.01|H.">Regulation .01H</cite> amended effective June 29, 2020 (47:13 Md. R. 643)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|01|.01|K.">Regulation .01K</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11"><cite path="|21|05|01|.02">Regulation .02</cite> repealed effective March 11, 2019 (46:5 Md. R. 310)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-02-24"><cite path="|21|05|01|.02|A.">Regulation .02A</cite> amended effective February 24, 1997 (24:4 Md. R. 293)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-10-12"><cite path="|21|05|01|.04">Regulation .04</cite> adopted effective October 12, 1996 (23:20 Md. R. 1425)</annotation>

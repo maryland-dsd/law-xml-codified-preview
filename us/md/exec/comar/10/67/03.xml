@@ -689,7 +689,17 @@
       <num>B.</num>
       <text>Effective January 1, 2025, an MCO shall obtain NCQA health equity accreditation within 2 years of their effective date as an MCO.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>An MCO shall maintain health plan accreditation and health outcomes accreditation to participate in the HealthChoice program.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An MCO with a suspended or terminated accreditation status shall be subject to sanctions in accordance with <cite path="10.67.10.01">COMAR 10.67.10.01</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|03|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -950,5 +960,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-02-23"><cite path="|10|67|03|.11|C.">Regulation .11C</cite> amended as an emergency provision effective November 1, 2008 (35:24 Md. R. 2069); amended permanently effective February 23, 2009 (36:4 Md. R. 353)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-11-01" discontinuity="true">Chapter transferred from <cite path="|10.09.64">COMAR 10.09.64</cite> effective November 1, 2019 (46:22 Md. R. 977)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|10|67|03|.03|I.">Regulation .03I</cite> amended effective April 28, 2025 (52:8 Md. R. 359)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|03|.08|C.">Regulation .08C</cite>, D adopted effective September 28, 2026 (53:19 Md. R. 944)</annotation>
   </annotations>
 </container>

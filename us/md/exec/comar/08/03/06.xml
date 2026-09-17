@@ -226,8 +226,40 @@
     </para>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Harvest Reporting of Gray Fox.</heading>
+    <para>
+      <num>A.</num>
+      <text>A person who kills a gray fox either by hunting or trapping shall report the kill to the Department by registering the kill on the Department’s internet-based checking system accessible through the Department’s licensing website or mobile app, or as otherwise designated on the Department’s website.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The harvest of a gray fox shall be reported not later than 48 hours after the fox was killed by the hunter or trapper.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>All gray fox killed by hunters and trappers must be reported regardless of whether they are taken into possession or left in the field.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>After reporting the kill, the hunter or trapper will receive a confirmation number from the Department that shall be kept in their possession in either paper format or as an electronic record.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The requirements of this regulation apply to all hunters and trappers including those individuals who are exempt from the hunting license requirements of <cite doc="Md. Code" path="gnr|10-301">Natural Resources Article, §10-301, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>This regulation shall sunset and have no further force and effect on April 1, 2031.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-072-F" target-path="08|03|06|.08" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|1-403">1-403</cite>, <cite doc="Md. Code" path="gnr|10-205">10-205</cite>, <cite doc="Md. Code" path="gnr|10-206">10-206</cite>, <cite doc="Md. Code" path="gnr|10-301">10-301</cite>.1, 10-404—10-409, 10-415, 10-418, 10-902, and 10-903, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|1-403">1-403</cite>, <cite doc="Md. Code" path="gnr|10-205">10-205</cite>, <cite doc="Md. Code" path="gnr|10-206">10-206</cite>, <cite doc="Md. Code" path="gnr|10-301">10-301</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|10-404">10-404</cite>—<cite doc="Md. Code" path="gnr|10-409">10-409</cite>, <cite doc="Md. Code" path="gnr|10-415">10-415</cite>, <cite doc="Md. Code" path="gnr|10-418">10-418</cite>, <cite doc="Md. Code" path="gnr|10-902">10-902</cite>, and <cite doc="Md. Code" path="gnr|10-903">10-903</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-06-03">Regulations <cite path="|08|03|06|.01">.01</cite>—<cite path="|08|03|06|.04">.04</cite> were previously codified as Regulations .02, .09, .28, and .46, respectively, under <cite path="|08.03.01">COMAR 08.03.01</cite> Wildlife Conservation. This recodification was effective June 3, 1985 (12:11 Md. R. 1047)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-06-03">For the history of these regulations before June 3, 1985, see the Administrative History which follows <cite path="|08.03.01">COMAR 08.03.01</cite></annotation>
@@ -240,11 +272,13 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-08-04"><cite path="|08|03|06|.03|E.">Regulation .03E</cite> amended effective August 4, 2014 (41:15 Md. R. 889)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-06-03"><cite path="|08|03|06|.03|G.">Regulation .03G</cite> amended effective June 3, 1996 (23:11 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-01-13"><cite path="|08|03|06|.03|G.">Regulation .03G</cite> amended as an emergency provision effective July 19, 1996 (23:16 Md. R. 1166); amended permanently effective January 13, 1997 (24:1 Md. R. 29)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-04"><cite path="|08|03|06|.03|H.">Regulation .03H</cite> adopted effective September 4, 2023 (50:17 Md. R. 769)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-08-15"><cite path="|08|03|06|.05">Regulation .05</cite> adopted effective August 15, 1994 (21:16 Md. R. 1381)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-06-03"><cite path="|08|03|06|.05">Regulation .05</cite> repealed and new Regulation .05 adopted effective June 3, 1996 (23:11 Md. R. 809)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-08-30"><cite path="|08|03|06|.05">Regulation .05</cite> amended effective August 30, 2004 (31:17 Md. R. 1311)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-11-24"><cite path="|08|03|06|.05|A.">Regulation .05A</cite> amended effective August 23, 2010 (37:17 Md. R. 1184); November 24, 2016 (43:23 Md. R. 1279)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-07-17"><cite path="|08|03|06|.06">Regulation .06</cite> adopted effective July 17, 2006 (33:14 Md. R. 1163)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-07-17"><cite path="|08|03|06|.07">Regulation .07</cite> adopted effective July 17, 2006 (33:14 Md. R. 1163)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|08|03|06|.08">Regulation .08</cite> adopted effective August 17, 2026 (53:16 Md. R. 686)</annotation>
   </annotations>
 </container>

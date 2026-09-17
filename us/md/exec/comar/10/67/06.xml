@@ -602,7 +602,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>In addition to the mother's length of stay required to be afforded by <cite path="10|67|06|.07|D.|(2)">§D(2) of this regulation</cite>, whenever a mother is required to remain hospitalized after childbirth for medical reasons and she requests that her newborn remain in the hospital while she is hospitalized, the MCO shall afford the newborn additional hospitalization while the mother remains hospitalized, for up to 4 days.</text>
+      <text>In addition to the mother's length of stay required to be afforded by <cite path="10|67|06|.07|D.|(2)">§D(2) of this regulation</cite>, whenever a mother is required to remain hospitalized after childbirth for medical reasons and her newborn remains in the hospital while she is hospitalized, the MCO shall afford the newborn additional hospitalization while the mother remains hospitalized, for up to 4 days.</text>
     </para>
     <para>
       <num>F.</num>
@@ -648,7 +648,9 @@
         <text>The enrollee is not being discharged from the sending hospital.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|06|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1738,7 +1740,7 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>Doula services, through December 31, 2025.</text>
+        <text>Doula services, through December 31, 2026.</text>
       </para>
     </para>
     <para>
@@ -1769,7 +1771,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|06|.28" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|67|06|.29">
     <prefix>Regulation</prefix>
@@ -1939,6 +1943,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-28"><cite path="|10|67|06|.31">Regulation .31</cite> adopted effective April 28, 2014 (41:8 Md. R. 471)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-11-01" discontinuity="true">Chapter transferred from <cite path="|10.09.67">COMAR 10.09.67</cite> effective November 1, 2019 (46:22 Md. R. 977)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-05-01"><cite path="|10|67|06|.04">Regulation .04</cite> amended effective May 1, 2023 (50:8 Md. R. 337)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|06|.07|E.">Regulation .07E</cite> amended effective September 28, 2026 (53:19 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-02-21"><cite path="|10|67|06|.21|A.">Regulation .21A</cite> amended effective February 21, 2022 (49:4 Md. R. 300)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|67|06|.26">Regulation .26</cite> amended effective August 5, 2024 (51:15 Md. R, 707)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|06|.26-1">Regulation .26-1</cite> amended effective June 24, 2024 (51:12 Md. R. 620)</annotation>
@@ -1947,7 +1952,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-11-13"><cite path="|10|67|06|.26-7">Regulation .26-7</cite> adopted effective November 13, 2023 (50:22 Md. R. 974)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|06|.27">Regulation .27</cite> amended effective June 24, 2024 (51:12 Md. R. 620)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|10|67|06|.27|A.">Regulation .27A</cite> amended effective April 28, 2025 (52:8 Md. R. 359)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|06|.28|A.">Regulation .28A</cite> amended effective June 24, 2024 (51:12 Md. R. 618)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|06|.28|A.">Regulation .28A</cite> amended effective June 24, 2024 (51:12 Md. R. 618); September 28, 2026 (53:19 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|06|.30">Regulation .30</cite> adopted effective June 24, 2024 (51:12 Md. R. 620)</annotation>
   </annotations>
 </container>

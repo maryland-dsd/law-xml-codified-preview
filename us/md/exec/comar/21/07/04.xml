@@ -38,7 +38,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>A provision that requires the state to agree to limit the liability for any direct loss to the State for bodily injury, death, or damage to property of the State caused by the negligence, intentional or willful misconduct, fraudulent act, recklessness, or other tortious conduct of a person or a person’s employees or agents or a provision that would otherwise impose an indemnification obligation on the State;</text>
+        <text>A provision that requires the State to agree to limit the liability for any direct loss to the State for bodily injury, death, or damage to real property or tangible personal property of the State caused by the negligence, intentional or willful misconduct, fraudulent act, recklessness, or other tortious conduct of a person or a person’s employees or agents or a provision that would otherwise impose an indemnification obligation on the State;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -74,7 +74,7 @@
       </para>
       <para>
         <num>(10)</num>
-        <text>A provision that limits the State’s ability to recover the cost of a replacement contractor.</text>
+        <text>A provision that limits the State’s ability to recover the difference in the cost of a replacement contractor to perform the services not performed by the original contractor, to the extent that the sum of the amount paid to the replacement contractor and the amount paid to the original contractor exceed the costs provided for in the contract with the original contractor.</text>
       </para>
     </para>
     <para>
@@ -85,10 +85,13 @@
       <num>C.</num>
       <text>A State contract that contains a provision listed under <cite path="21|07|04|.02|A.">§A of this regulation</cite> shall be governed by and construed in accordance with State law, notwithstanding any term or condition to the contrary in the contract.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|07|04|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gsf|2-901">State Finance and Procurement Article, §2-901, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03">Effective date: March 3, 2025 (52:4 Md. R. 221)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|07|04|.02|A.">Regulation .02A</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
   </annotations>
 </container>

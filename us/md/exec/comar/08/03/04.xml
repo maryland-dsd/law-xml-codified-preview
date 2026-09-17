@@ -588,7 +588,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A rifle or shotgun propelling one soft-nosed or expanding bullet or ball at a single discharge which generates at least 1,200 foot-pounds of muzzle energy is allowed.</text>
+        <text>A rifle or shotgun propelling one soft-nosed or expanding bullet or ball at a single discharge. Rifles less than .30 caliber or 7.62 millimeters must generate at least 1,200 foot-pounds of muzzle energy when fired.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -735,7 +735,9 @@
         <text>A muzzle loading firearm used for deer hunting during the February deer hunting season dates shall be of a flintlock or percussion cap sidelock design. Modern inline muzzle loading firearms are prohibited.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-072-F" target-path="08|03|04|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1484,7 +1486,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-09-27"><cite path="|08|03|04|.05|B.">Regulation .05B</cite> amended effective July 29, 1985 (12:15 Md. R. 1514); June 30, 1986 (13:13 Md. R. 1489); June 26, 1989 (16:12 Md. R. 1334); September 2, 1991 (18:17 Md. R. 1917); August 15, 1994 (21:16 Md. R. 1381); October 6, 1997 (24:20 Md. R. 1402); August 7, 2000 (27:15 Md. R. 1400); August 19, 2002 (29:16 Md. R. 1287); August 30, 2004 (31:17 Md. R. 1311): September 27, 2004 (31:19 Md. R. 1430)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-12-28"><cite path="|08|03|04|.05|B.">Regulation .05B</cite> amended as an emergency provision effective September 15, 1998 (25:21 Md. R. 1571); amended permanently effective December 28, 1998 (25:26 Md. R. 1920)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-09-11"><cite path="|08|03|04|.05|B.">Regulation .05B</cite> amended effective September 11, 2017 (44:18 Md. R. 864)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-08-15"><cite path="|08|03|04|.05|C.">Regulation .05C</cite> amended effective July 29, 1985 (12:15 Md. R. 1514); May 18, 1987 (14:10 Md. R. 1170); July 25, 1988 (15:15 Md. R. 1808); September 2, 1991 (18:17 Md. R. 1917); August 15, 2016 (43:16 Md. R. 899)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|08|03|04|.05|C.">Regulation .05C</cite> amended effective July 29, 1985 (12:15 Md. R. 1514); May 18, 1987 (14:10 Md. R. 1170); July 25, 1988 (15:15 Md. R. 1808); September 2, 1991 (18:17 Md. R. 1917); August 15, 2016 (43:16 Md. R. 899); August 17, 2026 (53:16 Md. R. 686)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-06-30"><cite path="|08|03|04|.05|D.">Regulation .05D</cite> adopted effective June 30, 1986 (13:13 Md. R. 1489)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-12-28"><cite path="|08|03|04|.05|D.">Regulation .05D</cite> amended as an emergency provision effective September 15, 1998 (25:21 Md. R. 1571); amended permanently effective December 28, 1998 (25:26 Md. R. 1920)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-08"><cite path="|08|03|04|.05|D.">Regulation .05D</cite> amended effective October 12, 2015 (42:20 Md. R. 1264); August 8, 2022 (49:16 Md. R. 758)</annotation>

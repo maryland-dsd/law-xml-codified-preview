@@ -291,6 +291,10 @@
         </para>
         <para>
           <num>(b)</num>
+          <text>Conduct oral presentations when the total value of the contract is expected to exceed $2,000,000 unless the procurement officer makes a written determination that oral presentations are unlikely to aid in the evaluation process.</text>
+        </para>
+        <para>
+          <num>(c)</num>
           <text>Make recommendations, based on the steps above, for selection in ranked order to the head of the Procuring Agency or designee.</text>
         </para>
       </para>
@@ -383,7 +387,9 @@
         <text>The negotiation team shall submit its recommendations to the head of the agency or designee for concurrence.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|12|02|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="21|12|02|.06">
     <prefix>Regulation</prefix>
@@ -581,5 +587,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1986-12-01"><cite path="|21|12|02|.14|A.">Regulation .14A</cite>, B amended effective December 1, 1986 (13:24 Md. R. 2562)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|12|02|.14|C.">Regulation .14C</cite> amended effective November 7, 2005 (32:22 Md. R. 1759) April 7, 2008 (35:7 Md. R. 751)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26" discontinuity="true">Chapter revised effective March 26, 2018 (45:6 Md. R. 321)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|12|02|.05|G.">Regulation .05G</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
   </annotations>
 </container>

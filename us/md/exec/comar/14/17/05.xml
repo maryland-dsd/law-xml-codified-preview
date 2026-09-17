@@ -318,6 +318,30 @@
     <heading>Issuance of a License or Rescission of a Conditional License.</heading>
     <para>
       <num>A.</num>
+      <text>In this regulation, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Good faith effort” means:</text>
+        <para>
+          <num>(a)</num>
+          <text>For an initial extension, demonstrating active interest in or legal control of or possession of a premises; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For a second extension, demonstrating legal control of or possession of a premises.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Premises” means a site that is suitable for cannabis license operations and complies with local planning and zoning requirements.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
       <text>Conditional License Period.</text>
       <para>
         <num>(1)</num>
@@ -337,26 +361,50 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The Administration may approve a one-time extension of up to 6 months, if the Administration determines the conditional licensee has made consistent good faith efforts to establish a cannabis business.</text>
+        <text>The Administration may:</text>
+        <para>
+          <num>(a)</num>
+          <text>Approve up to two requests for extensions of the conditional license period, each not to exceed 6 months, if the Administration determines the conditional licensee has made consistent good faith efforts to establish a cannabis business; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Use its discretion to determine that a conditional licensee has demonstrated consistent good faith effort if the conditional licensee provides adequate documentation that a political subdivision has unduly burdened its efforts toward becoming operational, as defined in Alcoholic Beverages and Cannabis Article, §36-405, Annotated Code of Maryland.</text>
+        </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>For purposes of determining consistent good faith effort in <cite path="14|17|05|.05|A.|(3)">§A(3) of this regulation</cite>, the Administration:</text>
+        <text>Conditional License Extension Requests:</text>
         <para>
           <num>(a)</num>
-          <text>Will consider demonstrating legal control of a premises to indicate consistent good faith effort if the premises:</text>
+          <text>The conditional licensee shall submit, in a manner determined by the Administration, documentation of active interest in a premise which shall identify the proposed site by address, include explicit use for a cannabis business, and be signed by the conditional licensee and the premises owner:</text>
           <para>
             <num>(i)</num>
-            <text>Is suitable for the operations of the cannabis license; and</text>
+            <text>A letter of intent;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Complies with local planning and zoning requirements; and</text>
+            <text>An option to lease or purchase the proposed premises; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Documentation evidencing permission for use of a premises for cannabis operations.</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <text>May use its discretion to determine that a conditional licensee has demonstrated consistent good faith effort if the conditional licensee provides adequate documentation that a political subdivision has unduly burdened its efforts toward becoming operational, as defined in Alcoholic Beverages and Cannabis Article, §36-405, Annotated Code of Maryland.</text>
+          <text>The conditional licensee shall submit, in a manner determined by the Administration, documentation of control of or possession of a premise:</text>
+          <para>
+            <num>(i)</num>
+            <text>A clear legal title to the proposed premises;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A fully executed and legally binding lease agreement; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Other documentation evidencing the conditional licensee has control of or possession of a premise.</text>
+          </para>
         </para>
       </para>
       <para>
@@ -425,7 +473,7 @@
       </para>
     </para>
     <para>
-      <num>B.</num>
+      <num>D.</num>
       <text>Rescission of a Conditional License. The Administration may rescind a conditional license if a conditional licensee, or any individual or entity included in the supplemental license application:</text>
       <para>
         <num>(1)</num>
@@ -473,7 +521,7 @@
       </para>
     </para>
     <para>
-      <num>C.</num>
+      <num>E.</num>
       <text>The Administration may award a license on a determination that:</text>
       <para>
         <num>(1)</num>
@@ -505,11 +553,11 @@
       </para>
     </para>
     <para>
-      <num>D.</num>
+      <num>F.</num>
       <text>A licensed business may not grow, process, distribute, dispense, or otherwise begin business operations without approval of written documentation under <cite path="14|17|05|.05|C.">§C of this regulation</cite> by the Administration.</text>
     </para>
     <para>
-      <num>E.</num>
+      <num>G.</num>
       <text>The Administration may not award a license to a business who has registered with the State Department of Assessment and Taxation using a legal name that:</text>
       <para>
         <num>(1)</num>
@@ -525,7 +573,7 @@
       </para>
     </para>
     <para>
-      <num>F.</num>
+      <num>H.</num>
       <text>The Administration may suspend, fine, restrict, or revoke a license, including a conditional license, if:</text>
       <para>
         <num>(1)</num>
@@ -546,6 +594,7 @@
     </para>
     <annotations>
       <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|05|.05" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|05|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="14|17|05|.06">
@@ -676,7 +725,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-07-01">Regulations <cite path="|14|17|05|.01">.01</cite>—<cite path="|14|17|05|.08">.08</cite> adopted as an emergency provision effective July 1, 2023 (50:14 Md. R. 559); emergency status expired June 30, 2024</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-07">Regulations <cite path="|14|17|05|.01">.01</cite>—<cite path="|14|17|05|.08">.08</cite> adopted as an emergency provision effective June 7, 2024 (51:14 Md. R. 676)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22">Regulations <cite path="|14|17|05|.01">.01</cite>—<cite path="|14|17|05|.08">.08</cite> adopted effective July 22, 2024 (51:14 Md. R. 678)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|05|.05">Regulation .05</cite> amended effective April 14, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|05|.05">Regulation .05</cite> amended effective April 14, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244); September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|05|annos" type="History" display="false"/>
   </annotations>
 </container>

@@ -278,7 +278,7 @@
   </section>
   <section cache:ref-path="26|04|02|.02">
     <prefix>Regulation</prefix>
-    <num>.02</num>
+    <num emergency="true">.02</num>
     <heading>General Provisions.</heading>
     <para>
       <num>A.</num>
@@ -326,7 +326,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>A person may not store, transport, or dispose of sewage, body, or industrial waste in any manner which may pollute the ground surface, the waters of the State, or create a nuisance.</text>
+      <text>A person may only dispose of sewage, body, or industrial wastes in accordance with an approved on-site sewage disposal permit or other method of disposal approved by the Approving Authority.</text>
     </para>
     <para>
       <num>F.</num>
@@ -487,6 +487,7 @@
     <annotations>
       <annotation managed="false" type="Emergency Action">53:3  26-069-E (Regulation .02) EMERGENCY ACTION IN EFFECT 6/4/2026 — 12/1/2026</annotation>
       <annotation app="2026-06-04" doc="Maryland Register, Volume 53, Issue 13" eff="2026-07-06" path="regulations|emergency|26-069-E" target-path="26|04|02|.02" type="History" display="false" exp="2026-12-01"/>
+      <annotation app="2026-08-27" doc="Editor Action 2026-08-27" eff="2026-08-27" path="" target-path="26|04|02|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>

@@ -159,10 +159,10 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Approve in real time, electronic preauthorization requests:</text>
+          <text>Approve in real-time, electronic preauthorization requests for pharmaceutical services:</text>
           <para>
             <num>(i)</num>
-            <text>For which no additional information is needed by the payor to process the preauthorization request;</text>
+            <text>For which no additional information is needed by the payor to process the preauthorization request; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -289,6 +289,7 @@
     </para>
     <annotations>
       <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 14" eff="2026-07-20" path="regulations|final|26-050-F" target-path="10|25|17|.03" type="History" display="false"/>
+      <annotation app="2026-09-11" doc="Editor Action 2026-09-11" eff="2026-09-11" path="" target-path="10|25|17|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section>

@@ -404,10 +404,35 @@
     </para>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Local School System Screening Procedures Evaluation.</heading>
+    <para>
+      <num>A.</num>
+      <text>Each county board of education shall provide an annual attestation to the State Board of Education demonstrating that it has complied with the requirements of this chapter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>By July 1, 2027, each local education agency shall perform a limited review to ensure the policies and procedures established are compliant with this chapter and are being consistently implemented.</text>
+      <para>
+        <num>(1)</num>
+        <text>The limited review shall include an audit of employees hired within a year of the review.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The results of the review shall be submitted to the State Board of Education.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-054-F" target-path="13A|07|14|.07" type="History" display="false"/>
+    </annotations>
+  </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Education Article, §§<cite doc="Md. Code" path="ged|2-205">2-205</cite>(c) and <cite doc="Md. Code" path="ged|6-113">6-113</cite>.2, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-09-21">Effective date: September 21, 2020 (47:19 Md. R. 850)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-02-21"><cite path="|13A|07|14|.02|B.">Regulation .02B</cite> amended effective February 21, 2022 (49:4 Md. R. 301)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-02-21"><cite path="|13A|07|14|.03">Regulation .03</cite> amended effective February 21, 2022 (49:4 Md. R. 301)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|13A|07|14|.07">Regulation .07</cite> adopted effective August 17, 2026 (53:16 Md. R. 687)</annotation>
   </annotations>
 </container>

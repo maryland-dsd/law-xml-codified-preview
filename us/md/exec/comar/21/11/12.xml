@@ -73,7 +73,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Subcontractors who are performing work valued at $100,000 or more on a prevailing wage project shall complete the registration process at the Department’s website.</text>
+      <text>Subcontractors who are performing work valued at more than the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> on a prevailing wage project shall complete the registration process at the Department's website.</text>
     </para>
     <para>
       <num>C.</num>
@@ -99,7 +99,9 @@
         <text>Any other information that the Commissioner requires.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|12|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="21|11|12|.04">
     <prefix>Regulation</prefix>
@@ -107,7 +109,7 @@
     <heading>Contractor and Subcontractor Notification to Subcontractors.</heading>
     <para>
       <num>A.</num>
-      <text>Contractors and subcontractors who hire subcontractors performing work valued at $100,000 or more on a public work contract subject to the Maryland Prevailing Wage Law shall provide the subcontractors with written notice of the following requirements:</text>
+      <text>Contractors and subcontractors who hire subcontractors performing work valued at more than the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> on a public work contract subject to the Maryland Prevailing Wage Law shall provide the subcontractors with written notice of the following requirements:</text>
       <para>
         <num>(1)</num>
         <text>Subcontractors shall complete the registration process at the Division of Labor and Industry’s website at https://www.dllr.state.md.us/prevwage;</text>
@@ -138,14 +140,16 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Subcontractors performing work on a prevailing wage project valued at $100,000 or more are required to make payments to approved apprenticeship programs or to the Fund for each employee employed in classifications listed on the prevailing wage determination.</text>
+        <text>Subcontractors performing work on a prevailing wage project valued at more than the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> are required to make payments to approved apprenticeship programs or to the Fund for each employee employed in classifications listed on the prevailing wage determination.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
       <text>Contractors and subcontractors shall retain a copy of the written notice required in <cite path="21|11|12|.04|A.">§A of this regulation</cite> that was provided to covered subcontractors for inspection and review by the Commissioner for 3 years after the completion of their work on a public work project.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|12|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -288,7 +292,9 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|17-603">17-603</cite>—<cite doc="Md. Code" path="gsf|17-606">17-606</cite>, Annotated Code of Maryland</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-01">Effective date: July 1, 2013  (40:8 Md. R. 724)</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|17-603">17-603</cite>—<cite doc="Md. Code" path="gsf|17-606">17-606</cite>, Annotated Code of Maryland; Ch. 601, Acts of 2025</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-01">Effective date: July 1, 2013 (40:8 Md. R. 724)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|12|.03|B.">Regulation .03B</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|12|.04|A.">Regulation .04A</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
   </annotations>
 </container>

@@ -339,7 +339,7 @@
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|02" type="History"/>
     </annotations>
   </section>
-  <section cache:ref-path="10|39|02|.04">
+  <section emergency="true" cache:ref-path="10|39|02|.04">
     <prefix>Regulation</prefix>
     <num>.04</num>
     <heading>Faculty.</heading>
@@ -520,7 +520,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Other supplemental personnel providing instruction shall provide instruction under the supervision of the course instructo.</text>
+        <text>Other supplemental personnel providing instruction shall provide instruction under the supervision of the course instruction.</text>
       </para>
     </para>
     <annotations>
@@ -537,6 +537,7 @@
       <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" target-path="10|39|02|.11" type="History" display="false" exp="2026-09-30"/>
       <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" target-path="10|39|02|annos" type="History" display="false" exp="2026-09-30"/>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|02" type="History"/>
+      <annotation app="2026-08-27" doc="Editor Action 2026-08-27" eff="2026-08-27" path="" target-path="10|39|02|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|39|02|.05">

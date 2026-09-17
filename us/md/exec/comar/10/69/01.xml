@@ -70,24 +70,30 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>“Licensed certified midwife (LCM)” means an individual who has been issued a license by the Board to practice certified midwifery.</text>
+        <text>“Criminal history records check (CHRC)” means the performance of both a State criminal history check by the Central Repository, and a national criminal history check by the Federal Bureau of Investigation (FBI).</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>“Newborn” means an infant in the first 28 days after birth.</text>
+        <text>“Licensed certified midwife (LCM)” means an individual who has been issued a license by the Board to practice certified midwifery.</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>“Practice certified midwifery” has the meaning stated in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>D-01(h), Annotated Code of Maryland.</text>
+        <text>“Newborn” means an infant in the first 28 days after birth.</text>
       </para>
       <para>
         <num>(10)</num>
+        <text>“Practice certified midwifery” has the meaning stated in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>D-01(h), Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(11)</num>
         <text>“Physician” means an individual licensed to practice medicine in the State.</text>
       </para>
     </para>
     <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02, .04, .06) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10" type="History" display="false"/>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|69" type="History" display="false"/>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|69|01|.02" type="History" display="false" exp="2027-02-21"/>
     </annotations>
   </section>
   <section>
@@ -140,7 +146,7 @@
         <text>Written, verified evidence that the applicant has submitted to a criminal history records check as required by <cite path="|10|69|01|.03|B.">Regulation .03B of this chapter</cite> by submitting:</text>
         <para>
           <num>(a)</num>
-          <text>Two sets of fingerprints, as required by the Central Repository and the Federal Bureau of Investigation; and</text>
+          <text>One complete set of fingerprints, as required by the Central Repository and the Federal Bureau of Investigation; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -213,8 +219,10 @@
       </para>
     </para>
     <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02, .04, .06) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10" type="History" display="false"/>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|69" type="History" display="false"/>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|69|01|.04" type="History" display="false" exp="2027-02-21"/>
     </annotations>
   </section>
   <section cache:ref-path="10|69|01|.05">
@@ -268,7 +276,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Unless renewed, a license expires on October 28 of every even-numbered year, except that an initial license shall not expire within 180 days of the date of issuance.</text>
+      <text>Unless renewed, a license expires on the 28th day of a licensee's birth month of every odd-numbered year, except that an initial license shall not expire within 180 days of the date of issuance.</text>
     </para>
     <para>
       <num>C.</num>
@@ -300,54 +308,30 @@
     </para>
     <para>
       <num>D.</num>
-      <text>A licensed certified midwife shall submit to a criminal history records check in order to renew a license in accordance with the following schedule:</text>
+      <text>Criminal history records checks for renewal applicants shall be scheduled according to the licensee’s birth month as follows:</text>
       <para>
         <num>(1)</num>
-        <text>In 2025—all applicants with an August or September birth month;</text>
+        <text>In 2027 — all applicants with a September and October birth month;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>In 2026—all applicants with a September or October birth month;</text>
+        <text>In 2029 — all applicants with a November and December birth month;</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>In 2027—all applicants with an October or November birth month;</text>
+        <text>In 2031 — all applicants with a January and February birth month;</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>In 2028— all applicants with a November or December birth month;</text>
+        <text>In 2033 — all applicants with a March and April birth month;</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>In 2029—all applicants with a December or January birth month;</text>
+        <text>In 2035 — all applicants with a May and June birth month; and</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>In 2030—all applicants with a January or February birth month;</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>In 2031—all applicants with a February or March birth month;</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>In 2032—all applicants with a March or April birth month;</text>
-      </para>
-      <para>
-        <num>(9)</num>
-        <text>In 2033—all applicants with an April or May birth month;</text>
-      </para>
-      <para>
-        <num>(10)</num>
-        <text>In 2034—all applicants with a May or June birth month; and</text>
-      </para>
-      <para>
-        <num>(11)</num>
-        <text>In 2035—all applicants with a June or July birth month.</text>
-      </para>
-      <para>
-        <num>(12)</num>
-        <text>In 2036—all applicants with a July or August birth month;</text>
+        <text>In 2037 — all applicants with a July and August birth month.</text>
       </para>
     </para>
     <para>
@@ -355,8 +339,10 @@
       <text>The Board may grant a 30-day extension beyond a license’s expiration date so that the license may be renewed before it expires.</text>
     </para>
     <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02, .04, .06) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10" type="History" display="false"/>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|69" type="History" display="false"/>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|69|01|.06" type="History" display="false" exp="2027-02-21"/>
     </annotations>
   </section>
   <section>
@@ -778,8 +764,11 @@
     </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§ <cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-208">8-208</cite>, <cite doc="Md. Code" path="gho|8-508">8-508</cite>, <cite doc="Md. Code" path="gho|8-601">8-601</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-<cite doc="Md. Code" path="gho|02">02</cite>, <cite doc="Md. Code" path="gho|8-6">8-6</cite>D-01 through 8-6D-15, 8-701, 8-708, and 8-710, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-208">8-208</cite>, <cite doc="Md. Code" path="gho|8-303">8-303</cite><em>, </em>8-508, 8-601, 8-6A-02, 8-6D-01—8-6D-15, 8-701, 8-708, and 8-710, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-22">Effective date: February 22, 2026 (52:17 Md. R. 875)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|69|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|69|01|.04|A.">Regulation .04A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|69|01|.06|B.">Regulation .06B</cite>, D amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
   </annotations>
   <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|69" type="History" display="false"/>
 </container>

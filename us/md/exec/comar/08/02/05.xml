@@ -1146,7 +1146,15 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Catch Limit. No more than 3,500 pounds of Spanish mackerel may be landed per vessel per day or trip, whichever is longer, regardless of the number of licensees on board the vessel.</text>
+        <text>Catch Limit.</text>
+        <para>
+          <num>(a)</num>
+          <text>Prior to the closure of the northern zone in federal waters for Atlantic migratory group Spanish mackerel, not more than 3,500 pounds of Spanish mackerel may be landed per vessel per day or trip, whichever is longer, regardless of the number of licensees on board the vessel.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Upon closure of the northern zone in federal waters for Atlantic migratory group Spanish mackerel, not more than 500 pounds of Spanish mackerel may be landed per vessel per day or trip, whichever is longer, regardless of the number of licensees on board the vessel.</text>
+        </para>
       </para>
       <para>
         <num>(3)</num>
@@ -1158,14 +1166,24 @@
       <text>General.</text>
       <para>
         <num>(1)</num>
-        <text>The Secretary may modify catch limits or size limits or open or close a season as required by the Atlantic States Marine Fisheries Commission Interstate Fishery Management Plan for Spanish Mackerel by publishing notice in a daily newspaper of general circulation at least 48 hours in advance of the modification, stating the effective hour and date.</text>
+        <text>The Secretary may establish or modify catch limits, size limits, or seasons for Spanish mackerel to implement the Atlantic States Marine Fisheries Commission Interstate Fishery Management Plan for Spanish Mackerel by issuing a public notice on the Department’s website.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The Secretary shall make reasonable effort to disseminate public notice through various other media so that an affected person has reasonable opportunity to be informed.</text>
+        <text>The public notice shall state its effective hour and date and shall be published on the Department’s website at least 48 hours in advance of the effective hour and date.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Secretary shall make a reasonable effort to disseminate a public notice issued under this section through various other media so that an affected individual has a reasonable opportunity to be informed.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A violation of the restrictions set by the Secretary in accordance with this section is a violation of this regulation.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-059-F" target-path="08|02|05|.14" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1418,7 +1436,7 @@
       <text>Gear Restrictions.</text>
       <para>
         <num>(1)</num>
-        <text>An individual may not catch black bass in any manner in the tidal waters of the State except with rod or hook and line using natural or artificial baits.</text>
+        <text>An individual may not catch or attempt to catch black bass in any manner in the tidal waters of the State except with rod or hook and line using natural or artificial baits.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1429,7 +1447,9 @@
       <num>D.</num>
       <text>General Prohibitions. Except as provided in <cite path="|08.02.14">COMAR 08.02.14</cite>, an individual may not sell, offer to buy or sell, expose for sale, or purchase any black bass at any time.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|05|.19" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -3132,6 +3152,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23"><cite path="|08|02|05|.17">Regulation .17</cite> repealed effective March 23, 2009 (36:6 Md. R. 489)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-03-26"><cite path="|08|02|05|.17">Regulation .17</cite> adopted effective March 26, 2018 (45:6 Md. R. 318)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-07-16"><cite path="|08|02|05|.19|B.">Regulation .19B</cite>, D amended effective July 16, 2007 (34:14 Md. R. 1245)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|05|.19|C.">Regulation .19C</cite> amended effective August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-03-24"><cite path="|08|02|05|.20">Regulation .20</cite> amended as an emergency provision effective January 11, 2008 (35:3 Md. R. 285); amended permanently effective March 24, 2008 (35:6 Md. R. 696)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-16"><cite path="|08|02|05|.20">Regulation .20</cite> amended effective July 16, 2020 (47:14 Md. R. 674)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-09-03"><cite path="|08|02|05|.20|A.">Regulation .20A</cite>, C amended effective April 2, 2012 (39:6 Md. R. 407); September 3, 2012 (39:16 Md. R. 1147)</annotation>

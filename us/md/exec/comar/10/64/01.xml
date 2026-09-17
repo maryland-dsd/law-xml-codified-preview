@@ -52,6 +52,10 @@
       </para>
       <para>
         <num>(6)</num>
+        <text>“Criminal history records check (CHRC)” means the performance of both a State criminal history check by the Central Repository, and a national criminal history check by the Federal Bureau of Investigation (FBI).</text>
+      </para>
+      <para>
+        <num>(7)</num>
         <text>“Electronic device” means, but is not limited to, any of the following:</text>
         <para>
           <num>(a)</num>
@@ -71,7 +75,7 @@
         </para>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(8)</num>
         <text>“Health care practitioner” means an individual certified or licensed under <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite> as a:</text>
         <para>
           <num>(a)</num>
@@ -87,15 +91,15 @@
         </para>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(9)</num>
         <text>“Health care provider” means a health care practitioner or a hospital and the agents or employees of a health care practitioner or a hospital.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(10)</num>
         <text>“Hospital” has the meaning stated in Health-General Article, §19-301, Annotated Code of Maryland.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(11)</num>
         <text>Licensed Direct-Entry Midwife.</text>
         <para>
           <num>(a)</num>
@@ -107,19 +111,19 @@
         </para>
       </para>
       <para>
-        <num>(11)</num>
+        <num>(12)</num>
         <text>“Low-risk pregnancy” means a pregnancy, labor, and delivery and postpartum, newborn, and interconceptional care that does not include a condition that requires a mandatory transfer under <cite path="|10|64|01|.03">Regulation .03 of this chapter</cite>.</text>
       </para>
       <para>
-        <num>(12)</num>
+        <num>(13)</num>
         <text>“MEAC” means the Midwifery Education and Accreditation Council or a successor organization that is a national accreditation agency for midwifery education approved by the United States Department of Education.</text>
       </para>
       <para>
-        <num>(13)</num>
+        <num>(14)</num>
         <text>“NARM” means the North American Registry of Midwives or a successor organization approved by the Board that is an international certification agency that establishes and administers certification for the certified professional midwife credential.</text>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(15)</num>
         <text>“Patient” means:</text>
         <para>
           <num>(a)</num>
@@ -131,11 +135,11 @@
         </para>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(16)</num>
         <text>“Postpartum period” means the first 6 weeks after delivery.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(17)</num>
         <text>“Practice direct-entry midwifery” means:</text>
         <para>
           <num>(a)</num>
@@ -151,7 +155,10 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .01, .17) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|64|01|.01" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1886,7 +1893,7 @@
       <text>A license:</text>
       <para>
         <num>(1)</num>
-        <text>Expires on October 28 of every odd-numbered year;</text>
+        <text>Expires on the 28th day of a licensee's birth month of every odd-numbered year, except that an initial license shall not expire within 180 days of the date of issuance;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -2029,7 +2036,38 @@
       <num>K.</num>
       <text>A licensee shall submit to an additional criminal history records check every 12 years. The Board may not renew a license if the criminal history record information required by this section has not been received.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>L.</num>
+      <text>Criminal history records checks for renewal applicants shall be scheduled according to the licensee’s birth month as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>In 2027 — all applicants with a September and October birth month;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In 2029 — all applicants with a November and December birth month;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In 2031 — all applicants with a January and February birth month;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In 2033 — all applicants with a March and April birth month;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In 2035 — all applicants with a May and June birth month; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In 2037 — all applicants with a July and August birth month.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .01, .17) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|64|01|.17" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2092,8 +2130,11 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§8-205 and Title 8, Subtitle 6C, Annotated Code of Maryland;<br/>Ch. 383, Acts of 2015</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§8-205, 8-303, and Title 8, Subtitle 6C, Annotated Code of Maryland;<br/>Ch. 383, Acts of 2015</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2016-12-19">Effective date: December 19, 2016 (43:25 Md. R. 1385)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|64|01|.01">Regulation .01</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-10-16"><cite path="|10|64|01|.15|B.">Regulation .15B</cite> amended as an emergency provision effective July 11, 2023 (50:15 Md. R. 680); adopted permanently effective October 16, 2023 (50:20 Md. R. 887)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|64|01|.17|B.">Regulation .17B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R 943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|64|01|.17|L.">Regulation .17L</cite> adopted as an emergency provision effective August 25, 2026 (53:19 Md. R 943)</annotation>
   </annotations>
 </container>

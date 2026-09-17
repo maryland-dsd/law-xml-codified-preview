@@ -124,9 +124,11 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Publication. Notice of an invitation for bids for which the bid amount is reasonably expected to exceed $50,000 shall be published in eMaryland Marketplace unless the resulting contract is reasonably expected to be performed entirely outside this State or the District of Columbia. Publication shall be at least 20 days before the bid submission date. Publication of notice less than 20 days before bid submission is defective unless notice of the project is not required by State law.</text>
+      <text>Publication. Notice of an invitation for bids for which the bid amount is reasonably expected to exceed the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> shall be published in eMaryland Marketplace unless the resulting contract is reasonably expected to be performed entirely outside this State or the District of Columbia. Publication shall be at least 20 days before the bid submission date. Publication of notice less than 20 days before bid submission is defective unless notice of the project is not required by State law.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|02|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -166,7 +168,7 @@
       <text>Pre-Bid Conference Records.</text>
       <para>
         <num>(1)</num>
-        <text>When a pre-bid conference is held in connection with a procurement that is expected to exceed $100,000, the procurement officer shall ensure that a written record of the conference is prepared as soon as practicable and that the record is sent to all prospective bidders who were sent an invitation for bids or who are known by the procurement officer to have obtained the solicitation.</text>
+        <text>When a pre-bid conference is held in connection with a procurement that is expected to exceed the applicable small procurement amount set forth in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>, the procurement officer shall ensure that a written record of the conference is prepared as soon as practicable and that the record is sent to all prospective bidders who were sent an invitation for bids or who are known by the procurement officer to have obtained the solicitation.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -205,7 +207,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|02|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -392,8 +396,10 @@
     <prefix>Regulation</prefix>
     <num>.16</num>
     <heading>Publicizing Awards.</heading>
-    <text>Written notice of award shall be sent to the successful bidder. Notice of award shall be made available to the public. Notices of award of all contracts pursuant to this chapter shall be published in eMaryland Marketplace by the procurement agency not more than 30 days after the execution and approval of the contract.</text>
-    <annotations/>
+    <text>Written notice of award shall be sent to the successful bidder. Notice of award shall be made available to the public. Notices of award of all contracts in excess of the applicable small procurement amount set forth in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> awarded pursuant to this chapter shall be published in eMaryland Marketplace by the procurement agency not more than 30 days after the execution and approval of the contract.</text>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|02|.16" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -504,7 +510,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">: State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-103">13-103</cite>, <cite doc="Md. Code" path="gsf|13-210">13-210</cite>, and <cite doc="Md. Code" path="gsf|14-301">14-301</cite>—<cite doc="Md. Code" path="gsf|14-308">14-308</cite>, Annotated Code of Maryland; Chs. 586 and 587, Acts of 2017</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-103">13-103</cite>, <cite doc="Md. Code" path="gsf|13-210">13-210</cite>, and <cite doc="Md. Code" path="gsf|14-301">14-301</cite>—<cite doc="Md. Code" path="gsf|14-308">14-308</cite>, Annotated Code of Maryland; Chs. 586 and 587, Acts of 2017; Ch. 601, Acts of 2025.</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01">Effective date: July 1, 1981 (8:13 Md. R. II-5)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1987-11-06">Regulations .02 and .04B amended as an emergency provision effective November 6, 1987 (14:24 Md. R. 2553); emergency status extended at 15:5 Md. R. 615, 15:11 Md. R. 1328, 15:18 Md. R. 2144, and 15:24 Md. R. 2766 (Emergency provisions are temporary and not printed in COMAR)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Annotation: <cite path="21.05.02.12|D.">COMAR 21.05.02.12D</cite> cited in Maryland Port Administration v. John W. Brawner Contracting Co., 303 Md. 44 (1985)</annotation>
@@ -513,17 +519,17 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-02-24"><cite path="|21|05|02|.02">Regulation .02</cite> amended effective February 24, 1997 (24:4 Md. R. 294)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-10-27"><cite path="|21|05|02|.03">Regulation .03</cite> amended effective October 27, 2003 (30:21 Md. R. 1530)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-02-24"><cite path="|21|05|02|.04">Regulation .04</cite> amended effective February 24, 1997 (24:4 Md. R. 294)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11"><cite path="|21|05|02|.04|B.">Regulation .04B</cite> amended effective November 7, 2005 (32:22 Md. R. 1759); April 7, 2008 (35:7 Md. R. 751); March 11, 2019 (46:5 Md. R. 310)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|02|.04|B.">Regulation .04B</cite> amended effective November 7, 2005 (32:22 Md. R. 1759); April 7, 2008 (35:7 Md. R. 751); March 11, 2019 (46:5 Md. R. 310); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11"><cite path="|21|05|02|.05">Regulation .05</cite> repealed effective March 11, 2019 (46:5 Md. R. 310)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-06-29"><cite path="|21|05|02|.06">Regulation .06</cite> amended effective June 29, 2020 (47:13 Md. R. 643)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-04-07"><cite path="|21|05|02|.07">Regulation .07</cite> amended effective April 7, 1997 (24:7 Md. R. 554)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-10-27"><cite path="|21|05|02|.07|E.">Regulation .07E</cite> amended and F adopted effective October 27, 2003 (30:21 Md. R. 1530)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|02|.07|E.">Regulation .07E</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-07-15"><cite path="|21|05|02|.08|C.">Regulation .08C</cite> amended effective July 15, 2019 (46:14 Md. R. 623)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-10-27"><cite path="|21|05|02|.09|A.">Regulation .09A</cite> amended effective October 27, 2003 (30:21 Md. R. 1530)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-06-29"><cite path="|21|05|02|.11">Regulation .11</cite> amended effective June 29, 2020 (47:13 Md. R. 643)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-25"><cite path="|21|05|02|.14|B.">Regulation .14B</cite> amended effective December 25, 2023 (50:25 Md. R. 1090)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-11-07"><cite path="|21|05|02|.16">Regulation .16</cite> amended effective November 7, 2005 (32:22 Md. R. 1759)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|05|02|.16">Regulation .16</cite> amended effective April 7, 2008 (35:7 Md. R. 751)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|02|.16">Regulation .16</cite> amended effective November 7, 2005 (32:22 Md. R. 1759); April 7, 2008 (35:7 Md. R. 751); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|05|02|.17|A.">Regulation .17A</cite>, C amended effective April 7, 2008 (35:7 Md. R. 751)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-06-29"><cite path="|21|05|02|.17|B.">Regulation .17B</cite> amended effective June 29, 2020 (47:13 Md. R. 643)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-02-23"><cite path="|21|05|02|.23">Regulation .23</cite> amended effective February 23, 2009 (36:4 Md. R. 355)</annotation>

@@ -107,6 +107,18 @@
       <text>An MCO shall submit for Department approval an internal complaint process detailing the procedures for registering and responding to appeals and grievances in a timely fashion, which:</text>
       <para>
         <num>(1)</num>
+        <text>Includes a specific standard for grievance acknowledgement, monitored by the MCO for compliance, directing that:</text>
+        <para>
+          <num>(a)</num>
+          <text>The length of time preceding a written acknowledgement of a grievance may not exceed 5 days; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For administrative and non-emergency grievances, if the complaint is resolved in 5 days or less, the resolution letter can serve as written acknowledgement.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
         <text>Includes a specific standard for grievance decisions, monitored by the MCO for compliance, directing that:</text>
         <para>
           <num>(a)</num>
@@ -122,27 +134,27 @@
         </para>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(3)</num>
         <text>Includes participation by the provider, if appropriate;</text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(4)</num>
         <text>Allows participation by the ombudsman, if appropriate;</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(5)</num>
         <text>Ensures the participation of individuals within the MCO who have the authority to require corrective action;</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(6)</num>
         <text>Requires documentation of the substance of the grievances and steps taken;</text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(7)</num>
         <text>Includes a procedure for the aggregation and analysis of appeals and grievance data and use of the data for quality improvement;</text>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(8)</num>
         <text>Includes a documented procedure for reporting:</text>
         <para>
           <num>(a)</num>
@@ -170,7 +182,7 @@
         </para>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(9)</num>
         <text>Includes a documented procedure for written notification of the MCO's determination:</text>
         <para>
           <num>(a)</num>
@@ -182,7 +194,7 @@
         </para>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(10)</num>
         <text>Ensures that decision makers on appeals and grievances:</text>
         <para>
           <num>(a)</num>
@@ -214,7 +226,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|09|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -392,7 +406,7 @@
       <text>For certain services to enrollees that require preauthorization the following conditions apply:</text>
       <para>
         <num>(1)</num>
-        <text>For standard authorization decisions, the MCO shall make a determination within 2 business days of receipt of necessary clinical information, but not later than 14 calendar days from the date of the initial request so as not to adversely affect the health of the enrollee;</text>
+        <text>For standard authorization decisions, the MCO shall make a determination within 2 business days of receipt of necessary clinical information, but not later than 7 calendar days from the date of the initial request so as not to adversely affect the health of the enrollee;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -615,7 +629,9 @@
       <num>G.</num>
       <text>If an MCO does not make an authorization decision within the times specified in <cite path="10|67|09|.04|A.">§A of this regulation</cite>, the untimely decision is considered a denial and thus an adverse action subject to the notice requirements in §§C and E of this regulation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|09|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|67|09|.05">
     <prefix>Regulation</prefix>
@@ -963,7 +979,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-31"><cite path="|10|67|09|.05|A.">Regulation .05A</cite>, B amended effective December 31, 2018 (45:26 Md. R. 1244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-12-31"><cite path="|10|67|09|.05|F.">Regulation .05F</cite>, G adopted effective December 31, 2018 (45:26 Md. R. 1244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-11-01" discontinuity="true">Chapter transferred from <cite path="|10.09.71">COMAR 10.09.71</cite> effective November 1, 2019 (46:22 Md. R. 977)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|09|.02|C.">Regulation .02C</cite> amended effective September 28, 2026 (53:19 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-05-18"><cite path="|10|67|09|.03|D.">Regulation .03D</cite> adopted effective May 18, 2020 (47:10 Md. R. 515)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|09|.04|A.">Regulation .04A</cite> amended effective September 28, 2026 (53:19 Md. R. 944)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-11-18"><cite path="|10|67|09|.04|A.">Regulation .04A</cite>, D amended effective November 18, 2019 (46:23 Md. R. 1065)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-06-13"><cite path="|10|67|09|.05|A.">Regulation .05A</cite> amended effective June 13, 2022 (49:12 Md. R. 641)</annotation>
   </annotations>

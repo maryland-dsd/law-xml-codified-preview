@@ -9,7 +9,7 @@
     <heading>General.</heading>
     <para>
       <num>A.</num>
-      <text>Nothing contained in this chapter prevents a procurement officer from requiring performance or payment bonds, or both, on supply, service, maintenance, or construction-related service contracts if the contract is expected to exceed $100,000.</text>
+      <text>Nothing contained in this chapter prevents a procurement officer from requiring performance or payment bonds, or both, on supply, service, maintenance, or construction-related service contracts if the contract is expected to exceed the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>.</text>
     </para>
     <para>
       <num>B.</num>
@@ -103,7 +103,9 @@
         <text>The Maryland Small Business Development Financing Authority.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|06|07|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -156,11 +158,11 @@
       <text>General.</text>
       <para>
         <num>(1)</num>
-        <text>Solicitations on all State construction contracts when the contract is expected to exceed $100,000 require the submission of bid security in an amount equal to at least 5 percent of the amount of the bid or price proposal except that, for bids stating a rate but not a total cost, the bid bond shall be in an amount as determined by the procurement officer. Bid security or evidence of the posting of bid security shall be submitted with the bid or proposal. Bid bonds may be required for any other procurement over $50,000, as determined by the procurement officer. If a contractor fails to accompany its bid with the required bid security, the bid shall be considered nonresponsive and rejected except as provided by §§B and D of this regulation.</text>
+        <text>Solicitations on all State construction contracts when the contract is expected to exceed the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> require the submission of bid security in an amount equal to at least 5 percent of the amount of the bid or price proposal except that, for bids stating a rate but not a total cost, the bid bond shall be in an amount as determined by the procurement officer. Bid security or evidence of the posting of bid security shall be submitted with the bid or proposal. Bid bonds may be required for any other procurement over the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>, as determined by the procurement officer. If a contractor fails to accompany its bid with the required bid security, the bid shall be considered nonresponsive and rejected except as provided by §§B and D of this regulation.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>A procurement officer may require a bid security for a bid or proposal for services, supplies, maintenance, or construction-related services if the contract is expected to exceed $50,000. The procurement officer shall set the amount of the security.</text>
+        <text>A procurement officer may require a bid security for a bid or proposal for services, supplies, maintenance, or construction-related services if the contract is expected to exceed the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>. The procurement officer shall set the amount of the security.</text>
       </para>
     </para>
     <para>
@@ -345,7 +347,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|06|07|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -356,7 +360,7 @@
       <text>Performance Bonds.</text>
       <para>
         <num>(1)</num>
-        <text>General. A performance bond is required for all construction contracts in excess of $100,000 in the amount equal to at least 100 percent of the contract price. A performance bond may be required for a contract for services, supplies, maintenance, or construction-related services expected to exceed $100,000, as determined by the procurement officer. The performance bond shall be delivered by the contractor to the State not later than the time the contract is executed. If a contractor fails to deliver the required performance bond, the contractor’s bid shall be rejected, its bid security shall be enforced, and award of the contract may be made to the next lowest responsive and responsible bidder.</text>
+        <text>General. A performance bond is required for all construction contracts in excess of the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> in the amount equal to at least 100 percent of the contract price. A performance bond may be required for a contract for services, supplies, maintenance, or construction-related services expected to exceed the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>, as determined by the procurement officer. The performance bond shall be delivered by the contractor to the State not later than the time the contract is executed. If a contractor fails to deliver the required performance bond, the contractor’s bid shall be rejected, its bid security shall be enforced, and award of the contract may be made to the next lowest responsive and responsible bidder.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -368,7 +372,7 @@
       <text>Payment Bonds.</text>
       <para>
         <num>(1)</num>
-        <text>General. A payment bond is required for all construction contracts in excess of $100,000 in the amount equal to at least 100 percent of the contract price. The payment bond shall be delivered by the contractor to the State not later than the time the contract is executed. If a contractor fails to deliver the required payment bond, the contractor's bid shall be rejected, its bid security shall be enforced, and award of the contract shall be made to the next lowest responsive and responsible bidder.</text>
+        <text>General. A payment bond is required for all construction contracts in excess of the applicable small procurement amount in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> in the amount equal to at least 100 percent of the contract price. The payment bond shall be delivered by the contractor to the State not later than the time the contract is executed. If a contractor fails to deliver the required payment bond, the contractor's bid shall be rejected, its bid security shall be enforced, and award of the contract shall be made to the next lowest responsive and responsible bidder.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -387,7 +391,9 @@
       <num>C.</num>
       <text>Forms for Performance and Payment Bonds. The required performance and payment bonds shall be in the form specified in <cite path="21.07.02.10">COMAR 21.07.02.10</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|06|07|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -397,7 +403,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-207">13-207</cite>—<cite doc="Md. Code" path="gsf|13-209">13-209</cite>, <cite doc="Md. Code" path="gsf|13-216">13-216</cite>, and <cite doc="Md. Code" path="gsf|17-102">17-102</cite>—<cite doc="Md. Code" path="gsf|17-109">17-109</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-207">13-207</cite>—<cite doc="Md. Code" path="gsf|13-209">13-209</cite>, <cite doc="Md. Code" path="gsf|13-216">13-216</cite>, and <cite doc="Md. Code" path="gsf|17-102">17-102</cite>—<cite doc="Md. Code" path="gsf|17-109">17-109</cite>, Annotated Code of Maryland;<br/>Ch. 601, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01">Effective date: July 1, 1981 (8:13 Md. R. II-5)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-05-06">Regulations .01A, .02A, and .03A, B amended effective May 6, 1985 (12:9 Md. R. 816)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-07-05"><cite path="|21|06|07|.02|A.">Regulation .02A</cite> amended as an emergency provision effective March 17, 1982 (9:6 Md. R. 612); emergency status expired June 30, 1982; adopted permanently effective July 5, 1982 (9:13 Md. R. 1354)</annotation>
@@ -411,12 +417,15 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-10-14"><cite path="|21|06|07|.03|C.">Regulation .03C</cite> amended effective October 14, 2002 (29:20 Md. R. 1590)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-05-20"><cite path="|21|06|07|.04">Regulation .04</cite> adopted effective May 20, 1996 (23:10 Md. R. 733)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-07-16" discontinuity="true">Chapter revised as an emergency provision effective March 31, 2007 (34:9 Md. R. 824); revised permanently effective July 16, 2007 (34:14 Md. R. 1246)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|06|07|.01|A.">Regulation .01A</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16"><cite path="|21|06|07|.01|B.">Regulation .01B</cite> amended effective March 16, 2015 (42:5 Md. R. 488)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-02"><cite path="|21|06|07|.01|C.">Regulation .01C</cite> amended effective May 2, 2022 (49:9 Md. R. 531)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-28"><cite path="|21|06|07|.01|F.">Regulation .01F</cite> amended effective April 28, 2014 (41:8 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-28"><cite path="|21|06|07|.01|H.">Regulation .01H</cite>, I adopted effective April 28, 2014 (41:8 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16">Regulations <cite path="|21|06|07|.02">.02</cite>—<cite path="|21|06|07|.08">.08</cite> repealed effective March 16, 2015 (42:5 Md. R. 488)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|06|07|.09|A.">Regulation .09A</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02"><cite path="|21|06|07|.09|D.">Regulation .09D</cite> amended effective March 16, 2015 (42:5 Md. R. 488); January 2, 2017 (43:26 Md. R. 1449)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02"><cite path="|21|06|07|.10|A.">Regulation .10A</cite> amended effective January 2, 2017 (43:26 Md. R. 1449)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|06|07|.10|A.">Regulation .10A</cite> amended effective January 2, 2017 (43:26 Md. R. 1449); August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|06|07|.10|B.">Regulation .10B</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
   </annotations>
 </container>

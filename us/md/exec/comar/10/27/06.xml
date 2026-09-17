@@ -63,7 +63,7 @@
         <text>“Certification” means the permission to practice nurse anesthesia granted by the Board to a registered nurse who has:</text>
         <para>
           <num>(a)</num>
-          <text>Met all the specified requirements of a national certifying body recognized by the &lt;MLF&gt;Board; and</text>
+          <text>Met all the specified requirements of a national certifying body recognized by the Board; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -115,7 +115,9 @@
         <text>“Registered Nurse” means an individual who is licensed by the Board to practice registered nursing or has a multistate licensure privilege to practice registered nursing in this State under the Nurse Licensure Compact.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-27" doc="Editor Action 2026-08-27" eff="2026-08-27" path="" target-path="10|27|06|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>

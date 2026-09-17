@@ -23,7 +23,9 @@
       <num>B.</num>
       <text>A new manufactured or modified vehicle subject to these regulations shall meet or exceed all applicable federal Motor Vehicle Safety Standards (49 CFR 393, 567, and 568) and appropriate State safety laws and standards.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -42,7 +44,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>“Dump service registration” means registration of a vehicle under the provisions of <cite doc="Md. Code" path="gtr|13-919">Transportation Article, §13-919, Annotated Code of Maryland</cite>.</text>
+        <text>“Dump service registration” means registration of a vehicle under the provisions of <cite doc="Md. Code" path="gtr|13-919">Transportation Article, §13-919, Annotated Code of Maryland</cite>, or an apportioned vehicle properly registered in another state.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -57,24 +59,23 @@
         <text>“Second-stage manufacturer” means a person who performs operations on an incomplete vehicle, or retrofits an existing vehicle, so that it becomes a complete vehicle in accordance with these regulations and with <cite doc="Md. Code" path="gtr|13-919">Transportation Article, §13-919, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.08" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Incorporation by Reference.</heading>
     <text>In this chapter, 49 CFR 393, 567, and 568 (1993) are incorporated by reference.</text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.08" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="11|15|27|.04">
     <prefix>Regulation</prefix>
     <num>.04</num>
-    <heading>Three-Axle Vehicles — Repealed.</heading>
-    <annotations/>
-  </section>
-  <section cache:ref-path="11|15|27|.05">
-    <prefix>Regulation</prefix>
-    <num>.05</num>
     <heading>Lift Axle and Vehicle Design Requirements.</heading>
     <para>
       <num>A.</num>
@@ -134,55 +135,69 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Existing Vehicles.</text>
-      <para>
-        <num>(1)</num>
-        <text>All components including a lift axle added on a retrofitted vehicle shall meet the design requirements specified in <cite path="11|15|27|.05|A.">§A of this regulation</cite>.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The owner of a retrofitted vehicle shall comply with the provisions of <cite path="11.15.20.05">COMAR 11.15.20.05</cite>.</text>
-      </para>
+      <text>Existing Vehicles. All components including a lift axle added on a retrofitted vehicle shall meet the design requirements specified in <cite path="11|15|27|.04|A.">§A of this regulation</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.08" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.04" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="11|15|27|.06">
+  <section cache:ref-path="11|15|27|.05">
     <prefix>Regulation</prefix>
-    <num>.06</num>
+    <num>.05</num>
     <heading>Certification.</heading>
     <para>
       <num>A.</num>
-      <text>Certification of compliance with <cite path="|11|15|27|.05">Regulation .05 of this chapter</cite> shall be:</text>
+      <text>Certification of compliance with <cite path="|11|15|27|.04">Regulation .04 of this chapter</cite> shall be documented on letterhead stationery by the manufacturer, second-stage manufacturer, or authorized dealer and include, in addition to information required by 49 CFR §§567.4 and 567.5:</text>
       <para>
         <num>(1)</num>
-        <text>Documented on letterhead stationery by the manufacturer, second-stage manufacturer, or authorized dealer and shall include, in addition to information required by 49 CFR §§567.4 and 567.5:</text>
-        <para>
-          <num>(a)</num>
-          <text>The lift axle air pressure in pounds per square inch for an axle load of 12,000 pounds when the vehicle is evenly loaded between 65,000 and 70,000 pounds GVW, and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The manufacturer's, second-stage manufacturer's, or authorized dealer's license number; and</text>
-        </para>
+        <text>The lift axle air pressure in pounds per square inch for an axle load of 12,000 pounds when the vehicle is evenly loaded between 65,000 and 70,000 pounds GVW; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Carried in the vehicle at all times and produced upon the demand of a law enforcement officer.</text>
+        <text>The manufacturer's, second-stage manufacturer's, or authorized dealer's license number.</text>
       </para>
     </para>
     <para>
       <num>B.</num>
-      <text>The certification completed by the manufacturer, second-stage manufacturer, or authorized dealer in accordance with the provisions of <cite path="11|15|27|.06|A.">§A of this regulation</cite> shall be submitted to the Motor Vehicle Administration at the time of registration.</text>
+      <text>Before operating the dump service vehicle with a gross vehicle weight above 55,000 pounds in Maryland, the vehicle owner shall submit to the Administration:</text>
+      <para>
+        <num>(1)</num>
+        <text>The certification completed by the manufacturer, second-stage manufacturer, or authorized dealer in accordance with the provisions of <cite path="11|15|27|.05|A.">§A of this regulation</cite>;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A certification that the vehicle shall be operated in compliance with the requirements of these regulations;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A dump service certification (Form VR-98); and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A sideview photograph of the vehicle.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
-      <text>The owner of a vehicle, when applying for a dump service registration, shall certify that the vehicle shall be operated in compliance with the requirements of these regulations and complies with the provisions of <cite path="11.15.20.05">COMAR 11.15.20.05</cite>.</text>
+      <text>Upon receipt of the required documents, the Administration shall issue a certification stating that the vehicle meets the requirements of this regulation and <cite path="|11|15|27|.04">Regulation .04 of this chapter</cite>.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>The certification issued by the Administration under <cite path="11|15|27|.05|C.">§C of this regulation</cite> shall be carried or otherwise available for display in the vehicle at all times and produced upon the demand of a law enforcement officer.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Administration may revoke the certification to operate this vehicle if the Administration finds that the vehicle no longer meets the requirements of this regulation and <cite path="|11|15|27|.04">Regulation .04 of this chapter</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.08" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.05" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="11|15|27|.07">
+  <section cache:ref-path="11|15|27|.06">
     <prefix>Regulation</prefix>
-    <num>.07</num>
+    <num>.06</num>
     <heading>Vehicle Operation.</heading>
     <para>
       <num>A.</num>
@@ -193,7 +208,7 @@
       <text>Lift Axle Loading Requirements.</text>
       <para>
         <num>(1)</num>
-        <text>When fully engaged in accordance with <cite path="11|15|27|.07|A.">§A of this regulation</cite>, the lift axle shall have certified air pressure to assure the minimum load of 13,500 pounds with a maximum tolerance of minus 1,500 pounds for an evenly loaded vehicle with a GVW of 70,000 pounds.</text>
+        <text>When fully engaged in accordance with <cite path="11|15|27|.06|A.">§A of this regulation</cite>, the lift axle shall have certified air pressure to assure the minimum load of 13,500 pounds with a maximum tolerance of minus 1,500 pounds for an evenly loaded vehicle with a GVW of 70,000 pounds.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -238,13 +253,36 @@
     </para>
     <para>
       <num>D.</num>
-      <text>A lift axle disengaged under <cite path="11|15|27|.07|C.">§C of this regulation</cite> may be disengaged for 1/4 mile before and 1/4 mile after the authorized raising of the lift axle during operation.</text>
+      <text>A lift axle disengaged under <cite path="11|15|27|.06|C.">§C of this regulation</cite> may be disengaged for 1/4 mile before and 1/4 mile after the authorized raising of the lift axle during operation.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>A dump service vehicle with four axels may operate at a maximum gross weight of 65,000 pounds when the vehicle is operated on an interstate outside of Allegany or Garrett County provided:</text>
+      <para>
+        <num>(1)</num>
+        <text>It is properly registered in this State or is an apportioned vehicle and properly registered in another state;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The owner has the document issued by the Administration under <cite path="11|15|27|.06|C.">§C of this regulation</cite>; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The vehicle operator carries in the cab a certificate of approval from the Administration while operating the vehicle above a gross vehicle weight of 55,000 pounds.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A dump service vehicle used to haul coal, logs, or pulpwood that is registered in this State in compliance with <cite doc="Md. Code" path="gtr|13-919">Transportation Article, §13-919, Annotated Code of Maryland</cite>, or is an apportioned vehicle and properly registered in another state and operated on Interstate Route 68 in Allegany County or Garrett County is allowed a maximum gross weight limitation of 70,000 pounds.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.08" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.06" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="11|15|27|.08">
+  <section cache:ref-path="11|15|27|.07">
     <prefix>Regulation</prefix>
-    <num>.08</num>
+    <num>.07</num>
     <heading>Enforcement.</heading>
     <para>
       <num>A.</num>
@@ -256,7 +294,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>A dump service registration vehicle that receives a safety equipment repair order in accordance with the provisions of <cite path="11|15|27|.08|B.">§B of this regulation</cite> shall be inspected during normal business hours by:</text>
+      <text>A dump service registration vehicle that receives a safety equipment repair order in accordance with the provisions of <cite path="11|15|27|.07|B.">§B of this regulation</cite> shall be inspected during normal business hours by:</text>
       <para>
         <num>(1)</num>
         <text>A Maryland manufacturer;</text>
@@ -280,7 +318,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>A dump service registration vehicle suspected of operating in violation of <cite path="11|15|27|.08|A.">§A of this regulation</cite> may be weighed by a law enforcement officer.</text>
+      <text>A dump service registration vehicle suspected of operating in violation of <cite path="11|15|27|.07|A.">§A of this regulation</cite> may be weighed by a law enforcement officer.</text>
     </para>
     <para>
       <num>E.</num>
@@ -311,7 +349,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The air pressure gauge used under the provisions of <cite path="11|15|27|.08|E.|(2)">§E(2) of this regulation</cite> may be calibrated on a daily basis and shall be certified on not less than a semiannual basis.</text>
+        <text>The air pressure gauge used under the provisions of <cite path="11|15|27|.07|E.|(2)">§E(2) of this regulation</cite> may be calibrated on a daily basis and shall be certified on not less than a semiannual basis.</text>
       </para>
     </para>
     <para>
@@ -342,7 +380,10 @@
         </table>
       </text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.08" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Transportation Article, §§<cite doc="Md. Code" path="gtr|12-104">12-104</cite>(b) and <cite doc="Md. Code" path="gtr|13-919">13-919</cite>, Annotated Code of Maryland</annotation>
@@ -350,9 +391,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-08-29">Regulations <cite path="|11|15|27|.01">.01</cite>—<cite path="|11|15|27|.08">.08</cite> adopted as an emergency provision effective January 1, 1995 (22:2 Md. R. 74); emergency status extended to August 29, 1995 (22:9 Md. R. 643)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-08-14">Regulations <cite path="|11|15|27|.01">.01</cite>—<cite path="|11|15|27|.08">.08</cite> adopted effective August 14, 1995 (22:16 Md. R. 1222)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|27|.01">Regulation .01</cite> amended effective July 30, 2018 (45:15 Md. R. 725)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|27|.02|B.">Regulation .02B</cite> amended effective July 30, 2018 (45:15 Md. R. 725)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|27|.02|B.">Regulation .02B</cite> amended effective July 30, 2018 (45:15 Md. R. 725);</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|27|.04">Regulation .04</cite> repealed effective July 30, 2018 (45:15 Md. R. 725)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|27|.07|A.">Regulation .07A</cite>, B amended effective July 30, 2018 (45:15 Md. R. 725)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-30"><cite path="|11|15|27|.08|A.">Regulation .08A</cite> amended effective July 30, 2018 (45:15 Md. R. 725)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28" discontinuity="true">Chapter revised effective September 28, 2026 (53:19 Md. R. 945)</annotation>
   </annotations>
+  <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-073-F" target-path="11|15|27|.08" type="History" display="false"/>
 </container>

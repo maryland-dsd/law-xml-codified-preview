@@ -17,17 +17,19 @@
     <heading>Bid Bond Notice.</heading>
     <para>
       <num>A.</num>
-      <text>Solicitations for construction contracts reasonably expected by the procurement officer to exceed $100,000 shall contain notice of bid security requirements (See <cite path="|21.06.07">COMAR 21.06.07</cite>).</text>
+      <text>Solicitations for construction contracts reasonably expected by the procurement officer to exceed the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> shall contain notice of bid security requirements (See <cite path="|21.06.07">COMAR 21.06.07</cite>).</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Solicitations for all other contracts reasonably expected by the procurement officer to exceed $50,000 and for which the procurement officer wishes to require bid security shall contain notice of the bid security requirements.</text>
+      <text>Solicitations for all other contracts reasonably expected by the procurement officer to exceed the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> and for which the procurement officer wishes to require bid security shall contain notice of the bid security requirements.</text>
     </para>
     <para>
       <num>C.</num>
       <text>Notwithstanding §§A and B of this regulation, notice of bid security is required if a federal law or a condition of federal assistance for the contract requires it.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|08|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -105,7 +107,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Mandatory Solicitation Addendum. The solicitation addendum shall be in substantially the same form as follows<em> and include all certification language required by the <cite doc="Md. Code" path="gsf">State Finance and Procurement Article, Annotated Code of Maryland</cite></em>:</text>
+      <text>Mandatory Solicitation Addendum. The solicitation addendum shall be in substantially the same form as follows and include all certification language required by the <cite doc="Md. Code" path="gsf">State Finance and Procurement Article, Annotated Code of Maryland</cite>:</text>
       <include>
         <text>BID/PROPOSAL AFFIDAVIT</text>
         <para>
@@ -419,7 +421,7 @@
             </para>
           </para>
           <para>
-            <num proof="done">2.</num>
+            <num>(2)</num>
             <text>The undersigned is unable to make the above certification regarding its investment activities in Iran due to the following activities: ________________________________________________________</text>
           </para>
         </para>
@@ -445,7 +447,9 @@
         </para>
       </include>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|08|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="21|05|08|.08">
     <prefix>Regulation</prefix>
@@ -616,13 +620,14 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">: Election Law Article, §§<cite doc="Md. Code" path="gel|14-101">14-101</cite>—<cite doc="Md. Code" path="gel|14-108">14-108</cite>; State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|3-412">3-412</cite>, <cite doc="Md. Code" path="gsf|3">3</cite>.5-311, 11-206, 12-101, 13-207, 13-218, 13-221, 14-303, 14-308, 14-406, 16-102, 16-202, 16-203, 17-401—17-402, and Title 19; Annotated Code of Maryland; Ch. 293, Acts of 2009</annotation>
+    <annotation managed="false" type="Authority" dest="container">Election Law Article, §§<cite doc="Md. Code" path="gel|14-101">14-101</cite>—<cite doc="Md. Code" path="gel|14-108">14-108</cite>; State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|3-412">3-412</cite>, <cite doc="Md. Code" path="gsf|3.5-311">3.5-311</cite>, <cite doc="Md. Code" path="gsf|11-206">11-206</cite>, <cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-207">13-207</cite>, <cite doc="Md. Code" path="gsf|13-218">13-218</cite>, <cite doc="Md. Code" path="gsf|13-221">13-221</cite>, <cite doc="Md. Code" path="gsf|14-303">14-303</cite>, <cite doc="Md. Code" path="gsf|14-308">14-308</cite>, <cite doc="Md. Code" path="gsf|14-406">14-406</cite>, <cite doc="Md. Code" path="gsf|16-102">16-102</cite>, <cite doc="Md. Code" path="gsf|16-202">16-202</cite>, <cite doc="Md. Code" path="gsf|16-203">16-203</cite>, <cite doc="Md. Code" path="gsf|17-401">17-401</cite>—<cite doc="Md. Code" path="gsf|17-402">17-402</cite>, and Title 19; Annotated Code of Maryland; Ch. 293, Acts of 2009;<br/>Ch. 601, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01">Effective date: July 1, 1981 (8:13 Md. R. II-5)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-07-05"><cite path="|21|05|08|.05">Regulation .05</cite> amended as an emergency provision effective March 17, 1982 (9:6 Md. R. 612); emergency status expired June 30, 1982; adopted permanently effective July 5, 1982 (9:13 Md. R. 1354)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-05-06">Regulations .05A and B amended effective May 6, 1985 (12:9 Md. R. 816)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1984-06-04">Regulations .06 and .07 adopted effective June 4, 1984 (11:11 Md. R. 963)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-09" discontinuity="true">Regulations <cite path="|21|05|08|.01">.01</cite>—<cite path="|21|05|08|.07">.07</cite> repealed and new Regulations <cite path="|21|05|08|.01">.01</cite>—<cite path="|21|05|08|.07">.07</cite> adopted effective January 9, 1989 (15:27 Md. R. 3138)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-05-20"><cite path="|21|05|08|.02|A.">Regulation .02A</cite> amended and C adopted effective May 20, 1996 (23:10 Md. R. 733)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|08|.02">Regulation .02</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02"><cite path="|21|05|08|.04">Regulation .04</cite> amended effective March 18, 2002 (29:5 Md. R. 505); January 2, 2017 (43:26 Md. R. 1449)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1993-08-02"><cite path="|21|05|08|.05">Regulation .05</cite> amended effective August 2, 1993 (20:15 Md. R. 1221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-11-20"><cite path="|21|05|08|.05">Regulation .05</cite> repealed effective November 20, 1994 (21:23 Md. R. 1936)</annotation>

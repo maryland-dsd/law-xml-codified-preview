@@ -9,7 +9,7 @@
     <heading>Promulgating Authorities.</heading>
     <para>
       <num>A.</num>
-      <text>The promulgating authorities for the State procurement regulations are: the Board of Public Works (the Governor, Comptroller, and Treasurer); the Comptroller of the Treasury; the State Treasurer; and the Secretaries of General Services and Transportation.</text>
+      <text>The promulgating authorities for the State procurement regulations are: the Board of Public Works (the Governor, Comptroller, and Treasurer); the Comptroller of the Treasury; the State Treasurer; the Secretary of General Services and Chief Procurement Officer; and the Secretary of Transportation.</text>
     </para>
     <para>
       <num>B.</num>
@@ -21,9 +21,11 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Regulations concerning veteran-owned small business enterprise participation shall be promulgated by the Governor's Office of Small, Minority, and Women Business Affairs.</text>
+      <text>Regulations concerning certified small business eligibility, small business preference program, and veteran-owned small business enterprise participation shall be promulgated by the Office of Small, Minority, and Women Business Affairs.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|01|01|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -83,8 +85,9 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01">Effective date: July 1, 1981 (8:13 Md. R. II-5)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1982-10-12"><cite path="|21|01|01|.02|A.">Regulation .02A</cite> amended as an emergency provision effective July 1, 1982 (9:15 Md. R. 1508); emergency status extended at 9:16 Md. R. 1601, 9:17 Md. R. 1698, 9:20 Md. R. 1979; adopted permanently effective October 12, 1982 (9:20 Md. R. 1982)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-09" discontinuity="true">Chapter revised effective January 9, 1989 (15:27 Md. R. 3138)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-02"><cite path="|21|01|01|.01|A.">Regulation .01A</cite> amended effective October 18, 1999 (26:21 Md. R. 1631); May 2, 2022 (49:9 Md. R. 531)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|01|01|.01|A.">Regulation .01A</cite> amended effective October 18, 1999 (26:21 Md. R. 1631); May 2, 2022 (49:9 Md. R. 531); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-02"><cite path="|21|01|01|.01|D.">Regulation .01D</cite> adopted effective May 2, 2022 (49:9 Md. R. 531)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|01|01|.01|D.">Regulation .01D</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-05-02"><cite path="|21|01|01|.02">Regulation .02</cite> amended effective May 2, 2022 (49:9 Md. R. 531)</annotation>
   </annotations>
 </container>

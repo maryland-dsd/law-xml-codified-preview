@@ -23,7 +23,7 @@
         <text>Written evidence satisfactory to the Board that the applicant has submitted to a CHRC as required under <cite path="10|53|02|.01|A.|(2)">§A(2) of this regulation</cite> by submitting:</text>
         <para>
           <num>(a)</num>
-          <text>Two sets of fingerprints, as required by the Central Repository and the FBI; and</text>
+          <text>One complete set of fingerprints, as required by the Central Repository and the FBI; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -63,7 +63,10 @@
       <num>D.</num>
       <text>Once an application is deemed abandoned under <cite path="10|53|02|.01|C.">§C of this regulation</cite>, an individual seeking licensure shall submit a new application on the form required by the Board and meet all of the requirements for licensure and pay the required fees that are in effect at the time of re-application.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .01, .03, .05— .07) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|53|02|.01" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|53|02|.02">
     <prefix>Regulation</prefix>
@@ -179,7 +182,7 @@
         <text>Written, verified evidence satisfactory to the Board that the applicant has completed the application for a criminal history records check by submitting the following:</text>
         <para>
           <num>(a)</num>
-          <text>Two sets of fingerprints, as required by the Central Repository and the FBI; and</text>
+          <text>One complete set of fingerprints, as required by the Central Repository and the FBI; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -219,7 +222,10 @@
         <text>Approved the application.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .01, .03, .05— .07) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|53|02|.03" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -290,9 +296,17 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.05</num>
-    <heading>Renewal of Licensure.</heading>
+    <heading>Term and Renewal of License.</heading>
     <para>
       <num>A.</num>
+      <text>Term. A license issued pursuant to <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>B-12, Annotated Code of Maryland, authorizes the licensee to practice licensed electrology while the license is active.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Expiration. Unless renewed, a license expires on the 28th day of a licensee's birth month of every odd-numbered year, except that an initial license shall not expire within 180 days of the date of issuance.</text>
+    </para>
+    <para>
+      <num>C.</num>
       <text>A licensee otherwise entitled to be licensed shall renew a license for 2 years by submitting to the Board:</text>
       <para>
         <num>(1)</num>
@@ -308,14 +322,45 @@
       </para>
     </para>
     <para>
-      <num>B.</num>
+      <num>D.</num>
       <text>On notification by the Board that a criminal history records check is required before renewal of licensure, a renewal applicant shall comply with all requirements under <cite path="|10|53|02|.01|A.">Regulation .01A of this chapter</cite>.</text>
     </para>
     <para>
-      <num>C.</num>
+      <num>E.</num>
+      <text>Criminal history records checks (CHRCs) for renewal applicants shall be scheduled according to the licensee’s birth month as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>In 2027 — all applicants with a September and October birth month;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In 2029 — all applicants with a November and December birth month;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In 2031 — all applicants with a January and February birth month;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In 2033 — all applicants with a March and April birth month;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In 2035 — all applicants with a May and June birth month; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In 2037 — all applicants with a July and August birth month.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
       <text>After notification to the licensee at the address provided to the Board that a criminal history records check is required for renewal, the Board may not renew a license without written documentation that the applicant has submitted to a criminal history records check in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .01, .03, .05— .07) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|53|02|.05" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -372,7 +417,7 @@
           <text>Written, verified evidence that the applicant for reactivation of their license has completed an application for a criminal history records check by submitting the following:</text>
           <para>
             <num>(i)</num>
-            <text>Two sets of fingerprints, as required by the Central Repository and the FBI; and</text>
+            <text>One complete set of fingerprints, as required by the Central Repository and the FBI; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -401,7 +446,10 @@
       <num>E.</num>
       <text>While on inactive status an electrologist or electrology instructor is not authorized to practice or instruct and may not use the designation “Electrologist”, “Licensed Electrologist”, “Electrology Instructor”, “Licensed Electrology Instructor”, “L.E.”, or “L.E.I.”.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .01, .03, .05— .07) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|53|02|.06" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -430,7 +478,7 @@
           <text>Written, verified evidence that the renewal applicant has completed an application for a criminal history records check by submitting the following:</text>
           <para>
             <num>(i)</num>
-            <text>Two sets of fingerprints, as required by the Central Repository and the FBI; and</text>
+            <text>One complete set of fingerprints, as required by the Central Repository and the FBI; and</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -479,7 +527,10 @@
         <text>Use the designation “Electrologist”, “Licensed Electrologist”, “Electrology Instructor”, “Licensed Electrology Instructor”, “L.E.”, or “L.E.I.”.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .01, .03, .05— .07) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|53|02|.07" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -585,11 +636,16 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|53|02|.06">Regulation .06</cite> amended effective May 7, 2007 (34:9 Md. R. 825)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-05-07"><cite path="|10|53|02|.09">Regulation .09</cite> adopted effective May 7, 2007 (34:9 Md. R. 825)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13" discontinuity="true">Chapter revised effective February 13, 2017 (44:3 Md. R. 189)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|53|02|.01|A.">Regulation .01A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|53|02|.02|A.">Regulation .02A</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|53|02|.03">Regulation .03</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|53|02|.03|A.">Regulation .03A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|53|02|.04|A.">Regulation .04A</cite>, B amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|53|02|.05">Regulation .05</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|53|02|.05|A.">Regulation .05A</cite>, C amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|53|02|.06">Regulation .06</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|53|02|.06|B.">Regulation .06B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|53|02|.07|A.">Regulation .07A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|53|02|.07|D.">Regulation .07D</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|53|02|.09|B.">Regulation .09B</cite>, C amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|53|02|.10">Regulation .10</cite> repealed effective July 2, 2018 (45:13 Md. R. 667)</annotation>

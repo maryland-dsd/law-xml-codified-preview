@@ -202,21 +202,23 @@
     </para>
     <para>
       <num>C.</num>
-      <text>State schools and facilities shall include in procurement solicitations a price preference not exceeding 5 percent to bids or proposals for locally grown food. A procurement officer:</text>
+      <text>State schools and facilities shall include in procurement solicitations a price preference not exceeding 10 percent to bids or proposals for locally grown food. A procurement officer:</text>
       <para>
         <num>(1)</num>
-        <text>Shall specify in any specific procurement solicitation a price preference not exceeding 5 percent; and</text>
+        <text>Shall specify in any specific procurement solicitation a price preference not exceeding 10 percent; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>May limit competition in any specific procurement solicitation to only locally grown foods.</text>
+        <text>May limit competition in any specific procurement solicitation to responses from certified local farms as defined in <cite doc="Md. Code" path="gsf|14-701">State Finance and Procurement Article, §14-701, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
     <para>
       <num>D.</num>
       <text>A price preference under this regulation cannot be used in conjunction with any other preference established in this chapter.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|07|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="21|11|07|.09">
     <prefix>Regulation</prefix>
@@ -285,17 +287,21 @@
     <heading>Energy Efficient Outdoor Lighting Fixtures.</heading>
     <para>
       <num>A.</num>
-      <text>If State funds are used to install or replace a permanent outdoor luminaire for lighting on the grounds of any building or facility owned or leased by the State or a unit of the State, procurement specifications shall require that:</text>
+      <text>If State funds are used to install or replace a permanent outdoor luminaire for lighting on the grounds of any building, facility, park, or trail owned or leased by the State or a unit of the State, procurement specifications shall require that:</text>
       <para>
         <num>(1)</num>
         <text>Design of the luminaire maximizes energy conservation and minimizes light pollution, glare, and light trespass;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Illumination produced by the luminaire is the minimum illumination necessary for the intended purpose of the lighting; and</text>
+        <text>Except for a luminaire installed or replaced by the Department of Transportation, the luminaire has a correlated light temperature that is less than or equal to 3,000 Kelvins;</text>
       </para>
       <para>
         <num>(3)</num>
+        <text>Illumination produced by the luminaire is the minimum illumination necessary for the intended purpose of the lighting; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>For a luminaire with an output of more than 1,800 lumens, the luminaire is a restricted uplight luminaire.</text>
       </para>
     </para>
@@ -352,14 +358,20 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Used for sign illumination; or</text>
+        <text>Used for sign illumination;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>In a lighting plan where less than 25 percent of the luminaires are to be replaced.</text>
+        <text>In a lighting plan where less than 25 percent of the luminaires are to be replaced; or</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Used to illuminate the field of play at a sports facility.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|07|.11" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -444,7 +456,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|14-401">14-401</cite>—<cite doc="Md. Code" path="gsf|14-403">14-403</cite>, <cite doc="Md. Code" path="gsf|14-405">14-405</cite>, and <cite doc="Md. Code" path="gsf|14-407">14-407</cite>,<br/>Annotated Code of Maryland; Ch. 593, Acts of 2010; Ch. 314, Acts of 2011</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|14-401">14-401</cite>—<cite doc="Md. Code" path="gsf|14-403">14-403</cite>, <cite doc="Md. Code" path="gsf|14-405">14-405</cite>, and <cite doc="Md. Code" path="gsf|14-407">14-407</cite>,<br/>Annotated Code of Maryland; Ch. 593, Acts of 2010; Ch. 314, Acts of 2011; Ch. 389, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-09">Effective date: January 9, 1989 (15:27 Md. R. 3138)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16"><cite path="|21|11|07|.01|B.">Regulation .01B</cite> amended effective June 6, 1994 (21:11 Md. R. 953); October 18, 1999 (26:21 Md. R. 1631); May 26, 2003 (30:10 Md. R. 668); April 11, 2005 (32:7 Md. R. 685); March 5, 2012 (39:4 Md. R. 338 - two actions); May 13, 2013 (40:9 Md. R. 789); April 28, 2014 (41:8 Md. R. 473); March 16, 2015 (42:5 Md. R. 488)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1996-10-12"><cite path="|21|11|07|.02">Regulation .02</cite> amended effective October 12, 1996 (23:20 Md. R. 1425)</annotation>
@@ -455,10 +467,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|11|07|.05|A.">Regulation .05A</cite> amended effective November 7, 2005 (32:22 Md. R. 1759); April 7, 2008 (35:7 Md. R. 751)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-05-26"><cite path="|21|11|07|.07">Regulation .07</cite> adopted effective May 26, 2003 (30:10 Md. R. 668)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-03-12"><cite path="|21|11|07|.08">Regulation .08</cite> adopted effective March 12, 2007 (34:5 Md. R. 562)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|07|.08|C.">Regulation .08C</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|21|11|07|.09">Regulation .09</cite> adopted effective March 5, 2012 (39:4 Md. R. 338)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-16"><cite path="|21|11|07|.09">Regulation .09</cite> amended effective March 16, 2015 (42:5 Md. R. 488)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|21|11|07|.10">Regulation .10</cite> adopted effective March 5, 2012 (39:4 Md. R. 338)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|21|11|07|.11">Regulation .11</cite> adopted effective March 5, 2012 (39:4 Md. R. 338)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|07|.11">Regulation .11</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-03-05"><cite path="|21|11|07|.12">Regulation .12</cite> adopted effective March 5, 2012 (39:4 Md. R. 338)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-28"><cite path="|21|11|07|.12">Regulation .12</cite> repealed effective April 28, 2014 (41:8 Md. R. 473)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-05-13"><cite path="|21|11|07|.13">Regulation .13</cite> adopted effective May 13, 2013 (40:9 Md. R. 789)</annotation>

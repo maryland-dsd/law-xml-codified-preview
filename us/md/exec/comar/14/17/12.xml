@@ -773,6 +773,10 @@
           <text>Does not display any sign or illustration related to cannabis, cannabis products, or a cannabis licensee.</text>
         </para>
       </para>
+      <para>
+        <num>(10)</num>
+        <text>The Administration may require a micro dispensary to provide or disseminate information related to health and safety, as provided by the Administration, in conjunction with each delivery order.</text>
+      </para>
     </para>
     <para>
       <num>F.</num>
@@ -900,6 +904,7 @@
     </para>
     <annotations>
       <annotation app="2026-03-16" doc="Maryland Register, Volume 53, Issue 5" eff="2026-03-16" path="regulations|final|25-247-F-I" target-path="14|17|12|.03" type="History" display="false"/>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|12|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="14|17|12|.04">
@@ -930,15 +935,11 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>That a certifying provider issued a valid written certification to the qualifying patient;</text>
+          <text>That a certifying provider issued a valid written certification to the qualifying patient; and</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>That the amount of medical cannabis that has already been dispensed pursuant to the written certification; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Whether a qualifying patient is actively enrolled in the Maryland Medical Assistance Program or in the Veterans Affairs Maryland Health Care System, and therefore, eligible for discounted medical cannabis pursuant to <cite path="14.17.04.06">COMAR 14.17.04.06</cite>.</text>
+          <text>That the amount of medical cannabis that has already been dispensed, combined with the amount being dispensed in the current transaction, does not exceed the allotted amount in the written certification.</text>
         </para>
       </para>
       <para>
@@ -1062,18 +1063,18 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>For the purposes of calculating the personal use amount of cannabis that can be dispensed, an individual may not purchase more than:</text>
+          <text>For the purposes of calculating the personal use amount of cannabis that can be dispensed, an individual may not purchase:</text>
           <para>
             <num>(i)</num>
-            <text>1.5 ounces of usable cannabis products as defined in <cite path="|14.17.01">COMAR 14.17.01</cite>;</text>
+            <text>More than 1.5 ounces of usable cannabis products as defined in <cite path="|14.17.01">COMAR 14.17.01</cite>;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>12 grams of concentrated cannabis products; or</text>
+            <text>More than 12 grams of concentrated cannabis products; or</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>Edible cannabis products, capsules, and tinctures that do not exceed 750 milligrams of tetrahydrocannabinol.</text>
+            <text>Edible cannabis products, capsules, and tinctures that exceed 750 milligrams of tetrahydrocannabinol.</text>
           </para>
         </para>
         <para>
@@ -1178,7 +1179,9 @@
       <num>E.</num>
       <text>Upon request by a qualifying patient, registered caregiver, or adult-use consumer, a dispensary shall display any labeling information required under <cite path="14.17.18.03">COMAR 14.17.18.03</cite> in an easily readable format.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-14" doc="Maryland Register, Volume 53, Issue 18" eff="2026-09-14" path="regulations|final|26-078-F" target-path="14|17|12|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1523,6 +1526,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|12|.02|O.">Regulation .02O</cite> amended effective March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-03-16"><cite path="|14|17|12|.02|P.">Regulation .02P</cite> amended effective April 14, 2025 (52:7 Md. R. 324); March 16, 2026 (53:5 Md. R. 244)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.02|Q.">Regulation .02Q</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|12|.03|E.">Regulation .03E</cite> amended effective September 14, 2026 (53:18 Md. R. 878)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-14"><cite path="|14|17|12|.04|A.">Regulation .04A</cite>, B amended effective September 14, 2026 (53:18 Md. R. 878)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.04|E.">Regulation .04E</cite> adopted effective April 14, 2025 (52:7 Md. R. 324)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-05-26"><cite path="|14|17|12|.06|B.">Regulation .06B</cite>, D amended effective May 26, 2025 (52:10 Md. R. 436)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-14"><cite path="|14|17|12|.10|A.">Regulation .10A</cite>, B amended effective April 14, 2025 (52:7 Md. R. 324)</annotation>

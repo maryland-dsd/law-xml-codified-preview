@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>01</num>
+  <heading>Large Load Study and Tariff Requirements</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this subtitle, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Commission” means the Maryland Public Service Commission.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Contract capacity” has the meaning stated in <cite doc="Md. Code" path="gpu|4-212">Public Utilities Article, §4-212(a), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Electric company” means an investor-owned electric company or an electric cooperative operating in the State of Maryland.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Large load customer” has the meaning stated in <cite doc="Md. Code" path="gpu|4-212">Public Utilities Article, §4-212(a), Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Load study” means an initial analysis of the feasibility and timing of providing the requested retail services to the large load customer and shall include the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>The effects of interconnection on the utilities’ transmission and distribution systems over the contract period; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Consideration of other interconnection requests.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Load ramp” means a schedule for peak load until contract capacity is reached as mutually agreed to by an electric company and the large load customer.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Municipal electric utility” has the meaning stated in <cite doc="Md. Code" path="gpu|1-101">Public Utilities Article, §1-101(t), Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Load Study Request.</heading>
+    <para>
+      <num>A.</num>
+      <text>A large load customer shall submit a written load study request to the electric company or municipal electric utility in the form and format specified by the electric company or municipal electric utility.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the large load customer submits the written load study request pursuant to the electric company or municipal electric utility’s stated instructions, the large load customer has satisfied the requirement as described in <cite path="20.96.01.02|A.">COMAR 20.96.01.02A</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Load Study Completeness Determination.</heading>
+    <text>Within 30 calendar days after an electric company or a municipal electric utility receives a request for a load study, an electric company or a municipal electric utility shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Determine that the request for a load study contains all required information and notify the large load customer, in writing, that the load study request has been deemed complete and the load study shall commence; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Determine that the request for a load study is incomplete and notify the large load customer, in writing, identifying the specific information needed for an electric company or a municipal electric utility to determine completeness.</text>
+      <para>
+        <num>(a)</num>
+        <text>If the request for a load study is incomplete, the large load customer shall provide the additional information or otherwise cure the deficiency within 10 business days of receipt of the request for additional information;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The large load customer and an electric company or a municipal electric utility may extend the response time under §(2)(a) of this regulation by mutual agreement; and</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>After the large load customer provides the additional information, the utility shall restart the completeness review.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Load Study Agreement and Payment.</heading>
+    <para>
+      <num>A.</num>
+      <text>After an electric company or a municipal electric utility issues a completeness determination, an electric company or a municipal electric utility shall require the execution of a load study agreement.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The load study agreement shall specify the fee, deposit, or estimated cost of the load study.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The methodology for calculating the cost of the load study, which may involve a fee, deposit, actual cost, or estimated cost shall be stated in an electric company or a municipal electric utility tariff.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The large load customer shall pay the specified fee, deposit, or estimated cost prior to an electric company or a municipal electric utility commencing the load study.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>An electric company or municipal electric utility shall complete the load study and provide a report to the large load customer not later than 18 months after:</text>
+      <para>
+        <num>(1)</num>
+        <text>Execution of a load study agreement; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Receipt of the payment.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>An electric company or a municipal electric utility and the large load customer may mutually agree in writing to an extension of time to complete an initial load study.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>For good cause shown, an electric company or a municipal electric utility may submit a request for an extension to the Commission for the completion of an initial load study.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Changes to Load Study Requests.</heading>
+    <para>
+      <num>A.</num>
+      <text>After a large load customer has received a determination of completeness from the electric company or municipal electric utility, the large load customer shall notify the electric company or municipal electric utility, in writing, of any change in requested service as soon as practicable.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The changes to a load study may include a change in:</text>
+      <para>
+        <num>(1)</num>
+        <text>Peak load;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Anticipated load factor;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The timing of requested service;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Load ramp period; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Point of interconnection.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The process for reviewing load study request changes shall be specified in the electric company or municipal electric utility tariff.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The electric company or municipal electric utility shall review the changes to all load study requests and determine completeness as described in <cite path="20.96.01.03">COMAR 20.96.01.03</cite>.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>If the electric company or municipal electric utility determines an additional load study is necessary, the electric company or municipal electric utility shall conduct the load study as described in <cite path="20.96.01.04">COMAR 20.96.01.04</cite>.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Contract Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>A large load customer is subject to the contract terminations and adjustments as described in the electric company or municipal electric utility tariff and applicable service contract.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>After the conclusion of the initial contract for service, if a large load customer wishes to adjust its contract capacity, the large load customer shall provide written notice to the electric company or municipal electric utility at least 1 year before the proposed adjustment unless otherwise specified in a tariff schedule or subsequent contract governing the terms of service for the large load customer.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A requested adjustment to a large load customer contract with an electric company or a municipal electric utility as described in this subtitle may require:</text>
+      <para>
+        <num>(1)</num>
+        <text>A new load study; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Resubmission of the load study request under the requirements as described in this subtitle.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>After the conclusion of the initial contract for service between a large load customer and an electric company or municipal electric utility, a large load customer may terminate its service contract by providing written notice to the electric company or municipal electric utility at least 1 year before the termination date unless otherwise specified in a tariff schedule or subsequent contract governing the terms of service for the large load customer.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Collateral.</heading>
+    <text>The electric company or municipal electric utility may require one or more of the following forms of collateral:</text>
+    <para>
+      <num>A.</num>
+      <text>A letter of credit from a financial institution with investment-grade credit metrics;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A performance bond from a third-party issuer with investment-grade credit metrics;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A corporate guarantee from a parent company with an investment-grade credit rating; or</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Cash.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Waiver.</heading>
+    <text>The Commission may waive a regulation in this subtitle for good cause shown.</text>
+    <annotations>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96" type="History" display="false"/>
+      <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gpu|4-212">Public Utilities Article, §4-212(f), </cite>Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28">Effective date: September 28, 2026 (53:19 Md. R. 945)</annotation>
+  </annotations>
+  <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-021-F" target-path="20|96|01" type="History" display="false"/>
+</container>

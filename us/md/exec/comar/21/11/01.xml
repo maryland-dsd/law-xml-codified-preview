@@ -19,7 +19,7 @@
         <text>“Certified small business” (“CSB”) means a business, other than a nonprofit business, that:</text>
         <para>
           <num>(a)</num>
-          <text>Is certified by the Governor's Office of Small, Minority, and Women Business Affairs pursuant to regulations adopted by that Department; and</text>
+          <text>Is certified by the Office of Small, Minority &amp; Women Business Affairs pursuant to regulations adopted by that Department; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -51,7 +51,9 @@
         <text>“Small business reserve” means those procurements that are limited to responses from small businesses as provided under <cite doc="Md. Code" path="gsf|14">State Finance and Procurement Article, §14</cite>–502(c), Annotated Code of Maryland.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|01|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -103,11 +105,11 @@
     <heading>Small Business Eligibility/Certification.</heading>
     <para>
       <num>A.</num>
-      <text>To be eligible to receive a small business price preference under the small business preference program, or to be eligible for award of a procurement under the small business reserve program, a business must be certified by the Governor’s Office of Small, Minority, and Women Business Affairs as a small business in accordance with regulations adopted by the Governor’s Office of Small, Minority, and Women Business Affairs. A business so certified shall be added to the certified small business list maintained by the Governor’s Office of Small, Minority, and Women Business Affairs. To maintain its certification as a small business, a business shall reapply for certification every year, not later than on the anniversary date of the initial certification.</text>
+      <text>To be eligible to receive a small business price preference under the small business preference program, or to be eligible for award of a procurement under the small business reserve program, a business must be certified by the Governor’s Office of Small, Minority &amp; Women Business Affairs as a small business in accordance with regulations adopted by the Governor’s Office of Small, Minority &amp; Women Business Affairs. A business so certified shall be added to the certified small business list maintained by the Governor’s Office of Small, Minority &amp; Women Business Affairs. To maintain its certification as a small business, a business shall reapply for certification every year, not later than on the anniversary date of the initial certification.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The Governor’s Office of Small, Minority, and Women Business Affairs shall certify a business as a small business for the exclusive purpose of pursuing out-of-State contracts if the business has:</text>
+      <text>The Governor’s Office of Small, Minority &amp; Women Business Affairs shall certify a business as a small business for the exclusive purpose of pursuing out-of-State contracts if the business has:</text>
       <para>
         <num>(1)</num>
         <text>250 or fewer employees; or</text>
@@ -119,11 +121,11 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Affidavit. Upon request of the Governor’s Office of Small, Minority, and Women Business Affairs, a business seeking certification or recertification as a small business shall execute and submit a Small Business Affidavit in the form prescribed under <cite path="21|11|01|.04|E.">§E of this regulation</cite>.</text>
+      <text>Affidavit. Upon request of the Governor’s Office of Small, Minority &amp; Women Business Affairs, a business seeking certification or recertification as a small business shall execute and submit a Small Business Affidavit in the form prescribed under <cite path="21|11|01|.04|E.">§E of this regulation</cite>.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Other Information. The Governor’s Office of Small, Minority, and Women Business Affairs may, in its sole discretion, request any other information in support of the certification request.</text>
+      <text>Other Information. The Governor’s Office of Small, Minority &amp; Women Business Affairs may, in its sole discretion, request any other information in support of the certification request.</text>
     </para>
     <para>
       <num>E.</num>
@@ -254,7 +256,9 @@
       <num>F.</num>
       <text>Penalties for Submitting False Information. If information provided by the business in the affidavit or by other means is materially false, the bidder or offeror and the individual providing the false information may be subject to criminal prosecution for perjury, procurement fraud, and other crimes and may be subject to debarment, and all contract awards to the business in reliance upon the inaccurate affidavit or other information may be void or subject to termination for default.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|01|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -287,7 +291,7 @@
       <aftertext>This procurement has been designated for a small business preference under COMAR 21.11.01.05. The procurement agency will accept the most favorable responsive bid from a responsible small business (COMAR 21.01.02.01B(80)) if the bid of the small business does not exceed the most favorable responsive bid received from a responsible bidder who is not a small business by: (1) more than 5 percent; (2) more than 7% for a veteran-owned small business; (3) more than 8% for a disabled-veteran-owned small business; or (4) the percentage otherwise identified in the solicitation as the small business preference.</aftertext>
       <para>
         <num>(3)</num>
-        <text>Direct Solicitation. When soliciting bids for a procurement designated for a small business preference, the procuring unit shall send a solicitation or notice of the solicitation to all certified small businesses for the subject of the contract contained on the Governor’s Office of Small, Minority, and Women Business Affairs Certified Small Businesses List. When soliciting bids under the small business preference program, others selected from the business community at large, including certified minority business enterprises, shall also be solicited.</text>
+        <text>Direct Solicitation. When soliciting bids for a procurement designated for a small business preference, the procuring unit shall send a solicitation or notice of the solicitation to all certified small businesses for the subject of the contract contained on the Governor’s Office of Small, Minority &amp; Women Business Affairs Certified Small Businesses List. When soliciting bids under the small business preference program, others selected from the business community at large, including certified minority business enterprises, shall also be solicited.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -310,7 +314,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|01|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="21|11|01|.06">
     <prefix>Regulation</prefix>
@@ -325,7 +331,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>A procurement with a total dollar value between $50,000 and $500,000 shall be designated for the small business reserve.</text>
+        <text>A procurement with a total dollar value of $1,000,000 or less shall be designated for the small business reserve.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -340,15 +346,11 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Procurements with a total dollar value under $50,000.</text>
-        </para>
-        <para>
-          <num>(d)</num>
           <text>Procurements for human, social, cultural, or educational services.</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>Certain term and master contract procurements when the Governor’s Office of Small, Minority &amp; Women Business Affairs certifies, concurrently with review of any waiver determinations for certified minority business enterprise participation contract goals, that it is not practicable to designate the procurement for the small business reserve.</text>
+          <num>(d)</num>
+          <text>Certain term and master contract procurements when the Office of Small, Minority &amp; Women Business Affairs certifies, concurrently with review of any waiver determinations for certified minority business enterprise participation contract goals, that it is not practicable to designate the procurement for the small business reserve.</text>
         </para>
       </para>
     </para>
@@ -391,7 +393,7 @@
         <text class="center">——————————————————</text>
         <text class="center">NOTICE TO BIDDERS/OFFERORS</text>
         <text class="center">SMALL BUSINESS RESERVE PROCUREMENT</text>
-        <text>This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors. Only businesses that meet the statutory requirements set forth in State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|14-50114">14-50114</cite>-<cite doc="Md. Code" path="gsf|505">505</cite>, Annotated Code of Maryland, and that are certified by the Governor's Office of Small, Minority, and Women Business Affairs Small Business Reserve Program are eligible for award of a contract.</text>
+        <text>This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors. Only businesses that meet the statutory requirements set forth in State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|14-50114">14-50114</cite>-<cite doc="Md. Code" path="gsf|505">505</cite>, Annotated Code of Maryland, and that are certified by the Office of Small, Minority &amp; Women Business Affairs Small Business Reserve Program are eligible for award of a contract.</text>
         <text>For the purposes of a Small Business Reserve Procurement, a small business is a for-profit business, other than a broker, that meets the following criteria:</text>
         <para>
           <num>A.</num>
@@ -476,7 +478,7 @@
     </para>
     <para>
       <num>G.</num>
-      <text>Before awarding a contract under a procurement designated as a small business reserve procurement, the procurement officer shall verify that the apparent awardee is certified by the Governor's Office of Small, Minority, and Women Business Affairs as a small business. A procurement contract award under a small business reserve procurement may not be made to a business that has not been certified.</text>
+      <text>Before awarding a contract under a procurement designated as a small business reserve procurement, the procurement officer shall verify that the apparent awardee is certified by the Office of Small, Minority &amp; Women Business Affairs as a small business. A procurement contract award under a small business reserve procurement may not be made to a business that has not been certified.</text>
     </para>
     <para>
       <num>H.</num>
@@ -486,13 +488,15 @@
       <num>I.</num>
       <text>SBR Liaison Officer. The head of each procurement unit shall designate an employee to be the SBR liaison officer in the administration of that unit’s small business reserve program. The SBR liaison officer shall be a high-level employee reporting directly to a Secretary, Deputy Secretary, or head of a procurement agency. The SBR liaison officer shall be responsible for coordinating the procurement unit’s outreach efforts to the small business community, reviewing the unit’s contracting procedures to ensure compliance with small business reserve requirements, assisting in the resolution of small business reserve contracting issues, and submitting required small business reserve program reports or information.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|01|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|14-201">14-201</cite>—<cite doc="Md. Code" path="gsf|14-208">14-208</cite>, and <cite doc="Md. Code" path="gsf|14-501">14-501</cite>—<cite doc="Md. Code" path="gsf|14-505">14-505</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|14-201">14-201</cite>—<cite doc="Md. Code" path="gsf|14-208">14-208</cite>, and <cite doc="Md. Code" path="gsf|14-501">14-501</cite>—<cite doc="Md. Code" path="gsf|14-505">14-505</cite>, Annotated Code of Maryland; Ch. 601, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01">Effective date: July 1, 1981 (8:13 Md. R. II-5)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-07-04">Regulations .01 and .02 repealed and new Regulations <cite path="|21|11|01|.01">.01</cite>—<cite path="|21|11|01|.06">.06</cite> adopted effective July 4, 2005 (32:13 Md. R. 1117)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|01|.01|B.">Regulation .01B</cite> amended effective February 23, 2009 (36:4 Md. R. 355); February 7, 2011 (38:3 Md. R. 152); March 11, 2019 (46:5 Md. R. 310); March 3, 2025 (52:4 Md. R. 221)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|01|.01|B.">Regulation .01B</cite> amended effective February 23, 2009 (36:4 Md. R. 355); February 7, 2011 (38:3 Md. R. 152); March 11, 2019 (46:5 Md. R. 310); March 3, 2025 (52:4 Md. R. 221); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|01|.02|B.">Regulation .02B</cite> amended effective July 15, 2019 (46:14 Md. R. 623); June 29, 2020 (47:13 Md. R. 643); March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|11|01|.02|C.">Regulation .02C</cite> amended effective September 18, 2023 (50:18 Md. R. 800)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-06-29"><cite path="|21|11|01|.04">Regulation .04</cite> amended effective March 11, 2019 (46:5 Md. R. 310); June 29, 2020 (47:13 Md. R. 643)</annotation>
@@ -500,10 +504,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|01|.05">Regulation .05</cite> amended effective March 12, 2007 (34:5 Md. R. 562); July 15, 2019 (46:14 Md. R. 623); June 29, 2020 (47:13 Md. R. 643); March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11"><cite path="|21|11|01|.05|B.">Regulation .05B</cite> amended effective February 23, 2009 (36:4 Md. R. 355); March 11, 2019 (46:5 Md. R. 310)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11"><cite path="|21|11|01|.06">Regulation .06</cite> amended effective March 11, 2019 (46:5 Md. R. 310)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|11|01|.06|A.">Regulation .06A</cite> amended effective March 13, 2006 (33:5 Md. R. 523); February 23, 2009 (36:4 Md. R. 355); September 18, 2023 (50:18 Md. R. 800)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|01|.06|A.">Regulation .06A</cite> amended effective March 13, 2006 (33:5 Md. R. 523); February 23, 2009 (36:4 Md. R. 355); September 18, 2023 (50:18 Md. R. 800); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|01|.06|B.">Regulation .06B</cite>, D amended effective March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-09-05"><cite path="|21|11|01|.06|D.">Regulation .06D</cite>, G amended effective September 5, 2022 (49:18 Md. R. 819)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-05-13"><cite path="|21|11|01|.06|E.">Regulation .06E</cite> amended effective February 23, 2009 (36:4 Md. R. 355); May 13, 2013 (40:9 Md. R. 789)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|01|.06|E.">Regulation .06E</cite> amended effective February 23, 2009 (36:4 Md. R. 355); May 13, 2013 (40:9 Md. R. 789); August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|01|.06|G.">Regulation .06G</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-11-24"><cite path="|21|11|01|.06|I.">Regulation .06I</cite> adopted effective November 24, 2014 (41:23 Md. R. 1376)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-29"><cite path="|21|11|01|.06|I.">Regulation .06I</cite> amended effective April 29, 2024 (51:8 Md. R. 369)</annotation>
   </annotations>

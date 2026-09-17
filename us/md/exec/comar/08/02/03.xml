@@ -12,15 +12,15 @@
       <text>Lawful Gear.</text>
       <para>
         <num>(1)</num>
-        <text>A person may catch crabs in the tidal waters of Maryland only with the gear authorized in this chapter.</text>
+        <text>A person may catch or attempt to catch crabs in the tidal waters of Maryland only with the gear authorized in this chapter.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Diving Apparatus. A person may not possess or catch crabs in the tidal waters of Maryland using diving apparatus by itself, or in conjunction with any of the other methods authorized in this chapter.</text>
+        <text>Diving Apparatus. A person may not possess, catch, or attempt to catch crabs in the tidal waters of Maryland using diving apparatus by itself, or in conjunction with any of the other methods authorized in this chapter.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Gear designated to catch crabs and defined in this chapter, except for a seine, is not considered a net under the definition listed in <cite path="08.02.05.02">COMAR 08.02.05.02</cite>.</text>
+        <text>Gear designated to catch or attempt to catch crabs and defined in this chapter, except for a seine, is not considered a net under the definition listed in <cite path="08.02.05.02">COMAR 08.02.05.02</cite>.</text>
       </para>
     </para>
     <para>
@@ -28,7 +28,7 @@
       <text>Recreational Gear — Definitions.</text>
       <para>
         <num>(1)</num>
-        <text>The gear defined in this section may be used to catch crabs for recreational purposes.</text>
+        <text>The gear defined in this section may be used to catch or attempt to catch crabs for recreational purposes.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -195,7 +195,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-067-F" target-path="08|02|03|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2493,7 +2495,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-206">4-206</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>, <cite doc="Md. Code" path="gnr|4-745">4-745</cite>, <cite doc="Md. Code" path="gnr|4-803">4-803</cite>, <cite doc="Md. Code" path="gnr|4-804">4-804</cite>, <cite doc="Md. Code" path="gnr|4-809">4-809</cite>, and <cite doc="Md. Code" path="gnr|4-810">4-810</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-206">4-206</cite>, <cite doc="Md. Code" path="gnr|4-215">4-215</cite>, <cite doc="Md. Code" path="gnr|4-221">4-221</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>, <cite doc="Md. Code" path="gnr|4-745">4-745</cite>, <cite doc="Md. Code" path="gnr|4-803">4-803</cite>, <cite doc="Md. Code" path="gnr|4-804">4-804</cite>, <cite doc="Md. Code" path="gnr|4-809">4-809</cite>, and <cite doc="Md. Code" path="gnr|4-810">4-810</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1975-03-24">Effective date: March 24, 1975 (2:8 Md. R. 555)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-12-04"><cite path="|08|02|03|.01|B.">Regulation .01B</cite> amended effective March 30, 1977 (4:7 Md. R. 578); May 23, 1983 (10:10 Md. R. 872); December 30, 1985 (12:26 Md. R. 2543); December 4, 1995 (22:24 Md. R. 1894)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1985-04-04"><cite path="|08|02|03|.01|B.">Regulation .01B</cite> amended as an emergency provision effective April 4, 1985 (12:9 Md. R. 806); emergency status expired June 29, 1985</annotation>
@@ -2561,8 +2563,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-04-12"><cite path="|08|02|03|.08">Regulation .08</cite> amended and recodified to Regulation .09, and new Regulation .08 adopted effective April 12, 2004 (31:7 Md. R. 582)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-02-14"><cite path="|08|02|03|.09|A.">Regulation .09A</cite> amended effective February 14, 2005 (32:3 Md. R. 289)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-11-24" discontinuity="true">Chapter revised effective November 24, 2005 (32:23 Md. R. 1825)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-02-25"><cite path="|08|02|03|.01|A.">Regulation .01A</cite> amended effective February 25, 2008 (35:4 Md. R. 512)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-01"><cite path="|08|02|03|.01|B.">Regulation .01B</cite> amended effective March 23, 2009 (36:6 Md. R. 487); March 27, 2017 (44:6 Md. R. 324); February 7, 2022 (49:3 Md. R. 138); April 1, 2024 (51:6 Md. R. 269)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|03|.01|A.">Regulation .01A</cite> amended effective February 25, 2008 (35:4 Md. R. 512); August 31, 2026 (53:17 Md. R. 710)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|08|02|03|.01|B.">Regulation .01B</cite> amended effective March 23, 2009 (36:6 Md. R. 487); March 27, 2017 (44:6 Md. R. 324); February 7, 2022 (49:3 Md. R. 138); April 1, 2024 (51:6 Md. R. 269); August 31, 2026 (53:17 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-12-16"><cite path="|08|02|03|.01|C.">Regulation .01C</cite> amended as an emergency provision effective June 1, 2008 (35:13 Md. R. 1174); emergency status extended to December 16, 2008 (35:23 Md. R. 2011); emergency status expired December 16, 2008</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-03-23"><cite path="|08|02|03|.01|C.">Regulation .01C</cite> amended effective March 23, 2009 (36:6 Md. R. 487)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-08-31"><cite path="|08|02|03|.01|C.">Regulation .01C</cite> amended as an emergency provision effective August 31, 2023 (50:19 Md. R. 852); emergency status expired December 31, 2023</annotation>

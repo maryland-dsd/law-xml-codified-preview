@@ -698,7 +698,9 @@
       <num>F.</num>
       <text>If the emissions from the modified emissions unit become significant, the provisions in this chapter apply retroactive to the date the modification occurred.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-18" doc="Editor Action 2026-08-18" eff="2026-08-18" path="" target-path="26|11|17|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="26|11|17|.04">
     <prefix>Regulation</prefix>
@@ -808,31 +810,9 @@
         <text>An ERC may not be used to meet BACT, LAER, NSPS, RACT, allowance based programs, or any other emission limitation under the Clean Air Act.</text>
       </para>
     </para>
-    <para>
-      <num>F.</num>
-      <text>Interprecursor Trading.</text>
-      <para>
-        <num>(1)</num>
-        <text>Provided that the other requirements for such offsets are satisfied, the offset requirements of <cite path="26.11.17.03|B.|(3)">COMAR 26.11.17.03B(3)</cite> for emissions of NO<sub>x</sub> and VOC may be satisfied through interprecursor trading by offsetting reductions of emissions of either NO<sub>x</sub> or VOC, by submitting to the Department for written approval the following information:</text>
-        <para>
-          <num>(a)</num>
-          <text>A description of the EPA approved air quality model(s) used to establish the appropriate ratio for the precursor substitution;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A proposed ratio, not to be less than the ratio required under <cite path="26.11.17.03|B.|(3)">COMAR 26.11.17.03B(3)</cite>, for the precursor substitution and accompanying calculations; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>A technical demonstration substantiating that the ratio achieves an equivalent or greater air quality benefit for ozone in the nonattainment area than what would be achieved without interprecursor trading.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Approvals of precursor substitutions shall be made by the Department on a case-by-case basis and are permit specific.</text>
-      </para>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-18" doc="Editor Action 2026-08-18" eff="2026-08-18" path="" target-path="26|11|17|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>

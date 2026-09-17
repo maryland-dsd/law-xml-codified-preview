@@ -2,7 +2,7 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>07</num>
-  <heading>Small Procurement Regulations ($100,000 or Less)</heading>
+  <heading>Small Procurement Regulations<annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|07|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
@@ -28,7 +28,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>“Small procurement” means the use of the procedures set forth in this chapter to:</text>
+        <text>“Small procurement” has the meaning specified in <cite doc="Md. Code" path="gsf|13-109">State Finance and Procurement Article §13-109, Annotated Code of Maryland</cite> and uses the procedures set forth in this chapter to:</text>
         <para>
           <num>(a)</num>
           <text>Obtain items reasonably expected by the procurement officer to cost $100,000 or less;</text>
@@ -39,7 +39,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>With respect to the State Retirement Agency for purposes of administering Title 29, Subtitle 1 of the State Personnel and Pensions Article, spend $100,000 or less during a fiscal year for:</text>
+          <text>With respect to the State Retirement Agency for purposes of administering <cite doc="Md. Code" path="gsp">State Personnel and Pensions Article, Title 29, Subtitle 1, Annotated Code of Maryland</cite>, spend $100,000 or less during a fiscal year for:</text>
           <para>
             <num>(i)</num>
             <text>Expenses related to independent medical evaluations by a physician; and</text>
@@ -51,11 +51,15 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>With respect to the Department of Natural Resources, procure contracts for capital projects or maintenance with a value of $200,000 or less; or</text>
+          <text>With respect to the Department of Natural Resources, procure contracts for capital projects or maintenance with a value of $200,000 or less;</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>With respect to the Department of General Services or Department of Transportation, procure construction with a value of $200,000 or less.</text>
+          <text>With respect to the Department of General Services or Department of Transportation, procure construction with a value of $200,000 or less; or</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In the event of a conflict between the small procurement amounts listed in §B(4)(a)—(e) of this regulation and <cite doc="Md. Code" path="gsf|13-109">State Finance and Procurement Article, §13-109, Annotated Code of Maryland</cite>, the amounts listed in <cite doc="Md. Code" path="gsf|13-109">State Finance and Procurement Article, §13-109, Annotated Code of Maryland</cite> shall govern.</text>
         </para>
       </para>
       <para>
@@ -63,7 +67,9 @@
         <text>“Written solicitation” means the written description of the procurement.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|07|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -78,13 +84,19 @@
     <heading>Application.</heading>
     <para>
       <num>A.</num>
-      <text>Use of the small procurement method described in this chapter shall be based on an initial decision by the procurement officer that the procurement satisfies the definition set forth in <cite path="|21|05|07|.01|B.|(6)">Regulation .01B(6) of this chapter</cite>.</text>
+      <text>Use of the small procurement method described in this chapter shall be based on an initial decision by the procurement officer that the procurement satisfies the definition set forth in <cite path="|21|05|07|.01|B.|(4)">Regulation .01B(4) of this chapter</cite>.</text>
     </para>
     <para>
       <num>B.</num>
       <text>To the extent that procurement departments delegate authority to using agencies to make small procurements, those procurements shall be made in accordance with procedures prescribed by the departments, the delegation, and this chapter. Consistent with the delegations made under this section, the heads of the using agencies shall designate, in writing, those procurement officers who may independently and finally authorize sole source small procurements.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>C.</num>
+      <text>If a primary procurement unit determines that a using agency does not adhere to the established small procurement regulations, the primary procurement unit may limit or revoke a using agency’s ability to conduct small procurements.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|07|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -97,13 +109,15 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Category II Small Procurements — More than $5,000 but not more than $50,000; and</text>
+      <text>Category II Small Procurements — More than $5,000 but not more than $100,000; and</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Category III Small Procurements — More than $50,000 but not more than $100,000, and, if a procurement for capital projects or maintenance by the Department of Natural Resources or a construction procurement by the Department of General Services or Department of Transportation, not more than $200,000.</text>
+      <text>Category III Small Procurements — More than $100,000 but not more than $200,000, for a procurement for capital projects or maintenance by the Department of Natural Resources or a construction procurement by the Department of General Services or Department of Transportation.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|07|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -115,21 +129,23 @@
     </para>
     <para>
       <num>B.</num>
-      <text>A procurement contract of more than $100,000 may not be awarded under the authority of this chapter unless:</text>
+      <text>A procurement contract of more than the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite> may not be awarded under the authority of this chapter unless:</text>
       <para>
         <num>(1)</num>
         <text>The unit obtains prior approval of the agency head or designee, and, if not a department, the appropriate control authority;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The Department of General Services or Department of Transportation procures construction valued at $200,000 or less; or</text>
+        <text>Department of General Services or Department of Transportation procures construction valued not more than the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>; or</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>The Department of Natural Resources procures capital projects of maintenance valued at $200,000 or less.</text>
+        <text>The Department of Natural Resources procures capital projects of maintenance valued not more than the applicable small procurement amount listed in <cite path="21.05.07.01">COMAR 21.05.07.01</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|07|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="21|05|07|.06">
     <prefix>Regulation</prefix>
@@ -477,14 +493,16 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-109">13-109</cite>, <cite doc="Md. Code" path="gsf|14-301">14-301</cite>—<cite doc="Md. Code" path="gsf|14-308">14-308</cite>, <cite doc="Md. Code" path="gsf|14-406">14-406</cite>, and <cite doc="Md. Code" path="gsf|15-226">15-226</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite>, <cite doc="Md. Code" path="gsf|13-109">13-109</cite>, <cite doc="Md. Code" path="gsf|14-301">14-301</cite>—<cite doc="Md. Code" path="gsf|14-308">14-308</cite>, <cite doc="Md. Code" path="gsf|14-406">14-406</cite>, and <cite doc="Md. Code" path="gsf|15-226">15-226</cite>, Annotated Code of Maryland; <br/>Ch. 601, Acts of 2025</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1981-07-01">Effective date: July 1, 1981 (8:13 Md. R. II-5)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1989-01-09">Chapter revised effective January 9, 1989 (15:27 Md. R. 3138)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-29"><cite path="|21|05|07|.01|B.">Regulation .01B</cite> amended effective February 24, 1997 (24:4 Md. R. 294); June 29, 1998 (25:13 Md. R. 996); February 23, 2009 (36:4 Md. R. 355); September 21, 2009 (36:19 Md. R. 1438); July 23, 2012 (39:14 Md. R. 839); March 11, 2019 (46:5 Md. R. 310); April 29, 2024 (51:8 Md. R. 369)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-02-24"><cite path="|21|05|07|.03|C.">Regulation .03C</cite> repealed effective February 24, 1997 (24:4 Md. R. 294)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-29"><cite path="|21|05|07|.04">Regulation .04</cite> amended effective February 24, 1997 (24:4 Md. R. 294); September 21, 2009 (36:19 Md. R. 1438); April 29, 2024 (51:8 Md. R. 369)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|07|.01|B.">Regulation .01B</cite> amended effective February 24, 1997 (24:4 Md. R. 294); June 29, 1998 (25:13 Md. R. 996); February 23, 2009 (36:4 Md. R. 355); September 21, 2009 (36:19 Md. R. 1438); July 23, 2012 (39:14 Md. R. 839); March 11, 2019 (46:5 Md. R. 310); April 29, 2024 (51:8 Md. R. 369); August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|07|.03|A.">Regulation .03A</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-02-24"><cite path="|21|05|07|.03|C.">Regulation .03C</cite> repealed effective February 24, 1997 (24:4 Md. R. 294</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|07|.03|C.">Regulation .03C</cite> adopted effective August 31, 2026 (53:17 Md. R. 711)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|07|.04">Regulation .04</cite> amended effective February 24, 1997 (24:4 Md. R. 294); September 21, 2009 (36:19 Md. R. 1438); April 29, 2024 (51:8 Md. R. 369); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11"><cite path="|21|05|07|.04|C.">Regulation .04C</cite> amended effective February 23, 2009 (36:4 Md. R. 355); March 11, 2019 (46:5 Md. R. 310)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-04-29"><cite path="|21|05|07|.05|B.">Regulation .05B</cite> amended effective February 24, 1997 (24:4 Md. R. 294); February 23, 2009 (36:4 Md. R. 355); March 11, 2019 (46:5 Md. R. 310); April 29, 2024 (51:8 Md. R. 369)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|05|07|.05|B.">Regulation .05B</cite> amended effective February 24, 1997 (24:4 Md. R. 294); February 23, 2009 (36:4 Md. R. 355); March 11, 2019 (46:5 Md. R. 310); April 29, 2024 (51:8 Md. R. 369); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-09-21"><cite path="|21|05|07|.06">Regulation .06</cite> amended effective September 21, 2009 (36:19 Md. R. 1438)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|05|07|.06|A.">Regulation .06A</cite> amended effective September 2, 1991 (18:17 Md. R. 1922); May 20, 1996 (23:10 Md. R. 732); February 24, 1997 (24:4 Md. R. 294); March 18, 2002 (29:5 Md. R. 505); July 4, 2005 (32:13 Md. R. 1117); September 18, 2023 (50:18 Md. R. 800)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-04-28"><cite path="|21|05|07|.06|B.">Regulation .06B</cite> amended effective February 24, 1997 (24:4 Md. R. 294); April 7, 2008 (35:7 Md. R. 751); July 23, 2012 (39:14 Md. R. 839); April 28, 2014 (41:8 Md. R. 473)</annotation>
@@ -495,5 +513,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|05|07|.06|G.">Regulation .06G</cite> amended effective November 22, 1993 (20:23 Md. R. 1806); September 18, 2023 (50:18 Md. R. 800); March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2012-07-23"><cite path="|21|05|07|.06|I.">Regulation .06I</cite> amended effective February 24, 1997 (24:4 Md. R. 294); June 29, 1998 (25:13 Md. R. 996); July 23, 2012 (39:14 Md. R. 839)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-07"><cite path="|21|05|07|.06|J.">Regulation .06J</cite> amended effective February 24, 1997 (24:4 Md. R. 294); November 7, 2005 (32:22 Md. R. 1759); April 7, 2008 (35:7 Md. R. 751)</annotation>
+    <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|05|07|annos" type="History" display="false"/>
   </annotations>
 </container>

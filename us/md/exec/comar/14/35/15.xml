@@ -487,11 +487,43 @@
       <text>An authorized carrier shall offer no more than:</text>
       <para>
         <num>(1)</num>
-        <text>Four benefit designs per metal level in the Individual Exchange and four benefit designs per metal level in the SHOP Exchange in plan year 2024 and prior plan years; and</text>
+        <text>Four benefit designs per metal level in the Individual Exchange and four benefit designs per metal level in the SHOP Exchange in plan year 2024 and prior plan years;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Three benefit designs per metal level in the Individual Exchange and four benefit designs per metal level in the SHOP Exchange beginning in plan year 2025.</text>
+        <text>Three benefit designs per metal level in the Individual Exchange and four benefit designs per metal level in the SHOP Exchange in plan years 2025 and 2026; and.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Three benefit designs per metal level in the Individual Exchange, and eight benefit designs per metal level per insurance holding company in the SHOP Exchange in plan year 2027 and subsequent plan years.</text>
+        <para>
+          <num>(a)</num>
+          <text>A carrier that offers multiple plan options within the same product network type, metal level, and service area in the SHOP Exchange must meaningfully differentiate these plans from one another in terms of:</text>
+          <para>
+            <num>(i)</num>
+            <text>Included benefits;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Provider networks;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Included prescription drugs; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>A combination of some or all these factors.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For the purposes of this standard, a plan option with a different product ID, provider network ID, drug list ID, or a combination of some or all these factors, would be considered meaningfully different.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Exchange may deny certification, or suspend or revoke the certification of a qualified health plan in the SHOP Exchange based on a finding that the plan or qualified plan does not satisfy the requirements that are established under this regulation.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -534,7 +566,9 @@
         <text>Shall comply with the prohibition on cancellation fees and penalties for termination of coverage, as set forth in the <cite doc="Md. Code" path="gin|31-108">Insurance Article, §31-108(d), Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-17" doc="Maryland Register, Volume 53, Issue 16" eff="2026-08-17" path="regulations|final|26-024-F" target-path="14|35|15|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -681,6 +715,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-19" discontinuity="true"><cite path="|14|35|15|.05|A.">Regulation .05A</cite> amended effective February 19, 2024 (51:3 Md. R.154)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|14|35|15|.05|O.">Regulation .05O</cite> adopted effective August 5, 2024 (51:15 Md. R. 710)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-19"><cite path="|14|35|15|.06|F.">Regulation .06F</cite> amended effective February 19, 2024 (51:3 Md. R.154)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-02-19"><cite path="|14|35|15|.08|C.">Regulation .08C</cite> amended effective February 19, 2024 (51:3 Md. R.154)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-17"><cite path="|14|35|15|.08|C.">Regulation .08C</cite> amended effective February 19, 2024 (51:3 Md. R.154); August 17, 2026 (53:16 Md. R. 688)</annotation>
   </annotations>
 </container>

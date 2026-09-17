@@ -44,7 +44,7 @@
       </para>
       <para>
         <num>(2-1)</num>
-        <text>“Employment Works Program” means the program established in the Department of General Services by <cite doc="Md. Code" path="gsf|14-108">State Finance and Procurement Article, §14-108, Annotated Code of Maryland</cite>.</text>
+        <text>“Employment Works Program” means the program established in the Office of Small, Minority &amp; Women Business Affairs by <cite doc="Md. Code" path="gsf|14-108">State Finance and Procurement Article, §14-108, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -119,7 +119,9 @@
         <text>“State aided or controlled entity” means any public or quasi-public institution that receives aid from the State or that is owned, controlled, or managed by the State.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|05|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -334,19 +336,19 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Consult periodically with the procurement agencies and, as appropriate, with the Secretary of General Services, or designee, to assist in the establishment of reasonable and uniform standards, including those governing quantity, quality, style, design, and delivery of services and supplies pursuant to this chapter;</text>
+      <text>Consult periodically with the procurement agencies and, as appropriate, with the Chief Procurement Officer or designee, to assist in the establishment of reasonable and uniform standards, including those governing quantity, quality, style, design, and delivery of services and supplies pursuant to this chapter;</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Within 5 working days of receipt of an inquiry from a procurement agency, notify the procurement agency and the Secretary of General Services or designee if the requested service or supply can or cannot be provided in accordance with the procurement agency's specifications within the time specified in the solicitation;</text>
+      <text>Within 5 working days of receipt of an inquiry from a procurement agency, notify the procurement agency, Chief Procurement Officer, or designee if the requested service or supply can or cannot be provided in accordance with the procurement agency’s specifications within the time specified in the solicitation;</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Promptly notify the Secretary of General Services or designee if any service or supply included in the master list shall become unavailable;</text>
+      <text>Promptly notify the Chief Procurement Officer or designee if any service or supply included in the master list shall become unavailable;</text>
     </para>
     <para>
       <num>E.</num>
-      <text>Immediately notify the Secretary of General Services or designee of any unresolved dispute with a procurement agency and request its resolution by the Secretary or designee.</text>
+      <text>Immediately notify the Chief Procurement Officer or designee or, in a matter concerning the Employment Works program, the Special Secretary for the Office of Small, Minority &amp; Women Business Affairs or designee, of any unresolved dispute with a procurement agency and request its resolution by the Chief Procurement Officer or Special Secretary, as applicable, or their designees; and</text>
     </para>
     <para>
       <num>F.</num>
@@ -360,7 +362,9 @@
         <text>For the preceding fiscal year, Maryland Correctional Enterprises shall report the length of time between each order and delivery of supplies and services.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|05|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="21|11|05|.07">
     <prefix>Regulation</prefix>
@@ -379,7 +383,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>To the extent practicable, a State unit or State aided or controlled entity shall include in a maintenance contract that has a component for housekeeping or janitorial services, a requirement that a prime contractor procure janitorial products from Blind Industries and Services of Maryland if the specified products are made, manufactured, remanufactured, or assembled by Blind Industries and Services of Maryland and are available.</text>
+        <text>To the extent practicable, a State unit or State aided or controlled entity shall include in a maintenance contract that has a component for housekeeping or janitorial services, a requirement that a prime contractor procure janitorial products from Blind Industries and Services of Maryland if the specified products are made, manufactured, remanufactured, packaged, repackaged, or assembled by Blind Industries and Services of Maryland and are available.</text>
       </para>
     </para>
     <para>
@@ -456,9 +460,11 @@
     </para>
     <para>
       <num>F.</num>
-      <text>Disputes. A procurement agency shall promptly notify the Secretary of General Services or designee of any dispute with a selling entity concerning supplies or services.</text>
+      <text>Disputes. A procurement agency shall promptly notify the Chief Procurement Officer or designee or, in a matter concerning the Employment Works program, the Special Secretary for the Office of Small, Minority &amp; Women Business Affairs or designee of any dispute with a selling entity concerning supplies or services.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-08-31" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|final|26-029-F" target-path="21|11|05|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -487,8 +493,8 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gcs|3-515">Correctional Services Article, §3-515</cite>; State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite> and <cite doc="Md. Code" path="gsf|14-101">14-101</cite>—<cite doc="Md. Code" path="gsf|14-108">14-108</cite>; Annotated Code of Maryland; <br/>Ch. 415, Acts of 2015; Ch. 313, Acts of 2016</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|11|05|.01|B.">Regulation .01B</cite> amended effective March 8, 1999 (26:5 Md. R. 394); March 13, 2006 (33:5 Md. R. 523); February 23, 2009 (36:4 Md. R. 355); April 28, 2014 (41:8 Md. R. 473); March 11, 2019 (46:5 Md. R. 310); September 18, 2023 (50:18 Md. R. 800)</annotation>
+    <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gcs|3-515">Correctional Services Article, §3-515</cite>; State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite> and <cite doc="Md. Code" path="gsf|14-101">14-101</cite>—<cite doc="Md. Code" path="gsf|14-108">14-108</cite>; Annotated Code of Maryland; <br/>Ch. 415, Acts of 2015; Ch. 313, Acts of 2016; Chs. 601 and 726, Acts of 2025</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|05|.01|B.">Regulation .01B</cite> amended effective March 8, 1999 (26:5 Md. R. 394); March 13, 2006 (33:5 Md. R. 523); February 23, 2009 (36:4 Md. R. 355); April 28, 2014 (41:8 Md. R. 473); March 11, 2019 (46:5 Md. R. 310); September 18, 2023 (50:18 Md. R. 800); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-02-23"><cite path="|21|11|05|.02|B.">Regulation .02B</cite> amended effective February 23, 2009 (36:4 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|11|05|.02|F.">Regulation .02F</cite> adopted effective January 2, 1995 (21:26 Md. R. 2192); September 18, 2023 (50:18 Md. R. 800)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-02-23"><cite path="|21|11|05|.02|F.">Regulation .02F</cite> amended effective December 25, 2000 (27:25 Md. R. 2284); February 23, 2009 (36:4 Md. R. 355)</annotation>
@@ -498,14 +504,15 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|05|.04">Regulation .04</cite> Q, R amended effective March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|05|.04|S.">Regulation .04S</cite> adopted effective March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|11|05|.05">Regulation .05</cite> amended effective March 8, 1999 (26:5 Md. R. 394); September 18, 2023 (50:18 Md. R. 800)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-03-08"><cite path="|21|11|05|.06">Regulation .06</cite> amended effective March 8, 1999 (26:5 Md. R. 394)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|05|.06">Regulation .06</cite> amended effective March 8, 1999 (26:5 Md. R. 394); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|11|05|.06|A.">Regulation .06A</cite> amended effective September 18, 2023 (50:18 Md. R. 800)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|05|.06|F.">Regulation .06F</cite> adopted effective March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-03-13"><cite path="|21|11|05|.07">Regulation .07</cite> amended effective March 8, 1999 (26:5 Md. R. 394); March 13, 2006 (33:5 Md. R. 523)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-06-29"><cite path="|21|11|05|.07|A.">Regulation .07A</cite> amended effective April 28, 2014 (41:8 Md. R. 473); June 29, 2020 (47:13 Md. R. 643)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|05|.07|A.">Regulation .07A</cite> amended effective April 28, 2014 (41:8 Md. R. 473); June 29, 2020 (47:13 Md. R. 643); August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|11|05|.07|B.">Regulation .07B</cite> amended effective September 18, 2023 (50:18 Md. R. 800)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-03-11"><cite path="|21|11|05|.07|C.">Regulation .07C</cite> amended effective February 23, 2009 (36:4 Md. R. 355); March 11, 2019 (46:5 Md. R. 310)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-09-18"><cite path="|21|11|05|.07|D.">Regulation .07D</cite> amended effective September 18, 2023 (50:18 Md. R. 800)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-31"><cite path="|21|11|05|.07|F.">Regulation .07F</cite> amended effective August 31, 2026 (53:17 Md. R. 711)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-02-23"><cite path="|21|11|05|.08">Regulation .08</cite> amended effective February 23, 2009 (36:4 Md. R. 355)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|05|.08|A.">Regulation .08A</cite>, B amended effective March 3, 2025 (52:4 Md. R. 221)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|21|11|05|.08|C.">Regulation .08C</cite> adopted effective March 3, 2025 (52:4 Md. R. 221)</annotation>

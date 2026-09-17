@@ -47,10 +47,14 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>“Certificate” means a certificate issued by the Board to practice as a certified medication technician in this State.</text>
+        <text>“Central Repository” has the meaning stated in <cite path="10.39.01.02">COMAR 10.39.01.02</cite>.</text>
       </para>
       <para>
         <num>(3)</num>
+        <text>“Certificate” means a certificate issued by the Board to practice as a certified medication technician in this State.</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>Certified Nursing Assistant (CNA).</text>
         <para>
           <num>(a)</num>
@@ -78,11 +82,15 @@
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(5)</num>
         <text>“Clinical refresher course” means a course of study approved by the Board to maintain the medication technician's knowledge and skill to administer medication.</text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(6)</num>
+        <text>“Criminal history records check (CHRC)” has the meaning stated in <cite path="10.39.01.02">COMAR 10.39.01.02</cite>.</text>
+      </para>
+      <para>
+        <num>(7)</num>
         <text>“Licensed practical nurse (LPN)” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -94,7 +102,7 @@
         </para>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(8)</num>
         <text>“Medication technician (MT)” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -110,15 +118,15 @@
         </para>
       </para>
       <para>
-        <num>(7)</num>
+        <num>(9)</num>
         <text>“Medication technician training program” means a course of training approved by the Board that meets the basic MT core curriculum and content training specific to the setting in which the MT will work.</text>
       </para>
       <para>
-        <num>(8)</num>
+        <num>(10)</num>
         <text>“Multistate licensure privilege” has the meaning set forth in <cite path="10.27.01.01|B.">COMAR 10.27.01.01B</cite>.</text>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(11)</num>
         <text>“Registered nurse (RN)” means an individual who:</text>
         <para>
           <num>(a)</num>
@@ -130,7 +138,10 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02 .04 .05 .11) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|04|.02" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -182,12 +193,16 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The required fee; and</text>
+          <text>The required fee;</text>
         </para>
       </para>
       <para>
         <num>(3)</num>
-        <text>Be of good moral character.</text>
+        <text>Be of good moral character; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Submit to a criminal history records check (CHRC) in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
     <para>
@@ -208,16 +223,20 @@
     </para>
     <para>
       <num>D.</num>
-      <text>An applicant who reports a positive criminal history on any application shall provide:</text>
+      <text>An applicant for MT certification shall provide:</text>
       <para>
         <num>(1)</num>
         <text>Any documentation requested from the applicant by the Board including, but not limited to, official certified or true test court documents and a signed, dated explanation written by the applicant, regarding the facts and circumstances, outcome, and current status of any criminal history record information received by the Board:</text>
         <para>
           <num>(a)</num>
-          <text>In an answer to a question on the Board’s application form; or</text>
+          <text>Under <cite path="10|39|04|.04|A.|(4)">§A(4) of this regulation</cite>;</text>
         </para>
         <para>
           <num>(b)</num>
+          <text>In an answer to a question on the Board’s application form;</text>
+        </para>
+        <para>
+          <num>(c)</num>
           <text>From any other source; and</text>
         </para>
       </para>
@@ -238,9 +257,12 @@
       <num>G.</num>
       <text>Once an application is deemed abandoned under <cite path="10|39|04|.04|F.">§F of this regulation</cite>, an individual seeking MT certification must submit a new application and meet all of the requirements for MT certification and pay the required fees that are in effect at the time of re-application.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02 .04 .05 .11) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|04|.04" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="10|39|04|.05">
     <prefix>Regulation</prefix>
     <num>.05</num>
     <heading>Renewal of Certification.</heading>
@@ -269,14 +291,89 @@
       <text>An individual applying for renewal of certification shall provide evidence of:</text>
       <para>
         <num>(1)</num>
-        <text>Satisfactory completion of a Board-approved clinical refresher course; and</text>
+        <text>Satisfactory completion of a Board-approved clinical refresher course;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Completion of 100 hours of practice as a certified medicine technician within the 2-year period preceding the date of renewal.</text>
+        <text>Completion of 100 hours of practice as a certified medicine technician within the 2-year period preceding the date of renewal;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If required to submit to a CHRC in accordance with <cite path="10|39|04|.05|F.">§F of this regulation</cite>, submission to a CHRC by submitting:</text>
+        <para>
+          <num>(a)</num>
+          <text>One complete set of fingerprints, as required by the Central Repository and the FBI; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All fees required by the Central Repository and the FBI.</text>
+        </para>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>Upon notification by the Board that a CHRC is required before the certificate can be renewed, a renewal application shall comply with all the requirements under D of this regulation.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Criminal history records checks for renewal applicants shall be scheduled according to the certificate holder’s birth month as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>In 2026 — all applicants with a September or October birth month;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In 2027 — all applicants with an October or November birth month;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In 2028 — all applicants with a November or December birth month;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In 2029 — all applicants with a December or January birth month;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>In 2030 — all applicants with a January or February birth month;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>In 2031 — all applicants with a February or March birth month;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>In 2032 — all applicants with a March or April birth month;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>In 2033 — all applicants with an April or May birth month;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>In 2034 — all applicants with a May or June birth month;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>In 2035 — all applicants with a June or July birth month;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>In 2036 — all applicants with a July or August birth month; and</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>In 2037— all applicants with an August or September birth month.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>For renewal applicants who are required to submit a CHRC, the Board may not renew a certificate without written documentation that the applicant has submitted to a CHRC in accordance with <cite doc="Md. Code" path="gho|8-303">Health Occupations Article, §8-303, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02 .04 .05 .11) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|04|.05" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -492,15 +589,37 @@
     </para>
     <annotations/>
   </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Administrative Reinstatement.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Board shall reinstate the certificate of a certificate holder who has failed to renew the certificate for any reason, if the certificate holder meets the renewal requirements in <cite doc="Md. Code" path="gho|8-6">Health Occupations Article, §8-6</cite>A-08, Annotated Code of Maryland and <cite path="|10|39|04|.05">Regulation .05 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An applicant for administrative reinstatement who has failed to renew the certificate for a period of 1 year or more shall submit to a CHRC in accordance with <cite path="|10|39|04|.05|D.|(3)">Regulation .05D(3) of this chapter</cite> before the certificate is reinstated.</text>
+    </para>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02 .04 .05 .11) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
+      <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|04|.11" type="History" display="false" exp="2027-02-21"/>
+    </annotations>
+  </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a) and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-16, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-205">8-205</cite>(a), <cite doc="Md. Code" path="gho|8-303">8-303</cite>, and <cite doc="Md. Code" path="gho|8-6">8-6</cite>A-01—8-6A-16, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-04-24">Effective date: April 24, 2006 (33:8 Md. R. 734)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|04|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|39|04|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-02-13"><cite path="|10|39|04|.04">Regulation .04</cite> amended effective February 13, 2017 (44:3 Md. R. 189)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|04|.04|A.">Regulation .04A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|39|04|.04|A.">Regulation .04A</cite>, D amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|04|.05">Regulation .05</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-08-25"><cite path="|10|39|04|.05|D.">Regulation .05D</cite> amended effective August 25, 2008 (35:17 Md. R. 1489)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|39|04|.05|D.">Regulation .05D</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|39|04|.05|E.">Regulation .05E</cite>, F, G adopted as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|04|.06|C.">Regulation .06C</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-03-12"><cite path="|10|39|04|.09|C.">Regulation .09C</cite> amended effective March 12, 2007 (34:5 Md. R. 561)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|39|04|.11">Regulation .11</cite> adopted as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
   </annotations>
 </container>
