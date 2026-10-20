@@ -209,7 +209,15 @@
     <heading>Post-Graduate Clinical Training.</heading>
     <para>
       <num>A.</num>
-      <text>Except as otherwise provided in this regulation, an applicant who submits an application for a license after January 1, 1990 shall demonstrate satisfactory completion of 2 years in a post-graduate medical education program in podiatric medicine and surgery approved by the Council on Education of the American Podiatric Medical Association, or its successor, and approved by the Board, in order to be eligible for the examination.</text>
+      <text>Except as otherwise provided in this regulation, an applicant who submits an application for a license:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall submit the application no sooner than 3 months before the completion of the 3-year post-graduate medical education program in podiatric medicine and surgery approved by the Council on Education of the American Podiatric Medical Association, or its successor, and approved by the Board; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May not be licensed by the Board until after the completion of the 3-year post-graduate medical education program.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
@@ -219,7 +227,9 @@
       <num>C.</num>
       <text>The Board may waive the requirement of this regulation at the request of an applicant who has practiced podiatry actively in another state for at least 5 years immediately before applying for a license in Maryland.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-102-F" target-path="10|40|01|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -321,7 +331,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-10-18"><cite path="|10|40|01|.07">Regulation .07</cite> adopted effective October 18, 1999 (26:21 Md. R. 1630)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-12-22" discontinuity="true">Chapter revised effective December 22, 2003 (30:25 Md. R. 1848)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|40|01|.01|B.">Regulation .01B</cite> amended effective July 2, 2018 (45:13 Md. R. 668)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-07-03"><cite path="|10|40|01|.05|A.">Regulation .05A</cite> amended effective July 3, 2017 (44:13 Md. R. 621)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|40|01|.05|A.">Regulation .05A</cite> amended effective July 3, 2017 (44:13 Md. R. 621); October 12, 2026 (53:20 Md. R. 1000)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|40|01|.05|C.">Regulation .05C</cite> amended effective July 2, 2018 (45:13 Md. R. 668)</annotation>
   </annotations>
 </container>

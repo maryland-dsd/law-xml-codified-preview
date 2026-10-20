@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>12</num>
+  <heading>Special Police Officer and Security Guard Training</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose.</heading>
+    <text>The purpose of this chapter is to establish requirements for the approval, facilitation, and oversight of special police officer and security guard training providers and training courses.</text>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Agency identifier” means a unique alphanumeric code assigned by Police and Correctional Training Commissions staff to an organization approved to conduct special police officer and security guard training.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Deputy Director” means the Deputy Director of the Police and Correctional Training Commissions.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Commission” means the Police Training and Standards Commission or a representative authorized to act on behalf of the Commission.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Training provider” means an organization, business, or other entity that provides training to special police officers or security guards.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Training Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>A training provider shall obtain Commission approval before conducting a special police officer or security guard training course.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A training course shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Be approved by the Commission;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Include training objectives developed by the Commission; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Be conducted by a Commission approved instructor.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An approved course is subject to audit by the Commission.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Training Provider Approval.</heading>
+    <para>
+      <num>A.</num>
+      <text>A training provider shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Physically located in the State; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Registered and in good standing with the Maryland Department of Assessments and Taxation.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Using a format provided by the Commission, a training provider shall request an agency identifier.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission shall issue an agency identifier to a Commission-approved training provider.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Training Course Approval.</heading>
+    <para>
+      <num>A.</num>
+      <text>Using a format provided by the Commission, a training provider shall request approval for each training course.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Self-paced learning, e-learning, and non-instructor-led courses are ineligible for Commission approval.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>A request for course approval shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>The training provider’s contact information;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The location where training will be conducted;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Instructor names;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Student ratio, not to exceed 20 students per instructor; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A lesson plan.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A lesson plan shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A course description;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Required materials;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Instructor notes;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Testing methodology; and</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A list indicating where each training objective is taught and tested.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Commission shall issue an approval number to a training provider for each approved course.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>A course approval number is:</text>
+      <para>
+        <num>(1)</num>
+        <text>Valid for 1 year from date of issuance; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Not transferable and shall only be used by the approved training provider.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Training Environment Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>A training provider shall ensure a training environment meets local, State, and federal health and safety requirements.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A training provider shall provide an atmosphere supportive of learning by ensuring adequate:</text>
+      <para>
+        <num>(1)</num>
+        <text>Acoustics;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Lighting;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ventilation;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Desk space;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Work tables; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Seating.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Instructor Certification.</heading>
+    <para>
+      <num>A.</num>
+      <text>Using a format provided by the Commission, a training provider shall request Commission approval for each individual instructor conducting training.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An individual shall have successfully completed a Commission-approved basic instructor course prior to conducting training.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Training Course Records and Audit Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>For each completed course, a training provider shall maintain:</text>
+      <para>
+        <num>(1)</num>
+        <text>A lesson plan;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Course materials;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An instructor roster;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A student roster;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Attendance records;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A class schedule;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Administered tests;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Test answer keys; and</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Test scores.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>For auditing purposes, a training provider shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain supporting documentation verifying the requirements of this chapter for a minimum of 3 years; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide supporting documentation to Commission staff when requested.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Training Course Revocation.</heading>
+    <para>
+      <num>A.</num>
+      <text>Commission staff may revoke the approval of a course if a training provider fails to comply with the requirements of this chapter.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A training provider may appeal a revocation decision to the Deputy Director.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission may reinstate the approval of a training course when a training provider meets the requirements of this chapter.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Business Occupations and Professions Article §§<cite doc="Md. Code" path="gbo|19-402">19-402</cite>, <cite doc="Md. Code" path="gbo|19-404">19-404</cite>.<cite doc="Md. Code" path="gbo|1">1</cite>, and <cite doc="Md. Code" path="gbo|19-412">19-412</cite>; Public Safety Article, §§<cite doc="Md. Code" path="gps|3-303">3-303</cite> and <cite doc="Md. Code" path="gps|3-312">3-312</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26">Effective date: October 26, 2026 (53:21 Md. R. 1041)</annotation>
+  </annotations>
+  <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-093-F" target-path="12|04|12" type="History" display="false"/>
+</container>

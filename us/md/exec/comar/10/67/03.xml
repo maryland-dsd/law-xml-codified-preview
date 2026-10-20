@@ -699,6 +699,7 @@
     </para>
     <annotations>
       <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|03|.08" type="History" display="false"/>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|03|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -842,18 +843,72 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Individuals who are homeless; and</text>
+        <text>Individuals who are homeless;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>Individuals with HIV/AIDS; and</text>
+        <text>Individuals with HIV/AIDS;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Children in State-supervised care;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Individuals who are an inmate of a public institution because of having received a sentence of incarceration who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Have been released from a public institution;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Are 18 years and older; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Have been diagnosed with:</text>
+          <para>
+            <num>(i)</num>
+            <text>A substance use disorder;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A serious mental illness; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Both a substance use disorder and a serious mental illness; and</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Individuals who were an inmate of a public institution after having been found by a court to have committed a criminal or delinquent offense who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Have been released from a public institution; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Meet one of the following age criteria:</text>
+          <para>
+            <num>(i)</num>
+            <text>Are younger than 21 years old; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Are a former foster care child between the ages of 18 and 26; and</text>
+          </para>
+        </para>
       </para>
     </para>
     <para>
       <num>D.</num>
       <text>Referral protocols that demonstrate the conditions under which PCPs will make the arrangements for children with special health care needs to be referred to MCO specialty care networks and when appropriate the behavioral health ASO for services as described in <cite path="|10.09.59">COMAR 10.09.59</cite> or <cite path="|10.09.80">10.09.80</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|03|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -961,5 +1016,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-11-01" discontinuity="true">Chapter transferred from <cite path="|10.09.64">COMAR 10.09.64</cite> effective November 1, 2019 (46:22 Md. R. 977)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|10|67|03|.03|I.">Regulation .03I</cite> amended effective April 28, 2025 (52:8 Md. R. 359)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-28"><cite path="|10|67|03|.08|C.">Regulation .08C</cite>, D adopted effective September 28, 2026 (53:19 Md. R. 944)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|67|03|.10|C.">Regulation .10C</cite> amended effective October 12, 2026 (53:20 Md. R. 997)</annotation>
   </annotations>
 </container>

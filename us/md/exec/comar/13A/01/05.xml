@@ -185,7 +185,16 @@
     <heading>Response to Appeals.</heading>
     <para>
       <num>A.</num>
-      <text>Time for Response. Within 20 days after the State Board sends a copy of the appeal to the local superintendent, the respondent shall file a memorandum in response to the appeal or a motion to dismiss, whichever is appropriate.</text>
+      <text>Time for Response.</text>
+      <para>
+        <num>(1)</num>
+        <text>Within 20 days after the State Board sends a copy of the appeal to the local superintendent, the respondent shall file a</text>
+        <text>memorandum in response to the appeal or a motion to dismiss, whichever is appropriate.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For appeals to be transferred to the Office of Administrative Hearings pursuant to <cite path="|13A|01|05|.07">Regulation .07 of this chapter</cite>, <cite path="13A|01|05|.03|A.|(1)">§A(1) of this regulation</cite> does not apply unless the respondent files a motion to dismiss.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
@@ -268,6 +277,10 @@
       </para>
       <para>
         <num>(2)</num>
+        <text>The record shall include a table of contents, and each page of the record shall be consecutively numbered.</text>
+      </para>
+      <para>
+        <num>(3)</num>
         <text>Transcript.</text>
         <para>
           <num>(a)</num>
@@ -283,15 +296,15 @@
         </para>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(4)</num>
         <text>Parties may agree by written stipulation to omit from the record and transcript those parts unnecessary for the determination of the issues presented to the State Board.</text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(5)</num>
         <text>Waiver of Transcription Costs.</text>
         <para>
           <num>(a)</num>
-          <text>An individual appellant who by reason of indigence is unable to pay the cost of transcription may file a request for waiver of the costs, with the State Superintendent.</text>
+          <text>An individual appellant who by reason of indigence is unable to pay the cost of transcription may file a request for waiver of the costs, with the Board President.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -299,11 +312,11 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The State Superintendent shall review the request for waiver of costs and the accompanying affidavit and may require the appellant to supplement or explain any of the matters set forth in the papers.</text>
+          <text>The Board President shall review the request for waiver of costs and the accompanying affidavit and may require the appellant to supplement or explain any of the matters set forth in the papers.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>If the State Superintendent is satisfied that the appellant is unable by reason of indigence to pay the cost of transcription, the State Superintendent may waive the payment of cost, and the cost shall be paid by the local board.</text>
+          <text>If the Board President is satisfied that the appellant is unable by reason of indigence to pay the cost of transcription, the State Superintendent may waive the payment of cost, and the cost shall be paid by the local board.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -311,7 +324,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-05" doc="Editor Action 2026-10-05" eff="2026-10-05" path="" target-path="13A|01|05|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|01|05|.04">
     <prefix>Regulation</prefix>
@@ -447,13 +462,15 @@
     </para>
     <para>
       <num>H.</num>
-      <text>At the rest of the State Board, a party shall submit hard copies of any documents that were filed in electronic format.</text>
+      <text>At the request of the State Board, the State Board, a party shall submit hard copies of any documents that were filed in electronic format.</text>
     </para>
     <para>
       <num>I.</num>
       <text>A party submitting video evidence shall provide a transcribed copy of the video and, for a video that contains portions that are not relevant to the appeal, provide the time stamp location of the relevant portions of the video.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-05" doc="Editor Action 2026-10-05" eff="2026-10-05" path="" target-path="13A|01|05|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -907,7 +924,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>Response. The State Board shall notify the local board member of the filing of the request(s) for consistency to issue charges and provide the local board member 30 days after the close of the consolidation period to respond to the request or requests.</text>
+      <text>Response. The State Board shall notify the local board member of the filing of the request(s) to issue charges and provide the local board member 30 days after the close of the consolidation period to respond to the request or requests.</text>
     </para>
     <para>
       <num>F.</num>
@@ -1087,6 +1104,7 @@
     </para>
     <annotations>
       <annotation app="2026-06-22" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|final|26-018-F" target-path="13A|01|05|.12" type="History" display="false"/>
+      <annotation app="2026-10-05" doc="Editor Action 2026-10-05" eff="2026-10-05" path="" target-path="13A|01|05|.12" type="History" display="false"/>
     </annotations>
   </section>
   <section>

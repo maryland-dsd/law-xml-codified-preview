@@ -59,7 +59,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>“Independent practice” means the practice of licensed social work without the requirement of social work supervision.</text>
+        <text>“Independent clinical practice” means the practice of licensed clinical social work without the requirement of social work supervision.</text>
       </para>
       <para>
         <num>(9)</num>
@@ -166,7 +166,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-103-F" target-path="10|42|02|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -546,5 +548,6 @@
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="gho|19-205">Health Occupations Article, §19-205, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2000-07-24">Effective date: July 24, 2000 (27:14 Md. R. 1342)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-06-17" discontinuity="true">Chapter revised effective June 17, 2019 (46:12 Md. R. 544)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|42|02|.02|B.">Regulation .02B</cite> amended effective October 12, 2026 (53:20 Md. R. 1000)</annotation>
   </annotations>
 </container>

@@ -407,6 +407,7 @@
     </para>
     <annotations>
       <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.02" type="History" display="false"/>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|04|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|67|04|.03">
@@ -1207,6 +1208,7 @@
     </para>
     <annotations>
       <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.03-2" type="History" display="false"/>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|04|.03-2" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|67|04|.04">
@@ -1242,11 +1244,59 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Individuals with HIV/AIDS; and</text>
+        <text>Individuals with HIV/AIDS;</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>Children in State-supervised care.</text>
+        <text>Children in State-supervised care;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Individuals who are an inmate of a public institution because of having received a sentence of incarceration who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Have been released from a public institution;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Are 18 years and older; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Have been diagnosed with:</text>
+          <para>
+            <num>(i)</num>
+            <text>A substance use disorder;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>A serious mental illness; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Both a substance use disorder and a serious mental illness; and</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Individuals who were an inmate of a public institution after having been found by a court to have committed a criminal or delinquent offense who:</text>
+        <para>
+          <num>(a)</num>
+          <text>Have been released from a public institution; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Meet one of the following age criteria:</text>
+          <para>
+            <num>(i)</num>
+            <text>Are younger than 21 years old; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Are a former foster care child between the ages of 18 and 26.</text>
+          </para>
+        </para>
       </para>
     </para>
     <para>
@@ -1405,7 +1455,9 @@
         <text>An MCO shall have mechanisms in place to allow enrollees with special health care needs to access a specialist directly as appropriate for the enrollee’s condition and identified needs.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|04|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|67|04|.05">
     <prefix>Regulation</prefix>
@@ -1856,6 +1908,7 @@
     </para>
     <annotations>
       <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.10" type="History" display="false"/>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|04|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -1922,7 +1975,33 @@
       <num>G.</num>
       <text>Coordination with Responsible Agency. An MCO shall appoint a liaison to coordinate services to a child in State-supervised care with the responsible State or local agencies.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>H.</num>
+      <text>An MCO shall provide justice-involved case management services as described in <cite path="10.09.67.04">COMAR 10.09.67.04</cite> to an individual who:</text>
+      <para>
+        <num>(1)</num>
+        <text>Was an inmate of a public institution after having been found by a court to have committed a criminal or delinquent offense;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has been released from a public institution; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Meets one of the following age criteria:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is younger than 21 years old; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is a former foster care child between the ages of 18 and 26.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|04|.13" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -5182,6 +5261,7 @@
     </para>
     <annotations>
       <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.20" type="History" display="false"/>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|04|.20" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|67|04|.21">
@@ -5214,6 +5294,7 @@
     </para>
     <annotations>
       <annotation app="2026-09-28" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|final|26-046-F" target-path="10|67|04|.21" type="History" display="false"/>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-085-F" target-path="10|67|04|.21" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|67|04|.22">
@@ -5725,6 +5806,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|04|.03-2L">Regulation .03-2L</cite> adopted effective June 24, 2024 (51:12 Md. R. 620)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|10|67|04|.03-2L">Regulation .03-2L</cite> repealed and new Regulation .03-2 adopted effective April 28, 2025 (52:8 Md. R. 359)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|10|67|04|.03-2M">Regulation .03-2M</cite> adopted effective April 28, 2025 (52:8 Md. R. 359)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|67|04|.04|B.">Regulation .04B</cite> amended effective October 12, 2026 (53:20 Md. R. 997)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|67|04|.13|H.">Regulation .13H</cite> adopted effective October 12, 2026 (53:20 Md. R. 997)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-06-24"><cite path="|10|67|04|.15|E.">Regulation .15E</cite> amended effective June 24, 2024 (51:12 Md. R. 620)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-06-13"><cite path="|10|67|04|.17|B.">Regulation .17B</cite> amended effective June 13, 2022 (49:12 Md. R. 641)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-04-28"><cite path="|10|67|04|.18|K.">Regulation .18K</cite> adopted effective April 28, 2025 (52:8 Md. R. 359)</annotation>

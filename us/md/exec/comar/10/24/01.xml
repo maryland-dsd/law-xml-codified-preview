@@ -1311,15 +1311,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>At least 45 days before increasing or decreasing bed capacity, written notice of the intent to change bed capacity is filed with the Commission, and the increase or decrease in bed capacity will occur in:</text>
-          <para>
-            <num>(i)</num>
-            <text>An existing general hospice that has a current license issued by the Secretary and involves an increase in bed capacity for the provision of inpatient hospice care under the facility’s current license; or</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>An existing intermediate care facility that offers residential or intensive substance-related disorder treatment services for withdrawal management and treatment under the facility’s current license issued by the Secretary.</text>
-          </para>
+          <text>At least 45 days before increasing or decreasing bed capacity, written notice of the intent to change bed capacity is filed with the Commission, and the increase or decrease in bed capacity will occur in an existing general hospice that has a current license issued by the Secretary and involves an increase in bed capacity for the provision of inpatient hospice care under the facility’s current license.</text>
         </para>
       </para>
       <para>
@@ -1527,7 +1519,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-089-F" target-path="10|24|01|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="10|24|01|.04">
     <prefix>Regulation</prefix>
@@ -1590,11 +1584,19 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>A capital expenditure that exceeds the review threshold for capital expenditure made as part of a consolidation or merger of two or more health care facilities, or conversion of a health care facility or part of a health care facility to a non-health-related use; or</text>
+        <text>A capital expenditure that exceeds the review threshold for capital expenditure made as part of a consolidation or merger of two or more health care facilities, or conversion of a health care facility or part of a health care facility to a non-health-related use;</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>The establishment of a freestanding medical facility through the conversion of an acute general hospital, as provided in <cite path="10|24|01|.04|F.">§F of this regulation</cite> and in <cite path="10.24.19.04|C.">COMAR 10.24.19.04C</cite>.</text>
+        <text>The establishment of a freestanding medical facility through the conversion of an acute general hospital, as provided in <cite path="10|24|01|.04|F.">§F of this regulation</cite> and in <cite path="10.24.19.04|C.">COMAR 10.24.19.04C</cite>;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>The establishment of an intermediate care facility; or</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>A change in the bed capacity at an intermediate care facility that has a current license issued by the Secretary to provide American Society of Addiction Medicine Level 3.7 substance use disorder treatment<em>.</em></text>
       </para>
     </para>
     <para>
@@ -1873,7 +1875,9 @@
         <text>Failure to maintain compliance with conditions on an exemption or with the time frame for completion of the conversion may result in withdrawal of the exemption issued by the Commission in accordance with <cite path="|10|24|01|.12">Regulation .12 of this chapter</cite>. An exemption holder may request approval of a reasonable modification to the conversion timeline in accordance with <cite path="|10|24|01|.12|A.|(4)">Regulation .12A(4) of this chapter</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-089-F" target-path="10|24|01|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -4297,7 +4301,7 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-109(a)(1) and (8), 19-116(b), 19-118(d), 19-120, 19-120.1, and 19-126, et seq. Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§19-109(a)(1) and (8), 19-116(b), 19-118(d), 19-120, 19-120.1, 19.120.2 and 19-126, et seq. Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1972-07-06">Effective date: July 6, 1972</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-02-04">Regulations <cite path="|10|24|01|.01">.01</cite> — <cite path="|10|24|01|.16">.16</cite> amended effective February 4, 1976 (3:3 Md. R. 151)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1976-02-04">Regulations .17 and .18 adopted effective February 4, 1976 (3:3 Md. R. 151)</annotation>
@@ -4393,6 +4397,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-12-01" discontinuity="true">Regulations <cite path="|10|24|01|.01">.01</cite>—<cite path="|10|24|01|.22">.22</cite> under Certificate of Need for Health Care Facilities repealed and new Regulations <cite path="|10|24|01|.01">.01</cite>—<cite path="|10|24|01|.22">.22</cite> under Procedural Regulations for Health Care Facilities and Services adopted effective December 1, 2023 (50:22 Md. R. 975)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-02-17"><cite path="|10|24|01|.01|B.">Regulation .01B</cite> amended effective February 17, 2025 (52:3 Md. R. 159)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-02-17"><cite path="|10|24|01|.03">Regulation .03</cite> mended effective February 17, 2025 (52:3 Md. R. 159)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|24|01|.03|F.">Regulation .03F</cite> amended effective October 12, 2026 (53:20 Md. R. 999)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|24|01|.04|A.">Regulation .04A</cite> amended effective October 12, 2026 (53:20 Md. R. 999)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-07-22"><cite path="|10|24|01|.12">Regulation .12</cite> amended effective July 22, 2024 (51:14 Md. R. 678)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-02-17"><cite path="|10|24|01|.12|E.">Regulation .12E</cite> amended effective February 17, 2025 (52:3 Md. R. 159)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-02-17"><cite path="|10|24|01|.21">Regulation .21</cite> adopted effective February 17, 2025 (52:3 Md. R. 159)</annotation>

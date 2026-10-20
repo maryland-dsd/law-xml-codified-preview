@@ -1205,7 +1205,7 @@
     <heading>Other Forms of Leave with Pay.</heading>
     <para>
       <num>A.</num>
-      <text>When an employee has obtained appropriate supervisory approval and provided such documentation as may be required, leave with pay shall be authorized for the situations set forth in §§B—D of this regulation.</text>
+      <text>When an employee has obtained appropriate supervisory approval and provided such documentation as may be required, leave with pay shall be authorized for the situations set forth in §§B—C of this regulation.</text>
     </para>
     <para>
       <num>B.</num>
@@ -1215,11 +1215,10 @@
       <num>C.</num>
       <text>Adjudicatory Proceedings. When an employee has been subpoenaed or summoned to appear in court in connection with a civil or criminal case, to appear in an administrative proceeding before an administrative body, called for jury duty, or for a deposition, and is not a party to the action being heard or a paid witness, the employee is entitled to leave with pay.</text>
     </para>
-    <para>
-      <num>D.</num>
-      <text>Parental Leave. An employee who is the primary caregiver responsible for the care and nurturing of the employee’s child may, upon request, be granted up to 60 days of paid parental leave within 6 months following the birth of a child or adoption of a child younger than 6 years old. The employee shall exhaust all annual and personal leave before the employee may request parental leave to attain a total of 60 days of paid leave after the birth or adoption of a child.</text>
-    </para>
-    <annotations/>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:20 26-115-E (Regulation .11 EMERGENCY ACTION IN EFFECT 9/4/2026 — 3/3/2027</annotation>
+      <annotation app="2026-09-04" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|emergency|26-115-E" target-path="11|02|03|.11" type="History" display="false" exp="2027-03-03"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1392,9 +1391,674 @@
     <text>Regulations implementing the federal Family and Medical Leave Act of 1993 are contained in <cite path="|11.02.13">COMAR 11.02.13</cite>.</text>
     <annotations/>
   </section>
-  <section>
+  <section cache:ref-path="11|02|03|.19">
     <prefix>Regulation</prefix>
     <num>.19</num>
+    <heading>Paid Family Medical Leave (PFML).</heading>
+    <para>
+      <num>A.</num>
+      <text>Definitions. In this regulation, the following terms have the meanings indicated.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Good cause” means a demonstration by an employee that a failure to timely file a PFML application, revision, reconsideration request, or appeal was due to:</text>
+        <para>
+          <num>(a)</num>
+          <text>A serious health condition that resulted in an unanticipated and prolonged period of incapacity and that prevented the employee from filing in a timely manner;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A demonstrated inability to reasonably access a means to file in a timely manner, such as due to a natural disaster or power outage; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A demonstrated failure of the appointing authority or Department to provide notice of dispute resolution procedures after the issuance of an adverse determination.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“PFML” means leave from work taken under <cite doc="Md. Code" path="gsp|9-1004">State Personnel and Pensions Article, §9-1004(a)(1), Annotated Code of Maryland</cite>, that is paid at the employee’s regular rate of pay.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Qualifying exigency” means any of the following reasons for which leave may be needed by a family member of a service member:</text>
+        <para>
+          <num>(a)</num>
+          <text>The service member has received notice of deployment within 7 days before the deployment is to begin;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>To attend military events and related activities including family support programs related to the active duty of the service member;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To arrange, provide, or attend childcare or school activities only when the service member is on active-duty call or active-duty status; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To make financial and legal arrangements for the service member’s absence or because of the absence.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Serious Health Condition.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Serious health condition” means an illness, an injury, an impairment, or a physical or mental condition that involves:</text>
+          <para>
+            <num>(i)</num>
+            <text>Inpatient care in a hospital, hospice, or residential health care facility;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Continued treatment by a licensed health care provider; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Continued treatment or supervision at home by a licensed health care provider or other competent individual under the supervision of a licensed health care provider.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Serious health condition” includes an illness, an injury, an impairment, or a physical or mental condition described in <cite path="11|02|03|.19|A.|(4)">§A(4) of this regulation</cite> that continues over an extended period of time and requires intermittent treatment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Service member” means an individual who is an active duty or former member of:</text>
+        <para>
+          <num>(a)</num>
+          <text>The United States armed forces;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A reserve component of the United States armed forces; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The National Guard of any state.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Treatment” includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Examinations or testing to determine the extent to which a serious health condition exists or persists;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Ongoing or periodic evaluations of the serious health condition; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Actual treatment by a health care provider.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Amount of Leave.</text>
+      <para>
+        <num>(1)</num>
+        <text>The appointing authority or appointing authority designee shall notify the employee of the employee’s eligibility to take leave for which benefits may be under this regulation within 5 business days, when employee’s requests leave under PFML, or when a designee knows that an employee’s leave may be for a reason under this regulation.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Except as provided in <cite path="11|02|03|.19|B.|(3)">§B(3) of this regulation</cite>, an employee may not receive more than 12 weeks of PFML in an application year.</text>
+        <para>
+          <num>(a)</num>
+          <text>The employee may receive payment for up to 480 hours at the employee’s regular rate of pay.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>480 hours is the maximum amount of paid PFML regardless of whether the employee uses PFML for a continuous period of time, intermittently, or combination.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If a State employee holiday is observed during the employee's continuous period of PFML, the State employee holiday will be counted toward the employee's total amount of PFML.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An employee may receive an additional 12 weeks of PFML during the same application year if the employee:</text>
+        <para>
+          <num>(a)</num>
+          <text>Received leave because the employee was eligible for leave to care for a newborn child of the employee during the first year after the child’s birth, or because a child is being placed for adoption, foster care, or kinship care with the employee or to care for or bond with the child during the first year after the placement;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Becomes eligible for leave to attend to a serious health condition that results in the employee being unable to perform the functions of the employee’s position;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Received leave because the employee was eligible for leave to attend to a serious health condition that results in the employee being unable to perform the functions of the employee’s position; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Becomes eligible for leave to care for a newborn child of the employee during the first year after the child’s birth; or because a child is being placed for adoption, foster care, or kinship care with the employee or to care for or bond with the child during the first year after the placement.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Use of Leave. An employee may request PFML only:</text>
+      <para>
+        <num>(1)</num>
+        <text>To care for a newborn child of the employee during the first year after the child’s birth;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Because a child is being placed for adoption, foster care, or kinship care with the employee or to care for or bond with the child during the first year after the placement;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To care for a family member with serious health condition;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>To attend to a serious health condition that results in the employee being unable to perform the functions of the employee’s position;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>To care for a service member with a serious health condition resulting from military service for whom the employee is next of kin;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>To attend a qualifying exigency arising out of the deployment of a service member who is a family member of the employee;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>To attend counseling that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is needed due to the active duty or call to active-duty status of the service member; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is provided by an individual who is not a licensed health care provider;</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>To spend up to 15 calendar days with a service member who is on short-term temporary rest and recuperation leave during the period of deployment;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>To attend post deployment activities including reintegration services for a period of 90 days immediately following the termination of active status;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>To attend to matters related to the death of the service member while on active-duty status;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>To arrange for or provide alternative care for a parent of the service member when the parent is incapable of self-care and the covered active duty or call to active duty necessitates a change; or</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Any other issues that arise out of active duty or a call to active duty that an appointing authority and employee agree should be covered.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>If PFML is to be taken on an intermittent schedule, the employee shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Request intermittent leave in increments of 4 hours or more;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Make a reasonable effort to schedule the intermittent leave in a manner that does not cause significant difficulty or expense in relation to the resources and specific operations of the agency’s operations; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Provide the agency with reasonable and practicable prior notice of the reason, dates, and duration for which intermittent leave is necessary.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Qualifying Purpose.</text>
+      <para>
+        <num>(1)</num>
+        <text>An employee who requires leave for a qualifying purpose while a request for PFML is pending may use accrued annual, compensatory, sick, or personnel leave, or request unpaid leave if the employee has no accrued leave.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An employee who uses accrued leave for a qualifying purpose while a request for PFML is pending will receive reimbursement of the used leave retroactive to the approved start date of PFML if the employee’s request for PFML is approved.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An employee who is on unpaid leave while a request for PFML is pending will receive PFML retroactive to the approved start date of the PFML.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Overpayment.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the employee receives an overpayment of PFML, the employee shall reimburse the employee’s agency in the amount of the overpayment.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the employee fails to reimburse the employee’s agency for the amount of the overpayment, the agency shall take collection action set forth in <cite path="17.01.01.06">COMAR 17.01.01.06</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Application for Leave.</text>
+      <para>
+        <num>(1)</num>
+        <text>An employee may request PFML by submitting an application, on the PFML form, to the employee’s appointing authority or appointing authority designee.</text>
+        <para>
+          <num>(a)</num>
+          <text>If the need for leave is not foreseeable, an application shall be submitted as soon as practicable, which may be up to 60 days before the anticipated start date of the leave, but not later than 60 days after the start date of the leave, unless good cause can be shown.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If the need for leave is foreseeable, an appointing authority may require an employee to provide the appointing authority with written notice of the employee’s intention to take leave at least 30 days before the start date of leave.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The employee’s appointing authority or appointing authority designee may submit an application on behalf of an employee if extenuating circumstances prevent the employee from submitting an application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A request for PFML shall be accompanied by the documentation required by the application.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The employee’s appointing authority or appointing authority designee shall render a decision on a request for PFML within 5 working days after receiving a complete application.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Incomplete Applications.</text>
+        <para>
+          <num>(a)</num>
+          <text>An appointing authority or appointing authority designee shall not render a decision on an incomplete application.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An incomplete application will be returned to the employee.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The requirement to render a decision within 5 working days as specified, does not apply to an incomplete application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Updating an Application.</text>
+        <para>
+          <num>(a)</num>
+          <text>An employee shall update an application within 10 days, or as soon as practicable with good cause shown, of any changes to the following information provided on an application:</text>
+          <para>
+            <num>(i)</num>
+            <text>Reason for leave;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Start date of leave;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Duration of leave;</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>End date of leave; or</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text>Whether the employee has begun to receive Workers’ Compensation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An employee’s failure to update a request for PFML with any changes to the information provided on an application may result in a denial of the employee’s application or result in the employee being responsible for any overpayment.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Criteria for Reviewing Requests for Paid Family Medical Leave.</text>
+      <para>
+        <num>(1)</num>
+        <text>An appointing authority may approve a request for PFML if the employee has submitted a complete application, with the required documentation and:</text>
+        <para>
+          <num>(a)</num>
+          <text>Has not already exceeded the 12-week leave period; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is qualified for an additional 12-week leave period set forth in this policy.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A denial of an employee’s application for PFML by the appointing authority or the appointing authority designee, shall include the reason for the denial in writing and the notice of dispute resolution procedures.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Documentation.</text>
+      <para>
+        <num>(1)</num>
+        <text>An employee shall submit required documentation with the employee’s application for PFML to the employee’s appointing authority or appointing authority designee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An appointing authority or the Department may require employees to attest that information provided in their applications is true to the best of their knowledge.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Documentation submitted with an application for PFML shall be treated as confidential.</text>
+        <para>
+          <num>(a)</num>
+          <text>Documentation shall be disclosed only to those individuals who need to know its contents as part of the review, evaluation, approval, reconsideration, or appeal process.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An employee who fails to maintain the confidentiality of documentation is subject to disciplinary action, up to and including termination.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An employee requesting PFML under <cite path="11.02.03.19">COMAR 11.02.03.19</cite> shall provide:</text>
+        <para>
+          <num>(a)</num>
+          <text>The first date on which the employee took or intends to take PFML and whether the leave will, or is intended to be, taken for a continuous period of time or intermittently; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Documentation of the birth or placement of the child with one of the following:</text>
+          <para>
+            <num>(i)</num>
+            <text>A certification of live birth;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Documentation of placement from a licensed child placement agency or government agency responsible for child placement, and documentation of any court appearances, appointments, or travel in anticipation of placement, if applicable, including a court order or an affidavit of an informal kinship care arrangement; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Other reasonable documentation determined by the Department.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An employee requesting PFML to care for a family member with a serious health condition, shall include a statement of the employee’s relationship to the family member and a complete certification form, provided by the Department, from a licensed health care provider, establishing:</text>
+        <para>
+          <num>(a)</num>
+          <text>The first date on which the employee intends to take or took PFML and whether the leave will, or is intended to be, taken for a continuous period of time or intermittently;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Date of diagnosis;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The date on which the serious health condition of the family member commenced;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The probable duration of the serious health condition;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The appropriate facts related to the serious health condition within the knowledge of the licensed health care provider;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A statement that the employee needs to care for a family member and an estimate of the amount of time required to provide the care; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>If intermittent PFML leave is requested, the expected frequency and duration of the intermittent PFML.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An employee requesting PFML for the employee’s own serious health condition, shall include a complete certification form, provided by the Department, from a licensed health care provider, establishing:</text>
+        <para>
+          <num>(a)</num>
+          <text>The first date on which the employee intends to take or took PFML and whether the PFML will, or is intended to be, taken for a continuous period of time or intermittently;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The date on which the serious health condition of the employee commenced;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Treatment dates;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Period of incapacity;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The probable duration of the serious health condition;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The appropriate facts related to the serious health condition within the knowledge of the licensed health care provider;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>A statement that the employee is unable to perform the functions of the employee’s position; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>If intermittent PFML is requested, the expected frequency and duration of the intermittent PFML.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>An application for PFML for a service member with a serious health condition for whom the employee is next of kin, shall include a statement of the employee’s next of kin relationship to the service member and a complete certification form, provided by the Department, from a licensed health care provider, establishing:</text>
+        <para>
+          <num>(a)</num>
+          <text>That the serious health condition was caused, or exacerbated by, military service;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The first date on which the employee took or intends to take PFML and whether the leave will, or is intended to be, taken for a continuous period of time or intermittently;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The date on which the serious health condition of the service member commenced or was exacerbated;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The probable duration of the serious health condition;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The appropriate facts related to the serious health condition within the knowledge of the licensed health care provider; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>If intermittent PFML is requested, a statement that the employee needs to care for a service member and the expected frequency and duration of the intermittent PFML.</text>
+        </para>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>An application for PFML for a qualifying exigency arising out of the deployment of a service member who is a family member of the employee shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>A copy of the family member’s active duty orders or other documentation issued by the military that indicates that the service member is on active duty or called to active duty, and the dates of the service member’s active duty status;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The first date on which the employee took or intends to take PFML and whether the leave will, or is intended to be, taken for a continuous period of time or intermittently; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A statement of the employee’s family member relationship to the service member.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Reconsideration.</text>
+      <para>
+        <num>(1)</num>
+        <text>An employee or authorized representative may request reconsideration of an appointing authority or appointing authority designee’s denial of PFML.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A reconsideration request shall be in writing to the Department’s Office of Personnel Services and Benefits on a form prescribed by the Secretary.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A reconsideration request shall state the reasons the employee believes the initial denial should be overruled and may include supporting documentation.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A reconsideration request shall be filed within 30 days after the employee receives a denial from the appointing authority or appointing authority designee unless good cause can be shown.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A decision on the reconsideration request shall be issued in writing by the Department within 10 working days and include the notice of dispute resolution procedures.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>An employee who requires leave for a qualifying purpose while a reconsideration request for PFML is pending may use accrued annual, compensatory, sick, or personnel leave, or request unpaid leave if the employee has no accrued leave.</text>
+        <para>
+          <num>(a)</num>
+          <text>An employee who uses accrued leave for a qualifying purpose while a reconsideration request for PFML is pending will receive reimbursement of the used leave retroactive to the approved start date of PFML if the employee’s request for PFML is approved.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An employee who is on unpaid leave while a reconsideration request for PFML is pending will receive PFML retroactive to the approved start date of PFML.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>Appeals.</text>
+      <para>
+        <num>(1)</num>
+        <text>If the denial of PFML is upheld after reconsideration, an employee or authorized representative may appeal the denial of PFML to the Department’s Chief Human Resources Officer or designee.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The appeals process is available only to employees who have completed the reconsideration process as described in <cite path="11|02|03|.19|J.">§J of this regulation</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>An appeal shall be in writing to the Department’s Chief Human Resources Officer or designee on a form prescribed by the Secretary.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>An appeal shall state the reasons the employee believes the reconsideration decision should be overruled and may include supporting documentation.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>An appeal shall be filed within 30 days after the employee receives a reconsideration decision from the Department’s Office of Personnel Services and Benefits unless the employee can show good cause.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>When an appeal is filed with the Department’s Chief Human Resources Officer or designee, the Department will send a notice of filing to the employee’s appointing authority or the appointing authority designee.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>An appeal decision shall be issued in writing to the employee and the employee’s appointing authority or appointing authority designee within 30 working days after the Department's receipt of the appeal.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>The decision by the Department’s Chief Human Resources shall be the final administrative decision and is not subject to further appeal.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>An employee who requires leave for a qualifying purpose while an appeal for PFML is pending may use accrued annual, compensatory, sick, or personnel leave, or request unpaid leave if the employee has no accrued leave.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>An employee who uses accrued leave for a qualifying purpose while an appeal for PFML is pending will receive reimbursement of the used leave retroactive to the approved start date of PFML if the employee’s request for PFML is approved.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>An employee who is on unpaid leave while an appeal for PFML is pending will receive PFML retroactive to the approved start date of PFML.</text>
+      </para>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>Record Keeping and Audit.</text>
+      <para>
+        <num>(1)</num>
+        <text>Each agency shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Maintain for a minimum of 5 years the following documentation:</text>
+          <para>
+            <num>(i)</num>
+            <text>Applications for leave;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Approval of PFML, including dates; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Denials of PFML.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Submit to the Secretary or designee, on or before October 15 of each year, a report providing the following information for the preceding fiscal year:</text>
+          <para>
+            <num>(i)</num>
+            <text>Number of employees who requested PFML;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Number of employees approved for PFML;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Number of employees denied for PFML; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Estimated cost to the agency in wages, overtime, and lost productivity.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department shall maintain for a minimum of 5 years the following documentation:</text>
+        <para>
+          <num>(a)</num>
+          <text>Requests for reconsideration;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Outcomes of reconsideration requests;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Appeals; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Outcomes of appeals.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The program shall be audited at the discretion of the Secretary.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation managed="false" type="Emergency Action">53:20 26-115-E (Regulations <cite path="|11|02|03|.19">.19</cite>— <cite path="|11|02|03|.21">.21</cite>) EMERGENCY ACTION IN EFFECT 9/4/2026 — 3/3/2027</annotation>
+      <annotation app="2026-09-04" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|emergency|26-115-E" target-path="11|02|03|.19" type="History" display="false" exp="2027-03-03"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.20</num>
     <heading>Organ Donation Leave.</heading>
     <para>
       <num>A.</num>
@@ -1468,11 +2132,13 @@
         <text>An employee who fails to maintain the confidentiality of medical information is subject to disciplinary action, up to and including termination.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-04" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|emergency|26-115-E" target-path="11|02|03|.20" type="History" display="false" exp="2027-03-03"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
-    <num>.20</num>
+    <num>.21</num>
     <heading>Disaster Service Leave.</heading>
     <para>
       <num>A.</num>
@@ -1550,7 +2216,9 @@
         <text>For purposes of Worker’s Compensation, including work injury leave, and the Maryland Tort Claims Act, while an employee is using disaster service leave, the employee is not considered a State employee.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-09-04" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|emergency|26-115-E" target-path="11|02|03|.21" type="History" display="false" exp="2027-03-03"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">State Personnel and Pensions Article, §§<cite doc="Md. Code" path="gsp|9-1106">9-1106</cite> and <cite doc="Md. Code" path="gsp|9-1108">9-1108</cite>;<br/>Transportation Article, §§<cite doc="Md. Code" path="gtr|2-102">2-102</cite> and <cite doc="Md. Code" path="gtr|2-103">2-103</cite>.4; Annotated Code of Maryland</annotation>
@@ -1582,6 +2250,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-05-03"><cite path="|11|02|03|.16">Regulation .16</cite> amended effective May 3, 2010 (37:9 Md. R. 673)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-09-12"><cite path="|11|02|03|.17">Regulation .17</cite> adopted effective September 12, 1994 (21:18 Md. R. 1509)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-04-06"><cite path="|11|02|03|.18">Regulation .18</cite> adopted effective April 6, 2009 (36:7 Md. R. 525)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-04"><cite path="|11|02|03|.19">Regulation .19</cite> adopted as an emergency provision effective September 4, 2026 (53:20 Md. R. 993)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-09-04">Regulations .19, .20 recodified as an emergency to be Regulations .20, .21 effective September 4, 2026 (53:20 Md. R. 993)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-03"><cite path="|11|02|03|.20">Regulation .20</cite> adopted effective March 3, 2025 (52:4 Md. R 219)</annotation>
   </annotations>
 </container>

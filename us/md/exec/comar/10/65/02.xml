@@ -41,7 +41,15 @@
     </para>
     <para>
       <num>B.</num>
-      <text>Oaths and Subpoenas. The Board may administer oaths and compel the attendance of witnesses and the production of physical evidence before it from witnesses upon whom process is served anywhere within the State as in civil cases in the circuit court of the county or of Baltimore City, by subpoena issued over the signature of the President or Secretary and the seal of the Board. Upon a request by a party and statement under oath that the testimony or evidence is necessary to their defense, the Board shall issue a subpoena on their behalf.</text>
+      <text>Oaths and Subpoenas.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Board may administer oaths and compel the attendance of witnesses and the production of physical evidence before it from witnesses upon whom process is served anywhere within the State as in civil cases in the circuit court of the county or of Baltimore City, by subpoena issued over the signature of the Board’s Chair, Secretary, or Executive Director and the seal of the Board.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon a request by a party and statement under oath that the testimony or evidence is necessary to their defense, the Board shall issue a subpoena on their behalf.</text>
+      </para>
     </para>
     <para>
       <num>C.</num>
@@ -135,7 +143,9 @@
         <text>In the event of a conflict between this regulation and <cite path="|28.02.01">COMAR 28.02.01</cite>, this regulation applies.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-104-F" target-path="10|65|02|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -150,15 +160,15 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>For purposes of a hearing under this chapter, four Board members present and entitled to vote shall constitute a quorum.</text>
+        <text>For purposes of a hearing under this chapter, a majority of the full authorized membership of the Board shall constitute a quorum.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Board action shall be by majority vote of all the members then serving.</text>
+        <text>Board action shall be by majority vote of a quorum.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>The President, or the President’s designee, shall be the presiding officer, and shall have complete charge of the hearing, permit the examination of witnesses, admit evidence, rule on the admissibility of evidence, and adjourn or recess the hearing from time to time.</text>
+        <text>The Board’s Chair, or the Chair’s designee, shall be the presiding officer, and shall have complete charge of the hearing, permit the examination of witnesses, admit evidence, rule on the admissibility of evidence, and adjourn or recess the hearing from time to time.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -245,7 +255,9 @@
         <text>The Board may submit evidence from an investigative file to other administrative and criminal investigative offices to assist in the investigation and prosecution of a case.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-104-F" target-path="10|65|02|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -276,14 +288,20 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Hearing-related per diems and expenses for Board members; and</text>
+        <text>Hearing-related per diems and expenses for Board members;</text>
       </para>
       <para>
         <num>(6)</num>
+        <text>If the respondent requested an interpreter pursuant to the Administrative Procedure Act, the services rendered and any expenses incurred by the interpreter in accordance with <cite doc="Md. Code" path="gsg|10-212">State Government Article, §10-212</cite>.1(b)(3), Annotated Code of Maryland; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
         <text>Other expenses directly related to the investigation and prosecution of the disciplinary action against the licensee.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-104-F" target-path="10|65|02|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -327,7 +345,9 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|6-206">6-206</cite>, <cite doc="Md. Code" path="gho|6-309">6-309</cite>, and <cite doc="Md. Code" path="gho|6-310">6-310</cite>; <cite doc="Md. Code" path="gsg|10-206">State Government Article, §10-206</cite>; Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02">Effective date: January 2, 2017 (43:26 Md. R. 1446)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|65|02|.06|B.">Regulation .06B</cite> amended effective August 5, 2024 (51:15 Md. R. 710)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|10|65|02|.04|B.">Regulation .04B</cite> amended effective October 26, 2026 (53:21 Md. R. 1041)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|10|65|02|.05|A.">Regulation .05A</cite> amended effective October 26, 2026 (53:21 Md. R. 1041)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|10|65|02|.06|B.">Regulation .06B</cite> amended effective August 5, 2024 (51:15 Md. R. 710); October 26, 2026 (53:21 Md. R. 1041)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-08-05"><cite path="|10|65|02|.09">Regulation .09</cite> amended effective August 5, 2024 (51:15 Md. R. 710)</annotation>
   </annotations>
 </container>

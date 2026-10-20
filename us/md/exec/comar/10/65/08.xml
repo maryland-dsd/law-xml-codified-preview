@@ -2,13 +2,15 @@
 <container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>Chapter</prefix>
   <num>08</num>
-  <heading>Licensure and Registration Examination — Special Needs Applicants</heading>
+  <heading>Licensure and Registration Examination — Applicants Requiring Accommodations<annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-104-F" target-path="10|65|08|heading" type="History" display="false"/></heading>
   <section>
     <prefix>Regulation</prefix>
     <num>.01</num>
     <heading>Scope.</heading>
-    <text>This chapter establishes the procedures to be followed by examination applicants who have special needs because of a handicap or religious convictions.</text>
-    <annotations/>
+    <text>This chapter establishes the procedures to be followed by jurisprudence examination applicants who require accommodations because of a disability or religious convictions.</text>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-104-F" target-path="10|65|08|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -44,20 +46,25 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The applicant shall send the request for modification and supporting documentation to the Board by the application deadline.</text>
+      <text>The applicant shall send the request for modification and supporting documentation to the Board with the application.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>The Board reserves the right to review each special needs application and evaluate each on its individual merit.</text>
+      <text>The Board reserves the right to review each accommodation application and evaluate each on its individual merit.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>The applicant may be required to bear the cost of special arrangements or procedures to accommodate the applicant’s special needs.</text>
+      <text>The applicant may be required to bear the cost of special arrangements or procedures to accommodate the applicant’s individual needs.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-104-F" target-path="10|65|08|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|6-206">6-206</cite> and <cite doc="Md. Code" path="gho|6-302">6-302</cite>, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-01-02">Effective date: January 2, 2017 (43:26 Md. R. 1446)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|10|65|08|.01">Regulation .01</cite> amended effective October 26, 2026 (53:21 Md. R. 1041)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|10|65|08|.02|B.">Regulation .02B</cite>, C, D amended effective October 26, 2026 (53:21 Md. R. 1041)</annotation>
+    <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-104-F" target-path="10|65|08|annos" type="History" display="false"/>
   </annotations>
 </container>

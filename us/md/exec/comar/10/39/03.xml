@@ -112,7 +112,6 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" target-path="10|39|03|.01" type="History" display="false" exp="2026-09-30"/>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|03|.01" type="History" display="false"/>
     </annotations>
   </section>
@@ -161,7 +160,6 @@
       </para>
     </para>
     <annotations>
-      <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" target-path="10|39|03|.02" type="History" display="false" exp="2026-09-30"/>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|03|.02" type="History" display="false"/>
     </annotations>
   </section>
@@ -488,7 +486,6 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08"><cite path="|10|39|03|.02|A.">Regulation .02A</cite>, C amended as an emergency provision effective April 3, 2026 (53:9 Md. R. 411); amended permanently effective June 8, 2026 (53:11 Md. R. 484)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-08-25"><cite path="|10|39|03|.02|C.">Regulation .02C</cite> amended effective August 25, 2008 (35:17 Md. R. 1489)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-04-15"><cite path="|10|39|03|.03|B.">Regulation .03B</cite> amended effective April 15, 2013 (40:7 Md. R. 612)</annotation>
-    <annotation app="2026-04-03" doc="Maryland Register, Volume 53, Issue 9" eff="2026-05-11" path="regulations|emergency|26-016-E" target-path="10|39|03|annos" type="History" display="false" exp="2026-09-30"/>
     <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|03|annos" type="History" display="false"/>
   </annotations>
 </container>

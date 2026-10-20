@@ -43,7 +43,7 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Adjudicated” means paid, resolved, or settled.</text>
+        <text>“Adjudicated” means paid, denied, resolved, or settled.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -63,14 +63,18 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>“Executive Director” means the Executive Director of the Maryland Health Care Commission.</text>
+        <text>“Denied” in the context of a claim, means that a claim has been rejected for any reason.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>“Fee-for-service encounter” means a health care visit in which a health care practitioner or office facility provided a health care service for which a claim was submitted to a reporting entity for payment, and payment was made on a per service basis.</text>
+        <text>“Executive Director” means the Executive Director of the Maryland Health Care Commission.</text>
       </para>
       <para>
         <num>(8)</num>
+        <text>“Fee-for-service encounter” means a health care visit in which a health care practitioner or office facility provided a health care service for which a claim was submitted to a reporting entity for payment on a per service basis.</text>
+      </para>
+      <para>
+        <num>(9)</num>
         <text>“General health benefit plan” means:</text>
         <para>
           <num>(a)</num>
@@ -94,11 +98,11 @@
         </para>
       </para>
       <para>
-        <num>(9)</num>
+        <num>(10)</num>
         <text>“Health Benefit Exchange” or “Exchange” means the Maryland Health Benefit Exchange established as a public corporation under <cite doc="Md. Code" path="gin|31-102">Insurance Article, §31-102, Annotated Code of Maryland</cite>, and includes the Individual Exchange and the Small Business Health Operations Program (SHOP) Exchange.</text>
       </para>
       <para>
-        <num>(10)</num>
+        <num>(11)</num>
         <text>“Health care service” means a health or medical care procedure or service rendered by a health care practitioner that:</text>
         <para>
           <num>(a)</num>
@@ -110,15 +114,15 @@
         </para>
       </para>
       <para>
-        <num>(11)</num>
-        <text>“Health information exchange” or “HIE” means an entity that creates or maintains an infrastructure that provides organizational and technical capabilities in an interoperable system for the electronic exchange of protected health information among participating organizations not under common ownership, in a manner that ensures the secure exchange of protected health information to provide care to patients. An HIE does not include an entity that is acting solely as a health care clearinghouse, as defined in 45 CFR §160.103. A payor may act as, operate, or own an HIE subject to these regulations.</text>
-      </para>
-      <para>
         <num>(12)</num>
-        <text>“HIPAA” means the U.S. Health Insurance Portability and Accountability Act of 1996, P.L.104-191, as implemented and amended in federal regulations, including the HIPAA Privacy and Security rules, 45 CFR §§160 and 164, as may be amended, modified, or renumbered and including as amended by the Health Information Technology for Economic and Clinical Health (HITECH) Act.</text>
+        <text>“Health information exchange” or “HIE” has the meaning stated in Health-General Article, §4-301, Annotated Code of Maryland.</text>
       </para>
       <para>
         <num>(13)</num>
+        <text>“HIPAA” means the U.S. Health Insurance Portability and Accountability Act of 1996, P.L.104-191, as implemented and amended in federal regulations, including the HIPAA Privacy and Security rules, 45 CFR §§160 and 164, as may be amended, modified, or renumbered and including as amended by the Health Information Technology for Economic and Clinical Health (HITECH) Act.</text>
+      </para>
+      <para>
+        <num>(14)</num>
         <text>“Managed behavioral health care organization” means a company, organization, private review agent, or subsidiary that:</text>
         <para>
           <num>(a)</num>
@@ -130,7 +134,7 @@
         </para>
       </para>
       <para>
-        <num>(14)</num>
+        <num>(15)</num>
         <text>“Managed care organization” or “MCO” means:</text>
         <para>
           <num>(a)</num>
@@ -154,23 +158,23 @@
         </para>
       </para>
       <para>
-        <num>(15)</num>
+        <num>(16)</num>
         <text>“Master Patient Index” means a database that maintains a unique index identifier for each patient whose protected health information may be accessible through the HIE and is used to cross reference patient identifiers across multiple participating organizations to allow for patient search, patient matching, and consolidation of duplicate records.</text>
       </para>
       <para>
-        <num>(16)</num>
+        <num>(17)</num>
         <text>“Medical Care Data Base” or “MCDB” means the data base established and maintained by the Commission pursuant to Health-General Article, §19-133, Annotated Code of Maryland, that collects eligibility data, professional services claims, institutional services claims, pharmacy claims, and provider data for Maryland residents enrolled in private insurance, Medicaid, or Medicare. The MCDB is Maryland’s All Payer Claims Data Base.</text>
       </para>
       <para>
-        <num>(17)</num>
+        <num>(18)</num>
         <text>“MCDB Submission Manual” or “Manual” means the composition of data reporting requirements with guidelines of technical specifications, layouts, and definitions necessary for filing the reports required by this chapter.</text>
       </para>
       <para>
-        <num>(18)</num>
+        <num>(19)</num>
         <text>“Non-Fee-for-Service Expenses Report” means a report with information on lump sum payments made by a reporting entity to providers as part of the reporting entity’s compensation to the providers for non-claims-based services.</text>
       </para>
       <para>
-        <num>(19)</num>
+        <num>(20)</num>
         <text>“Office facility” means a freestanding facility providing:</text>
         <para>
           <num>(a)</num>
@@ -186,7 +190,7 @@
         </para>
       </para>
       <para>
-        <num>(20)</num>
+        <num>(21)</num>
         <text>“Payor” means:</text>
         <para>
           <num>(a)</num>
@@ -214,11 +218,11 @@
         </para>
       </para>
       <para>
-        <num>(21)</num>
+        <num>(22)</num>
         <text>“Person” means an individual, receiver, trustee, guardian, personal representative, fiduciary, representative of any kind, partnership, firm, association, corporation, or other entity.</text>
       </para>
       <para>
-        <num>(22)</num>
+        <num>(23)</num>
         <text>“Pharmacy benefit management services” means:</text>
         <para>
           <num>(a)</num>
@@ -262,27 +266,27 @@
         </para>
       </para>
       <para>
-        <num>(23)</num>
+        <num>(24)</num>
         <text>“Pharmacy benefit manager” means a person who performs pharmacy benefit management services and is registered as a pharmacy benefit manager under <cite doc="Md. Code" path="gin">Insurance Article, Title 15, Subtitle 16, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
-        <num>(24)</num>
+        <num>(25)</num>
         <text>“Practitioner” means a person who is licensed, certified, or otherwise authorized under <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>, to provide health care services in the ordinary course of business or practice of a profession or in an approved education or training program.</text>
       </para>
       <para>
-        <num>(25)</num>
+        <num>(26)</num>
         <text>“Practitioner federal tax ID number” means the federal tax identification number of the practitioner, practice, supplier or office facility receiving reimbursement for the service provided.</text>
       </para>
       <para>
-        <num>(26)</num>
+        <num>(27)</num>
         <text>“Practitioner/supplier ID number” means the unique identification number used by the reporting entity to identify the particular practitioner or supplier.</text>
       </para>
       <para>
-        <num>(27)</num>
+        <num>(28)</num>
         <text>“Primary diagnosis” means the principal diagnosis for the health care service visit.</text>
       </para>
       <para>
-        <num>(28)</num>
+        <num>(29)</num>
         <text>"Provider” means:</text>
         <para>
           <num>(a)</num>
@@ -322,35 +326,37 @@
         </para>
       </para>
       <para>
-        <num>(29)</num>
+        <num>(30)</num>
         <text>“Qualified dental plan” means a dental plan certified by the Maryland Health Benefit Exchange that provides limited scope dental benefits, as described in §1311(c) of the Affordable Care Act and <cite doc="Md. Code" path="gin|31-115">Insurance Article, §31-115, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
-        <num>(30)</num>
+        <num>(31)</num>
         <text>“Qualified health plan” means a general health benefit plan that has been certified by the Maryland Health Benefit Exchange to meet the criteria for certification described in §1311(c) of the Affordable Care Act and <cite doc="Md. Code" path="gin|31-115">Insurance Article, §31-115, Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
-        <num>(31)</num>
+        <num>(32)</num>
         <text>“Qualified vision plan” means a vision plan certified by the Maryland Health Benefit Exchange that provides limited scope vision benefits, as described in the <cite doc="Md. Code" path="gin|31-108">Insurance Article, §31-108(b)(3), Annotated Code of Maryland</cite>.</text>
       </para>
       <para>
-        <num>(32)</num>
+        <num>(33)</num>
         <text>“Reporting entity” means a payor, third-party administrator, managed behavioral health care organization, or pharmacy benefit manager that is designated by the Commission to provide reports consistent with this chapter to be collected and compiled into the Medical Care Data Base.</text>
       </para>
       <para>
-        <num>(33)</num>
+        <num>(34)</num>
         <text>“State-designated health information exchange” or “State-designated HIE” means an HIE designated by the Maryland Health Care Commission and the Health Services Cost Review Commission pursuant to the statutory authority set forth in Health-General Article, §19-143, Annotated Code of Maryland.</text>
       </para>
       <para>
-        <num>(34)</num>
+        <num>(35)</num>
         <text>“Supplier” means a person or entity, including a health care practitioner, which supplies medical goods or services.</text>
       </para>
       <para>
-        <num>(35)</num>
+        <num>(36)</num>
         <text>“Third-party administrator” means a person that is registered as an administrator under <cite doc="Md. Code" path="gin">Insurance Article, Title 8, Subtitle 3, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-088-F" target-path="10|25|06|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -470,15 +476,15 @@
     <heading>Time Period for Submitting Data Reports.</heading>
     <para>
       <num>A.</num>
-      <text>Unless a different reporting time period is specified in the MCDB Submission Manual pursuant to <cite path="10|25|06|.05|B.">§B of this regulation</cite>, each reporting entity shall submit to the Commission a complete set of the entity’s data for claims paid during each quarter of a calendar year in the form and manner described in Regulations <cite path="|10|25|06|.07">.07</cite>—<cite path="|10|25|06|.14">.14</cite> of this chapter within 2 months of the last day in the applicable quarter.</text>
+      <text>Unless a different reporting time period is specified in the MCDB Submission Manual pursuant to <cite path="10|25|06|.05|B.">§B of this regulation</cite>, each reporting entity shall submit to the Commission a complete set of the reporting entity’s data for claims adjudicated during each quarter of a calendar year, in the form and manner described in Regulations <cite path="|10|25|06|.07">.07</cite>—<cite path="|10|25|06|.14">.14</cite> of this chapter within 2 months of the last day in the applicable quarter.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Each reporting entity shall submit at least quarterly to the Commission a complete set of the reporting entity’s data for claims paid during the specific time period in the form and manner described in Regulations <cite path="|10|25|06|.07">.07</cite>—<cite path="|10|25|06|.14">.14</cite> of this chapter and within the time period specified in the MCDB Submission Manual, unless a more frequent submission schedule is instituted by the Commission pursuant to <cite path="10|25|06|.05|C.">§C of this regulation</cite>.</text>
+      <text>Each reporting entity shall submit at least quarterly to the Commission a complete set of the reporting entity’s data for claims adjudicated during the specific time period in the form and manner described in Regulations <cite path="|10|25|06|.07">.07</cite>—<cite path="|10|25|06|.14">.14</cite> of this chapter and within the time period specified in the MCDB Submission Manual, unless a more frequent submission schedule is instituted by the Commission pursuant to <cite path="10|25|06|.05|C.">§C of this regulation</cite>.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Before instituting a requirement that a reporting entity submit data for claims paid more frequently than quarterly, as required in §§A and B of this regulation, the Commission shall:</text>
+      <text>Before instituting a requirement that a reporting entity submit data more frequently than quarterly, as required in §§A and B of this regulation, the Commission shall:</text>
       <para>
         <num>(1)</num>
         <text>Establish a multi-stakeholder group consisting of representatives of reporting entities, involved State agencies, and other stakeholders, as appropriate, to discuss the benefits and costs of expanding data collection; and</text>
@@ -488,7 +494,13 @@
         <text>Include a transition period for reporting entities to adjust to the new data submission schedule and process.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>Along with calendar year 2027 submissions, each reporting entity shall submit to the Commission a complete set of the reporting entity’s historical data for claims adjudicated during each quarter of calendar year 2026 in the form and manner described in Regulations <cite path="|10|25|06|.07">.07</cite>—<cite path="|10|25|06|.14">.14</cite> of this chapter and the 2027 MCDB Data Submission Manual as a single one-time file by May 31, 2027.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-088-F" target-path="10|25|06|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -813,5 +825,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19" discontinuity="true">Regulations <cite path="|10|25|06|.01">.01</cite>—<cite path="|10|25|06|.14">.14</cite> repealed and new Regulations <cite path="|10|25|06|.01">.01</cite>—<cite path="|10|25|06|.17">.17</cite> adopted effective April 19, 2010 (37:8 Md. R. 617)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-03-17" discontinuity="true">Regulations <cite path="|10|25|06|.01">.01</cite>—<cite path="|10|25|06|.17">.17</cite> repealed and new Regulations <cite path="|10|25|06|.01">.01</cite>—<cite path="|10|25|06|.19">.19</cite> adopted as an emergency provision effective January 9, 2014 (41:3 Md. R. 200); adopted permanently effective March 17, 2014 (41:5 Md. R. 344)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-10-18" discontinuity="true">Chapter revised effective October 18, 2021 (48:21 Md. R. 889)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|25|06|.02|B.">Regulation .02B</cite> amended effective October 12, 2026 (53:20 Md. R. 999)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|25|06|.05|A.">Regulation .05A</cite>—C amended effective October 12, 2026 (53:20 Md. R. 999)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|25|06|.05|D.">Regulation .05D</cite> adopted effective October 12, 2026 (53:20 Md. R. 999)</annotation>
   </annotations>
 </container>

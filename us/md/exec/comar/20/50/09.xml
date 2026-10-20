@@ -106,7 +106,7 @@
       </para>
       <para>
         <num>(13)</num>
-        <text>“Distributed energy resource” means any geographically dispersed energy resource located on an electric distribution system that produces electricity or offsets electrical demand including but not limited to small generator facilities, energy storage devices, energy efficiency devices, and demand response devices.</text>
+        <text>“Distributed energy resource” means any geographically dispersed energy resource located on an electric distribution system that produces electricity or offsets electrical demand including small generator facilities, energy storage devices, energy efficiency devices, and demand response devices.</text>
       </para>
       <para>
         <num>(14)</num>
@@ -226,34 +226,22 @@
       </para>
       <para>
         <num>(33)</num>
-        <text>“Interconnection ombudsman” means a designated Commission representative to assist interconnection customers in managing disputes with utilities during the interconnection process.</text>
-      </para>
-      <para>
-        <num>(34)</num>
         <text>“Interconnection request” means an applicant's request for the interconnection of a small generator facility, or to increase the capacity or operating characteristics of a small generator facility that is already interconnected with the utility's electric distribution system.</text>
       </para>
       <para>
-        <num>(35)</num>
+        <num>(34)</num>
         <text>“Interconnection study” means an interconnection feasibility study, interconnection system impact study, or interconnection facilities study as described in <cite path="|20|50|09|.12">Regulation .12 of this chapter</cite>.</text>
       </para>
       <para>
-        <num>(36)</num>
-        <text>“Level 4 analysis report” means the written record prepared by an electric utility that applies the utility’s analysis template to a specific interconnection request and that sets forth the methodology, assumptions, findings, and conclusions of the Level 4 analysis performed for that request.</text>
-      </para>
-      <para>
-        <num>(37)</num>
-        <text>“Level 4 analysis template” means a standardized format, developed and maintained by an electric utility, that identifies the categories of study, criteria, limits, data fields, and explanatory elements necessary to document the methodology and results of a Level 4 analysis in a consistent and transparent manner.</text>
-      </para>
-      <para>
-        <num>(38)</num>
+        <num>(35)</num>
         <text>“Limited export agreement” means an agreement for energy supplied to the grid by an interconnection customer that may be managed to specified ramp rates and generation levels for operating conditions, as specified in the interconnection agreement or in a separate limited export agreement.</text>
       </para>
       <para>
-        <num>(39)</num>
+        <num>(36)</num>
         <text>“Line section” means that portion of a utility electric distribution system connected to an interconnection customer, bounded by automatic sectionalizing devices, or the end of the distribution line.</text>
       </para>
       <para>
-        <num>(40)</num>
+        <num>(37)</num>
         <text>Local Electric Power System.</text>
         <para>
           <num>(a)</num>
@@ -265,35 +253,15 @@
         </para>
       </para>
       <para>
-        <num>(41)</num>
+        <num>(38)</num>
         <text>“Meter collar adapter” means an electronic device that is installed between a residential electric meter and the meter socket, for the purpose of facilitating the deployment of customer-owned or customer-leased technology.</text>
       </para>
       <para>
-        <num>(42)</num>
-        <text>“Minor equipment modification” means a change to the proposed small generator facility that meets the following criteria.</text>
-        <para>
-          <num>(a)</num>
-          <text>No Adverse Impact. The modification does not negatively affect the cost or schedule associated with the interconnection process or the safety and reliability of the electric distribution system.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Equivalent Equipment Substitution. If applicable, the modification involves the replacement of equipment with equipment of similar or improved ratings, impedances, efficiencies, or capabilities as originally specified.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>No Increase in Output. The modification does not increase the net power flow injection or the AC output capacity of the small generator facility.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>No Point of Interconnection Change. The physical location of the point of interconnection remains the same unless minor location shifts are agreed by the utility and the interconnection customer.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Based on Study Results. Equipment changes agreed upon by the utility and the interconnection customer that are necessary based on the results of an interconnection study.</text>
-        </para>
+        <num>(39)</num>
+        <text>“Minor equipment modification” means a change to the proposed small generator facility that does not have a significant impact on safety or reliability of the electric distribution system.</text>
       </para>
       <para>
-        <num>(43)</num>
+        <num>(40)</num>
         <text>“Minor system modification” means a change to the distribution system:</text>
         <para>
           <num>(a)</num>
@@ -305,47 +273,47 @@
         </para>
       </para>
       <para>
-        <num>(44)</num>
+        <num>(41)</num>
         <text>“Nameplate capacity” means the maximum rated output of a generator at a point of common coupling of all electric power production equipment or energy storage devices under specific conditions designated by the manufacturer that is usually listed on a nameplate physically attached to the equipment.</text>
       </para>
       <para>
-        <num>(45)</num>
+        <num>(42)</num>
         <text>“Nationally recognized testing laboratory (NRTL)” means a qualified private organization recognized by the Occupational Safety and Health Administration to perform independent safety testing and product certification.</text>
       </para>
       <para>
-        <num>(46)</num>
+        <num>(43)</num>
         <text>“Net system capacity” means the total export capacity at a point of common coupling of a small generator facility as measured by the nameplate capacities of all power production units and energy storage devices minus their consumption of electrical power, if applicable, as limited through the use of a control system, power relays, or other similar device settings or adjustments.</text>
       </para>
       <para>
-        <num>(47)</num>
+        <num>(44)</num>
         <text>“Parallel operation” means the sustained state of operation over 100 milliseconds which occurs when a small generator facility is connected electrically to the electric distribution system, and thus has the ability for electricity to flow from the small generator facility to the electric distribution system.</text>
       </para>
       <para>
-        <num>(48)</num>
+        <num>(45)</num>
         <text>“Permission to operate notice” means the written permission provided by a utility in the form of an email or letter authorizing an interconnection customer to interconnect and operate its small generator interconnection facility.</text>
       </para>
       <para>
-        <num>(49)</num>
+        <num>(46)</num>
         <text>“Point of common coupling” means the point of interconnection where the small generator facility is electrically connected to the electric distribution system.</text>
       </para>
       <para>
-        <num>(50)</num>
+        <num>(47)</num>
         <text>“Point of interconnection” has the same meaning as the term “point of common coupling”.</text>
       </para>
       <para>
-        <num>(51)</num>
+        <num>(48)</num>
         <text>“Primary line” means a distribution line rated at greater than 600 volts.</text>
       </para>
       <para>
-        <num>(52)</num>
+        <num>(49)</num>
         <text>“Primary voltage hosting capacity upgrade cost” means the equipment upgrade costs of all interconnection equipment, interconnection facilities, protective devices and associated communications systems, and other upgrades that directly increase hosting capacity for multiple primary voltage and secondary voltage interconnection customers while excluding equipment upgrade costs that solely benefit a single interconnection customer, to the extent practicable and material.</text>
       </para>
       <para>
-        <num>(53)</num>
+        <num>(50)</num>
         <text>“Primary voltage interconnection customer” means an interconnection customer with a point of interconnection at greater than 600 nominal volts.</text>
       </para>
       <para>
-        <num>(54)</num>
+        <num>(51)</num>
         <text>Proposed Use.</text>
         <para>
           <num>(a)</num>
@@ -353,55 +321,55 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>“Proposed use” for a small generator facility includes a combination of electric generators and energy storage devices charging and discharging profiles operating in specified operational control modes during specified time periods.</text>
+          <text>“Proposed use” for a small generator facility includes a combination of electric generators and energy storage devices operating in specified operational control modes during specified time periods.</text>
         </para>
       </para>
       <para>
-        <num>(55)</num>
+        <num>(52)</num>
         <text>“Queue position” means the order of a completed interconnection request, relative to all other pending completed interconnection requests, that is established based upon the date and time of receipt of the completed interconnection request by the utility.</text>
       </para>
       <para>
-        <num>(56)</num>
+        <num>(53)</num>
         <text>“Radial distribution circuit” means a circuit configuration in which independent feeders branch out radially from a common source of supply.</text>
       </para>
       <para>
-        <num>(57)</num>
+        <num>(54)</num>
         <text>“Reserve hosting capacity” means the amount of hosting capacity reserved for small generator facilities on an electric distribution system circuit.</text>
       </para>
       <para>
-        <num>(58)</num>
+        <num>(55)</num>
         <text>“Restricted circuit” means an electric system distribution circuit with reserve hosting capacity.</text>
       </para>
       <para>
-        <num>(59)</num>
+        <num>(56)</num>
         <text>“Rightsizing” means to increase the size, scope, and cost of an electric utility hosting capacity upgrade project, following a distributed energy resource interconnection request, to account for both the immediate interconnection customer’s needs and future hosting capacity needs that are identified by the electric utility through a distributed energy resource forecast.</text>
       </para>
       <para>
-        <num>(60)</num>
+        <num>(57)</num>
         <text>“Scoping meeting” means a meeting between the applicant and utility conducted for the purpose of discussing alternative interconnection options, exchanging information, including any electric distribution system data and earlier study evaluations that would be reasonably expected to impact interconnection options, analyzing information, and determining the potential feasible points of interconnection.</text>
       </para>
       <para>
-        <num>(61)</num>
+        <num>(58)</num>
         <text>“Secondary line” means a service line subsequent to the primary line that is rated for 600 volts or less, also referred to as the customer's service line.</text>
       </para>
       <para>
-        <num>(62)</num>
+        <num>(59)</num>
         <text>“Secondary voltage hosting capacity upgrade cost” means the costs of all primary voltage and secondary voltage interconnection equipment upgrades that directly increase secondary voltage hosting capacity available to multiple secondary voltage interconnection customers while excluding all primary voltage and secondary voltage interconnection equipment upgrade costs that solely benefit a single interconnection customer, to the extent practicable and material.</text>
       </para>
       <para>
-        <num>(63)</num>
+        <num>(60)</num>
         <text>“Secondary voltage interconnection customer” means an interconnection customer with a point of interconnection at less than or equal to 600 nominal volts.</text>
       </para>
       <para>
-        <num>(64)</num>
+        <num>(61)</num>
         <text>“Shared transformer" means a transformer that supplies secondary source voltage to more than one customer.</text>
       </para>
       <para>
-        <num>(65)</num>
+        <num>(62)</num>
         <text>“Site-specific utility required inverter settings profile” means a set of smart inverter settings optimized for use at a specific site on a utility’s electric system.</text>
       </para>
       <para>
-        <num>(66)</num>
+        <num>(63)</num>
         <text>Small Generator Facility.</text>
         <para>
           <num>(a)</num>
@@ -413,11 +381,11 @@
         </para>
       </para>
       <para>
-        <num>(67)</num>
+        <num>(64)</num>
         <text>“Smart Inverter” means any inverter hardware system certified to be compliant with IEEE 1547-2018 or subsequent revisions to these standards.</text>
       </para>
       <para>
-        <num>(68)</num>
+        <num>(65)</num>
         <text>Spot Network.</text>
         <para>
           <num>(a)</num>
@@ -433,49 +401,47 @@
         </para>
       </para>
       <para>
-        <num>(69)</num>
+        <num>(66)</num>
         <text>“Statewide utility required inverter settings profile” or “grid code” means a set of smart inverter settings optimized for use Statewide that can be used by utilities and manufacturers in establishing defaults.</text>
       </para>
       <para>
-        <num>(70)</num>
-        <text>“Technical interconnection requirement” or “TIR” means a public-facing document available on an electric company's website that specifies interconnection technical review criteria and distributed energy resource functional settings and an electric company’s Level 4 analysis template.</text>
+        <num>(67)</num>
+        <text>“Technical interconnection requirement” or “TIR” means a public-facing document available on an electric company's website that specifies interconnection technical review criteria and distributed energy resource functional settings.</text>
       </para>
       <para>
-        <num>(71)</num>
+        <num>(68)</num>
         <text>“Utility monitoring and control plan” means a plan to monitor and control, in the aggregate, a set of small generator facilities in multiple locations that includes a cost recovery method, under conditions that are approved by the Commission.</text>
       </para>
       <para>
-        <num>(72)</num>
+        <num>(69)</num>
         <text>“Utility required inverter settings profile” means smart inverter settings for a small generator facility that are established by a utility.</text>
       </para>
       <para>
-        <num>(73)</num>
+        <num>(70)</num>
         <text>“V1G or managed charging” means a range of approaches from utility programs and rate design to incentivize ratepayers for varying the time or rate at which an electric vehicle is charged.</text>
       </para>
       <para>
-        <num>(74)</num>
+        <num>(71)</num>
         <text>“V1G Ready EVSE” is an EVSE that is capable of controlled charging rate operation but is either not certified for or is certified for but not programmed or configured for bidirectional operation.</text>
       </para>
       <para>
-        <num>(75)</num>
+        <num>(72)</num>
         <text>“V2G or vehicle-to-grid” means the ability for an EVSE connected to a bidirectional electric vehicle to operate in parallel to the grid and both receive and feed power to the point of interconnection between the EVSE and the grid.</text>
       </para>
       <para>
-        <num>(76)</num>
+        <num>(73)</num>
         <text>“V2G Ready EVSE” is an AC EVSE or DC EVSE, is certified for and programmed or configured for bidirectional operation as part of a V2G system in parallel with the electric grid.</text>
       </para>
       <para>
-        <num>(77)</num>
+        <num>(74)</num>
         <text>“V2G System” is a combination of hardware and software in or around the EVSE and EV for the purposes of communication with and programmed flow of energy into and out of the vehicle battery in support of electrical loads or systems offboard the EV, including the electric grid.</text>
       </para>
       <para>
-        <num>(78)</num>
+        <num>(75)</num>
         <text>“Witness test” means, for lab-certified or field-approved equipment, verification either by an on-site observation or review of documents by the utility that the interconnection installation evaluation required by Section 5.3 of IEEE Standard 1547 and the commissioning test required by Section 5.4 of IEEE Standard 1547 have been adequately performed.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.02" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -565,7 +531,7 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.05</num>
-    <heading>Tariff Fees and Non-Tariff Charges.</heading>
+    <heading>Interconnection Request Processing Fees.</heading>
     <para>
       <num>A.</num>
       <text>A utility may only charge a small generator interconnection request fee for a Level 2, Level 3, or Level 4 interconnection request.</text>
@@ -576,15 +542,9 @@
     </para>
     <para>
       <num>C.</num>
-      <text>The utility shall specify the interconnection  request fees charged under this regulation in its tariff.</text>
+      <text>The utility shall specify the interconnection [processing] request fees charged under this regulation in its tariff.</text>
     </para>
-    <para>
-      <num>D.</num>
-      <text>A utility shall invoice an applicant for applicable non-tariff fees and charges including study fees and upgrade cost payments specified in this chapter within 30 days of a signed agreement. All other tariff fees shall be charged and collected in accordance with the utility tariff.</text>
-    </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.05" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="20|50|09|.06">
     <prefix>Regulation</prefix>
@@ -607,14 +567,14 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The information provided by the utility in pre-application reports shall include materials useful to an understanding of the feasibility of interconnecting a distributed energy resource on the utility electric system except to the extent providing the materials are not restricted due to Critical Energy/Electric Infrastructure Information (CEII) requirements pursuant to 18 CFR §388.113 or confidentiality agreements or be contrary to law.</text>
+        <text>The information provided by the utility on its website shall include studies and other materials useful to an understanding of the feasibility of interconnecting a small generator facility on the utility electric distribution system, except to the extent providing the materials would violate security requirements or confidentiality agreements, or be contrary to law.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>For projects with a nameplate capacity over 20 kW, the utility shall:</text>
+        <text>For projects with a nameplate capacity over 20kW, the utility shall:</text>
         <para>
           <num>(a)</num>
-          <text>Provide a prospective applicant an opportunity to request a baseline pre-application report even if they do not meet the site control requirements in <cite path="|20|50|09|.06|E.">Regulation .06E of this chapter</cite> which may require payment of a fee listed in the utility’s tariff;</text>
+          <text>Provide the applicant an opportunity to request a pre-application report, which may require payment of a fee listed in the utility’s tariff;</text>
         </para>
         <para>
           <num>(b)</num>
@@ -622,95 +582,31 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Provide the baseline pre-application report within 10 business days once the fee is paid.</text>
+          <text>Provide the pre-application report within 20 business days, once the fee is paid.</text>
         </para>
       </para>
       <para>
         <num>(4)</num>
-        <text>The baseline pre-application report shall rely largely on pre-existing utility data and shall include the following items:</text>
+        <text>The pre-application report shall rely largely on pre-existing utility data and shall, at a minimum, include the following items:</text>
         <para>
           <num>(a)</num>
-          <text>Initial proposed point of interconnection of the distributed energy resource as specified in an area defined by GIS coordinates, an address or within a parcel requested by a prospective applicant, which may include an address;</text>
+          <text>Initial proposed point of interconnection of the small generator facility, including address or GIS coordinates;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Closest electrical facilities to the initial proposed point of interconnection of the distributed energy resource including voltage level, feeder identification, substation, and linear distance to that substation;</text>
+          <text>Closest electrical facilities to the initial proposed point of interconnection of the small generator facility, including voltage level, feeder identification, substation, and including distance to that substation;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Amount of hosting capacity available on the closest feeder; and</text>
+          <text>Amount of generation hosting capacity available on the closest feeder, if this information is in possession of or easily obtainable by the utility; and</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Any other information the utility deems relevant to the prospective applicant.</text>
+          <text>Any other items specified by the Commission.</text>
         </para>
       </para>
       <para>
         <num>(5)</num>
-        <text>For projects connected at primary voltage, the utility shall:</text>
-        <para>
-          <num>(a)</num>
-          <text>Provide the prospective applicant an opportunity to request a more detailed pre-application report even if they do not meet the site control requirements in <cite path="|20|50|09|.06|E.">Regulation .06E of this chapter</cite> which shall require payment of a separate fee that is listed in the utility’s tariff for the additional information provided;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Publicly post the fee amount on the utility’s website; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Provide the more detailed pre-application report within 20 business days once the fee is paid.</text>
-        </para>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>The more detailed pre-application report shall include the following items:</text>
-        <para>
-          <num>(a)</num>
-          <text>Tentative proposed point of interconnection of the distributed energy resource as specified in an area defined by GIS coordinates, an address, or within a parcel requested by a prospective applicant, which may include an address;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Closest electrical facilities to the initial proposed point of interconnection of the small generator facility including voltage level, feeder identification, substation, and linear distance of a proposed point of interconnection specified by the prospective interconnection customer to that substation;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Aggregate existing export capacity (MW) at the initial proposed point of interconnection specified by the prospective applicant including information on any substation/area bus, transformer bank, circuit or line section that limits the export capacity;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Aggregate queued export capacity (MW) proposing to interconnect to the substation/area bus or transformer bank, circuit or line section associated with the initial proposed point of interconnection specified by the prospective applicant;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Whether the proposed distributed energy resource is located on an area, spot, or radial network;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Nominal voltage at the point of interconnection;</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The linear distance where three-phase power is closest available to the initial proposed point of interconnection specified by the prospective applicant;</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Based on the proposed point of interconnection specified by the prospective applicant, other potential constraints that have been identified and published in a utilities Electric System Plan or Annual Electric System Plan Update pursuant to <cite path="|20.50.15">COMAR 20.50.15</cite> such as, but not limited to, electrical dependencies at that location, short circuit interrupting capacity issues, power quality, or stability issues, if any;</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Any other points of interconnection and associated rated capacities (MW) used for electric system planning of the substation/area bus or transformer bank, and circuit or line section associated that may be feasible as an alternative to the initial proposed point of interconnection specified by the prospective applicant shall be provided upon request at the utility’s discretion for which a utility may require a separate detailed pre-application report and fee if the prospective applicant agrees to the additional study of another point of interconnection;</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Any other items specified by the prospective applicant that are deemed reasonable at the sole discretion of the utility for which a utility may require additional fees upon agreement by the prospective applicant if the information is not readily available and requires additional research or studies; and</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>Any other information the utility deems relevant to the prospective interconnection customer.</text>
-        </para>
-      </para>
-      <para>
-        <num>(7)</num>
         <text>In appropriate circumstances, the utility may require an applicant to execute an appropriate confidentiality agreement prior to release or access to confidential or restricted information.</text>
       </para>
     </para>
@@ -720,35 +616,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>If an applicant is not currently a customer of the utility at the location for the proposed small generator facility, the utility shall require the applicant to provide proof of site control. A utility shall accept the following as proof of site control:</text>
-      <para>
-        <num>(1)</num>
-        <text>An executed lease agreement;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A signed option to purchase or lease;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A property tax bill;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>A deed;</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>A contract;</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>Other acceptable document providing evidence of property ownership; or</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>A notarized certification form as determined by the Commission.</text>
-      </para>
+      <text>If an applicant is not currently a customer of the utility at the location for the proposed small generator facility, upon request from the utility, the applicant shall provide proof of site control evidenced by a property tax bill, deed, lease agreement, contract, or other acceptable document.</text>
     </para>
     <para>
       <num>F.</num>
@@ -948,93 +816,65 @@
     </para>
     <para>
       <num>M.</num>
-      <text>Interconnection Studies, Queues, and Applicant Information.</text>
+      <text>Interconnection Studies and Applicant Information.</text>
       <para>
         <num>(1)</num>
-        <text>Upon request of the applicant, the utility shall provide the applicant with copies of available interconnection studies prepared in connection with the interconnection request except where disclosure is restricted by Critical Energy/Electric Infrastructure Information (CEII) requirements under 18 C.F.R. §388.113, confidentiality agreements, or applicable law. The utility may require the applicant to execute a non‑disclosure agreement as a condition of disclosure.</text>
+        <text>If requested by the applicant, the utility shall provide the applicant copies of any interconnection studies performed in analyzing an interconnection request.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Each utility shall publicly and electronically provide an interconnection queue updated monthly that includes the following information about each interconnection request for any small generator facility requesting interconnection at primary voltage:</text>
-        <para>
-          <num>(a)</num>
-          <text>Nameplate size (MW or kW);</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Export capacity (MW or kW);</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Fuel type or storage;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Exporting or non-exporting;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Proposed circuit number and substation;</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Voltage;</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>City, county, and zip code;</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Date interconnection request received or deemed complete as determined by the utility;</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Status (Pending review, Withdrawn, Study, Design/Construction, Permission to operate);</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Feasibility study completion date;</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>System impact study completion date;</text>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>Facilities study completion date;</text>
-        </para>
-        <para>
-          <num>(m)</num>
-          <text>Interconnection agreement execution date;</text>
-        </para>
-        <para>
-          <num>(n)</num>
-          <text>Certificate of completion (COC) date;</text>
-        </para>
-        <para>
-          <num>(o)</num>
-          <text>Permission to operate date; and</text>
-        </para>
-        <para>
-          <num>(p)</num>
-          <text>Any other information directed by the Commission.</text>
-        </para>
+        <text>An applicant may provide any other prospective applicant copies of interconnection studies to aid in streamlining a future utility review.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>Each utility shall provide the interconnection queue data listed in <cite path="20|50|09|.06|M.|(2)">§M(2) of this regulation</cite> in a sortable spreadsheet upon request from a prospective interconnection customer that contacts the electric company using the contact information available on a utility’s website pursuant to <cite path="20|50|09|.06|C.|(1)">§C(1) of this regulation</cite>.</text>
+        <text>Queue position for all small generator facilities shall be prioritized based on the date the interconnection request is submitted.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>A small generator facility shall remain on the list for at least 3 years after the interconnection request was approved by the utility unless subsequently cancelled or removed from the interconnection queue pursuant to <cite path="20|50|09|.06|N.">§N of this regulation</cite> or for not meeting payment milestones after the utility provides a reasonable opportunity for the applicant to cure. Queue position may not be forfeited or otherwise impacted by any pending dispute submitted under the provisions of <cite path="|20|50|09|.13">Regulation .13 of this chapter</cite>.</text>
+        <text>Each utility shall publicly and electronically provide an interconnection queue, updated monthly, that includes the following information about each interconnection request for any small generator facility with a nameplate capacity greater than 500 kW:</text>
+        <para>
+          <num>(a)</num>
+          <text>Size (MW or kW);</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Proposed circuit number and substation;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>County and zip code;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Interconnection request received date;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Queue position on the system’s proposed circuit number and substation;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Review status;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Interconnection request approved date; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Any other information requested by the Commission.</text>
+        </para>
       </para>
       <para>
         <num>(5)</num>
-        <text>A utility may provide any additional information to a prospective applicant if the utility determines that it is beneficial to prospective applicants.</text>
+        <text>A small generator facility shall remain on the list for at least 3 years after the interconnection request was approved by the utility, unless subsequently cancelled or removed from the interconnection queue pursuant to <cite path="20|50|09|.06|N.">§N of this regulation</cite>.</text>
       </para>
       <para>
         <num>(6)</num>
+        <text>A utility may provide any additional information to a prospective applicant if the utility determines that doing so would streamline the utility’s review of an interconnection request.</text>
+      </para>
+      <para>
+        <num>(7)</num>
         <text>A utility has no obligation to provide any prospective applicant any information regarding prior interconnection requests, including a prior applicant's name, copies of prior interconnection studies performed by the utility, or any other information regarding a prior applicant or request.</text>
       </para>
     </para>
@@ -1086,7 +926,7 @@
         </para>
       </para>
       <para>
-        <num>(4)</num>
+        <num proof="done">(3)</num>
         <text>A project participating in the Community Solar pilot program under <cite path="|20.62">COMAR 20.62</cite> is not subject to this section.</text>
       </para>
     </para>
@@ -1153,10 +993,6 @@
         <num>(11)</num>
         <text>A utility required inverter settings profile or statewide utility required inverter settings profile shall be deemed approved within 90 days upon filing, unless directed otherwise by the Commission.</text>
       </para>
-      <para>
-        <num>(12)</num>
-        <text>Upon request, an interconnection customer shall be given an option by a utility to use a site-specific volt-watt inverter settings profile to address voltage constraints to avoid interconnection request denial or to avoid the need for a hosting capacity upgrade project.</text>
-      </para>
     </para>
     <para>
       <num>P.</num>
@@ -1170,22 +1006,26 @@
         <text>Inadvertent Export for Energy Storage Devices.</text>
         <para>
           <num>(a)</num>
-          <text>A utility may not approve an inadvertent export option if the interconnection customer lacks the appropriate standardized controls to ensure that the small generator facility operates as agreed upon in interconnection agreements.</text>
+          <text>Small generator facilities using Level 3 interconnection requests are non-exporting systems and are not allowed to utilize inadvertent exports.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Small generator facilities may inadvertently export power of a magnitude and duration as evaluated and allowed by the utility and as specified in their interconnection agreement. Thirty seconds shall be used as a default inadvertent export duration unless the utility determines that this level duration violates utility evaluation criteria.</text>
+          <text>A utility may not approve an inadvertent export option if the interconnection customer lacks the appropriate standardized controls to ensure that the small generator facility operates as agreed upon in interconnection agreements.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>There are no limits on the number of times inadvertent exports occur in any given customer billing cycle.</text>
+          <text>Small generator facilities may inadvertently export power of a magnitude and duration as evaluated and allowed by the utility and as specified in their interconnection agreement. Thirty seconds shall be used as a default inadvertent export duration unless the utility determines that this level duration violates utility evaluation criteria.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Small generator facilities may not have total inadvertent exports greater than the generating facility nameplate capacity multiplied by 1 hour per customer in each billing cycle.</text>
+          <text>There are no limits on the number of times inadvertent exports occur in any given customer billing cycle.</text>
         </para>
         <para>
           <num>(e)</num>
+          <text>Small generator facilities may not have total inadvertent exports greater than the generating facility nameplate capacity multiplied by 1 hour per customer in each billing cycle.</text>
+        </para>
+        <para>
+          <num>(f)</num>
           <text>In the event that a small generator facility exceeds approved inadvertent export magnitude or duration limits, the small generator facility shall immediately cease to export power to the grid until acceptable output control has been reestablished.</text>
         </para>
       </para>
@@ -1213,7 +1053,7 @@
           <text>By January 1, 2025, a utility shall publish on its interconnection website a description of their limited export agreement policies and provide a process for interconnection customers to request these agreements to avoid the need for a hosting capacity upgrade project to accommodate an interconnection request, including the following:</text>
           <para>
             <num>(i)</num>
-            <text>Limited export agreements shall be made available upon request.</text>
+            <text>Limited export agreements shall be made available upon request only to Level 2 and Level 4 interconnection customers;</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -1274,15 +1114,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>A utility shall report their circuit and feeder designations, substation names, voltage levels, and available hosting capacity which may be represented as a range in a color-coded map in addition to closed circuits, restricted circuits, and reserve hosting capacity and hosting capacity fees in their hosting capacity reporting system unless a waiver for good cause is obtained from the Commission.</text>
-          <para>
-            <num>(i)</num>
-            <text>A utility shall publish updates in their hosting capacity reporting system on a quarterly basis starting in January 2027 unless a waiver for good cause is obtained from the Commission.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>A utility shall have a plan to publish hosting capacity reporting system updates on a monthly basis and shall report on progress toward implementing monthly hosting capacity reporting system updates in their annual interconnection reports pursuant to <cite path="|20|50|09|.14">Regulation .14 of this chapter</cite>.</text>
-          </para>
+          <text>A utility shall report their closed circuits, restricted circuits, and reserve hosting capacity in their hosting capacity reporting system.</text>
         </para>
       </para>
       <para>
@@ -1328,6 +1160,14 @@
           <num>(g)</num>
           <text>A proposal for utility cost recovery that describes how hosting capacity upgrade costs shall be offset by future utility revenues from interconnection customers.</text>
         </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A utility shall have a procedure for calculating hosting capacity accounting for either gross peak or gross minimum loading based on good engineering practice.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The utility shall perform a representative sample of hosting capacity calculation validation checks at least annually, or more frequently in areas experiencing significant growth or distributed energy resource penetration. The hosting capacity calculation validation check frequency shall account for the utility's experience, good engineering practices, and judgment.</text>
       </para>
     </para>
     <para>
@@ -1530,9 +1370,7 @@
         </para>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.06" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1820,7 +1658,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Unless the utility determines and demonstrates that a small generator facility cannot be interconnected safely or reliably to its electric distribution system, including after utility consideration of temporary limited export agreements or temporary operation in a non-export mode and other conditions where applicable, the utility shall approve the interconnection request and provide a permission to operate notice or a temporary permission to operate notice, if applicable, within 20 business days of receipt of acceptable documents, subject to the following conditions:</text>
+      <text>Unless the utility determines and demonstrates that a small generator facility cannot be interconnected safely or reliably to its electric distribution system, the utility shall approve the interconnection request and provide a permission to operate notice within 20 business days of receipt of acceptable documents, subject to the following conditions:</text>
       <para>
         <num>(1)</num>
         <text>The small generator facility has been approved by local or municipal electric code officials with jurisdiction over the interconnection;</text>
@@ -1831,15 +1669,11 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The witness test has been successfully completed or waived by the utility;</text>
+        <text>The witness test has been successfully completed or waived by the utility; and</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>The applicant has signed an interconnection agreement; and</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>A temporary permission to operate notice shall have a sunset date proposed by the applicant and agreed by the utility as a condition of approving the temporary permission to operate notice.</text>
+        <text>The applicant has signed an interconnection agreement.</text>
       </para>
     </para>
     <para>
@@ -1862,9 +1696,7 @@
         <text>When a small generator facility is not approved under a Level 1 review, the applicant may submit a new interconnection request for consideration under Level 2, Level 3, or Level 4 procedures.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.09" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
   <section cache:ref-path="20|50|09|.10">
     <prefix>Regulation</prefix>
@@ -2091,7 +1923,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>The utility shall approve the interconnection request including after utility consideration of temporary limited export agreements or temporary operation in a non-export mode and other conditions, where applicable, and provide a permission to operate notice or a temporary permission to operate notice, if applicable, within 20 business days of receipt of acceptable documents, subject to the following conditions:</text>
+        <text>The utility shall approve the interconnection request and provide a permission to operate notice within 20 business days of receipt of acceptable documents, subject to the following conditions:</text>
         <para>
           <num>(a)</num>
           <text>All milestones agreed to in the interconnection agreement are satisfied;</text>
@@ -2106,15 +1938,11 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Upon request of the utility, the applicant provides one or more photographs of the small generator facility site location, components, metering equipment, and other related facilities and equipment;</text>
+          <text>Upon request of the utility, the applicant provides one or more photographs of the small generator facility site location, components, metering equipment, and other related facilities and equipment; and</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>There is a successful completion of the witness test, if conducted by the utility; and</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>A temporary permission to operate notice shall have a sunset date proposed by the applicant and agreed by the utility as a condition of approving the temporary permission to operate notice.</text>
+          <text>There is a successful completion of the witness test, if conducted by the utility.</text>
         </para>
       </para>
     </para>
@@ -2130,9 +1958,7 @@
         <text>The applicant may submit a new interconnection request for consideration under a Level 3 or Level 4 interconnection review; however, the queue position assigned to the Level 2 interconnection request shall be retained provided the request is made within 15 business days of notification that the current Level 2 interconnection request is denied.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.10" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2215,7 +2041,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>The utility shall approve the interconnection request including after utility consideration of temporary limited export agreements or temporary operation in a non-export mode and other conditions, where applicable, and provide a permission to operate notice or a temporary permission to operate notice, if applicable, within 20 business days of receipt of acceptable documents, subject to the following conditions:</text>
+        <text>The utility shall approve the interconnection request and provide a permission to operate notice within 20 business days of receipt of acceptable documents, subject to the following conditions:</text>
         <para>
           <num>(a)</num>
           <text>All milestones agreed to in the interconnection agreement are satisfied;</text>
@@ -2230,15 +2056,11 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Upon request of the utility, the applicant provides one or more photographs of the small generator facility site location, components, metering equipment, and other related facilities and equipment;</text>
+          <text>Upon request of the utility, the applicant provides one or more photographs of the small generator facility site location, components, metering equipment, and other related facilities and equipment; and</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>There is a successful completion of the witness test, if conducted by the utility; and</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>A temporary permission to operate notice shall have a sunset date proposed by the applicant and agreed by the utility as a condition of approving the temporary permission to operate notice.</text>
+          <text>There is a successful completion of the witness test, if conducted by the utility.</text>
         </para>
       </para>
     </para>
@@ -2254,11 +2076,9 @@
         <text>If the small generator facility is not approved under a Level 3 review, the applicant may submit a new interconnection request for consideration under the Level 4 procedures; however, the queue position assigned to the Level 3 interconnection request shall be retained provided the request is submitted within 15 business days of the notice that the current Level 3 request was not approved.</text>
       </para>
     </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.11" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
-  <section cache:ref-path="20|50|09|.12">
+  <section>
     <prefix>Regulation</prefix>
     <num>.12</num>
     <heading>Level 4 Study Review.</heading>
@@ -2438,19 +2258,7 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>The utility may require a study fee of up to 100 percent of estimated nonbinding good faith study costs.</text>
-          <para>
-            <num>(i)</num>
-            <text>This good faith estimate shall be itemized including whether the study needs to be outsourced to external engineering contractors and the associated estimate.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>During the conduct of the study, the utility shall promptly inform an interconnection customer when they determine if projected costs are expected to exceed this good faith estimate.</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>At the study’s conclusion, the utility shall reconcile estimated costs with actual costs and require either true-up payments or provide reimbursements to the interconnection customer.</text>
-          </para>
+          <text>The utility may require a study deposit of the lesser of 100 percent of estimated nonbinding good faith study costs or $1,000.</text>
         </para>
         <para>
           <num>(g)</num>
@@ -2594,19 +2402,7 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>The utility may require a study fee of up to 100 percent of estimated nonbinding good faith study costs.</text>
-          <para>
-            <num>(i)</num>
-            <text>This good faith estimate shall be itemized including whether the study needs to be outsourced to external engineering contractors and the associated estimate.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>During the conduct of the study, the utility shall promptly inform an interconnection customer when they determine if projected costs are expected to exceed this good faith estimate.</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>At the study’s conclusion, the utility shall reconcile estimated costs with actual costs and require either true-up payments or provide reimbursements to the interconnection customer.</text>
-          </para>
+          <text>The utility may require a study deposit of the lesser of 50 percent of estimated nonbinding good faith study costs or $3,000.</text>
         </para>
         <para>
           <num>(h)</num>
@@ -2678,19 +2474,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The utility may require a study fee of up to 100 percent of estimated nonbinding good faith study costs.</text>
-          <para>
-            <num>(i)</num>
-            <text>This good faith estimate shall be itemized including whether the study needs to be outsourced to external engineering contractors and the associated estimate.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>During the conduct of the study, the utility shall promptly inform an interconnection customer when they determine if projected costs are expected to exceed this good faith estimate.</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>At the study’s conclusion, the utility shall reconcile estimated costs with actual costs and require either true-up payments or provide reimbursements to the interconnection customer.</text>
-          </para>
+          <text>The utility may require a study deposit of the lesser of 50 percent of estimated nonbinding good faith study costs or $10,000.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -2701,97 +2485,9 @@
           <text>In cases where interconnection upgrades are required, the interconnection facilities study shall be completed and the results shall be transmitted to the interconnection customer within 45 calendar days after the agreement is signed by the parties.</text>
         </para>
       </para>
-      <para>
-        <num>(4)</num>
-        <text>Level 4 Analysis Template and Reports.</text>
-        <para>
-          <num>(a)</num>
-          <text>An electric utility shall use a utility specific level 4 analysis template to communicate the methodology and results of a level 4 analysis. This template shall address the needs of each utility and be developed with consideration given to the inherent differences among investor-owned electric companies, electric cooperatives, and municipal electric utilities.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The level 4 analysis template shall include any necessary analysis elements from the feasibility, impact, and facility studies specified in this section.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The level 4 analysis template shall include study category, criteria, limit, a pass/fail study result, and written description of study results.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>For each interconnection request subject to a level 4 analysis per the criteria of the electric utility, the electric utility shall prepare an analysis report using its template.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>An electric utility may charge the interconnection customer a fee to recover its costs to conduct the level 4 analysis report.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The level 4 analysis report fee shall be listed on the utility’s website.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>An electric utility may elect not to provide a level 4 analysis report to the interconnection customer if the interconnection customer is not required to fund system upgrades or does not cause an adverse impact to the electrical system.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>A level 4 analysis template shall be included in an electric utility’s technical interconnection requirements and published on an electric company’s website.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>An electric utility’s technical interconnection requirements including a level 4 analysis template shall be accepted without Commission review or approval unless the Commission decides to initiate a formal review should cause arise.</text>
-        </para>
-      </para>
     </para>
     <para>
       <num>F.</num>
-      <text>Combined Interconnection Studies. A utility and interconnection customer may agree to combined interconnection studies as follows:</text>
-      <para>
-        <num>(1)</num>
-        <text>A utility and interconnection customer may agree to combine the interconnection feasibility study with the interconnection system impact study;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The interconnection system impact study with the interconnection facilities study; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>The interconnection feasibility study, interconnection system impact study, and the interconnection facilities study under the following conditions.</text>
-        <para>
-          <num>(a)</num>
-          <text>The combined study shall include all the analytical requirements in Regulation .12E for the separate studies while eliminating redundancies between these different studies required to complete the interconnection study process.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The combined study duration should not be greater than the duration to complete the combined studies as compared to if the studies were performed separately.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The combined study fee should not be greater than the total fee to complete the combined studies as compared to if the studies were performed separately.</text>
-          <para>
-            <num>(i)</num>
-            <text>This good faith estimate shall be itemized including whether the study needs to be outsourced to external engineering contractors and the associated estimate.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>During the conduct of the study, the utility shall promptly inform an interconnection customer if projected costs are expected to exceed this good faith estimate.</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>At the study’s conclusion, the utility shall reconcile estimated costs with actual costs and require either true-up payments or provide reimbursements to the interconnection customer.</text>
-          </para>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Within 5 days of an agreement between the utility and the interconnection customer to combine studies, the utility shall send the applicant a combined study agreement using a form that includes an outline of the scope of the combined study and a nonbinding good faith study fee estimate of the cost to perform the combined study up to 100 percent of estimated combined study costs.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The date that the combined study shall be completed and the results transmitted to the interconnection customer shall be mutually agreed and included in the combined study agreement that is signed by the parties. All other timelines in <cite path="20|50|09|.12|E.">§E of this regulation</cite> are exempted and superseded by the timelines established in the combined study agreement.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>G.</num>
       <text>Interconnection Agreement.</text>
       <para>
         <num>(1)</num>
@@ -2807,31 +2503,11 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>After the interconnection agreement is signed by the applicant and utility, interconnection of the small generator facility shall proceed according to any milestones agreed to by the applicant and utility in the interconnection agreement unless mutually agreed.</text>
-        <para>
-          <num>(a)</num>
-          <text>Any changes to the start of small generator facility milestones in an interconnection agreement shall be documented and mutually agreed by both an interconnection customer and a utility.</text>
-          <para>
-            <num>(i)</num>
-            <text>A failure to achieve a mutually agreed construction start date or a commercial operation date due to utility imposed delays shall be reported pursuant to <cite path="|20|50|09|.14|C.|(3)">Regulation .14C(3) of this chapter</cite>.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>A failure to achieve a mutually agreed construction start date or a commercial operation date due to failure of an interconnection customer to meet its requirements shall not be reported pursuant to <cite path="|20|50|09|.14|C.|(3)">Regulation .14C(3) of this chapter</cite>.</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>A utility shall document the cause of all failures to achieve a mutually agreed construction start date or a commercial operation date. These records may be inspected by the Commission, upon request, if necessary for dispute resolution pursuant to <cite path="|20|50|09|.13">Regulation .13 of this chapter</cite>.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Parallel construction of an interconnection customer’s facilities and utility facilities identified in the interconnection facilities study shall not be prohibited in an interconnection agreement except to the extent that interconnection facilities may not be able to be fully constructed until the interconnection customer has built their facilities at or near the point of interconnection.</text>
-        </para>
+        <text>After the interconnection agreement is signed by the applicant and utility, interconnection of the small generator facility shall proceed according to any milestones agreed to by the applicant and utility in the interconnection agreement.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>The utility shall approve the interconnection request including after utility consideration of temporary limited export agreements or temporary operation in a non-export mode and other conditions, where applicable, and provide a permission to operate notice or a temporary permission to operate notice, if applicable, within 20 business days of receipt of acceptable documents, subject to the following conditions:</text>
+        <text>The utility shall approve the interconnection request and provide a permission to operate notice within 20 business days of receipt of acceptable documents, subject to the following conditions:</text>
         <para>
           <num>(a)</num>
           <text>All milestones agreed to in the interconnection agreement are satisfied;</text>
@@ -2846,69 +2522,57 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Upon request of the utility, the applicant provides one or more photographs of the small generator facility site location, components, metering equipment, and other related facilities and equipment;</text>
+          <text>Upon request of the utility, the applicant provides one or more photographs of the small generator facility site location, components, metering equipment, and other related facilities and equipment; and</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>There is a successful completion of the witness test, if conducted by the utility; and</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>A temporary permission to operate notice shall have a sunset date proposed by the applicant and agreed by the utility as a condition of approving the temporary permission to operate notice.</text>
+          <text>There is a successful completion of the witness test, if conducted by the utility.</text>
         </para>
       </para>
     </para>
     <para>
-      <num>H.</num>
+      <num>G.</num>
       <text>Level 4 Review Failure. If the interconnection request is denied, the utility shall provide the applicant a letter explaining the reasons for denying the interconnection request.</text>
     </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.12" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
-  <section cache:ref-path="20|50|09|.13">
+  <section>
     <prefix>Regulation</prefix>
     <num>.13</num>
     <heading>Dispute Resolution.</heading>
     <para>
       <num>A.</num>
-      <text>The interconnection customer and utility shall attempt to resolve all disputes regarding interconnection as provided in this regulation promptly, equitably, and in a good faith manner.</text>
+      <text>The applicant and utility shall attempt to resolve all disputes regarding interconnection as provided in this regulation promptly, equitably, and in a good faith manner.</text>
     </para>
     <para>
       <num>B.</num>
       <text>Dispute Resolution Before the Commission.</text>
       <para>
         <num>(1)</num>
-        <text>If a dispute arises, the interconnection customer or utility may seek formal resolution through the procedures of <cite path="|20.32.01">COMAR 20.32.01</cite>.</text>
+        <text>If a dispute arises, the applicant or utility may seek immediate resolution through the procedures of <cite path="|20.32.01">COMAR 20.32.01</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Alternatively, dispute resolution may be conducted in an informal, expeditious manner mediated by the Commission's interconnection ombudsman to reach resolution with minimal costs and delay.</text>
+        <text>Dispute resolution shall be conducted in an informal, expeditious manner to reach resolution with minimal costs and delay.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>If the dispute resolution request pursuant to <cite path="20|50|09|.13|B.|(2)">§B(2) of this regulation</cite> could result in the loss of funding or other adverse consequences if not expedited, the interconnection ombudsman may at its discretion establish a rapid response team of utility representatives and interconnection customer representatives to resolve the dispute expeditiously.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>If a satisfactory resolution of the dispute mediated by the interconnection ombudsman is not achieved between the interconnection customer and the utility, the interconnection customer or utility may seek formal resolution through the procedures of <cite path="|20.32.01">COMAR 20.32.01</cite>.</text>
+        <text>If a dispute arises involving technical matters regarding the interconnection process, dispute resolution shall be delegated to the Commission’s Engineering Division.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>Pursuit of a formal dispute resolution process pursuant to <cite path="|20.32.01">COMAR 20.32.01</cite> may not affect an interconnection customer with regard to consideration of an interconnection request or an interconnection customer’s queue position.</text>
+      <text>Pursuit of dispute resolution may not affect an applicant with regard to consideration of an interconnection request or an applicant's queue position.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Any deadline imposed by the regulations in this chapter, which is directly affected by any issue in a formal dispute resolution process pursuant to <cite path="|20.32.01">COMAR 20.32.01</cite>, shall be suspended until resolution of the dispute.</text>
+      <text>Any deadline imposed by the regulations in this chapter, which is directly affected by any issue in dispute, shall be suspended until resolution of the dispute.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>If a satisfactory resolution of the formal dispute pursuant to the procedures of <cite path="|20.32.01">COMAR 20.32.01</cite> is not achieved between the interconnection customer and utility, the interconnection customer or utility may request a hearing, pursuant to <cite doc="Md. Code" path="gpu|3-102">Public Utilities Article, §3-102, Annotated Code of Maryland</cite>.</text>
+      <text>If a satisfactory resolution is not achieved between the applicant and utility, the applicant or utility may request a hearing, pursuant to <cite doc="Md. Code" path="gpu|3-102">Public Utilities Article, §3-102, Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.13" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2980,7 +2644,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>A utility shall file not later than April 1 of each year, unless otherwise directed by the Commission, a report entitled “Annual Small Generator Interconnection Report” to the Commission containing the following information for the preceding calendar year:</text>
+      <text>A utility shall file not later than April 1 of each year a report entitled “Annual Small Generator Interconnection Report” to the Commission containing the following information for the preceding calendar year:</text>
       <para>
         <num>(1)</num>
         <text>The total number of interconnection requests received, approved, and denied under Level 1, Level 2, Level 3, and Level 4 reviews;</text>
@@ -3023,15 +2687,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Missed Deadlines:</text>
-        <para>
-          <num>(a)</num>
-          <text>The number of interconnection requests that were not processed within the deadlines established for Level 1, Level 2, Level 3, and Level 4 reviews and permission to operate notices and temporary permission to operate notices in this chapter;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The number of mutually agreed construction start dates or commercial operation dates for Level 4 projects pursuant to <cite path="|20|50|09|.12|F.|(4)">Regulation .12F(4) of this chapter</cite>;</text>
-        </para>
+        <text>The number of interconnection requests that were not processed within the deadlines established for Level 1, Level 2, Level 3, and Level 4 reviews and permission to operate notices in this chapter;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -3067,7 +2723,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>The current utility status and future plans and schedule for implementation of hosting capacity reporting systems or improvements to existing hosting capacity reporting systems including progress toward implementing monthly hosting capacity reporting system updates pursuant to <cite path="|20|50|09|.06|Q.|(1)">Regulation .06Q(1) of this chapter</cite>;</text>
+        <text>The current utility status and future plans and schedule for implementation of hosting capacity reporting systems or improvements to existing hosting capacity reporting systems;</text>
       </para>
       <para>
         <num>(9)</num>
@@ -3162,13 +2818,10 @@
       <num>F.</num>
       <text>For any small generator facility receiving an interconnection facilities study, the utility shall list and explain any study for which the cost of the actual upgrade exceeded the impact study’s estimate by at least 10 percent.</text>
     </para>
-    <annotations>
-      <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|.14" type="History" display="false" exp="2026-10-10"/>
-    </annotations>
+    <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Public Utilities Article, §§<cite doc="Md. Code" path="gpu|2-113">2-113</cite>, <cite doc="Md. Code" path="gpu|2-121">2-121</cite>, <cite doc="Md. Code" path="gpu|5-101">5-101</cite>, <cite doc="Md. Code" path="gpu|5-303">5-303</cite>, <cite doc="Md. Code" path="gpu|7-306">7-306</cite>, and <cite doc="Md. Code" path="gpu|7-306">7-306</cite>.<cite doc="Md. Code" path="gpu|2">2</cite>, and <cite doc="Md. Code" path="gpu|7-1004">7-1004</cite>, Annotated Code of Maryland</annotation>
-    <annotation managed="false" type="Emergency Action" dest="container">53:12  26-003-E  (Regulations .02, .05, .06, .09—.14) EMERGENCY ACTION IN EFFECT 5/12/2026 — 10/10/2026</annotation>
+    <annotation managed="false" type="Authority" dest="container">Public Utilities Article, §§<cite doc="Md. Code" path="gpu|2-113">2-113</cite>, <cite doc="Md. Code" path="gpu|2-121">2-121</cite>, <cite doc="Md. Code" path="gpu|5-101">5-101</cite>, <cite doc="Md. Code" path="gpu|5-303">5-303</cite>, <cite doc="Md. Code" path="gpu|7-306">7-306</cite>, and <cite doc="Md. Code" path="gpu|7-306">7-306</cite>.2, and 7-1004, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-06-09">Effective date: June 9, 2008 (35:8 Md. R. 808)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-04-20"><cite path="|20|50|09|.01">Regulation .01</cite> amended effective October 8, 2018 (45:20 Md. R. 920); April 20, 2020 (47:8 Md. R. 436)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-20"><cite path="|20|50|09|.01|B.">Regulation .01B</cite> amended effective March 20, 2023 (50:5 Md. R. 183)</annotation>
@@ -3193,18 +2846,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-20"><cite path="|20|50|09|.14|C.">Regulation .14C</cite> amended effective March 20, 2023 (50:5 Md. R. 183)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2024-12-12" discontinuity="true">Chapter revised effective December 12, 2024 (Md. R. 51:24 1082)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|20|50|09|.02|B.">Regulation .02B</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.02|B.">Regulation .02B</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.05|D.">Regulation .05D</cite> adopted as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.06">Regulation .06</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|20|50|09|.06|N.">Regulation .06N</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|20|50|09|.06|S.">Regulation .06S</cite> adopted effective July 7, 2025 (52:13 Md. R. 657)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.09|C.">Regulation .09C</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.10|G.">Regulation .10G</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.11|E.">Regulation .11E</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.12|E.">Regulation .12E</cite>, F, G amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.13">Regulation .13</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-07"><cite path="|20|50|09|.14|C.">Regulation .14C</cite> amended effective July 7, 2025 (52:13 Md. R. 657)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-05-12"><cite path="|20|50|09|.14|C.">Regulation .14C</cite> amended as an emergency provision effective May 12, 2026 (53:12 Md. R. 523)</annotation>
-    <annotation app="2026-05-12" doc="Maryland Register, Volume 53, Issue 12" eff="2026-06-22" path="regulations|emergency|26-003-E" target-path="20|50|09|annos" type="History" display="false" exp="2026-10-10"/>
   </annotations>
 </container>

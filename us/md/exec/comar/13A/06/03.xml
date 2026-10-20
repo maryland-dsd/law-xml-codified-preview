@@ -24,7 +24,15 @@
     <text>Student eligibility for participation in interscholastic athletics at the high school level shall be based on the following criteria:</text>
     <para>
       <num>A.</num>
-      <text>Students shall be officially registered and attending the member MPSSAA school they are authorized to attend under regulations of the local school system. They may represent only the school in which they are registered and at which it is anticipated they will complete their graduation requirements.</text>
+      <text>Students shall be officially registered and attending the school they are authorized to attend under regulations of the local school system and may represent only:</text>
+      <para>
+        <num>(1)</num>
+        <text>The member MPSSAA school at which it is anticipated the student will complete their graduation requirements; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If the school of anticipated graduation does not offer interscholastic athletics, another member MPSSAA school in the local school system as authorized under regulations of the local school system.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
@@ -32,7 +40,7 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Students who are 19 years old or older as of August 31 are ineligible to participate in interscholastic athletics.</text>
+      <text>Students who are 19 years old on or before August 31 are ineligible to participate in interscholastic athletics.</text>
     </para>
     <para>
       <num>D.</num>
@@ -40,7 +48,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>Middle, intermediate, or junior high school students are not eligible to compete or practice with high school teams. However, ninth grade public school students who reside in the attendance area of a high school organized grades 10—12 may participate in the interscholastic athletic program of that high school.</text>
+      <text>Middle, intermediate, or junior high school students are not eligible to compete or practice with or against high school teams. However, ninth grade public school students who reside in the attendance area of a high school organized grades 10—12 may participate in the interscholastic athletic program of that high school.</text>
     </para>
     <para>
       <num>F.</num>
@@ -82,9 +90,11 @@
         <text>Students are considered graduates when they have completed the work required for graduation and are declared graduates by the local board of education.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-097-F" target-path="13A|06|03|.02" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="13A|06|03|.03">
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Sports Season.</heading>
@@ -112,352 +122,114 @@
         <num>(5)</num>
         <text>Sanctioned Events. Local school systems may approve the participation of member schools to practice and compete in sanctioned National Federation of High Schools (NFHS) and MPSSAA events outside the defined sport season.</text>
       </para>
-      <para>
-        <num>(6)</num>
-        <text>Required Practice. A member MPSSAA school may not participate in a regularly scheduled game until at least 20 calendar days have elapsed after and including the first day of practice. Golf is the only exception to this regulation.</text>
-      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Maximum Number of Contests Permitted During a Sports Season.</text>
+      <text>State Level Sport Designation.</text>
       <para>
         <num>(1)</num>
-        <text>All school athletic schedules shall be established according to the following instructions:</text>
+        <text>Expansion of any sport to the State level shall be recommended by the MPSSAA Board of Control and approved by the local superintendents of schools.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Emerging Sports.</text>
         <para>
           <num>(a)</num>
-          <text>Badminton:</text>
-          <para>
-            <num>(i)</num>
-            <text>15 regular season games;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two matches per week; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three matches in one week may be scheduled twice during the season.</text>
-          </para>
+          <text>A member MPSSAA school, school system, or the MPSSAA Executive Council may recommend to the MPSSAA Board of Control a sport for emerging sport designation.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Baseball:</text>
+          <text>The MPSSAA Board of Control in recommending a new sport for emerging sport designation shall require:</text>
           <para>
             <num>(i)</num>
-            <text>18 regular season games or 20 with designated optional tournament;</text>
+            <text>At least 20 percent of the MPSSAA membership has participated on a varsity level;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Not more than three games per week;</text>
+            <text>Designated seasonal limitations approved by the MPSSAA medical advisory committee and MPSSAA equity committee; and</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>A team may elect to play in one designated optional two or three-game tournament;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>If a team elects to play in a designated optional three-game tournament, only 17 regular season games may be scheduled; and</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>If a team elects to play in the designated optional two or three-game tournament, a fourth game may be played during that week.</text>
+            <text>Designated rules of competition approved by the MPSSAA medical advisory committee.</text>
           </para>
         </para>
         <para>
           <num>(c)</num>
-          <text>Basketball:</text>
-          <para>
-            <num>(i)</num>
-            <text>20 regular season games or 22 with designated optional tournament;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two games per week;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three games in one week may be scheduled twice during the season;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>A team may elect to play in one designated optional two or three-game tournament; and</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>If a team elects to play in a designated optional three-game tournament, only 19 regular season games may be scheduled.</text>
-          </para>
+          <text>The MPSSAA may operate culminating tournaments for emerging sports.</text>
         </para>
-        <para>
-          <num>(d)</num>
-          <text>Cross Country:</text>
-          <para>
-            <num>(i)</num>
-            <text>10 regular season meets;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two meets per week; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three meets in one week may be scheduled once during the season.</text>
-          </para>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Field Hockey:</text>
-          <para>
-            <num>(i)</num>
-            <text>12 regular season games or 14 with designated optional tournament;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two games per week;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three games in one week may be scheduled twice during the season;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>A team may elect to play in one designated optional two or three-game tournament; and</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>If a team elects to play in a designated optional three-game tournament, only 11 regular season games may be scheduled.</text>
-          </para>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Football:</text>
-          <para>
-            <num>(i)</num>
-            <text>10 regular season games; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than one game per week.</text>
-          </para>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Golf:</text>
-          <para>
-            <num>(i)</num>
-            <text>12 regular season matches; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than three matches per week.</text>
-          </para>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Gymnastics:</text>
-          <para>
-            <num>(i)</num>
-            <text>8 regular season meets;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two meets per week; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Meets may not be held on consecutive days.</text>
-          </para>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Indoor Track:</text>
-          <para>
-            <num>(i)</num>
-            <text>10 regular season meets;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two meets per week; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three meets in one week may be scheduled once during the season.</text>
-          </para>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>Lacrosse:</text>
-          <para>
-            <num>(i)</num>
-            <text>12 regular season games or 14 with designated optional tournament;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two games per week;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three games in one week may be scheduled twice during the season; and</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>A team may elect to play in one designated optional two-game tournament.</text>
-          </para>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>Outdoor Track:</text>
-          <para>
-            <num>(i)</num>
-            <text>10 regular season meets;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two meets per week; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three meets in one week may be scheduled once during the season.</text>
-          </para>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>Soccer:</text>
-          <para>
-            <num>(i)</num>
-            <text>12 regular season games or 14 with designated optional tournament;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two games per week;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three games in one week may be scheduled twice during the season;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>A team may elect to play in one designated optional two or three-game tournament; and</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>If a team elects to play in a designated optional three-game tournament, only 11 regular season games may be scheduled.</text>
-          </para>
-        </para>
-        <para>
-          <num>(m)</num>
-          <text>Softball:</text>
-          <para>
-            <num>(i)</num>
-            <text>18 regular season games or 20 with designated optional tournament;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than three games per week;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>A team may elect to play in one designated optional two or three-game tournament;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>If a team elects to play in a designated optional three-game tournament, only 17 regular season games may be scheduled; and</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>If a team elects to play in the designated optional two or three-game tournament, a fourth game may be played during that week.</text>
-          </para>
-        </para>
-        <para>
-          <num>(n)</num>
-          <text>Swimming:</text>
-          <para>
-            <num>(i)</num>
-            <text>12 regular season meets;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two meets per week; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three meets in 1 week may be scheduled once during the season.</text>
-          </para>
-        </para>
-        <para>
-          <num>(o)</num>
-          <text>Tennis:</text>
-          <para>
-            <num>(i)</num>
-            <text>18 regular season matches; and</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than three matches per week.</text>
-          </para>
-        </para>
-        <para>
-          <num>(p)</num>
-          <text>Volleyball:</text>
-          <para>
-            <num>(i)</num>
-            <text>15 regular season matches or 14 with designated optional tournament;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two matches per week;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Three matches in one week may be scheduled twice during the season;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>A team may elect to play tri-matches provided the total number of opponents does not exceed 15 during the season; and</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>Teams may play 14 matches plus one designated optional multi-team tournament.</text>
-          </para>
-        </para>
-        <para>
-          <num>(q)</num>
-          <text>Wrestling:</text>
-          <para>
-            <num>(i)</num>
-            <text>14 regular season contests including dual meets and a maximum of three tournaments and three tri-meets;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Not more than two contests per week including a maximum of one tournament;</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>Multi-team events may be used to make up postponed contests between teams originally scheduled;</text>
-          </para>
-          <para>
-            <num>(iv)</num>
-            <text>Three contests may be scheduled one time during the season on a nontournament week;</text>
-          </para>
-          <para>
-            <num>(v)</num>
-            <text>A city/county/conference tournament required to qualify for the state tournament will not be counted as one of the three allowed tournaments; and</text>
-          </para>
-          <para>
-            <num>(vi)</num>
-            <text>Wrestling tournaments and meets are defined by Regulation .04D(3) and (4) of this chapter.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Conference/League Championships. One additional contest beyond the maximum allowable number may be played to determine a conference/league championship. The results of that contest may not count towards MPSSAA standings.</text>
       </para>
       <para>
         <num>(3)</num>
+        <text>Championship Sports.</text>
+        <para>
+          <num>(a)</num>
+          <text>The MPSSAA Board of Control shall approve MPSSAA Championship Tournaments for sports at the State level at their annual meeting.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The MPSSAA Board of Control in recommending a new sport for championship sport designation shall require:</text>
+          <para>
+            <num>(i)</num>
+            <text>At least 40 percent of the MPSSAA membership has participated on a varsity level; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>All emerging sport criteria have been met under <cite path="13A|06|03|.03|B.|(2)">§B(2) of this regulation</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>MPSSAA championship sports shall maintain their State level status unless sport participation drops below 20 percent of MPSSAA membership or action of the MPSSAA Board of Control.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Sport Season Limitations.</text>
+      <para>
+        <num>(1)</num>
+        <text>Required Practice. Except for in the sport of golf, a member MPSSAA school may not participate in a regularly scheduled game until at least 20 calendar days have elapsed after and including the first day of practice.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Maximum Number of Contests Permitted During a Sport Season.</text>
+        <para>
+          <num>(a)</num>
+          <text>A sport season limitation policy shall be recommended by the MPSSAA Board of Control and approved by the local superintendents of schools.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The sport season limitation policy shall include weekly and seasonal contest limitations for each MPSSAA administered sport.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>All member MPSSAA schools shall adhere to the weekly and seasonal contest limitations established for each MPSSAA administered sport in which they participate.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>A member MPSSAA school, sport committee, or the MPSSAA Executive Council may propose modifications to the sport season limitation policy in writing to the MPSSAA Executive Director.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Upon receipt, the MPSSAA Executive Director shall refer proposed modifications to the MPSSAA sports medicine advisory committee and MPSSAA equity committee for review and recommendation.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Any updates to the sport season limitation policy shall take effect at the beginning of the academic year following their adoption.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Conference or League Championships. One additional contest beyond the maximum allowable number may be played to determine a conference or league championship. The results of that contest may not count towards MPSSAA standings.</text>
+      </para>
+      <para>
+        <num>(4)</num>
         <text>Postponed Games. Postponed contests may be rescheduled during the season, provided the number of games does not exceed the maximum number permitted in a week plus one additional contest.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-097-F" target-path="13A|06|03|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|06|03|.04">
     <prefix>Regulation</prefix>
@@ -544,15 +316,11 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>After July 1, 2010, an emergency coach is required to possess an MPSSAA/MSDE coach certification prior to the start of his or her fourth year as an emergency coach;</text>
+          <text>After July 1, 2010, an emergency coach is required to possess an MPSSAA/MSDE coach certification prior to the start of his or her fourth year as an emergency coach; and</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Teams having more than one coach, emergency coaches may not comprise more than 50 percent of that sport staff;</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The emergency coach shall be at least 21 years old and possess a high school diploma.</text>
+          <text>The emergency coach shall be at least 21 years old and possess a high school diploma or equivalent.</text>
         </para>
       </para>
       <para>
@@ -621,7 +389,7 @@
       <text>Policies Pertaining to Wrestling.</text>
       <para>
         <num>(1)</num>
-        <text>Students shall have their minimum weight class in which they can wrestle certified by a qualified physician before the students' first match.</text>
+        <text>Students shall have their minimum weight class in which they can wrestle certified by a licensed physician, certified physician assistant under the supervision of a licensed physician, or certified nurse practitioner before the students’ first match.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -756,7 +524,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-097-F" target-path="13A|06|03|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -764,7 +534,7 @@
     <heading>Violations, Penalties, and Appeals.</heading>
     <para>
       <num>A.</num>
-      <text>Failure to comply with these regulations shall constitute a violation which will result in the following penalties against the member MPSSAA school and either the student or the coach, or both. Depending upon the severity of the violation, more than one penalty may be imposed against the member MPSSAA school, student, or coach, or all of the above. Penalties shall be imposed in the order listed below:</text>
+      <text>Failure to comply with these regulations shall constitute a violation which will result in the following penalties against the member MPSSAA school. The student, coach, or both shall receive penalties as justified by the nature of the violation. Depending upon the severity of the violation, more than one penalty may be imposed against the member MPSSAA school, student, or coach, or all of the above. Penalties shall be imposed in the order listed below:</text>
       <para>
         <num>(1)</num>
         <text>Against a member MPSSAA school:</text>
@@ -790,7 +560,7 @@
         <text>Against a student:</text>
         <para>
           <num>(a)</num>
-          <text>First — Declare the student to be ineligible for the next 60 school days following the date the student was found to be in violation. These 60 school days will carry over into the next school year if the violation occurs during the second semester.</text>
+          <text>First — Declare the student to be ineligible for the next 30 school days following the date the student was found to be in violation. These 30 school days will carry over into the next school year if the violation occurs during the second semester.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -806,7 +576,7 @@
         <text>Against a coach:</text>
         <para>
           <num>(a)</num>
-          <text>First — Censure.</text>
+          <text>First — Suspension from coaching for a minimum of one contest.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -831,7 +601,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Second — The superintendent or the superintendent's designee of the local school system in which the school allegedly in violation is located shall convene a hearing within 5 school days.</text>
+        <text>Second — The superintendent or the superintendent's designee of the local school system in which the school allegedly in violation is located shall convene a hearing within 10 school days.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -843,7 +613,23 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Fifth — The MPSSAA Executive Director, in consultation with the appropriate committees, or the Executive Council of the MPSSAA, shall review the report of the local hearing and decision in the local school system. The MPSSAA Executive Director shall either accept the penalty imposed or modify the penalty in accordance with this regulation.</text>
+        <text>Fifth — The MPSSAA Executive Director shall review the report of the hearing and decision in the local school system and take one of the following actions:</text>
+        <para>
+          <num>(a)</num>
+          <text>Accept the penalty imposed;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Modify the penalty in accordance with the regulation;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Remand to the local school system for further proceedings; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Reject the decision of the local school system and refer the matter to a five-member panel of the MPSSAA Executive Council for a final decision.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -902,7 +688,9 @@
         <text>A member of the MPSSAA Appeals Committee or the committee of local superintendents of schools may not hear an appeal if that member has offered advice, made a recommendation, rendered a decision, or in any other way participated in the case being appealed.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-097-F" target-path="13A|06|03|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -910,27 +698,29 @@
     <heading>Classification.</heading>
     <para>
       <num>A.</num>
-      <text>For the purpose of parity in competition in meets and tournaments administered by the MPSSAA, member schools shall be divided into classifications based on enrollment. If, in this calculation, two or more schools with equal enrollments fall between two classifications, they shall be placed in the lower classification.</text>
+      <text>For the purpose of parity in competition in meets and tournaments administered by the MPSSAA, member schools shall be divided into classifications based on member MPSSAA school data.</text>
     </para>
     <para>
       <num>B.</num>
-      <text>The local superintendent of schools shall submit to the MPSSAA Executive Director a report on the actual school enrollment of students in Grades 9, 10, and 11 in each of the member MPSSAA schools as of September 30, in each even-numbered year. The MPSSAA Executive Director and Classification Committee shall present a recommendation for classification of member schools for each MPSSAA-administered sport to the MPSSAA Board of Control for adoption. Classification shall be determined every 2 years based on the September 30 enrollment of the previous year.</text>
+      <text>A classification procedure shall be recommended by the MPSSAA Board of Control and approved by the local superintendents of schools. Updates to the procedure shall take effect at the beginning of the academic year following adoption.</text>
     </para>
     <para>
       <num>C.</num>
-      <text>When the MPSSAA Board of Control adopts classifications for member schools, the classifications shall remain in effect for the next 2 school years.</text>
+      <text>The local superintendent of schools shall submit to the MPSSAA Executive Director a report of member MPSSAA school data as required by the MPSSAA Board of Control procedure for each of the member MPSSAA schools as of September 30, in each even-numbered year.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>A new member MPSSAA school that opens or a member school whose enrollment is significantly changed by growth or consolidation during the two-year period shall be placed in the proper classification by the Classification Committee. “Significantly changed” means a decrease or an increase in enrollment of more than 25 percent. This new placement shall affect only the involved school and may not affect the classification of other member schools.</text>
+      <text>The MPSSAA Executive Director and Classification Committee shall present a recommendation for classification of member schools for each MPSSAA-administered sport to the MPSSAA Board of Control for adoption. Classification shall be determined every 2 years.</text>
     </para>
     <para>
       <num>E.</num>
-      <text>When a member MPSSAA school does not have all three grades included in the enrollment figures upon which the classification is based in the even-numbered year, but will have all three grades in the following odd-numbered year when classification becomes effective, the enrollment figure shall include the existing grades and average of the current class sizes applied to each projected grade.</text>
+      <text>When the MPSSAA Board of Control adopts classifications for member schools, the classifications shall remain in effect for the next 2 school years consistent with the MPSSAA Board of Control classification procedure.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-097-F" target-path="13A|06|03|.06" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="13A|06|03|.07">
     <prefix>Regulation</prefix>
     <num>.07</num>
     <heading>State Tournament Policies.</heading>
@@ -987,7 +777,67 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>If a team or any students participating in a State tournament contest leaves the field of competition before completion of a contest, or fails to continue play when eligible to do so, or is guilty of misconduct detrimental to the tournament, then the team, coach, or students may be suspended from further participation in the current tournament, and from the same tournament in the succeeding year, upon the determination of the tournament committee and the Executive Director.</text>
+        <text>Misconduct Detrimental to the Tournament.</text>
+        <para>
+          <num>(a)</num>
+          <text>A member MPSSAA school is guilty of misconduct detrimental to the tournament if:</text>
+          <para>
+            <num>(i)</num>
+            <text>Any team, student, or coach fails to continue participating when eligible to do so;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Any team, student, or coach leaves the field of competition before completion of a contest;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Any team, student, or coach is ejected by a tournament official; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Any team, student, coach, administrator, school personnel, or school supporter fails to follow State tournament policies, including engaging in disruptive actions.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Local school systems shall apply the following penalties for misconduct detrimental to the tournament.</text>
+          <para>
+            <num>(i)</num>
+            <text>If the team has remaining eligibility in the tournament, the team, student, or coach shall be disqualified from participation for a minimum of one contest in the tournament. Disqualification from additional contests shall be imposed depending on the severity of the misconduct.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>If the team has exhausted its eligibility in the tournament, the team, student, or coach shall be disqualified from participation in future sport seasons or State tournaments as determined by the local school system and reported to the MPSSAA Executive Director in accordance with <cite path="13A|06|03|.07|C.|(11)|(c)">§C(11)(c) of this regulation</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The MPSSAA Executive Director shall review the report of the decision in the local school system and take one of the following actions:</text>
+          <para>
+            <num>(i)</num>
+            <text>Accept the penalty imposed;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Modify the penalty in accordance with the regulation;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Remand to the local school system for further proceedings; or</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>Reject the decision of the local school system and refer the matter to a five-member panel of the MPSSAA Executive Council for a final decision.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Emergency decisions on misconduct detrimental to the tournament may be made by the MPSSAA Executive Director.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>At the request of the local superintendent of schools or their designee, the MPSSAA Executive Director may verify if a player other than the one identified in the ejection report was actually ejected so that disqualification penalties are applied to the correct player.</text>
+        </para>
       </para>
       <para>
         <num>(12)</num>
@@ -996,13 +846,11 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Expansion of any sport to the State level shall be recommended by the State Board of Control of the MPSSAA and approved by the State Superintendent of Schools after consultation with local superintendents of schools.</text>
-    </para>
-    <para>
-      <num>E.</num>
       <text>Tournament rules and procedures established by the MPSSAA may be appealed on behalf of a student, coach, or school by a local superintendent of schools to the State Superintendent of Schools. The appeal shall be adjudicated by a committee of three local superintendents of schools appointed by the State Superintendent of Schools. The decision of the committee shall be final.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-097-F" target-path="13A|06|03|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1070,7 +918,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>A school or school system that wishes to serve as a host for an interstate contest shall file the appropriate sanction request form prior to the first play date and at least 15 days prior to the event for events within the first 2 weeks of the season.</text>
+          <text>A school or school system that wishes to serve as a host for an interstate contest shall file the appropriate sanction request form with the MPSSAA Executive Director at least 7 days prior to the event.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -1094,7 +942,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The host school shall file the appropriate sanction request form with the MPSSAA Executive Director prior to the first play date and at least 15 days prior to the event for events within the first 2 weeks of the season.</text>
+          <text>The host school shall file the appropriate sanction request form with the MPSSAA Executive Director at least 7 days prior to the event.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -1106,27 +954,25 @@
         <text>MPSSAA Sanction Guidelines. The following criteria shall be met for sanction approval by the MPSSAA:</text>
         <para>
           <num>(a)</num>
-          <text>The competition may not determine a regional or national championship;</text>
-        </para>
-        <para>
-          <num>(b)</num>
           <text>The competition is not preliminary to a college or professional game;</text>
         </para>
         <para>
-          <num>(c)</num>
+          <num>(b)</num>
           <text>The competition is sponsored by an educational institution or similar nonprofit organization;</text>
         </para>
         <para>
-          <num>(d)</num>
-          <text>Participation in the event is within the United States of America, does not involve loss of instructional time, and complies with the local school system policies and procedures for school-sponsored travel; and</text>
+          <num>(c)</num>
+          <text>Participation in the event is within the United States of America and complies with the local school system policies and procedures for school-sponsored travel; and</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(d)</num>
           <text>All awards shall comply with <cite path="|13A|06|03|.08">Regulation .08 of this chapter</cite>.</text>
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-097-F" target-path="13A|06|03|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1200,33 +1046,38 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1979-08-10"><cite path="|13A|06|03|.12">Regulation .12</cite> repealed effective August 10, 1979 (6:16 Md. R. 1332)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1988-08-15" discontinuity="true">Chapter revised effective August 15, 1988 (15:16 Md. R. 1916)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|13A|06|03|.02">Regulation .02</cite> amended as an emergency provision effective August 14, 1989 (16:17 Md. R. 1882); adopted permanently effective December 25, 1989 (16:25 Md. R. 2713); August 19, 2013 (40:16 Md. R. 1345)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.02|A.">Regulation .02A</cite>, C, E amended effective October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-09-12"><cite path="|13A|06|03|.02|D.">Regulation .02D</cite> amended effective September 12, 1994 (21:18 Md. R. 1511)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-08-31"><cite path="|13A|06|03|.02|G.">Regulation .02G</cite> amended effective August 31, 1992 (19:17 Md. R. 1608)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|13A|06|03|.02|I.">Regulation .02I</cite> amended effective July 3, 1995 (22:13 Md. R. 968)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-22"><cite path="|13A|06|03|.03">Regulation .03</cite> amended effective August 19, 2013 (40:16 Md. R. 1345); August 22, 2022 (49:17 Md. R. 790)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.03">Regulation .03</cite> amended effective August 19, 2013 (40:16 Md. R. 1345); August 22, 2022 (49:17 Md. R. 790); October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2008-04-21"><cite path="|13A|06|03|.03|A.">Regulation .03A</cite> amended effective April 21, 2008 (35:8 Md. R. 807)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27"><cite path="|13A|06|03|.03|B.">Regulation .03B</cite> amended effective October 6, 1997 (24:20 Md. R. 1405); September 1, 2003 (30:17 Md. R. 1204); January 7, 2016 (42:26 Md. R. 1596); December 27, 2021 (48:26 Md. R. 1112)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|13A|06|03|.04">Regulation .04</cite> amended effective August 19, 2013 (40:16 Md. R. 1345)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-04-19"><cite path="|13A|06|03|.04|A.">Regulation .04A</cite>-1 adopted effective April 19, 2010 (37:8 Md. R. 618)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-11-29"><cite path="|13A|06|03|.04|B.">Regulation .04B</cite> amended effective December 24, 1990 (17:25 Md. R. 2908); August 31, 1992 (19:17 Md. R. 1608); November 29, 2010 (37:24 Md. R. 1659)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.04|B.">Regulation .04B</cite> amended effective December 24, 1990 (17:25 Md. R. 2908); August 31, 1992 (19:17 Md. R. 1608); November 29, 2010 (37:24 Md. R. 1659); October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-22"><cite path="|13A|06|03|.04|C.">Regulation .04C</cite> amended effective December 27, 2021 (48:26 Md. R. 1112); August 22, 2022 (49:17 Md. R. 790)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-07-03"><cite path="|13A|06|03|.04|D.">Regulation .04D</cite> amended effective January 6, 2005 (31:26 Md. R. 1864); July 3, 2006 (33:13 Md. R. 1064)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.04|D.">Regulation .04D</cite> amended effective January 6, 2005 (31:26 Md. R. 1864); July 3, 2006 (33:13 Md. R. 1064); October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-22"><cite path="|13A|06|03|.04|E.">Regulation .04E</cite> amended effective October 6, 1997 (24:20 Md. R. 1405); August 22, 2022 (49:17 Md. R. 790)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-08-22"><cite path="|13A|06|03|.04|G.">Regulation .04G</cite> amended effective August 22, 2022 (49:17 Md. R. 790)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-07-03"><cite path="|13A|06|03|.04|J.">Regulation .04J</cite> adopted effective July 3, 2006 (33:13 Md. R. 1064)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|13A|06|03|.05">Regulation .05</cite> amended effective August 19, 2013 (40:16 Md. R. 1345)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|13A|06|03|.05|B.">Regulation .05B</cite> amended effective July 3, 1995 (22:13 Md. R. 968)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.05|A.">Regulation .05A</cite> amended effective October 26, 2026 (53:21 Md. R. 1042)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.05|B.">Regulation .05B</cite> amended effective July 3, 1995 (22:13 Md. R. 968); October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|13A|06|03|.05|C.">Regulation .05C</cite> amended effective August 31, 1992 (19:17 Md. R. 1608); July 3, 1995 (22:13 Md. R. 968)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|13A|06|03|.06">Regulation .06</cite> amended effective August 19, 2013 (40:16 Md. R. 1345)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.06">Regulation .06</cite> amended effective August 19, 2013 (40:16 Md. R. 1345); October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-08-31"><cite path="|13A|06|03|.06|A.">Regulation .06A</cite> amended effective August 31, 1992 (19:17 Md. R. 1608)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-08-27"><cite path="|13A|06|03|.06|A.">Regulation .06A</cite>, B amended effective August 27, 2018 (45:17 Md. R. 804)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|13A|06|03|.06|B.">Regulation .06B</cite> amended effective July 3, 1995 (22:13 Md. R. 968)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-12-24"><cite path="|13A|06|03|.06|B.">Regulation .06B</cite>, E amended effective December 24, 1990 (17:25 Md. R. 2908)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|13A|06|03|.07|A.">Regulation .07A</cite>, C amended effective August 19, 2013 (40:16 Md. R. 1345)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|13A|06|03|.07|C.">Regulation .07C</cite> amended effective July 3, 1995 (22:13 Md. R. 968)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-08-31"><cite path="|13A|06|03|.07|E.">Regulation .07E</cite> adopted effective August 31, 1992 (19:17 Md. R. 1608)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.07|C.">Regulation .07C</cite> amended effective July 3, 1995 (22:13 Md. R. 968); October 26, 2026 (53:21 Md. R. 1042)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.07|D.">Regulation .07D</cite> amended effective October 26, 2026 (53:21 Md. R. 1042)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1992-08-31"><cite path="|13A|06|03|.07|E.">Regulation .07E</cite> adopted effective August 31, 1992 (19:17 Md. R. 1608);</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.07|E.">Regulation .07E</cite> amended effective October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|13A|06|03|.09">Regulation .09</cite> amended effective August 19, 2013 (40:16 Md. R. 1345)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|13A|06|03|.09|B.">Regulation .09B</cite>, C, G amended effective July 3, 1995 (22:13 Md. R. 968)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|06|03|.09|C.">Regulation .09C</cite> amended effective October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-12-19"><cite path="|13A|06|03|.09|E.">Regulation .09E</cite>, H amended effective December 19, 2005 (32:25 Md. R. 1943)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1995-07-03"><cite path="|13A|06|03|.11|A.">Regulation .11A</cite> amended effective July 3, 1995 (22:13 Md. R. 968)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-08-19"><cite path="|13A|06|03|.11|A.">Regulation .11A</cite>, C amended effective August 19, 2013 (40:16 Md. R. 1345)</annotation>

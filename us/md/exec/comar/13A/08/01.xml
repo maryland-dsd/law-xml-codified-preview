@@ -806,10 +806,10 @@
   <section>
     <prefix>Regulation</prefix>
     <num>.10</num>
-    <heading>Guidelines for Students' Responsibilities and Rights.</heading>
+    <heading>Guidelines for Students’ Responsibilities and Rights.</heading>
     <para>
       <num>A.</num>
-      <text>Each local board of education shall have a document on students' responsibilities and rights.</text>
+      <text>Each local board of education shall have a document on students’ responsibilities and rights.</text>
     </para>
     <para>
       <num>B.</num>
@@ -823,7 +823,65 @@
       <num>D.</num>
       <text>There shall be broad involvement of representatives of the school community in the review of the document.</text>
     </para>
-    <annotations/>
+    <para>
+      <num>E.</num>
+      <text>The document shall include a statement regarding local board appeal procedures.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-098-F" target-path="13A|08|01|.10" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10-1</num>
+    <heading>Student Expression.</heading>
+    <para>
+      <num>A.</num>
+      <text>Each local board of education shall have a policy governing student expression.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This policy shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>A statement on the rights of a student to express themselves, consistent with federal and State law;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Reasonable provisions for the time, place, and manner of expression by a student; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Limitations on language that may be defined as profane, vulgar, lewd, or obscene, or language that has the intent to harass, threaten, or intimidate.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>This policy may include prohibitions on activities of student expression that violate school discipline policies and regulations adopted under <cite path="|13A|08|01|.11">Regulation .11 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Each local board of education shall have procedures for filing and investigating complaints of student expression that are:</text>
+      <para>
+        <num>(1)</num>
+        <text>Profane, vulgar, lewd, or obscene; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Intended to harass, threaten, or intimidate.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The policies in §§B—D of this regulation shall be made publicly available on the website of the local board of education and included in the document on students' responsibilities and rights required under <cite path="|13A|08|01|.10">Regulation .10 of this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Beginning in the 2027—2028 school year, each local board of education shall have a policy governing student expression.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-26" doc="Maryland Register, Volume 53, Issue 21" eff="2026-10-26" path="regulations|final|26-098-F" target-path="13A|08|01|.10-1" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="13A|08|01|.11">
     <prefix>Regulation</prefix>
@@ -2314,6 +2372,8 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1990-10-15"><cite path="|13A|08|01|.08">Regulation .08</cite> repealed and new Regulation .08 adopted effective October 15, 1990 (17:20 Md. R. 2430)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-01-20"><cite path="|13A|08|01|.08|B.">Regulation .08B</cite>, D amended effective January 20, 2003 (30:1 Md. R. 26)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1994-09-12"><cite path="|13A|08|01|.08|C.">Regulation .08C</cite> amended effective September 12, 1994 (21:18 Md. R. 1512)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|08|01|.10|E.">Regulation .10E</cite> adopted effective October 26, 2026 (53:21 Md. R. 1042)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-26"><cite path="|13A|08|01|.10-1">Regulation .10-1</cite> adopted effective October 26, 2026 (53:21 Md. R. 1042)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-02-17"><cite path="|13A|08|01|.11">Regulation .11</cite> amended effective September 2, 1991 (18:17 Md. R. 1920); September 12, 1994 (21:18 Md. R. 1512); March 24, 1997 (24:6 Md. R. 486); February 17, 2014 (41:3 Md. R. 202)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-09-24"><cite path="|13A|08|01|.11|B.">Regulation .11B</cite>, C amended effective October 5, 2009 (36:20 Md. R. 1531); September 24, 2018 (45:19 Md. R. 865)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2003-01-20"><cite path="|13A|08|01|.11|C.">Regulation .11C</cite> amended effective January 20, 2003 (30:1 Md. R. 26)</annotation>

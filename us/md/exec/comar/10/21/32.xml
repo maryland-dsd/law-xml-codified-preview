@@ -1,0 +1,1148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>32</num>
+  <heading>Assisted Outpatient Treatment Program</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Advance directive for mental health services” has the meaning stated in Health-General Article, §5–601, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Assisted outpatient treatment (AOT)” has the meaning stated in Health-General Article, §10–6A–01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Care coordination team” has the meaning stated in Health-General Article, §10–6A–01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Court” means the circuit court for a county.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Department” means the Maryland Department of Health.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Dual-role Provider.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Dual-role provider” means a community-based behavioral health provider who:</text>
+          <para>
+            <num>(i)</num>
+            <text>Is a member of the respondent’s care coordination team; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Has agreed to provide services under the respondent's AOT treatment plan.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Dual-role provider” means a member of the respondent’s care coordination team who has a conflict of interest, and for whom the other care coordination team members shall ensure the conflict of interest is managed in accordance with <cite path="|10|21|32|.06">Regulation .06 of this chapter</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Harm to others” has the meaning stated in Health-General Article, §10–6A–01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Harm to the individual” has the meaning stated in Health-General Article, §10–6A–01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Hospital” has the meaning stated in Health-General Article, §19–301, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Legitimate interest in the welfare of the respondent” means an individual filing a petition for AOT who in relation to the respondent has:</text>
+        <para>
+          <num>(a)</num>
+          <text>A sustained long-term relationship with the respondent, such as a close personal friendship, a familial relationship, or working relationship;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Frequent, regular contact with the respondent; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any kind of treatment or counseling relationship with the respondent.</text>
+        </para>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Licensed mental health professional” means a practitioner authorized under <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>, who has a specialty in the diagnosis and treatment of mental health, addictive, substance-related, or co-occurring disorders.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Local Authority.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Local authority” means the designated county or multicounty authority responsible for planning, managing, and monitoring publicly funded mental health, substance-related, or addictive disorder services.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Local authority” includes the:</text>
+          <para>
+            <num>(i)</num>
+            <text>Core service agency as defined in Health-General Article, §7.5-101(g), Annotated Code of Maryland;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Local addictions authority as defined in Health-General Article, §7.5-101(j), Annotated Code of Maryland; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Local behavioral health authority as defined in Health-General Article, §7.5-101(k), Annotated Code of Maryland.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Material change” has the meaning stated in Health-General Article, §10–6A–09, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Mental health program” has the meaning stated in Health-General Article, §7.5–101, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Office of the Public Defender” means the office established in <cite doc="Md. Code" path="gcp">Criminal Procedure Article, Title 16, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Participant” means an individual receiving treatment services under an AOT order.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>“Petition for AOT” means a document filed in accordance with Health-General Article, §10–6A–04, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Petitioner” means an individual who files a petition under Health-General Article, §10–6A–04, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>“Progress conference” means a conference convened by the Court to review the progress of the respondent.</text>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>Psychiatric Hospital.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Psychiatric hospital” means a facility that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Provides services for psychiatric illnesses in a hospital setting with facilities, medical staff, and all necessary personnel to provide diagnosis, care, and treatment;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Falls within the jurisdiction of Health-General Article, Title 19, Subtitle 3, Annotated Code of Maryland; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Is licensed pursuant to <cite path="|10.07.01">COMAR 10.07.01</cite> or other applicable standards established by the state in which the service is provided.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Psychiatric hospital” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>Acute general hospitals with inpatient psychiatric units,</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Veterans' Administration hospitals; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>A psychiatric unit at a facility which appears on the list of emergency facilities established under Health-General Article §10-621, Annotated Code of Maryland.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(21)</num>
+        <text>“Psychiatrist affidavit or affirmation” means the document completed in accordance with Health-General Article, §10–6A–04, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(22)</num>
+        <text>“Psychiatrist” means a physician who is licensed by the Maryland Board of Physicians in accordance with <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>; and</text>
+        <para>
+          <num>(a)</num>
+          <text>Is board certified in psychiatry consistent with <cite doc="Md. Code" path="gho|14-101">Health Occupations Article, §14-101, Annotated Code of Maryland</cite>; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Has otherwise completed the minimum educational and training requirements to be qualified to take the Board of Psychiatry and Neurology examination for certification in psychiatry.</text>
+        </para>
+      </para>
+      <para>
+        <num>(23)</num>
+        <text>“Respondent” means an individual who is the responsive party named in a petition for AOT.</text>
+      </para>
+      <para>
+        <num>(24)</num>
+        <text>“Serious and persistent mental illness” has the meaning stated in Health-General Article, §10–6A–01, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(25)</num>
+        <text>“Treatment plan” has the meaning stated in Health-General Article, §10–6A–01, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>AOT Program Establishment.</heading>
+    <para>
+      <num>A.</num>
+      <text>County AOT Program.</text>
+      <para>
+        <num>(1)</num>
+        <text>A county may establish an AOT program under this chapter.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A county may partner with another county to establish an AOT program.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Memorandum of Understanding.</text>
+        <para>
+          <num>(a)</num>
+          <text>If two or more counties partner to establish an AOT program, the counties shall execute a memorandum of understanding establishing shared responsibility of each county for joint approval and oversight of the program by the local authority of each partnering county.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The memorandum of understanding shall include, at minimum:</text>
+          <para>
+            <num>(i)</num>
+            <text>Procedures for resolving disputes;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Procedures for terminating the memorandum of understanding; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Financial contributions and expectations of the counties.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The memorandum of understanding of the partnering counties shall be reviewed and approved by the Department prior to its execution.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Department AOT Program. On or before July 1, 2026, the Department shall establish an AOT program in any county that does not establish an AOT program.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>AOT Program Approval Requirements.</heading>
+    <text>To be eligible for approval under this chapter, the AOT program shall meet the requirements of this chapter.</text>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|21|32|.04">
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>AOT Program Required Staff.</heading>
+    <para>
+      <num>A.</num>
+      <text>The AOT program shall have staff that is sufficient in numbers and qualifications to provide clinically appropriate services to AOT program participants.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>AOT Program Staff. An AOT program shall ensure that the staff of the program includes, at minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>An AOT program director;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A care coordination psychiatrist;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A care coordination case manager; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A care coordination certified peer recovery specialist.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>AOT Program Director.</text>
+      <para>
+        <num>(1)</num>
+        <text>Minimum Qualifications. An AOT program director shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Be a licensed mental health professional;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Have at least 2 years of documented experience providing direct services to individuals with serious and persistent mental illness; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Have at least 5 years of documented experience in human services, 2 years of which shall include providing administrative or clinical supervision.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Responsibilities. An AOT Program Director is responsible for the operational oversight of the program, including at minimum:</text>
+        <para>
+          <num>(a)</num>
+          <text>Recruitment of AOT care coordination team staff;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>AOT program operations, including ensuring compliance with regulatory, clinical, and operational standards; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Reporting of AOT program outcomes to the Department.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Care Coordination Team Psychiatrist.</text>
+      <para>
+        <num>(1)</num>
+        <text>Minimum Qualifications. A care coordination team psychiatrist shall possess active licensure in accordance with <cite doc="Md. Code" path="gho">Health Occupations Article, Title 14, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Responsibilities. The care coordination team psychiatrist is responsible for:</text>
+        <para>
+          <num>(a)</num>
+          <text>Determining the recommended services to be included in an AOT treatment plan;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Providing testimony in court;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Providing psychiatric services as specified in the AOT treatment plan; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Providing oversight of the development of a plan for continued treatment 30 days prior to the expiration of the AOT order.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Care Coordination Team Case Manager.</text>
+      <para>
+        <num>(1)</num>
+        <text>Minimum Qualifications.</text>
+        <para>
+          <num>(a)</num>
+          <text>A care coordination team case manager shall have at least 5 years of experience providing:</text>
+          <para>
+            <num>(i)</num>
+            <text>Direct services to individuals with serious and persistent mental illness; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Mental health peer support services.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A bachelor’s degree in a relevant field may be substituted for 3 years of experience required under <cite path="10|21|32|.04|E.|(1)|(a)">§E(1)(a) of this regulation</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Responsibilities. The care coordination team case manager is responsible for, at minimum:</text>
+        <para>
+          <num>(a)</num>
+          <text>Reviewing information regarding the respondent's mental health, social, familial, cultural, medical, developmental, legal, vocational, and economic status to assist in the formulation of an AOT treatment plan;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Providing reviewed information to the AOT care coordination psychiatrist to inform the decision of services recommended for inclusion in the AOT treatment plan;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Identifying and making referrals to community-based providers for the recommended services included in the AOT treatment plan;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Providing case management services as specified in the AOT treatment plan; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Thirty days prior to the expiration of the AOT order, identifying and making referrals to community-based providers for development of a plan for continued treatment.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Care Coordination Team Certified Peer Recovery Specialist.</text>
+      <para>
+        <num>(1)</num>
+        <text>Minimum Qualifications. A care coordination team certified peer recovery specialist shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Have a current certification as a peer recovery specialist from the Board approved by the Department;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Adhere to all requirements of the Board, including at minimum:</text>
+          <para>
+            <num>(i)</num>
+            <text>Formal training and education of the knowledge, skills and abilities in each of the four domains identified by the Board; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Adherence to the Ethics, Code of Conduct, Principles, and Service Guidelines established by the Board; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Have at least 2 years of experience providing direct services to individuals with serious and persistent mental illness.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Service Limitations. A certified peer recovery specialist may not perform clinical treatment services or functions unless otherwise licensed in accordance with <cite doc="Md. Code" path="gho">Health Occupations Article, Annotated Code of Maryland</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Responsibilities. A care coordination team certified peer recovery specialist is responsible for, at minimum:</text>
+        <para>
+          <num>(a)</num>
+          <text>Engagement of the respondent for AOT treatment plan development;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Providing peer support services as specified by the AOT treatment plan; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Thirty days prior to the expiration of the AOT order, engagement with the respondent to assist with the development of a plan for continued treatment.</text>
+        </para>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>AOT Staff Training.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall be responsible for:</text>
+      <para>
+        <num>(1)</num>
+        <text>Defining required training components;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Overseeing the development of required training; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Communicating the training availability and requirements to the AOT program.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The AOT program staff shall complete training required by the Department.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>AOT Program — Managing Conflicts of Interest.</heading>
+    <para>
+      <num>A.</num>
+      <text>An individual may not develop an AOT treatment plan for a respondent if the individual is:</text>
+      <para>
+        <num>(1)</num>
+        <text>Currently treating the respondent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Filed the AOT petition; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The respondent has filed an objection with the Behavioral Health Administration  in the manner specified by the Administration based on a prior treating relationship.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a care coordination team member agrees to provide services under the respondent’s AOT treatment plan for a program participant, the care coordination team must address the conflict of interest of the dual-role provider as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Prior to the court hearing, the care coordination team shall identify all possible providers of the dual-role provider type who can treat the respondent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A member of the AOT program other than the dual-role provider must make contact with other service providers to explore referral opportunities as a part of the development of the respondent’s AOT treatment plan; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The AOT program shall list available providers in the recommendations, including the dual-role provider, and disclose that the dual-role provider is a member of the care coordination team or an owner or employee of the provider organization.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>If there is a conflict of interest with a dual-role provider, during the respondent’s AOT hearing, the Court shall either:</text>
+      <para>
+        <num>(1)</num>
+        <text>Address the potential conflict of interest; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Identify another provider which may be from the list of available providers offered by the care coordination team or from any other source.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|21|32|.07">
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>AOT Eligibility.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Court shall order a respondent to receive AOT based on a finding by clear and convincing evidence that the respondent:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is 18 years old or older;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has a serious and persistent mental illness;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has demonstrated a lack of adherence with treatment for the serious and persistent mental illness based on meeting at least one condition in <cite path="10|21|32|.07|B.">§B of this regulation</cite>;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Based on the respondent’s treatment history and behavior at the time the petition is filed, is in need of AOT in order to prevent a relapse or deterioration that would create a substantial risk of serious harm to the individual or harm to others;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Is unlikely to adequately adhere to outpatient treatment on a voluntary basis, as demonstrated by the respondent’s history of treatment nonadherence in the 36-month period immediately preceding the filing of the petition that is not due to financial, transportation, or language access issues; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Is an individual for whom, in consideration of §A(1)—(5) of this regulation, it is determined that AOT is the least restrictive alternative to maintain the health and safety of the respondent.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Lack of Adherence with Treatment. A respondent shall be determined to have demonstrated a lack of adherence with treatment for a serious and persistent mental illness if the lack of adherence has:</text>
+      <para>
+        <num>(1)</num>
+        <text>At least twice within the 36-month period immediately preceding the filing of the petition:</text>
+        <para>
+          <num>(a)</num>
+          <text>Been a significant factor in necessitating inpatient admission to a psychiatric hospital for at least 48 hours; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Resulted in the receipt of psychiatric services in a correctional facility; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>At least once within the 36–month period immediately preceding the filing of the petition:</text>
+        <para>
+          <num>(a)</num>
+          <text>Resulted in an act of serious violent behavior toward self or others; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Exhibited patterns or threats of, or attempts of, serious physical harm to self or others.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Time that the respondent spent hospitalized or incarcerated may not be included when calculating the time period under this regulation.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|21|32|.08">
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Petition for AOT.</heading>
+    <para>
+      <num>A.</num>
+      <text>Petitioner. A petition for AOT may be made by the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The director of a mental health program receiving State funding under Health-General Article, Title 10, Subtitle 9, Annotated Code of Maryland, or;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An individual 18 years old or older who has a legitimate interest in the welfare of the respondent.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The petition shall be accompanied by:</text>
+      <para>
+        <num>(1)</num>
+        <text>An affidavit of a psychiatrist in accordance with <cite path="|10|21|32|.09">Regulation .09 of this chapter</cite>; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A Service Information Form in accordance with <cite path="10|21|32|.08|C.">§C of this regulation</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Service Information Form shall detail:</text>
+      <para>
+        <num>(1)</num>
+        <text>The last known residence or whereabouts of the respondent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contact information for any individual who may be aware of the location of the respondent; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any additional information which may be helpful in the service of the respondent.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Psychiatrist Affidavit for AOT.</heading>
+    <para>
+      <num>A.</num>
+      <text>The petition for AOT completed in accordance with <cite path="|10|21|32|.08">Regulation .08 of this chapter</cite> shall include a completed psychiatrist affidavit for AOT stating that the psychiatrist:</text>
+      <para>
+        <num>(1)</num>
+        <text>Is willing and able to testify at the merits hearing on the petition;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has examined the respondent within 30 days before the date of the petition; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has concluded that the respondent meets the criteria for AOT under Health-General Article, §10-6A-05, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall provide an affidavit form consistent with Maryland Rule 1-304, which shall include the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>The name of the psychiatrist;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date that the psychiatrist examined the respondent;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A statement that the psychiatrist is willing and able to testify at the merits hearing;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A statement by the psychiatrist which shall include:</text>
+        <para>
+          <num>(a)</num>
+          <text>Disclosure of any financial interest in having the respondent be a participant in AOT program;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If applicable, affirmation that any conflict has been disclosed to the respondent; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Verification that the psychiatrist is not related by blood or marriage to the respondent or petitioner; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Space for the signature of the psychiatrist and the date and time the affidavit is signed.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>AOT Treatment Plan.</heading>
+    <para>
+      <num>A.</num>
+      <text>The care coordination team shall develop an AOT treatment plan and provide a copy in writing, no later than the date required by the Court, to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The respondent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The respondent’s attorney; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If applicable and known, the respondent’s guardian and health care agent.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An AOT treatment plan developed by the care coordination team shall be:</text>
+      <para>
+        <num>(1)</num>
+        <text>Recovery-oriented;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Person-centered; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Consistent with evidence-based and evolving best practices in the treatment of serious and persistent mental illness.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>For each service listed in the AOT treatment plan, the name of a community-based provider that has agreed to provide the service to the respondent shall be identified to provide the service.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Medication.</text>
+      <para>
+        <num>(1)</num>
+        <text>An AOT treatment plan may include medication.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>An AOT treatment plan may not include specific dosages or frequency of medication to allow for maximum flexibility for the treatment team.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Opportunity to Participate.</text>
+      <para>
+        <num>(1)</num>
+        <text>The care coordination team shall provide the respondent with a reasonable opportunity to participate in the development of the AOT treatment plan.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>If identified by the respondent or otherwise known by the care coordination team, the following individuals shall be given a responsible opportunity to participate in the AOT treatment plan:</text>
+        <para>
+          <num>(a)</num>
+          <text>The respondent’s guardian;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The respondent’s health care agent; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any other individual designated by the respondent.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>If the respondent has executed an advance directive for mental health services and the care coordination team is aware of the advance directive for mental health services, the care coordination team shall honor any applicable directions for outpatient treatment included in the advance directive for mental health services in the development of the AOT treatment plan in accordance with Health-General Article, §5–602, Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>The AOT treatment plan shall incorporate all outpatient treatment services that are determined to be essential and available for the maintenance of the respondent’s health and safety.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The AOT treatment plan shall include, at minimum:</text>
+      <para>
+        <num>(1)</num>
+        <text>Case management services;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The services of a treating psychiatrist; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The services of a certified peer recovery specialist.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>The Department shall develop clinical guidance that identifies the programs, provider types, and services that meet the mandatory service requirements specified in this regulation.</text>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>The care coordination team psychiatrist, care coordination team case manager, and care coordination team certified peer recovery specialist shall make a good-faith effort to meet with the respondent during the process of the AOT treatment plan development.</text>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>If the respondent is available and willing to meet with the care coordination psychiatrist, the care coordination team psychiatrist shall examine the respondent to inform the development of the AOT treatment plan.</text>
+    </para>
+    <para>
+      <num>L.</num>
+      <text>The AOT treatment plan shall consist of age-appropriate, gender-appropriate, and culturally informed services, to the extent feasible.</text>
+    </para>
+    <para>
+      <num>M.</num>
+      <text>To select the recommended services for the AOT treatment plan, the care coordination team psychiatrist may consider:</text>
+      <para>
+        <num>(1)</num>
+        <text>Available assessments and recommendations from the respondent’s existing treatment providers;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Available assessments and recommendations resulting from direct examination of the respondent conducted by the care coordination team;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any relevant credible information submitted by the petitioner; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Treatment preferences communicated by:</text>
+        <para>
+          <num>(a)</num>
+          <text>The respondent;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The respondent’s guardian;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The respondent’s health care agent; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Any individual designated by the respondent, including preferred treatment service providers.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>N.</num>
+      <text>The respondent shall have an opportunity to voluntarily agree to the AOT treatment plan.</text>
+    </para>
+    <para>
+      <num>O.</num>
+      <text>If the parties agree to a treatment plan, the care coordination team shall file a stipulated agreement with the Court that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Includes the agreed upon treatment plan; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Includes a proposed order for dismissal upon stipulated terms.</text>
+      </para>
+    </para>
+    <para>
+      <num>P.</num>
+      <text>If the respondent agrees to a treatment plan, and the petitioner does not agree to the treatment plan, the care coordination team shall file a stipulation with the Court that includes:</text>
+      <para>
+        <num>(1)</num>
+        <text>The agreed-upon terms of the AOT treatment plan;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any terms that are contested between the parties, if known; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A proposed AOT order.</text>
+      </para>
+    </para>
+    <para>
+      <num>Q.</num>
+      <text>The care coordination team shall provide to the respondent, counsel for the respondent, and the county attorney the AOT treatment plan and the providers that are included in the treatment plan as set forth in Health-General Article, §10–6A–06, Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>R.</num>
+      <text>If the care coordination team updates the AOT treatment plan or the providers included in the AOT treatment plan before the hearing conducted under Health-General Article, §10–6A–07, Annotated Code of Maryland, the care coordination team shall promptly notify the following individuals of the change and the justification for the change:</text>
+      <para>
+        <num>(1)</num>
+        <text>The respondent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The respondent’s attorney;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The county attorney, if they represent the AOT team; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>If applicable and known, the respondent’s guardian and health care agent.</text>
+      </para>
+    </para>
+    <para>
+      <num>S.</num>
+      <text>The care coordination team shall assist in connecting the respondent to services that would help the respondent be successful in adhering to the AOT treatment plan, including, but not limited to:</text>
+      <para>
+        <num>(1)</num>
+        <text>Transportation;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Housing;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Accessibility services; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Other services that address the health–related social needs of the respondent.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Schedule of Hearing, Notice of Hearing, and Rights.</heading>
+    <para>
+      <num>A.</num>
+      <text>When a petition for AOT that meets the requirements of Health-General Article, §§10-6A-03—04, Annotated Code of Maryland is filed, the Court shall issue a notice to the respondent consistent with Maryland Rules.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Notice to the Respondent. The notice to the respondent issued to the respondent shall be consistent with Health-General Article, §10-6A-07, Annotated Code of Maryland and Maryland Rules.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>At the initial hearing, the care coordination team for the jurisdiction shall appear unless specifically ordered not to do so.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>After the initial hearing, the care coordination team shall communicate with counsel for the respondent or the respondent, if unrepresented, to coordinate development of the treatment plan.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>AOT Hearings.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Court may establish any discovery deadlines or issue a scheduling order, which may include the participation of the care coordination team.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If no specific deadline is set by the Court, no later than 5 business days prior to the date of the merits hearing, unless otherwise ordered by the Court, the AOT program staff shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Identify witnesses, including the examining psychiatrist and the testifying psychiatrist; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Provide a copy of the proposed AOT treatment plan to the respondent and counsel for the respondent.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Hearing. The hearing shall proceed consistent with Maryland Rules.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>AOT Orders.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Court shall order or deny the petition in accordance with Health-General Article, §10-6A-08, Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The AOT order shall include information from the AOT treatment plan presented to the Court under Health-General Article, §10–6A–05—06, Annotated Code of Maryland that the Court finds by clear and convincing evidence to be essential to the maintenance of the respondent's health or safety.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An AOT order may not be:</text>
+      <para>
+        <num>(1)</num>
+        <text>The basis for the involuntary admission of the respondent to a facility under Health-General Article, Title 10, Subtitle 6, Annotated Code of Maryland;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Used as evidence of the incompetency of the respondent; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Used against a respondent in a subsequent legal matter that carries negative collateral consequences.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An AOT petition, order, or any documentation used in the process of developing the treatment plan may not be provided in response to a Public Information Act request.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.14</num>
+    <heading>AOT Order Modifications.</heading>
+    <para>
+      <num>A.</num>
+      <text>At any time during the period of an order for AOT, the following may petition the Court to stay, vacate, or modify the AOT order:</text>
+      <para>
+        <num>(1)</num>
+        <text>The petitioner;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A care coordination team member; or</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The respondent.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The respondent may voluntarily agree to modify the AOT order by extending the order and, if so, the care coordination team shall notify the Court of the modification.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The respondent under an AOT order is not required to comply with a material change to the AOT treatment plan unless:</text>
+      <para>
+        <num>(1)</num>
+        <text>The material change is explicitly authorized in advance by the terms of the order; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Court on a finding by clear and convincing evidence determines that the material change is essential to the maintenance of the respondent’s health or safety.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.15</num>
+    <heading>Reporting and Program Outcome Requirements.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Department shall submit an annual report in accordance with Health-General Article, §10–6A–12, Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The AOT program shall provide the Department with program outcome data and information in accordance with Health-General Article, §10–6A–12, Annotated Code of Maryland, in the manner and frequency determined by the Department.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The AOT program shall provide information from the care coordination team in accordance with Health-General Article, §10–6A–09—10, Annotated Code of Maryland.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.16</num>
+    <heading>Discharge from the AOT Program.</heading>
+    <para>
+      <num>A.</num>
+      <text>AOT program participants shall be examined by a psychiatrist within 30 days prior to the expiration of the AOT ordzer.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Within 30 calendar days before the expiration of an AOT order, the participant’s care coordination team shall provide the participant with a plan for continued treatment.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The plan for continued treatment shall incorporate all outpatient treatment services that are determined to be essential and available for the maintenance of the participant’s health and safety</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>For each service listed in the plan for continued treatment, a community–based provider that has agreed to provide the service to the participant shall be identified to provide the service prior to the expiration of the AOT order.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The plan for continued treatment shall consist of age-appropriate, gender-appropriate, and culturally informed services, to the extent feasible.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>To develop the recommended services for the plan for continued treatment, the care coordination team psychiatrist may consider:</text>
+      <para>
+        <num>(1)</num>
+        <text>Any available assessments and recommendations from the participant’s existing treatment providers;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any available assessments resulting from direct evaluation of the participant conducted by the treatment plan providers; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Any treatment preferences communicated by the participant, the participant’s guardian, the participant’s health care agent, and any individual designated by the participant, including preferred treatment service providers.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2-104(b) and 10-6A-01—10-6A-12, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12">Effective date: October 12, 2026 (53:20 Md. R. 997)</annotation>
+  </annotations>
+  <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-066-F" target-path="10|21|32" type="History" display="false"/>
+</container>

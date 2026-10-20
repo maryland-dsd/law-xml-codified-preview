@@ -148,7 +148,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Prepare and disseminate to an identified colleague or record custodian a written plan for the transfer of clients and files in the event of the licensee's incapacitation, death, or termination of service; and</text>
+        <text>Prepare and disseminate to an identified colleague or record custodian a written plan for the transfer of clients and files in the event of the licensee's incapacitation, death, or termination of service;</text>
       </para>
       <para>
         <num>(5)</num>
@@ -179,8 +179,12 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>Ensures that no confidential information is disseminated and identities are protected when using technology to communicate or access client information.</text>
+          <text>Ensures that no confidential information is disseminated and identities are protected when using technology to communicate or access client information; and</text>
         </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>For social workers practicing with a licensed bachelor social worker (LBSW) or licensed master social worker (LMSW) license, without independent practice status, provide a notification to the client with the name and contact information of the social worker’s supervisor.</text>
       </para>
     </para>
     <para>
@@ -219,7 +223,9 @@
         <text>Share a fee or accept or give something of value for receiving or making a referral.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-103-F" target-path="10|42|03|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -326,7 +332,7 @@
       </para>
       <para>
         <num>(8)</num>
-        <text>Represent accurately the licensee’s professional qualifications; and</text>
+        <text>Represent accurately the licensee’s professional qualifications, including in advertising and media platforms; and</text>
       </para>
       <para>
         <num>(9)</num>
@@ -457,7 +463,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-12" doc="Maryland Register, Volume 53, Issue 20" eff="2026-10-12" path="regulations|final|26-103-F" target-path="10|42|03|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -489,9 +497,11 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|42|03|.01|B.">Regulation .01B</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|42|03|.02|B.">Regulation .02B</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|42|03|.03">Regulation .03</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|42|03|.03|A.">Regulation .03A</cite> amended effective October 12, 2026 (53:20 Md. R. 1000)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|42|03|.04|A.">Regulation .04A</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|42|03|.05">Regulation .05</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|42|03|.06">Regulation .06</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-10-12"><cite path="|10|42|03|.06|A.">Regulation .06A</cite> amended effective October 12, 2026 (53:20 Md. R. 1000)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2019-05-20"><cite path="|10|42|03|.07|B.">Regulation .07B</cite> amended effective May 20, 2019 (46:10 Md. R. 490)</annotation>
   </annotations>
 </container>

@@ -137,13 +137,13 @@
       <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
     </annotations>
   </section>
-  <section>
+  <section emergency="true">
     <prefix>Regulation</prefix>
     <num>.04</num>
     <heading>Community Reinvestment and Repair Fund Commissions.</heading>
     <para>
       <num>A.</num>
-      <text>Political Subdivisions may establish a commission to support or assume the decision-making authority of the Political Subdivision to utilize money expended from the Fund.</text>
+      <text>Political Subdivisions may establish a commission to support the decision-making authority of the Political Subdivision to utilize money expended from the Fund.</text>
     </para>
     <para>
       <num>B.</num>
@@ -179,6 +179,7 @@
     </para>
     <annotations>
       <annotation app="2026-07-20" doc="Maryland Register, Volume 53, Issue 17" eff="2026-08-31" path="regulations|emergency|26-094-E" target-path="14|17|23" type="History" display="false" exp="2027-01-16"/>
+      <annotation app="2026-09-29" doc="Editor Action 2026-09-29" eff="2026-09-29" path="" target-path="14|17|23|.04" type="History" display="false" exp="2027-01-16"/>
     </annotations>
   </section>
   <section>
