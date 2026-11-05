@@ -39,7 +39,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>A contestant applying for a license or license renewal shall submit to the Commission an ophthalmological evaluation completed by an ophthalmologist licensed by or eligible for certification by the American Board of Ophthalmology, performed within 30 days before the date of filing the application.</text>
+      <text>A contestant applying for a license or license renewal shall submit to the Commission an ophthalmological evaluation completed by an ophthalmologist licensed by or eligible for certification by the American Board of Ophthalmology, performed within 90 days before the date of filing the application.</text>
     </para>
     <para>
       <num>C.</num>
@@ -69,7 +69,9 @@
         <text>Have 100 percent peripheral vision in both eyes.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-096-F" target-path="09|14|04|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -645,7 +647,7 @@
       <text>The required negative blood tests shall:</text>
       <para>
         <num>(1)</num>
-        <text>Have been performed within 30 days of the individual's application for a license; and</text>
+        <text>Have been performed within 90 days of the individual's application for a license; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -688,7 +690,9 @@
         <text>The Commission has reasonable cause to believe that the testing of the contestant's blood may not result in a negative test for the presence of the antibodies to HIV or the antigens of virus hepatitis B.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-096-F" target-path="09|14|04|.13" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Business Regulation Article, §§<cite doc="Md. Code" path="gbr|4-205">4-205</cite>, <cite doc="Md. Code" path="gbr|4-304">4-304</cite>, <cite doc="Md. Code" path="gbr|4-304">4-304</cite>-<cite doc="Md. Code" path="gbr|1">1</cite>, <cite doc="Md. Code" path="gbr|4-310">4-310</cite>, <cite doc="Md. Code" path="gbr|4-314">4-314</cite>, and <cite doc="Md. Code" path="gbr|4-315">4-315</cite>, Annotated Code of Maryland</annotation>
@@ -713,8 +717,10 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-11-25"><cite path="|09|14|04|.12|B.">Regulation .12B</cite> amended as an emergency provision effective March 30, 2002 (29:7 Md. R. 616); emergency status expired August 28, 2002; amended permanently effective November 25, 2002 (29:23 Md. R. 1811)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1998-03-09"><cite path="|09|14|04|.13">Regulation .13</cite> adopted effective March 9, 1998 (25:5 Md. R. 367)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2009-07-06" discontinuity="true">Chapter revised effective July 6, 2009 (36:13 Md. R. 898)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|09|14|04|.02|B.">Regulation .02B</cite> amended effective November 9, 2026 (53:22 Md. R. 1108)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-05-22"><cite path="|09|14|04|.04|B.">Regulation .04B</cite> amended effective May 22, 2017 (44:10 Md. R. 471)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2017-05-22"><cite path="|09|14|04|.10|C.">Regulation .10C</cite> amended effective May 22, 2017 (44:10 Md. R. 471)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2013-07-08"><cite path="|09|14|04|.12">Regulation .12</cite> amended as an emergency provision effective January 10, 2013 (40:3 Md. R. 215); amended permanently effective July 8, 2013 (40:13 Md. R. 1073)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|09|14|04|.13|D.">Regulation .13D</cite> amended effective November 9, 2026 (53:22 Md. R. 1108)</annotation>
   </annotations>
 </container>

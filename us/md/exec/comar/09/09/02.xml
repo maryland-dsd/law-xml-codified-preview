@@ -68,17 +68,19 @@
     <text>Continuing educational hours from a course or training satisfy the requirement of <cite path="|09|09|02|.01|A.">Regulation .01A of this chapter</cite> if the course or training is:</text>
     <para>
       <num>A.</num>
-      <text>Based on any article of or update to the National Electrical Code (NEC) or any local variants adopted by a local board in accordance with <cite doc="Md. Code" path="gbo|6-205">Business Occupations and Professions Article, §6-205(b)(1), Annotated Code of Maryland</cite>, as it may be amended, modified, or updated from time to time; and which has been incorporated by reference in <cite path="09.12.50.02">COMAR 09.12.50.02</cite>-1B(3);</text>
+      <text>Based on any article of or update to the National Electrical Code (NEC) or any local variants adopted by a local board in accordance with <cite doc="Md. Code" path="gbo|6-205">Business Occupations and Professions Article, §6-205(a)(3) </cite>and (b)(1), Annotated Code of Maryland; and</text>
     </para>
     <para>
       <num>B.</num>
-      <text>Based on any code or standard of the National Fire Protection Association (NFPA) that relates to the provision of electrical services as defined in <cite doc="Md. Code" path="gbo|6-101">Business Occupations and Professions Article, §6-101(k), Annotated Code of Maryland</cite>, as it may be amended, modified, or updated from time to time; and which has been incorporated by reference in <cite path="09.12.50.02">COMAR 09.12.50.02</cite>-1B(3); or</text>
+      <text>Based on any code or standard of the National Fire Protection Association (NFPA) that relates to the provision of electrical services as defined in <cite doc="Md. Code" path="gbo|6-101">Business Occupations and Professions Article, §6-101(k), Annotated Code of Maryland</cite>; or</text>
     </para>
     <para>
       <num>C.</num>
       <text>Compliant with the requirements set forth in <cite doc="Md. Code" path="gbo|6-205">Business Occupations and Professions Article, §6-205(b), Annotated Code of Maryland</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-114-F" target-path="09|09|02|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -97,6 +99,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-07-15"><cite path="|09|09|02|.02">Regulation .02</cite> amended as an emergency provision effective July 15, 2021 (48:17 Md. R. 665); emergency provision expired December 1, 2021</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27"><cite path="|09|09|02|.02">Regulation .02</cite> amended effective December 27, 2021 (48:26 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-21"><cite path="|09|09|02|.02|A.">Regulation .02A</cite>, B amended effective July 21, 2025 (52:14 Md. R. 712)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|09|09|02|.02|B.">Regulation .02B</cite> amended effective November 9, 2026 (53:22 Md. R. 1108)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-07-15"><cite path="|09|09|02|.03">Regulation .03</cite> amended as an emergency provision effective July 15, 2021 (48:17 Md. R. 665); emergency provision expired December 1, 2021</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-12-27"><cite path="|09|09|02|.03">Regulation .03</cite> amended effective December 27, 2021 (48:26 Md. R. 1110)</annotation>
   </annotations>

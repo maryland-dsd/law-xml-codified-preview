@@ -3295,7 +3295,7 @@
       <text>General.</text>
       <para>
         <num>(1)</num>
-        <text>Any person licensed under Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-210">4-210</cite>, <cite doc="Md. Code" path="gnr|4-210">4-210</cite>.1, 4-701, 4-701.1, or 4-701.2, Annotated Code of Maryland:</text>
+        <text>Any person licensed under Natural Resources Article, §§<cite doc="Md. Code" path="gnr|4-210">4-210</cite>, <cite doc="Md. Code" path="gnr|4-210">4-210</cite>.<cite doc="Md. Code" path="gnr|1">1</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>, <cite doc="Md. Code" path="gnr|4-701">4-701</cite>.1, or 4-701.2, Annotated Code of Maryland:</text>
         <para>
           <num>(a)</num>
           <text>Unless they have indicated on a form provided by the Department that they will not be participating in a fishery for a particular period of time, shall accurately record their harvest information in accordance with this regulation;</text>
@@ -3407,7 +3407,7 @@
               </tr>
               <tr>
                 <td data-vertical-align="middle">Master Fishing Guide</td>
-                <td data-vertical-align="middle">Commercial Charter Boat Captain's Daily Log</td>
+                <td data-vertical-align="middle">Fishing Guide Daily Log, Crab Charter Report</td>
               </tr>
               <tr>
                 <td data-vertical-align="middle">Clam Harvester</td>
@@ -3495,7 +3495,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>The “Number of Late Reports” described in <cite path="08|02|13|.06|B.|(3)" proof="needed">§B(3) of this regulation</cite> means the number of late reports the Department has recorded for each individual report required by <cite path="08|02|13|.06|B.|(1)">§B(1) of this regulation</cite> in any 12-month period.</text>
+        <text>The “Number of Late Reports” described in <cite path="08|02|13|.06|B.|(3)">§B(3) of this regulation</cite> means the number of late reports the Department has recorded for each individual report required by <cite path="08|02|13|.06|B.|(1)">§B(1) of this regulation</cite> in any 12-month period.</text>
       </para>
       <para>
         <num>(5)</num>
@@ -3634,7 +3634,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>If a licensee is participating in more than one fishery, the licensee may display a combination of letters described in <cite path="08|02|13|.06|D.|(3)|(c)" proof="needed">§D(3)(c) of this regulation</cite> as directed by the Department.</text>
+          <text>If a licensee is participating in more than one fishery, the licensee may display a combination of letters described in <cite path="08|02|13|.06|D.|(3)|(c)">§D(3)(c) of this regulation</cite> as directed by the Department.</text>
         </para>
       </para>
       <para>
@@ -3682,12 +3682,12 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>May set crab pots already onboard a vessel up to 1 hour after the end of the time period established in <cite path="08|02|13|.06|E.|(5)|(a)" proof="needed">§E(5)(a) of this regulation</cite>.</text>
+          <text>May set crab pots already onboard a vessel up to 1 hour after the end of the time period established in <cite path="08|02|13|.06|E.|(5)|(a)">§E(5)(a) of this regulation</cite>.</text>
         </para>
       </para>
       <para>
         <num>(6)</num>
-        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|E.|(4)" proof="needed">§E(4) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|E.|(5)" proof="needed">§E(5) of this regulation</cite>.</text>
+        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|E.|(4)">§E(4) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|E.|(5)">§E(5) of this regulation</cite>.</text>
       </para>
     </para>
     <para>
@@ -3723,7 +3723,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|F.|(1)|(a)" proof="needed">§F(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|F.|(2)" proof="needed">§F(2) of this regulation</cite>.</text>
+        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|F.|(1)|(a)">§F(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|F.|(2)">§F(2) of this regulation</cite>.</text>
       </para>
     </para>
     <para>
@@ -3759,7 +3759,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|G.|(1)|(a)" proof="needed">§G(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|G.|(2)" proof="needed">§G(2) of this regulation</cite>.</text>
+        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|G.|(1)|(a)">§G(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|G.|(2)">§G(2) of this regulation</cite>.</text>
       </para>
     </para>
     <para>
@@ -3795,7 +3795,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|H.|(1)|(a)" proof="needed">§H(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|H.|(2)" proof="needed">§H(2) of this regulation</cite>.</text>
+        <text>If a licensee on a vessel participates in the harvest hours described in <cite path="08|02|13|.06|H.|(1)|(a)">§H(1)(a) of this regulation</cite>, all licensees on board that vessel shall adhere to the time periods described in <cite path="08|02|13|.06|H.|(2)">§H(2) of this regulation</cite>.</text>
       </para>
     </para>
     <para>
@@ -3916,6 +3916,7 @@
     </para>
     <annotations>
       <annotation app="2026-07-15" doc="Maryland Register, Volume 52, Issue 23" eff="2025-11-24" path="regulations|final|25-044-F" target-path="08|02|13|.06" type="History" display="false"/>
+      <annotation app="2026-10-21" doc="Editor Action 2026-10-21" eff="2026-10-21" path="" target-path="08|02|13|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="08|02|13|.07">

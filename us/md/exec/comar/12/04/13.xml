@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>13</num>
+  <heading>Maryland Police Training and Standards Commission Fund</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Maryland Police Training and Standards Commission Fund is a special, non-lapsing fund established under <cite doc="Md. Code" path="gps|3-206">Public Safety Article, §3-206</cite>.1, Annotated Code of Maryland, for the purpose of providing funding to support activities and training by the Commission.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>This chapter establishes the procedures and authorizations for the use of the Maryland Police Training and Standards Commission Fund.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-123-F" target-path="12|04|13" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Commission” means the Maryland Police Training and Standards Commission.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Department” means the Department of Public Safety and Correctional Services.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Executive Director” means the Executive Director of the Police and Correctional Training Commissions, or a designee.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Fund” means the Maryland Police Training and Standards Commission Fund.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Staff” means employees of the Police and Correctional Training Commissions.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-123-F" target-path="12|04|13" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>General Provisions.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Fund shall receive an annual appropriation pursuant to <cite doc="Md. Code" path="gcj|7-301">Courts and Judicial Proceedings Article, §7-301, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Fund is not subject to <cite doc="Md. Code" path="gsf|7-302">State Finance and Procurement Article, §7-302, Annotated Code of Maryland</cite>.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Interest earnings shall be credited to the Fund.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The State Treasurer shall hold the Fund separately, and the State Comptroller shall account for the Fund.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The Fund may only be used to provide funding to the Commission.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-123-F" target-path="12|04|13" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Use and Administration of the Fund.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Fund shall only be used in support of the Commission’s general powers and duties under Public Safety Article, §§<cite doc="Md. Code" path="gps|3-206">3-206</cite>.<cite doc="Md. Code" path="gps|1">1</cite>, <cite doc="Md. Code" path="gps|3-207">3-207</cite>, and <cite doc="Md. Code" path="gps|3-208">3-208</cite>, Annotated Code of Maryland.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commission, in coordination with the Executive Director, shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Establish goals, objectives, and an annual spending plan that supports the duties and responsibilities of the Commission and training needs for law enforcement;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Review and approve proposed expenditures; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Ensure that each approved expenditure is consistent with <cite doc="Md. Code" path="gps|3-207">Public Safety Article, §3-207, Annotated Code of Maryland</cite>.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-123-F" target-path="12|04|13" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Financial Fund Management.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Executive Director is responsible for fiscal oversight of the Fund.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Staff shall assist the Executive Director with the development of an annual spending plan that is consistent with the Commission’s strategic plan and specific training goals.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Department will provide administrative staff support to process procurement and fiscal transactions related to the Commission’s approved fund expenditures.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Executive Director shall provide quarterly updates to the Commission on fund expenditures and initiatives.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Money expended from the Fund is not intended to take the place of funding that would otherwise be appropriated to the Department or Police and Correctional Training Commissions.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-123-F" target-path="12|04|13" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Public Safety Article, §§<cite doc="Md. Code" path="gps|3-206">3-206</cite>.<cite doc="Md. Code" path="gps|1">1</cite>, <cite doc="Md. Code" path="gps|3-207">3-207</cite>, and <cite doc="Md. Code" path="gps|3-208">3-208</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09">Effective date: November 9, 2026 (53:22 Md. R. 1109)</annotation>
+  </annotations>
+  <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-123-F" target-path="12|04|13" type="History" display="false"/>
+</container>

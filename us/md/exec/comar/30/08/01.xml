@@ -18,13 +18,15 @@
     </para>
     <para>
       <num>C.</num>
-      <text>Procedures for disciplinary action to be taken if a trauma or specialty referral center fails to comply with this subtitle; and</text>
+      <text>Procedures for corrective action to be taken if a trauma or specialty referral center fails to comply with this subtitle; and</text>
     </para>
     <para>
       <num>D.</num>
       <text>Procedures for the collection and use of trauma or specialty care data by MIEMSS to monitor and evaluate the trauma and specialty care systems.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|01|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -71,7 +73,7 @@
       </para>
       <para>
         <num>(2-2)</num>
-        <text>“Advanced practice professionals (APPs)” are non-physicians that are educated at an advanced level to provide patient care in a range of settings; they include nurse practitioners (NPs), nurse anesthetists, midwives, clinical nurse specialists (CNS) and physician assistants (PAs).</text>
+        <text>“Advanced practice professionals (APPs)” are licensed and credentialed nurse practitioners (NPs), nurse anesthetists, midwives, clinical nurse specialists (CNS) and physician assistants (PAs).</text>
       </para>
       <para>
         <num>(3)</num>
@@ -87,12 +89,11 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>“Attending”</text>
-        <text>means a physician with practice privileges delineated by the hospital's medical staff.</text>
+        <text>“Attending” means a physician who has completed the formal training for the physician’s specialty and whose practice privileges are delineated by the hospital’s medical staff.</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>“Attending burn staff surgeon” means a surgical member of the burn team appointed by the adult or pediatric burn center director with credentials and privileges appropriate to the burn service.</text>
+        <text>“Attending burn staff surgeon” means a surgeon appointed by the adult or pediatric burn center director with credentials and privileges appropriate to the burn service.</text>
       </para>
       <para>
         <num>(8)</num>
@@ -136,7 +137,7 @@
       </para>
       <para>
         <num>(16)</num>
-        <text>“Bypass” means the diversionary status of a trauma or specialty referral center that is requested and identified in the County/Hospital Alert Tracking System (CHATS) in accordance with a MIEMSS or regional program due to a lack of staff, facilities, or equipment.</text>
+        <text>“Bypass” means the temporary diversionary status of a trauma or specialty referral center that is requested and identified in the Emergency Department Advisory System (EDAS) due to a lack of staff, facilities, or equipment.</text>
       </para>
       <para>
         <num>(16-1)</num>
@@ -144,11 +145,11 @@
       </para>
       <para>
         <num>(17)</num>
-        <text>“Continuing medical education (CME)” means training approved by the Accreditation Council of Continuing Medical Education or accredited by a state medical society recognized by that Council.</text>
+        <text>“Continuing medical education (CME)” means training approved for credit by an entity accredited by the Accreditation Council of Continuing Medical Education.</text>
       </para>
       <para>
         <num>(18)</num>
-        <text>“Credentialing” means a hospital's process for granting practice privileges to health care providers.</text>
+        <text>“Credentialing” means a hospital's process for granting practice privileges to health care clinicians.</text>
       </para>
       <para>
         <num>(19)</num>
@@ -156,11 +157,11 @@
       </para>
       <para>
         <num>(20)</num>
-        <text>“Dedicated” means a designated resource whose primary use is for a specific trauma or specialty care program.</text>
+        <text>“Dedicated” means a designated resource that is exclusively for a specific trauma or specialty care program.</text>
       </para>
       <para>
         <num>(21)</num>
-        <text>“Definitive care” means a level of therapeutic intervention capable of providing comprehensive services for the patient's particular injuries, or associated conditions, or both.</text>
+        <text>“Definitive care” means a level of therapeutic intervention capable of providing comprehensive services for a patient's particular injuries, or associated conditions, or both.</text>
       </para>
       <para>
         <num>(22)</num>
@@ -168,18 +169,22 @@
       </para>
       <para>
         <num>(23)</num>
-        <text>“Desirable” means a component of the standards whose presence or availability is encouraged but not required for designation.</text>
+        <text>“Desirable” means a component of the standards that is encouraged but not required for designation.</text>
       </para>
       <para>
         <num>(24)</num>
-        <text>“Emergency department (ED)” means a department or patient care area within a hospital which:</text>
+        <text>“Emergency department (ED)” means a department or patient care area within a hospital that:</text>
         <para>
           <num>(a)</num>
-          <text>Is organized to provide emergency medical care 24 hours a day; and</text>
+          <text>Is sufficiently staffed, equipped, and organized to provide emergency medical care at all times;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Meets the applicable standards in <cite path="|30.08.05">COMAR 30.08.05</cite>.</text>
+          <text>Is available to the public at all times; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Is staffed by at least one qualified physician at all times.</text>
         </para>
       </para>
       <para>
@@ -232,15 +237,16 @@
       </para>
       <para>
         <num>(26)</num>
-        <text>“EMS Plan” means the plan to ensure effective coordination and evaluation of emergency medical services delivered in the State, as developed and approved by the EMS Board.</text>
+        <text>“EMS clinician” means an individual certified or licensed by a state to provide out-of-hospital emergency medical services.</text>
+        <text>.</text>
       </para>
       <para>
         <num>(27)</num>
-        <text>“EMS provider” means an individual certified or licensed by a state to provide out-of-hospital emergency medical services.</text>
+        <text>“EMS plan” means the plan to ensure effective coordination and evaluation of emergency medical services delivered in the State, as developed and approved by the EMS Board.</text>
       </para>
       <para>
         <num>(27-1)</num>
-        <text>“Emergent consultation” means a physician consultation required for evaluation of known or potentially unstable injuries, injuries requiring time sensitive surgical interventions, or other reasons as determined and documented by the attending trauma, or general surgeon, or ED attending physician.</text>
+        <text>“Emergent consultation” means a physician consultation required for evaluation of known or potentially unstable condition, conditions requiring time sensitive interventions, or other reasons as determined and documented by the attending physician, surgeon, or emergency physician.</text>
       </para>
       <para>
         <num>(28)</num>
@@ -256,11 +262,11 @@
       </para>
       <para>
         <num>(31)</num>
-        <text>“Fellowship” means formal, advanced, postresidency, specialty training.</text>
+        <text>“Fellowship” means formal, advanced, post-residency, specialty training.</text>
       </para>
       <para>
         <num>(32)</num>
-        <text>“Geographic proximity” means that distance, which is optional for Level III perinatal centers and mandatory for Level III+ perinatal centers, so that patients requiring Level IV services may be transported from a Level III or Level III+ sending facility to the Level IV perinatal center in less than 30 minutes by nonemergency transport.</text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(33)</num>
@@ -344,7 +350,15 @@
       </para>
       <para>
         <num>(45)</num>
-        <text>“Level III trauma center” means a community hospital with a trauma program which meets the Level III trauma center standards in <cite path="|30.08.05">COMAR 30.08.05</cite>.</text>
+        <text>“Level III trauma center” means a community hospital with a trauma program that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Meets the Level III trauma center standards in <cite path="|30.08.05">COMAR 30.08.05</cite>; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is designated by MIEMSS and approved by the EMS Board.</text>
+        </para>
       </para>
       <para>
         <num>(46)</num>
@@ -355,12 +369,12 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Provides comprehensive neonatal and obstetrical services, including all subspecialty services.</text>
+          <text>Is designated by MIEMSS and approved by the EMS Board as capable of providing comprehensive neonatal and obstetrical services, including all subspecialty services.</text>
         </para>
       </para>
       <para>
         <num>(47)</num>
-        <text>“Maryland Trauma Registry Data Dictionary for Adult Patients” means the listing of data inclusion criteria, data elements and audit filters to be collected on patients with traumatic injuries treated in a Maryland Trauma Center which is incorporated by reference in <cite path="30.01.02.01">COMAR 30.01.02.01(B)(2)</cite>.</text>
+        <text>“Maryland Trauma Registry Data Dictionary for Adult Patients” means the listing of data inclusion criteria, data elements and audit filters to be collected for patients with traumatic injuries treated in a Maryland Trauma Center which is incorporated by reference in <cite path="30.01.02.01">COMAR 30.01.02.01(B)(2)</cite>.</text>
       </para>
       <para>
         <num>(48)</num>
@@ -378,15 +392,15 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Have GSW to the head, neck, chest, or abdomen attributed to trauma;</text>
+            <text>Have a gunshot wound to the head, neck, chest, or abdomen attributed to trauma;</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>Have a GCS score &lt;9 with mechanism attributed to trauma;</text>
+            <text>Have a Glasgow Coma Score &lt;9 with mechanism attributed to trauma;</text>
           </para>
           <para>
             <num>(iv)</num>
-            <text>Are transferred from other hospitals receiving blood or vasoactives to maintain vital signs;</text>
+            <text>Are transferred from other hospitals while receiving blood or vasoactive medication to maintain vital signs;</text>
           </para>
           <para>
             <num>(v)</num>
@@ -394,7 +408,7 @@
           </para>
           <para>
             <num>(vi)</num>
-            <text>Have a respiratory compromise or are in need of an emergent airway, including intubated patients who are transferred from another facility with ongoing respiratory compromise.</text>
+            <text>Have a respiratory compromise or are in need of an emergent airway, including intubated patients who are transferred from another facility.</text>
           </para>
         </para>
         <para>
@@ -402,34 +416,30 @@
           <text>“Most critical patients” includes those patients who:</text>
           <para>
             <num>(i)</num>
-            <text>Are intubated and are currently stable from a respiratory standpoint;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
             <text>Have a tourniquet or pelvic binder applied;</text>
           </para>
           <para>
-            <num>(iii)</num>
+            <num>(ii)</num>
             <text>Are currently in Cardiac arrest or receiving CPR;</text>
           </para>
           <para>
-            <num>(iv)</num>
+            <num>(iii)</num>
             <text>Have presence of motor paralysis;</text>
           </para>
           <para>
-            <num>(v)</num>
+            <num>(iv)</num>
             <text>Have an amputation proximal to the ankle or wrist;</text>
           </para>
           <para>
-            <num>(vi)</num>
-            <text>Have Hypoxia as evidenced by saturation &lt;90 percent;</text>
+            <num>(v)</num>
+            <text>Have Hypoxia as evidenced by pulse oximetry &lt;90 percent;</text>
           </para>
           <para>
-            <num>(vii)</num>
+            <num>(vi)</num>
             <text>Have uncontrolled external hemorrhage; or</text>
           </para>
           <para>
-            <num>(viii)</num>
+            <num>(vii)</num>
             <text>Penetrating torso injury with evisceration.</text>
           </para>
         </para>
@@ -444,7 +454,7 @@
       </para>
       <para>
         <num>(51-1)</num>
-        <text>“National Trauma Data Bank (NTDB)” means the American College of Surgeons (ACS) aggregated trauma registry of standardization of key trauma data elements for research and improving care for the surgical patient.</text>
+        <text>“National Trauma Data Bank (NTDB)” means the American College of Surgeons (ACS) aggregated trauma registry of [standardization of key trauma] standardized key data elements for research and improving care for trauma patients.</text>
       </para>
       <para>
         <num>(52)</num>
@@ -456,7 +466,7 @@
       </para>
       <para>
         <num>(54)</num>
-        <text>“Neonatologist” means a pediatrician certified by the American Board of Pediatrics in neonatology.</text>
+        <text>“Neonatologist” means a pediatrician certified in neonatology by the American Board of Pediatrics.</text>
       </para>
       <para>
         <num>(54-1)</num>
@@ -472,11 +482,11 @@
       </para>
       <para>
         <num>(57)</num>
-        <text>“Office of Hospital Programs” means the office within MIEMSS that is responsible for the designation, verification, and reverification of the trauma and specialty care programs.</text>
+        <text>“Office of Care Integration” means the office within MIEMSS that is responsible for the verification and reverification of  trauma and specialty care referral centers.</text>
       </para>
       <para>
         <num>(58)</num>
-        <text>“On call” means committed for a specific time period to be available and respond within the specific amount of time to provide care for a patient in the hospital.</text>
+        <text>“On call” means committed for a specific time period to be available and respond within a specific amount of time to provide care for a patient in the hospital.</text>
       </para>
       <para>
         <num>(59)</num>
@@ -540,11 +550,11 @@
       </para>
       <para>
         <num>(62)</num>
-        <text>“Patient care log” means a list of patients' names and other information that is recorded by hospitals or prehospital care agencies.</text>
+        <text>“Patient care log” means a list of patients' names and other information that is recorded by hospitals or emergency medical services agencies.</text>
       </para>
       <para>
         <num>(63)</num>
-        <text>“Patient care record” means a record that contains information regarding the assessment and the care provided to a patient by any health care provider in any practice setting.</text>
+        <text>“Patient care record” means a record that contains information regarding the assessment and the care provided to a patient by any health care clinician in any practice setting.</text>
       </para>
       <para>
         <num>(64)</num>
@@ -567,7 +577,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>An out-of-State hospital that has entered into an agreement with MIEMSS and that has been approved by the EMS Board to provide comprehensive burn treatment services to burn patients that have not reached their fifteenth (15th) birthday.</text>
+          <text>An out-of-State hospital that has entered into an agreement with MIEMSS and that has been approved by the EMS Board to provide comprehensive burn treatment services to burn patients who have not reached their fifteenth (15th) birthday.</text>
         </para>
       </para>
       <para>
@@ -591,24 +601,12 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>An out-of-State hospital that has entered into an agreement with MIEMSS which has been approved by the EMS Board to provide comprehensive obstetrical and neonatal services.</text>
+          <text>An out-of-State hospital that has entered into an agreement with MIEMSS that has been approved by the EMS Board to provide comprehensive obstetrical and neonatal services.</text>
         </para>
       </para>
       <para>
         <num>(68)</num>
-        <text>“Person” means:</text>
-        <para>
-          <num>(a)</num>
-          <text>An individual or group of individuals;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A State or federal agency; or</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>A business entity.</text>
-        </para>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(69)</num>
@@ -624,11 +622,11 @@
       </para>
       <para>
         <num>(72)</num>
-        <text>“Preliminary investigation” means fact finding and information gathering to enable MIEMSS to determine whether justification exists to initiate disciplinary action or to conduct a further investigation.</text>
+        <text>“Preliminary investigation” means fact finding and information gathering to enable MIEMSS to determine whether justification exists to initiate corrective action or to conduct a further investigation.</text>
       </para>
       <para>
         <num>(73)</num>
-        <text>“Primary Adult Resource Center (PARC)” means a comprehensive trauma program, including a dedicated trauma care facility, dedicated staff and services, and designated, specialized, advanced training and research programs, which meets the PARC standards in <cite path="|30.08.05">COMAR 30.08.05</cite> and which, in Maryland, is defined in statute as the R Adams Cowley Shock Trauma Center.</text>
+        <text>“Primary Adult Resource Center (PARC)” means a comprehensive trauma center, including a dedicated trauma care facility, dedicated staff and services, and designated, specialized, advanced training and research programs, which meets the PARC standards in <cite path="|30.08.05">COMAR 30.08.05</cite> and which, in Maryland, is defined in statute as the R Adams Cowley Shock Trauma Center.</text>
       </para>
       <para>
         <num>(74)</num>
@@ -676,15 +674,15 @@
       </para>
       <para>
         <num>(83)</num>
-        <text>“State trauma registry” means a database of information, submitted to MIEMSS by hospitals, relating to the care of trauma and burn patients that is used to evaluate the quality of care provided.</text>
+        <text>“State Trauma Registry” means a database of information, submitted to MIEMSS by hospitals, relating to the care of trauma and burn patients that is used to evaluate the quality of care provided.</text>
       </para>
       <para>
         <num>(84)</num>
-        <text>“SYSCOM” means the Systems Communications Center, an EMS communications center located within MIEMSS, that is used for coordination of medical communication on a Statewide basis.</text>
+        <text>“SYSCOM/EMRC” means the Systems Communications/Emergency Medical Resource Center, an EMS communications center located within MIEMSS, that is used for coordination of medical communication on a Statewide basis.</text>
       </para>
       <para>
         <num>(85)</num>
-        <text>“Transfer agreement” means a formal agreement between hospitals for the transfer and acceptance of patients.</text>
+        <text>“Transfer agreement” means a formal agreement between hospitals for the acceptance and transfer of patients.</text>
       </para>
       <para>
         <num>(86)</num>
@@ -696,7 +694,7 @@
       </para>
       <para>
         <num>(88)</num>
-        <text>“Trauma” means a major single system or multisystem injury or mechanism of injury which has a reasonable probability of disability or death.</text>
+        <text>“Trauma” means a major single system or multisystem injury or mechanism of injury which results in a possibility of disability or death.</text>
       </para>
       <para>
         <num>(89)</num>
@@ -707,7 +705,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>“Trauma center” includes an out-of-State facility that has entered into an agreement with MIEMSS which has been approved by the EMS Board to provide care to trauma patients.</text>
+          <text>“Trauma center” includes an out-of-State facility that has entered into an agreement with MIEMSS and has been approved by the EMS Board to provide care to trauma patients.</text>
         </para>
       </para>
       <para>
@@ -732,23 +730,23 @@
       </para>
       <para>
         <num>(92-1)</num>
-        <text>“Trauma Quality Improvement Committee (TQIC)” is a medical review committee established by MIEMSS as an advisory body for quality issue and evaluation affecting the care of trauma patients and the Maryland Trauma System. The TQIC will address issues primarily related to the system-wide delivery of trauma care across the continuum (pre-hospital care to discharge from the trauma center) identifying performance improvement activities and indicators to support resolution strategies.</text>
+        <text>“Trauma Quality Improvement Committee (TQIC)” is a medical review committee established by MIEMSS as an advisory body for quality issues and evaluation affecting the care of trauma patients and the Maryland Trauma System. The TQIC addresses issues primarily related to the system-wide delivery of trauma care across the continuum (pre-hospital care to discharge from the trauma center) identifying performance improvement activities and indicators to support resolution strategies.</text>
       </para>
       <para>
         <num>(93)</num>
-        <text>“Trauma resuscitation team” means a group of trauma trained health care providers required to be present at the patient’s bedside following trauma team activation. The minimum team requirements for all levels of activation include: trauma attending/general surgeon/PGY4/APP, ED lead physician, ED RN’s, and a recorder/documenter. The highest level of response requires, at a minimum, the trauma resuscitation team, an anesthesiologist or CRNA (as per institutional-specific criteria), and Respiratory Therapy.</text>
+        <text>“Trauma resuscitation team” means a group of trauma trained health care clinicians at the patient’s bedside following trauma team activation.</text>
       </para>
       <para>
         <num>(93-1)</num>
-        <text>“Trauma service” means a group of trauma-trained physicians that are responsible for the initial resuscitation and care of the trauma patient, including trauma/general surgeon, emergency medicine, neurosurgery, and orthopedic surgery.</text>
+        <text>“Trauma service” means a group of trauma-trained physicians who are responsible for the initial resuscitation and care of trauma patients, including trauma/general surgery, emergency medicine, neurosurgery, and orthopedic surgery.</text>
       </para>
       <para>
         <num>(94)</num>
-        <text>“Trend” means a tendency towards a particular conclusion or end point, usually determined by an analysis of data.</text>
+        <text>“Trend” means a tendency toward a particular conclusion or end point, usually determined by an analysis of data.</text>
       </para>
       <para>
         <num>(95)</num>
-        <text>“Triage” means the sorting of patients in terms of priority, treatment, transportation, and destination, so that the patient can be transported to the appropriate hospital according to triage protocols.</text>
+        <text>“Triage” means the sorting of patients in terms of priority, treatment, transportation, and destination, so that the patient can be transported to an appropriate hospital according to triage protocols.</text>
       </para>
       <para>
         <num>(96)</num>
@@ -756,10 +754,12 @@
       </para>
       <para>
         <num>(97)</num>
-        <text>“Verification” means the process by which MIEMSS determines that a hospital, which is applying for a particular designation status, is in substantial compliance with the standards for the designation requested.</text>
+        <text>“Verification” means the process by which MIEMSS determines that a hospital that is applying for a particular designation status is in substantial compliance with the standards for the designation requested.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|01|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -774,7 +774,7 @@
       <text>MIEMSS shall:</text>
       <para>
         <num>(1)</num>
-        <text>With the approval of the EMS Board, designate and verify hospitals to be trauma or specialty referral centers;</text>
+        <text>With the approval of the EMS Board, verify and designate hospitals to be trauma or specialty referral centers;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -782,7 +782,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Establish and manage the State trauma registry;</text>
+        <text>Establish and manage the State Trauma Registry;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -830,7 +830,7 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>Annually evaluate the effectiveness of the Statewide trauma and specialty care systems and its component subsystems by using trauma registry and other appropriate data to identify and analyze system and patient care trends and outcomes;</text>
+        <text>Periodically evaluate the effectiveness of the Statewide trauma and specialty care systems and its component subsystems by using trauma registry and other appropriate data to identify and analyze system and patient care trends and outcomes;</text>
       </para>
       <para>
         <num>(8)</num>
@@ -870,7 +870,7 @@
       </para>
       <para>
         <num>(12)</num>
-        <text>Provide technical assistance and support to hospitals and providers as necessary to implement the components of the EMS Plan; and</text>
+        <text>Provide technical assistance and support to hospitals and clinicians as necessary to implement the components of the EMS Plan; and</text>
       </para>
       <para>
         <num>(13)</num>
@@ -889,7 +889,9 @@
       <num>C.</num>
       <text>With the approval of the EMS Board, MIEMSS may enter into agreements with out-of-State trauma and specialty center hospitals where necessary to ensure access of patients to appropriate levels of trauma and specialty care. Such agreements are tantamount to designation by MIEMSS and approval by the EMS Board.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|01|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -910,9 +912,10 @@
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-03-24">Effective date: March 24, 1997 (24:6 Md. R. 488)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-07-01">Regulations <cite path="|30|08|01|.01">.01</cite>—<cite path="|30|08|01|.04">.04</cite> amended effective July 1, 2002 (29:12 Md. R. 932)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-10-23"><cite path="|30|08|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective June 1, 2006 (33:15 Md. R. 1276); amended permanently effective October 23, 2006 (33:21 Md. R. 1678)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|01|.01|C.">Regulation .01C</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective June 1, 2006 (33:15 Md. R. 1276); amended permanently effective October 23, 2006 (33:21 Md. R. 1678); November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|01|.02|B.">Regulation .02B</cite> amended effective June 4, 2007 (34:11 Md. R. 972); January 13, 2011 (38:1 Md. R. 12); March 30, 2015 (42:6 Md. R. 514); July 1, 2018 (45:9 Md. R. 463); July 1, 2020 (47:5 Md. R. 313); October 3, 2022 (49:20 Md. R. 913)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-06-04"><cite path="|30|08|01|.03|B.">Regulation .03B</cite> amended effective June 4, 2007 (34:11 Md. R. 972)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|01|.03|B.">Regulation .03B</cite> amended effective June 4, 2007 (34:11 Md. R. 972); November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-12-19"><cite path="|30|08|01|.04|A.">Regulation .04A</cite> amended effective December 19, 2005 (32:25 Md. R. 1947)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-10-12"><cite path="|30|08|01|.04|C.">Regulation .04C</cite> amended effective October 12, 2015 (42:20 Md. R. 1265)</annotation>
   </annotations>

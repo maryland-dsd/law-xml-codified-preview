@@ -90,10 +90,10 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02, .04, .06) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10" type="History" display="false"/>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|69" type="History" display="false"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|69|01|.02" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|69|01|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -219,10 +219,10 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02, .04, .06) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10" type="History" display="false"/>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|69" type="History" display="false"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|69|01|.04" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|69|01|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|69|01|.05">
@@ -339,10 +339,10 @@
       <text>The Board may grant a 30-day extension beyond a license’s expiration date so that the license may be renewed before it expires.</text>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations .02, .04, .06) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10" type="History" display="false"/>
       <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|69" type="History" display="false"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|69|01|.06" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|69|01|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -766,9 +766,9 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container">Health Occupations Article, §§<cite doc="Md. Code" path="gho|8-101">8-101</cite>, <cite doc="Md. Code" path="gho|8-205">8-205</cite>, <cite doc="Md. Code" path="gho|8-208">8-208</cite>, <cite doc="Md. Code" path="gho|8-303">8-303</cite><em>, </em>8-508, 8-601, 8-6A-02, 8-6D-01—8-6D-15, 8-701, 8-708, and 8-710, Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-02-22">Effective date: February 22, 2026 (52:17 Md. R. 875)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|69|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|69|01|.04|A.">Regulation .04A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|69|01|.06|B.">Regulation .06B</cite>, D amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|69|01|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943); amended permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|69|01|.04|A.">Regulation .04A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943); amended permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|69|01|.06|B.">Regulation .06B</cite>, D amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943); amended permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
   </annotations>
   <annotation app="2026-02-22" doc="Maryland Register, Volume 52, Issue 17" eff="2025-09-01" path="regulations|final|25-091-F" target-path="10|69" type="History" display="false"/>
 </container>

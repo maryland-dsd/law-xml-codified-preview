@@ -121,8 +121,14 @@
         <num>(10)</num>
         <text>“State tax credit” means the Catalytic Revitalization Project Tax Credit allowed under the Act and this chapter.</text>
       </para>
+      <para>
+        <num>(11)</num>
+        <text>“Workforce housing” has the meaning stated in <cite doc="Md. Code" path="ghs|4-1801">Housing and Community Development Article, §4-1801, Annotated Code of Maryland</cite><em>.</em></text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-140-F" target-path="05|20|06|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -138,9 +144,11 @@
     </para>
     <para>
       <num>C.</num>
-      <text>An applicant shall have the legal authority to execute an enforceable agreement with the Department.</text>
+      <text>n applicant shall have the legal authority to execute an enforceable agreement with the Department.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-140-F" target-path="05|20|06|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="05|20|06|.04">
     <prefix>Regulation</prefix>
@@ -152,7 +160,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The Department shall consider the following factors when reviewing an application with an emphasis on applications that promote affordable housing:</text>
+      <text>The Department shall consider the following factors when reviewing an application with an emphasis on applications that promote affordable housing and workforce housing:</text>
       <para>
         <num>(1)</num>
         <text>Historic preservation;</text>
@@ -238,7 +246,9 @@
       <num>G.</num>
       <text>If the Department does not recommend approval of a project for an initial State tax credit allocation, the Department shall issue a written notice of rejection with an evaluation and explanation for rejection.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-140-F" target-path="05|20|06|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="05|20|06|.05">
     <prefix>Regulation</prefix>
@@ -446,5 +456,7 @@
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ghs|6-904">Housing and Community Development Article, §6-904, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-03-17">Effective date: March 17, 2025 (52:5 Md. R. 236)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|05|20|06|.02|B.">Regulation .02B</cite> amended effective November 9, 2026 (53:22 Md. R. 1108)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|05|20|06|.04|B.">Regulation .04B</cite> amended effective November 9, 2026 (53:22 Md. R. 1108)</annotation>
   </annotations>
 </container>

@@ -16,46 +16,64 @@
       <text>Terms Defined.</text>
       <para>
         <num>(1)</num>
-        <text>“Capability” means having the necessary equipment and supplies as well as staff with the skill and experience in its use.</text>
+        <text>“At all times” means 24 hours a day, 7 days a week.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>“Current” means generally accepted, used, practiced, or prevalent at the moment.</text>
+        <text>“Board-certified” means a physician certified by a member board of the American Board of Medical Specialties, or the equivalent as defined in the <cite doc="Md. Code" path="gho|14-101">Health Occupations Article, § 14-101, Annotated Code of Maryland</cite>, and maintaining current board certification.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>“Dedicated” means a resource is assigned to or for the exclusive use by a unit and not shared with any other unit</text>
+        <text>“Capability” means having the necessary equipment and supplies as well as staff with the skill and experience in its use.</text>
       </para>
       <para>
         <num>(4)</num>
-        <text>“E” means the standard is essential.</text>
+        <text>“Continuously available” means a resource that is available at all times, either on-site or on-call.</text>
       </para>
       <para>
         <num>(5)</num>
-        <text>“O” means the standard is optional.</text>
+        <text>“Current” means generally accepted, used, practiced, or prevalent at the moment.</text>
       </para>
       <para>
         <num>(6)</num>
-        <text>“NA” means the standard does not apply.</text>
+        <text>“Dedicated” means a resource is assigned to or for the exclusive use by a unit and not shared with any other unit</text>
       </para>
       <para>
         <num>(7)</num>
-        <text>“Programmatic responsibility” means the writing, review, and maintenance of practice guidelines, policies, and procedures; development of the operating budget in collaboration with hospital administration and other program directors; evaluation and guiding of the purchase of equipment; planning, development, and coordinating of educational programs, both in-hospital and outreach; participation in the evaluation of perinatal care; and participation in perinatal quality improvement and patient safety activities.</text>
+        <text>“E” means the standard is essential.</text>
       </para>
       <para>
         <num>(8)</num>
-        <text>“Readily available” means a resource is available for use a short time after it is requested.</text>
+        <text>“Immediately available” means a resource that is available at all times, as soon as it is requested.</text>
       </para>
       <para>
         <num>(9)</num>
-        <text>“Telemedicine” means the use of interactive audio, video, or other telecommunications or electronic technology by a licensed health care provider to deliver a health care service within the scope of practice of the health care provider at a site other than the site at which the patient is located, in compliance with <cite path="|10.32.05">COMAR 10.32.05</cite>.and including at least two forms of communication.</text>
+        <text>“NA” means the standard does not apply.</text>
       </para>
       <para>
         <num>(10)</num>
-        <text>“Thirty (30) minutes” means in-house within thirty (30) minutes under normal driving conditions which include, but are not limited to, weather, traffic, and other circumstances which may be beyond the individual’s control.</text>
+        <text>“O” means the standard is optional.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“On-site” means physically present in the hospital.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Programmatic responsibility” means the writing, review, and maintenance of practice guidelines, policies, and procedures; development of the operating budget in collaboration with hospital administration and other program directors; evaluation and guiding of the purchase of equipment; planning, development, and coordinating of educational programs, both in-hospital and outreach; participation in the evaluation of perinatal care; and participation in perinatal quality improvement and patient safety activities.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Readily available” means a resource is available for use a short time after it is requested, and able to be physically present on-site within a timeframe that incorporates maternal and fetal or neonatal risk and benefits with the provision of associated care.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Telehealth” means the use of interactive technology assisted communications by a licensed health care provider, who is at a different physical location that the patient, to provide health care service within the scope of practice of the health care provider. Telehealth consultation between provider and patient must include audio and video components, must be synchronous with an exchange of information that occurs in real time, and must be in compliance with <cite doc="Md. Code" path="gho|1-1001">Health Occupations Article, § 1-1001, Annotated Code of Maryland</cite>, and <cite path="|10.32.05">COMAR 10.32.05</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -91,17 +109,17 @@
             <td/>
           </tr>
           <tr>
-            <td class="text-indent-1">(1) A Board resolution that the hospital agrees to meet the current Maryland Perinatal System Standards for its specific level of designation and assures that all perinatal patients shall receive medical care commensurate with that designation;</td>
+            <td class="text-indent-1">(1) A Board of Directors’ commitment that the hospital agrees to meet the current Maryland Perinatal System Standards for its specific level of designation and assures that all perinatal patients shall receive medical care commensurate with that designation;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td class="text-indent-1">(2) Submission of patient care data to the Maryland Department of Health (MDH) and the Maryland Institute for Emergency Medical Services Systems (MIEMSS), for system and quality management; and</td>
+            <td class="text-indent-1">(2) Submission of patient care data to the Maryland Department of Health (MDH) and the Maryland Institute for Emergency Medical Services Systems (MIEMSS), as requested, for system and quality management; and</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td class="text-indent-1">(3) A Board resolution, bylaws, contracts, and budgets indicating the hospital’s commitment to the financial, human, and physical resources and to the infrastructure that are necessary to support the hospital’s level of perinatal center designation.</td>
+            <td class="text-indent-1">(3) A Board of Directors’ resolution, bylaws, contracts, and budgets indicating the hospital’s commitment to the financial, human, and physical resources and to the infrastructure that are necessary to support the hospital’s level of perinatal center designation.</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -131,14 +149,16 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>G. The hospital shall provide specialized maternal and neonatal transport capability and have extensive Statewide perinatal educational outreach programs in both specialties in collaboration with the Maryland Institute for Emergency Medical Services Systems (MIEMSS) and the Maryland Department of Health (MDH).</td>
+            <td>G. The hospital shall provide specialized maternal and neonatal transport capability and have Statewide perinatal educational outreach programs for clinicians in obstetric and neonatal specialties in collaboration with the Maryland Institute for Emergency Medical Services Systems (MIEMSS) and the Maryland Department of Health (MDH).</td>
             <td>O</td>
             <td>E</td>
           </tr>
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -190,14 +210,16 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>B. Have an on-site intensive care unit that accepts obstetrical patients and has critical care providers on-site to actively collaborate with obstetricians or maternal-fetal medicine specialists at all times.</td>
+            <td>B. Have an on-site intensive care unit that accepts obstetrical patients and has critical care clinicians on-site to actively collaborate with obstetricians or maternal-fetal medicine specialists at all time.</td>
             <td>E</td>
             <td>E</td>
           </tr>
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -278,21 +300,50 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>E. A physician board-certified or an active candidate for board certification in maternal-fetal medicine on the medical staff, in active practice available at all times and, if needed, in-house within 30 minutes; and</td>
+            <td>E. A physician board-certified or an active candidate for board certification in maternal-fetal medicine on the medical staff, in active practice available at all times and, if needed, on-site within a timeframe directed by the urgency of the clinical situation;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>F. A physician board-certified or an active candidate for board-certification in obstetrics/gynecology shall be present in-house 24 hours a day and immediately available to the delivery area when a patient is in active labor.</td>
+            <td>F. A physician board-certified or an active candidate for board-certification in obstetrics/gynecology shall be present on-site at all times and immediately available to the delivery area when a patient is in active labor;</td>
             <td>E</td>
             <td>E</td>
+          </tr>
+          <tr>
+            <td>G. A physician with obstetrical privileges or a certified nurse-midwife with obstetrical privileges shall be present at all deliveries;</td>
+            <td>
+              <em>E</em>
+            </td>
+            <td>
+              <em>E</em>
+            </td>
+          </tr>
+          <tr>
+            <td>H. A full complement of subspecialists, including critical care, general surgery, infectious disease, hematology, cardiology, nephrology, and neurology continuously available on-site, by telephone, or by telehealth; and</td>
+            <td>
+              <em>E</em>
+            </td>
+            <td>
+              <em>E</em>
+            </td>
+          </tr>
+          <tr>
+            <td>I. Adult medical and surgical specialty and subspecialty consultants continuously available on-site, by telephone, or by telehealth, if needed to collaborate with the maternal-fetal medicine care team.</td>
+            <td>
+              <em>O</em>
+            </td>
+            <td>
+              <em>E</em>
+            </td>
           </tr>
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.06" type="History" display="false"/>
+    </annotations>
   </section>
-  <section>
+  <section cache:ref-path="30|08|12|.07">
     <prefix>Regulation</prefix>
     <num>.07</num>
     <heading>Pediatric Personnel.</heading>
@@ -322,17 +373,17 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>C. Neonatal Resuscitation Program (NRP) trained professional(s) with experience in acute care of the depressed newborn and skilled in neonatal endotracheal intubation and resuscitation shall be immediately available to the delivery and neonatal units;</td>
+            <td>C. A Neonatal Resuscitation Program (NRP) trained professional with experience in acute care of the depressed newborn and skilled in neonatal endotracheal intubation and resuscitation shall be immediately available to the delivery and neonatal units;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>D. A physician who has completed postgraduate pediatric training, a nurse practitioner, or a physician assistant with privileges for neonatal care appropriate to the level of the nursery and who shall be present in-house 24 hours a day and assigned to the delivery area and neonatal units and not shared with other units in the hospital;</td>
+            <td>D. A physician who has completed postgraduate pediatric training, a nurse practitioner, or a physician assistant with privileges for neonatal care appropriate to the level of the nursery and who shall be present on-site at all times, dedicated to the delivery area and neonatal units and not shared with other units in the hospital;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>E. A physician board-certified or an active candidate for board certification in neonatal-perinatal medicine shall be on the medical staff, in active practice, available at all times, and, if needed, in-house within 30 minutes;</td>
+            <td>E. A physician board-certified or an active candidate for board certification in neonatal-perinatal medicine (neonatologist) shall be on the medical staff, in active practice, continuously available by telephone or telehealth, and, if needed, on-site within a timeframe directed by the urgency of the clinical situation, and shall have  direct oversight of patient care in the NICU at all times, including daily on-site evaluation of all patients and supervision of on-site staff required in <cite path="30|08|12|.07|D.">§D of this regulation</cite>;</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -342,24 +393,41 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>G. The following pediatric subspecialists on staff, in active practice, and, if needed, readily available in-house or via telemedicine: <br/>  (1) Cardiology;<br/>  (2) Neurology; and <br/>  (3) General Pediatric Surgery;</td>
+            <td>
+              <p>G. The following pediatric subspecialists on staff, in active practice, and, if needed, readily available on-site, by telephone, or by telehealth:</p>
+              <p>(1) Cardiology;</p>
+              <p>(2) Neurology; and</p>
+              <p>(3) General Pediatric Surgery;</p>
+            </td>
             <td>E</td>
             <td>NA</td>
           </tr>
           <tr>
-            <td>H. The following pediatric subspecialties on staff, in active practice, available at all times, and, if needed, in-house within 30 minutes: cardiology, endocrinology, gastroenterology, genetics, hematology, nephrology, neurology, and pulmonology; and</td>
+            <td>
+              <p>H. The following pediatric subspecialties on staff, in active practice, available, and, if needed, on-site within a timeframe that is directed by the urgency of the clinical situation:</p>
+              <p>(1) Cardiology;</p>
+              <p>(2) Endocrinology;</p>
+              <p>(3) Gastroenterology;</p>
+              <p>(4) Genetics;</p>
+              <p>(5) Hematology;</p>
+              <p>(6) Nephrology;</p>
+              <p>(7) Neurology; and</p>
+              <p>(8) Pulmonology; and</p>
+            </td>
             <td>O</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>I. General Pediatric Surgery and the following pediatric surgical subspecialists on staff, in active practice, available at all times, and, if needed, in-house within 30 minutes: <br/>  (1) Neurosurgery;<br/>  (2) Cardiothoracic surgery;<br/>  (3) Orthopedic surgery;<br/>  (4) Plastic surgery; and <br/>  (5) Ophthalmology.</td>
+            <td>I. General Pediatric Surgery and the following pediatric surgical subspecialties on staff, in active practice, continuously available and, if needed, on-site within a timeframe that is directed by the urgency of the clinical situation: <br/>  (1) Neurosurgery;<br/>  (2) Cardiothoracic surgery;<br/>  (3) Orthopedic surgery;<br/>  (4) Plastic surgery; and <br/>  (5) Ophthalmology.</td>
             <td>O</td>
             <td>E</td>
           </tr>
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -381,12 +449,12 @@
             <td/>
           </tr>
           <tr>
-            <td>A. A physician board-certified or an active candidate for board certification in anesthesiology or nurse-anesthetist who shall be available at all times to provide labor analgesia and surgical anesthesia so that cesarean delivery may be initiated per hospital protocol as required by <cite path="|30|08|12|.04|A.">Regulation .04A of this chapter</cite>;</td>
+            <td>A. A physician board-certified or an active candidate for board certification in anesthesiology or nurse-anesthetist who shall be continuously available to provide labor analgesia and surgical anesthesia so that cesarean delivery may be initiated per hospital protocol as required by <cite path="|30|08|12|.04|A.">Regulation .04A of this chapter</cite>;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>B. A physician board-certified or an active candidate for board-certification in anesthesiology who shall be present in-house 24 hours a day, readily available to the delivery area;</td>
+            <td>B. A board-certified or an active candidate for board-certification in anesthesiology who shall be present on-site at all times, readily available to the delivery area;</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -421,7 +489,7 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>G. At least one full-time equivalent International Board Certified Lactation Consultant who shall have programmatic responsibility for lactation support services which shall include education and training of additional hospital staff members in order to ensure availability of lactation support 7 days per week;</td>
+            <td>G. An on-staff International Board Certified Lactation Consultant who has at least 0.5 full-time equivalent dedicated to programmatic responsibility for lactation support services which shall include education and training of additional hospital staff members in order to ensure availability of lactation support 7 days per week;</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -446,12 +514,12 @@
             <td/>
           </tr>
           <tr>
-            <td class="text-indent-1">(1) Present in-house 24 hours a day; and</td>
+            <td class="text-indent-1">(1) Present in-house at all times; and</td>
             <td>E</td>
-            <td>NA</td>
+            <td>E</td>
           </tr>
           <tr>
-            <td class="text-indent-1">(2) Dedicated to the NICU 24 hours a day;</td>
+            <td class="text-indent-1">(2) Dedicated to the NICU at all times;</td>
             <td>O</td>
             <td>E</td>
           </tr>
@@ -481,44 +549,41 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>Q. Hospital perinatal program shall have on its administrative staff at least one registered nurse with a Master’s degree or higher degree in nursing or a health-related field and experience in high-risk obstetrical and/or neonatal nursing who shall have programmatic responsibility for the obstetrical and neonatal nursing services;</td>
+            <td>Q. Hospital perinatal program shall have on its administrative staff at least one registered nurse with a master’s degree or higher degree in nursing or a health-related field and experience in high-risk obstetrical and/or neonatal nursing who shall have programmatic responsibility for the obstetrical and neonatal nursing services;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>R. On its perinatal program staff at least one registered nurse with a Master’s or higher degree in nursing or a health or education-related field and experience in high-risk obstetrical and/or neonatal nursing who shall have programmatic responsibility for the obstetrical and neonatal nursing services;</td>
+            <td>R. Hospital perinatal program shall have on its staff at least one registered nurse with a master’s or higher degree in nursing or a health or education-related field and experience in high-risk obstetrical and/or neonatal nursing responsible for staff education;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>S. Hospital perinatal program shall have on its staff at least one registered nurse with a Master’s or higher degree in nursing or a health or education-related field and experience in high-risk obstetrical and/or neonatal nursing responsible for staff education;</td>
+            <td>S. Obstetrical service shall have continuous availability of adequate numbers of registered nurses with competence in assessment and care of obstetrical patients as well as the recognition and nursing management of obstetrical complications. The Association of Women’s Health, Obstetric, and Neonatal Nurses (AWHONN) Standards for Professional Registered Nurse Staffing for Perinatal Unites should guide hospital policies and procedures in this effort;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>T. Obstetrical service shall have continuous availability of adequate numbers of registered nurses with competence in assessment and care of obstetrical patients as well as the recognition and nursing management of obstetrical complications;</td>
+            <td>T. Neonatal service shall have continuous availability of adequate numbers of registered nurses with competence in assessment and care of neonatal patients appropriate to the designated level of care. The Association of Women’s Health, Obstetric, and Neonatal Nurses (AWHONN) Standards for Professional Registered Nurse Staffing for Perinatal Unites should guide hospital policies and procedures in this effort;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>U. Neonatal service shall have continuous availability of adequate numbers of registered nurses with competence in assessment and care of neonatal patients appropriate to the designated level of care;</td>
+            <td>U. A hospital neonatal service that performs neonatal surgery shall have nurses on staff with knowledge of and experience in perioperative management of neonates;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>V. Neonatal service shall have continuous availability of adequate numbers of registered nurses with competence in assessment and care of neonatal patients appropriate to the designated level of care;</td>
-            <td>E</td>
-            <td>E</td>
-          </tr>
-          <tr>
-            <td>W. A written plan to address registered nurse/patient ratios recommended in the current Association of Women’s Health, Obstetric, and Neonatal Nurses Guidelines.</td>
+            <td>V. A written plan to address registered nurse/patient ratios recommended in the current Association of Women’s Health, Obstetric, and Neonatal Nurses Guidelines.</td>
             <td>E</td>
             <td>E</td>
           </tr>
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -555,7 +620,7 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>D. Make laboratory results from standard maternal antepartum testing available to the providers caring for the mother and the neonate prior to discharge. If test results are not available or if testing was not performed prior to admission, such testing shall be performed during the hospitalization of the mother and results available prior to discharge of the newborn.</td>
+            <td>D. laboratory results from standard maternal antepartum testing available to the clinicians caring for the mother and the neonate prior to discharge. If test results are not available or if testing was not performed prior to admission, such testing shall be performed during the hospitalization of the mother and results available prior to discharge of the newborn.</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -597,7 +662,9 @@
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -619,22 +686,22 @@
             <td/>
           </tr>
           <tr>
-            <td>A. The capability of providing emergency ultrasound imaging and interpretation for obstetrical patients 24 hours per day;</td>
+            <td>A. The capability of providing emergency ultrasound imaging and interpretation for obstetrical patients at all times;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>B. The capability of providing detailed ultrasonography and fetal assessment, including Doppler studies, with interpretation for obstetrical patients 24 hours a day;</td>
+            <td>B. The capability of providing detailed ultrasonography and fetal assessment, including doppler studies, with interpretation for obstetrical patients at all times;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>C. The capability of providing maternal echocardiology with interpretation for obstetrical patients 24 hours a day;</td>
+            <td>C. The capability of providing maternal echocardiography with interpretation for obstetrical patients at all times;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>D. The capability of providing portable x-ray imaging with interpretation for neonatal patients 24 hours a day;</td>
+            <td>D. The capability of providing portable x-ray imaging with interpretation for neonatal patients at all times;</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -644,7 +711,7 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>F. The capability on campus of providing computerized tomography (CT) and magnetic resonance imaging (MRI) with interpretation;</td>
+            <td>F. The capability on campus of providing computed tomography (CT) and magnetic resonance imaging (MRI) with interpretation;</td>
             <td>O</td>
             <td>E</td>
           </tr>
@@ -681,7 +748,9 @@
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -701,19 +770,30 @@
             <td colspan="3" data-vertical-align="middle">A hospital shall have:</td>
           </tr>
           <tr>
-            <td>A. All of the following equipment and supplies immediately available for existing patients and for the next potential patient:<br/>   (1) O<sub>2</sub> analyzer, stethoscope, intravenous infusion pumps;<br/>   (2) Radiant heated bed in delivery room and available in the neonatal units; <br/>   (3) Oxygen hood with humidity; <br/>   (4) Bag and masks and/or T-piece resuscitator capable of delivering a controlled concentration of oxygen to the infant; <br/>   (5) Orotracheal tubes; <br/>   (6) CO<sub>2</sub> detector; <br/>   (7) Aspiration equipment; <br/>   (8) Laryngoscope; <br/>   (9) Bowel bags; <br/>   (10) Umbilical vessel catheters and insertion tray; <br/>   (11) Cardiac monitor; <br/>   (12) Pulse oximeter; <br/>   (13) Transilluminator;<br/>   (14) Phototherapy unit; <br/>   (15) Doppler blood pressure for neonates; <br/>   (16) Cardioversion/defibrillation capability for obstetrical patients and neonates; <br/>   (17) Resuscitation equipment for obstetrical patients; <br/>   (18) Resuscitation equipment for neonates including equipment outlined in the current NRP; <br/>   (19) Individual oxygen, air, and suction outlets for obstetrical patients and neonates; and <br/>   (20) Emergency call system for both obstetrical and neonatal units as well as an emergency communication system among units.</td>
-            <td>E</td>
-            <td>E</td>
+            <td>
+              <p>A. All of the following equipment and supplies immediately available for existing patients and for the next potential patient:<br/>   (1) O<sub>2</sub> analyzer, stethoscope, intravenous infusion pumps;<br/>   (2) Radiant heated bed in delivery room and available in the neonatal units;</p>
+              <p>(3) Thermal gel warming mattress;<br/>   (4) Oxygen hood with humidity; <br/>   (5) Bag and masks and/or T-piece resuscitator capable of delivering a controlled concentration of oxygen to the infant; <br/>   (6) Endotracheal tubes;</p>
+              <p>(7) Oral airways;<br/>   (8) CO<sub>2</sub> detector; <br/>   (9) Aspiration equipment; <br/>   (10) Laryngoscope; <br/>   (11) Bowel bags/plastic wrap; <br/>   (12) Umbilical vessel catheters and insertion tray; <br/>   (13) Cardiac monitor; <br/>   (14) Pulse oximeter; <br/>   (15) Transilluminator;<br/>   (16) Phototherapy unit; <br/>   (17) Doppler blood pressure device for neonates; <br/>   (18) Cardioversion/defibrillation capability for obstetrical patients and neonates; <br/>   (19) Resuscitation equipment for obstetrical patients; <br/>   (20) Resuscitation equipment for neonates including equipment outlined in the current National Resuscitation Program:</p>
+              <p>(a) Warming and thermoregulation setup;</p>
+              <p>(b) Airway suction devices and masks;</p>
+              <p>(c) Positive pressure ventilation device;</p>
+              <p>(d) Oxygen source and blender;</p>
+              <p>(e) Laryngoscope and airway adjuncts;</p>
+              <p>(f) Pulse oximeter and stethoscope; and</p>
+              <p>(g) Equipment for vascular access; <br/>   (21) Individual oxygen, air, and suction outlets for obstetrical patients and neonates; and <br/>   (22) Emergency call system for both obstetrical and neonatal units as well as an emergency communication system among units.</p>
+            </td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
-            <td>B. Special equipment and facilities needed to accommodate the care and services needed for obese women.</td>
-            <td>E</td>
-            <td>E</td>
+            <td>B. A policy to address the care and services needed for obese patients, including special equipment, facilities, and training required, as well as anesthesia guidelines;</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td>C. A neonatal stabilization bed set up and equipment available at all times for an emergency admission;</td>
-            <td>E</td>
-            <td>E</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td>D. Fetal diagnostic testing and monitoring equipment for:</td>
@@ -722,53 +802,55 @@
           </tr>
           <tr>
             <td class="text-indent-1">(1) Fetal heart rate monitoring;</td>
-            <td>E</td>
-            <td>E</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td class="text-indent-1">(2) Ultrasound examinations; and</td>
-            <td>E</td>
-            <td>E</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td class="text-indent-1">(3) Amniocentesis;</td>
-            <td>E</td>
-            <td>E</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td>E. The capability to monitor neonatal intra-arterial pressure;</td>
-            <td>E</td>
-            <td>E</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td>F. The capability on campus of providing laser coagulation for retinopathy of prematurity;</td>
-            <td>E</td>
-            <td>E</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td>G. The capability on campus of providing a full range of invasive maternal monitoring including equipment for central venous pressure and arterial pressure monitoring;</td>
-            <td>E</td>
-            <td>E</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td>H. Appropriate equipment, including back-up equipment, for neonatal respiratory care as well as protocols for the use and maintenance of the equipment as required by its level of neonatal care;</td>
-            <td>E</td>
-            <td>E</td>
+            <td data-text-align="center">E</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td>I. The capability of providing advanced ventilatory support, beyond conventional mechanical ventilation, for neonates of all birth weights; and</td>
-            <td>O</td>
-            <td>E</td>
+            <td data-text-align="center">O</td>
+            <td data-text-align="center">E</td>
           </tr>
           <tr>
             <td>J. The capability of providing continuing therapeutic hypothermia.</td>
-            <td>O</td>
-            <td>E</td>
+            <td data-text-align="center">O</td>
+            <td data-text-align="center">E</td>
           </tr>
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.11" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -790,7 +872,11 @@
             <td/>
           </tr>
           <tr>
-            <td>A. Emergency medications, as listed in the current Neonatal Resuscitation Program (NRP) guidelines, shall be immediately available in the delivery area and neonatal units;</td>
+            <td>
+              <p>A. Emergency medications, as listed in the current Neonatal Resuscitation Program (NRP) guidelines, shall be immediately available in the delivery area and neonatal units, including:</p>
+              <p>(1) Epinephrine; and</p>
+              <p>(2) Volume expanders (normal saline and/or blood);</p>
+            </td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -800,34 +886,36 @@
             <td/>
           </tr>
           <tr>
-            <td class="text-indent-1">(1) Antibiotics, anticonvulsants, and emergency cardiovascular drugs; and</td>
+            <td>(1) Antibiotics, anticonvulsants, and emergency cardiovascular drugs; and</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td class="text-indent-1">(2) Surfactant, prostaglandin E1;</td>
+            <td>(2) Surfactant, prostaglandin E1;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>C. All emergency resuscitation medications to initiate and maintain resuscitation, in accordance with current Advanced Cardiac Life Support (ACLS) guidelines of the American Heart Association (AHA), shall be immediately available in the delivery area;</td>
+            <td>C. All emergency resuscitation medications to initiate and continue resuscitation, in accordance with current Advanced Cardiac Life Support (ACLS) guidelines of the American Heart Association (AHA), shall be immediately available in the delivery area;</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>D. The following medications shall be immediately available for management of obstetrical hemorrhage in the delivery area and postpartum floor: <br/>  (1) Oxytocin (Pitocin);<br/>  (2) Methylergonovine (Methergine);<br/>  (3) Misoprostol (Cytotec); <br/>  (4) Carboprost tromethamine (Hemabate);<br/>  (5) Tranezamic acid (TXA); and</td>
+            <td>D. The following medications shall be immediately available for management of obstetrical hemorrhage in the delivery area and postpartum floor: <br/>  (1) Oxytocin (Pitocin);<br/>  (2) Methylergonovine (Methergine);<br/>  (3) Misoprostol (Cytotec); <br/>  (4) Carboprost tromethamine (Hemabate); and<br/>  (5) Tranexamic acid (TXA); and</td>
             <td>E</td>
             <td>E</td>
           </tr>
           <tr>
-            <td>E. The following medications shall be immediately available for management of hypertensive crisis in all obstetrical care areas:<br/>  (1) Hydralazine;<br/>  (2) Labetalol; and<br/>  (3) Nifedipine.</td>
+            <td>E. The following medications shall be immediately available for management of hypertensive crisis in all acute care areas where obstetrical patients may receive care:<br/>  (1) Hydralazine;<br/>  (2) Labetalol; and<br/>  (3) Nifedipine.</td>
             <td>E</td>
             <td>E</td>
           </tr>
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.12" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -908,7 +996,13 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>C. The Perinatal Quality Improvement Program shall conduct reviews of all cases of the following as well as cases related to other patient safety and systems issues identified:<br/>  (1) Maternal, intrapartum fetal, and neonatal deaths; <br/>  (2) Transports to a higher or comparable level of care; and<br/>  (3) Elective delivery at less than 39 weeks gestation.</td>
+            <td>
+              <p>C. The Perinatal Quality Improvement Program shall conduct reviews of all cases of the following as well as cases related to other patient safety and systems issues identified:</p>
+              <p>(1) Maternal, intrapartum fetal, and neonatal deaths as well as serious maternal and neonatal outcomes;</p>
+              <p>(2) Maternal and neonatal transports to a higher or comparable level of care; and</p>
+              <p>(3) Delivery at less than 39 weeks gestation without medical indication; and</p>
+              <p>(4) Severe maternal morbidity events, including ICU admission or transfusion of greater than 4 units of blood products.</p>
+            </td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -918,7 +1012,7 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>E. Participate in the collaborative collection and assessment of data with the Maryland Department of Health and/or the Maryland Institute for Emergency Medical Services Systems, for the purpose of improving perinatal health outcomes.</td>
+            <td>E. Participate in the collaborative collection and assessment of data with the Maryland Department of Health and/or the Maryland Institute for Emergency Medical Services Systems, as requested, for the purpose of improving perinatal health outcomes.</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -930,7 +1024,9 @@
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.14" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -972,7 +1068,7 @@
             <td>NA</td>
           </tr>
           <tr>
-            <td>E. A written protocol for the acceptance of maternal and neonatal transports;</td>
+            <td>E. A written protocol for the acceptance of appropriate maternal and neonatal transports;</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -1012,7 +1108,7 @@
             <td>E</td>
           </tr>
           <tr>
-            <td>M. Written policy for the identification and management of neonatal abstinence syndromes;</td>
+            <td>M. Written policy for the identification and management of neonatal opioid withdrawal;</td>
             <td>E</td>
             <td>E</td>
           </tr>
@@ -1029,7 +1125,9 @@
         </tbody>
       </table>
     </text>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|12|.15" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>
@@ -1046,21 +1144,26 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2005-05-15" discontinuity="true">Chapter revised effective May 15, 2005 (32:9 Md. R. 850)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-01-13" discontinuity="true">Regulations <cite path="|30|08|12|.01">.01</cite>—<cite path="|30|08|12|.15">.15</cite> repealed and new Regulations <cite path="|30|08|12|.01">.01</cite>—<cite path="|30|08|12|.15">.15</cite> adopted effective January 13, 2011 (38:1 Md. R. 12)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-03-30">Regulations <cite path="|30|08|12|.01">.01</cite>—<cite path="|30|08|12|.15">.15</cite> amended effective March 30, 2015 (42:6 Md. R. 514)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.01|B.">Regulation .01B</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.03">Regulation .03</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.01|B.">Regulation .01B</cite> amended effective October 3, 2022 (49:20 Md. R. 913); November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.03|A.">Regulation .03A</cite>, G amended effective October 3, 2022 (49:20 Md. R. 913); November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-21"><cite path="|30|08|12|.03|C.">Regulation .03C</cite> amended effective July 21, 2025 (52:14 Md. R. 714)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.04">Regulation .04</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.04|B.">Regulation .04B</cite> amended effective October 3, 2022 (49:20 Md. R. 913); November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.05">Regulation .05</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.06">Regulation .06</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.07">Regulation .07</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.08">Regulation .08</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.09">Regulation .09</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.10">Regulation .10</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.06|E.">Regulation .06E</cite>, F amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.06|G.">Regulation .06G</cite>, H, I adopted effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.07">Regulation .07</cite> amended effective October 3, 2022 (49:20 Md. R. 913); November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.08">Regulation .08</cite> amended effective October 3, 2022 (49:20 Md. R. 913); November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.09">Regulation .09</cite> amended effective October 3, 2022 (49:20 Md. R. 913); November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.10">Regulation .10</cite> amended effective October 3, 2022 (49:20 Md. R. 913); November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.11">Regulation .11</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.11|A.">Regulation .11A</cite>, B amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-12-10"><cite path="|30|08|12|.11|I.">Regulation .11I</cite> amended effective December 10, 2015 (42:24 Md. R. 1506)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.12">Regulation .12</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.12">Regulation .12</cite> amended effective October 3, 2022 (49:20 Md. R. 913); November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.13">Regulation .13</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.14">Regulation .14</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.14|C.">Regulation .14C</cite>, E amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2022-10-03"><cite path="|30|08|12|.15">Regulation .15</cite> amended effective October 3, 2022 (49:20 Md. R. 913)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|12|.15|E.">Regulation .15E</cite>, M amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
   </annotations>
 </container>

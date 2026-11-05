@@ -22,7 +22,7 @@
     </para>
     <para>
       <num>D.</num>
-      <text>Provide assessment and management of the stroke patient consistent with the most current AHA/ASA consensus based clinical practice guidelines to meet the needs of the patient;</text>
+      <text>Provide assessment and management of the stroke patient consistent with the most current American Heart Association/American Stroke Association consensus based clinical practice guidelines to meet the needs of the patient;</text>
     </para>
     <para>
       <num>E.</num>
@@ -30,7 +30,7 @@
     </para>
     <para>
       <num>F.</num>
-      <text>Have a stroke center nurse coordinator dedicated to the facility;</text>
+      <text>Have a 0.5 (or greater) full-time equivalent (FTE) dedicated stroke center nurse coordinator;</text>
     </para>
     <para>
       <num>G.</num>
@@ -38,14 +38,10 @@
     </para>
     <para>
       <num>H.</num>
-      <text>Meet the requirements of Regulations <cite path="|30|08|18|.02">.02</cite>—<cite path="|30|08|18|.14">.14</cite> of this chapter;</text>
+      <text>Meet the requirements of Regulations <cite path="|30|08|18|.02">.02</cite>—<cite path="|30|08|18|.14">.14</cite> of this chapter; and</text>
     </para>
     <para>
       <num>I.</num>
-      <text>Satisfy the MIEMSS requirements for designation as an Acute Stroke Ready Center; and</text>
-    </para>
-    <para>
-      <num>J.</num>
       <text>Meet the requirements for a site review in <cite path="30.08.02.06">COMAR 30.08.02.06</cite>, which may be satisfied by completing either:</text>
       <para>
         <num>(1)</num>
@@ -60,7 +56,7 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>Allows MIEMSS to participate in the accreditation site survey; and</text>
+          <text>Allows MIEMSS to participate in the accreditation and certification site surveys; and</text>
         </para>
         <para>
           <num>(c)</num>
@@ -68,7 +64,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -77,7 +75,7 @@
     <text>The facility’s board of directors, administrators, and medical and nursing staff shall demonstrate commitment to the facility’s designation as an acute stroke ready center by:</text>
     <para>
       <num>A.</num>
-      <text>A board of directors’ resolution stating that the facility agrees to meet the standards of this chapter for designation as an acute stroke ready center;</text>
+      <text>A board of directors’ resolution stating that the facility’s commitment to serving as an acute stroke ready center;</text>
     </para>
     <para>
       <num>B.</num>
@@ -96,7 +94,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Curricula vitae of key stroke program personnel with training and expertise in cerebrovascular disease, including:</text>
+        <text>Curricula vitae of core team personnel with training and expertise in cerebrovascular disease, including:</text>
         <para>
           <num>(a)</num>
           <text>Physicians;</text>
@@ -113,15 +111,17 @@
     </para>
     <para>
       <num>E.</num>
-      <text>Maintaining bylaws, contracts, and budgets specific to acute stroke care, indicating the facility’s commitment to the financial, human, and physical resources necessary to support the facility’s designation as an acute stroke ready center.</text>
+      <text>Maintaining bylaws, contracts, and budgets specific to acute stroke care, indicating the facility’s commitment to the financial, human, and physical resources necessary to support its designation as an acute stroke ready center.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.02" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Emergency Department.</heading>
-    <text>The facility shall maintain an emergency department which:</text>
+    <text>The facility shall maintain an emergency department that:</text>
     <para>
       <num>A.</num>
       <text>Has written documentation on the process used to notify the stroke team of a patient with an acute stroke; and</text>
@@ -130,7 +130,9 @@
       <num>B.</num>
       <text>Has sufficient emergency department clinical staff to meet the requirements of <cite path="30.08.11.05">COMAR 30.08.11.05</cite>.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -138,21 +140,27 @@
     <heading>Operating Room.</heading>
     <para>
       <num>A.</num>
-      <text>The facility shall have a written agreement with a hospital which has operating room neurosurgical services available 24 hours a day with appropriately trained support staff.</text>
+      <text>The facility shall have a written agreement with a hospital that:</text>
+      <para>
+        <num>(1)</num>
+        <text>Has operating room neurosurgical services available at all times with appropriately trained support staff;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Has neurosurgical coverage documented in a written plan approved by the covering neurosurgeon(s), stroke program leaders, and any involved facilities; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has neurosurgical services available to patients within 2 hours of it being deemed necessary.</text>
+      </para>
     </para>
     <para>
       <num>B.</num>
-      <text>Neurosurgical coverage shall be documented in a written plan approved by the covering neurosurgeon or neurosurgeons, stroke program leaders, and any involved facilities.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>Neurosurgical services shall be available to patients within 2 hours of it being deemed necessary.</text>
-    </para>
-    <para>
-      <num>D.</num>
       <text>There shall be a written protocol for transfer that includes communication and feedback from the receiving facility.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="30|08|18|.05">
     <prefix>Regulation</prefix>
@@ -160,7 +168,7 @@
     <heading>Stroke Team.</heading>
     <para>
       <num>A.</num>
-      <text>The facility shall establish one or more acute stroke teams which shall respond to the emergency department with coordinated services for the effective delivery of emergency and acute stroke treatment.</text>
+      <text>The facility shall establish one or more acute stroke teams that shall respond to the emergency department with coordinated services for the effective delivery of emergency and acute stroke treatment.</text>
     </para>
     <para>
       <num>B.</num>
@@ -171,15 +179,19 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>At least one member of the acute stroke team to provide care and to treat an acute stroke patient within 15 minutes of notification.</text>
+        <text>At least one member of the acute stroke team, who may be present via teleneurology, to provide care and to treat an acute stroke patient within 15 minutes of notification.</text>
       </para>
     </para>
     <para>
       <num>C.</num>
-      <text>The National Institutes of Health Stroke Scale (NIHSS) shall be used for the initial and serial assessment of patients with acute stroke. Clinicians performing the NIHSS will have documented training in the completion of the NIHSS.</text>
+      <text>The National Institutes of Health Stroke Scale (NIHSS) shall be used for the initial assessment of patients with acute stroke. Clinicians performing the NIHSS will have documented training regarding the completion of the NIHSS.</text>
     </para>
     <para>
       <num>D.</num>
+      <text>Patients suspected of having an acute stroke shall undergo continuous monitoring and receive frequent documented neurological assessments.</text>
+    </para>
+    <para>
+      <num>E.</num>
       <text>The acute stroke team shall include at a minimum:</text>
       <para>
         <num>(1)</num>
@@ -231,7 +243,7 @@
       </para>
     </para>
     <para>
-      <num>E.</num>
+      <num>F.</num>
       <text>If the physician who satisfies <cite path="30|08|18|.05|C.|(1)">§C(1) of this regulation</cite> is not Board certified or Board eligible in neurology, a Board certified or Board eligible neurologist shall be available within 15 minutes for consultation under the terms of a written agreement by:</text>
       <para>
         <num>(1)</num>
@@ -242,7 +254,9 @@
         <text>Audio/visual communication.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -278,14 +292,14 @@
     <text>The facility shall:</text>
     <para>
       <num>A.</num>
-      <text>If an acute care hospital, maintain a stroke unit that meets the requirements of this regulation which:</text>
+      <text>If an acute care hospital, maintain a stroke unit that:</text>
       <para>
         <num>(1)</num>
-        <text>Has designated beds for the care of patients not eligible for fibrinolytic therapy or endovascular therapy through qualified clinical staff who meet the requirements in <cite path="|30|08|18|.10">Regulation .10 of this chapter</cite>;</text>
+        <text>Has designated beds for the care of patients not eligible for fibrinolytic therapy or endovascular therapy with qualified clinical staff who meet the requirements in <cite path="|30|08|18|.09">Regulation .09 of this chapter</cite>;</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Develops a standardized process originating in clinical practice guidelines or evidence-based practice to deliver or facilitate the delivery of clinical care;</text>
+        <text>Employs standardized process supported by clinical practice guidelines or evidence-based practice to deliver or facilitate the delivery of clinical care;</text>
       </para>
       <para>
         <num>(3)</num>
@@ -326,7 +340,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>If not an acute care hospital, have a written transfer agreement with a hospital which:</text>
+      <text>If not an acute care hospital, have a written transfer agreement with a hospital that:</text>
       <para>
         <num>(1)</num>
         <text>Meets the requirements of this chapter;</text>
@@ -340,13 +354,15 @@
         <text>Can admit the patient after initial treatment and stabilization.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.08</num>
     <heading>Laboratory/Diagnostic Services.</heading>
-    <text>The facility shall have the ability 24 hours a day to perform laboratory and diagnostic services within 45 minutes of written order, including but not limited to:</text>
+    <text>The facility shall have the ability at all times to perform laboratory and diagnostic services within 45 minutes of written order, including but not limited to:</text>
     <para>
       <num>A.</num>
       <text>Complete blood count;</text>
@@ -371,57 +387,18 @@
       <num>F.</num>
       <text>Chest radiographs.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.08" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.09</num>
     <heading>Neuroimaging Services.</heading>
-    <para>
-      <num>A.</num>
-      <text>The facility shall have the ability 24 hours a day within 20 minutes of the patient’s arrival to complete:</text>
-      <para>
-        <num>(1)</num>
-        <text>All of the following:</text>
-        <para>
-          <num>(a)</num>
-          <text>Brain computed tomography;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>CT Angiography; and</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>CT Perfusion; or</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Magnetic resonance imaging.</text>
-      </para>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>The facility shall have the ability 24 hours a day to have computed tomographic studies interpreted within 20 minutes of their completion by a physician experienced in interpreting computed tomographic studies.</text>
-    </para>
-    <para>
-      <num>C.</num>
-      <text>The facility shall have the ability 24 hours a day to have CT angiography, CT perfusion, and magnetic resonance imaging studies interpreted within 30 minutes of their completion by a physician experienced in interpreting CT angiography, CT perfusion, and magnetic resonance imaging studies.</text>
-    </para>
-    <para>
-      <num>D.</num>
-      <text>The acute stroke ready center shall:</text>
-      <para>
-        <num>(1)</num>
-        <text>Have the ability to upload emergent imaging scans into CRISP (Chesapeake Regional Information System for our Patients) which will facilitate sharing of emergent imaging with the receiving center; and</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Have the imaging ability to rapidly identify core (nonviable) infarct versus (potentially salvageable) penumbra.</text>
-      </para>
-    </para>
-    <annotations/>
+    <text>The facility shall meet the requirements of <cite path="30.08.11.09">COMAR 30.08.11.09</cite>.</text>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -429,7 +406,7 @@
     <heading>Qualifications of Stroke Center Director and Clinicians.</heading>
     <para>
       <num>A.</num>
-      <text>The stroke center medical director shall be a physician with special competence in caring for the acute stroke patient who is clinically active at the facility and is Board certified or Board eligible in:</text>
+      <text>The stroke center medical director shall be a physician with special competence in caring for acute stroke patients who is clinically active at the facility and is Board certified or Board eligible in:</text>
       <para>
         <num>(1)</num>
         <text>Neurology;</text>
@@ -445,17 +422,31 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The stroke center medical director’s qualifications shall include active participation in the Stroke Quality Improvement Council (QIC) and 8 or more hours of category 1 CME credits related to stroke care annually.</text>
+      <text>The stroke center medical director’s qualifications shall include active engagement in the Stroke Quality Improvement Council (QIC).</text>
     </para>
     <para>
       <num>C.</num>
-      <text>Qualifications for stroke center physicians who care for stroke patients shall include 4 or more hours of category 1 or 2 CME credits per year related to stroke care.</text>
+      <text>The stroke center coordinator’s qualifications shall include active engagement in the stroke QIC.</text>
     </para>
     <para>
       <num>D.</num>
-      <text>Training for nonphysician stroke center professional staff who care for acute stroke patients shall include 4 or more hours of continuing medical education per year in the area of cerebrovascular disease.</text>
+      <text>The stroke center shall provide the following training to non-physician staff:</text>
+      <para>
+        <num>(1)</num>
+        <text>Initial orientation, education, and training that is pertinent to the program-specific stroke policies and procedures and individual licensed practitioner’s roles and responsibilities on the stroke team;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Ongoing education and training activities that are pertinent to the licensed practitioner’s roles and responsibilities when staff responsibilities change; new or revised policies, procedures, or guidelines are implemented; or other critical changes as defined by the stroke center; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Training for all staff in the hospital who interact with stroke patients on the recognition of clinical signs and symptoms that require timely notification according to hospital-specific policy and protocol.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -478,7 +469,7 @@
       <text>Emergency department clinical staff who triage patients in the emergency department or care for acute stroke patients shall be trained in:</text>
       <para>
         <num>(1)</num>
-        <text>Diagnosis of acute stroke;</text>
+        <text>The diagnosis of acute stroke;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -489,7 +480,9 @@
         <text>Use of clinically appropriate fibrinolytics and educated on the indication and referral for endovascular therapy in acute ischemic stroke.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.11" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -525,9 +518,11 @@
     </para>
     <para>
       <num>B.</num>
-      <text>The facility shall support or participate in, or both support and participate in, acute stroke educational activities developed for EMS personnel which are conducted at least once a year.</text>
+      <text>The facility shall support and/or participate in acute stroke educational activities developed for EMS personnel which are conducted at least once a year.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.12" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="30|08|18|.13">
     <prefix>Regulation</prefix>
@@ -604,7 +599,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>A written protocol for transfer that includes communication and feedback from the receiving facility, which is:</text>
+      <text>A written protocol for transfer that includes communication and feedback from the receiving facility that is:</text>
       <para>
         <num>(1)</num>
         <text>Updated at least annually; and</text>
@@ -622,7 +617,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.13" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -631,7 +628,7 @@
     <text>The facility shall:</text>
     <para>
       <num>A.</num>
-      <text>Participate, in a manner approved by the EMS Board, in a stroke registry that includes the data elements tracked by the Centers for Medicare and Medicaid Services and the American Heart/American Stroke Get With the Guidelines®-Stroke Registry;</text>
+      <text>Participate, in a manner approved by the EMS Board, in a stroke registry that includes the data elements tracked by the Centers for Medicare and Medicaid Services and the American Heart/American Stroke Get With the Guidelines®-Stroke Registry and enter the required data in the stroke registry within 45 days of the end of each quarter;</text>
     </para>
     <para>
       <num>B.</num>
@@ -730,19 +727,19 @@
       <text>In cases where the administration of fibrinolytics is appropriate:</text>
       <para>
         <num>(1)</num>
-        <text>Administer the fibrinolytic within 60 minutes from the time the patient arrives at the emergency department for greater than or equal to 50 percent of eligible patients;</text>
+        <text>Administer the  fibrinolytic within 60 minutes from the time the patient arrives at the emergency department for greater than or equal to 50 percent of eligible patients; and</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>Demonstrate progress towards administering fibrinolytics within 60 minutes from the time the patient arrives at the emergency department for greater than or equal to 75 percent of eligible patients; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Demonstrate progress towards reducing time of administration of fibrinolytics to 45 minutes for greater than or equal to 50 percent of eligible patients;</text>
+        <text>Demonstrate progress towards administering fibrinolytics within 60 minutes from the time the patient arrives at the emergency department for greater than or equal to 75 percent of eligible patents;</text>
       </para>
     </para>
     <para>
       <num>J.</num>
+      <text>Demonstrate progress towards reducing time of administration of fibrinolytics to 45 minutes for greater than or equal to 50 percent of eligible patients;</text>
+    </para>
+    <para>
+      <num>K.</num>
       <text>Incorporate into their quality assurance process progress reports about:</text>
       <para>
         <num>(1)</num>
@@ -758,7 +755,7 @@
       </para>
     </para>
     <para>
-      <num>K.</num>
+      <num>L.</num>
       <text>Provide MIEMSS with documentation of quality management of the stroke program for review, including, if appropriate:</text>
       <para>
         <num>(1)</num>
@@ -781,11 +778,26 @@
         <text>Re-evaluation of the plan.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|18|.14" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2021-07-01">Effective date: July 1, 2021 (48:9 Md. R. 360)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-07-21">Regulation effective July 21, 2025 (52:14 Md. R. 714)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.01">Regulation .01</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.02">Regulation .02</cite> A, D, E amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.03">Regulation .03</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.04">Regulation .04</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.05">Regulation .05</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.07">Regulation .07</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.08">Regulation .08</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.09">Regulation .09</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.10">Regulation .10</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.11|B.">Regulation .11B</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.12|B.">Regulation .12B</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.13|E.">Regulation .13E</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|18|.14">Regulation .14</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
   </annotations>
 </container>

@@ -75,15 +75,15 @@
           <text>Is subject to the:</text>
           <para>
             <num>(i)</num>
-            <text>State income tax on individuals or corporations,</text>
+            <text>State income tax on individuals or corporations;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>Financial institution franchise tax,</text>
+            <text>Financial institution franchise tax;</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>Public service company franchise tax, or</text>
+            <text>Public service company franchise tax; or</text>
           </para>
           <para>
             <num>(iv)</num>
@@ -101,7 +101,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>“Designated neighborhood conservation area ”means a geographically defined area that has been designated a neighborhood conservation area under <cite path="|05.17.03">COMAR 05.17.03</cite>.</text>
+        <text>“Designated neighborhood conservation area” means a geographically defined area that has been designated a neighborhood conservation area under <cite path="|05.17.03">COMAR 05.17.03</cite>.</text>
       </para>
       <para>
         <num>(6-1)</num>
@@ -156,7 +156,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-139-F" target-path="05|14|01|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -178,26 +180,30 @@
         <text>The project shall provide services including:</text>
         <para>
           <num>(a)</num>
-          <text>Community services, such as child care, recreational services, and economic development services,</text>
+          <text>Community services, such as child care, recreational services, and economic development services;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Redevelopment assistance,</text>
+          <text>Redevelopment assistance;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Job training for individuals of limited income and related job placement services,</text>
+          <text>Job training for individuals of limited income and related job placement services;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>Education,</text>
+          <text>Education;</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>Crime prevention, or</text>
+          <text>Crime prevention;</text>
         </para>
         <para>
           <num>(f)</num>
+          <text>Educator workforce housing; or</text>
+        </para>
+        <para>
+          <num>(g)</num>
           <text>Other services approved by the Program; and</text>
         </para>
       </para>
@@ -206,7 +212,7 @@
         <text>The project shall have the written approval of the governing body of each:</text>
         <para>
           <num>(a)</num>
-          <text>County in which the priority funding area benefited by the project is located, and</text>
+          <text>County in which the priority funding area benefited by the project is located; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -214,7 +220,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-139-F" target-path="05|14|01|.04" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -248,7 +256,7 @@
         <text>A description of the experience and capabilities of the nonprofit organization and its key staff members:</text>
         <para>
           <num>(a)</num>
-          <text>In carrying out similar projects, and</text>
+          <text>In carrying out similar projects; and</text>
         </para>
         <para>
           <num>(b)</num>
@@ -268,15 +276,15 @@
         <text>A copy of the following organizational documentation for the nonprofit organization:</text>
         <para>
           <num>(a)</num>
-          <text>The letter from the Internal Revenue Service granting tax-exempt status under §501(c)(3) of the Internal Revenue Code,</text>
+          <text>The letter from the Internal Revenue Service granting tax-exempt status under §501(c)(3) of the Internal Revenue Code;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>Articles of incorporation,</text>
+          <text>Articles of incorporation;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>Bylaws, and</text>
+          <text>Bylaws; and</text>
         </para>
         <para>
           <num>(d)</num>
@@ -308,7 +316,9 @@
       <num>C.</num>
       <text>Timing. Applications shall be made in accordance with application and competition cycles publicized to nonprofit organizations, local governments, and other interested persons by direct mailing, press release, or other methods selected by the Program.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-139-F" target-path="05|14|01|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="05|14|01|.06">
     <prefix>Regulation</prefix>
@@ -453,8 +463,14 @@
         <num>(3)</num>
         <text>Approval is not effective until the nonprofit applicant has signed and returned the notice and any agreement required by the Program.</text>
       </para>
+      <para>
+        <num>(4)</num>
+        <text>If the project is an educator workforce development project, the Department may not approve a project without notifying the County Board of Education, or authorized designee of at least one local school system that benefits from the project.</text>
+      </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-139-F" target-path="05|14|01|.06" type="History" display="false"/>
+    </annotations>
   </section>
   <section cache:ref-path="05|14|01|.07">
     <prefix>Regulation</prefix>
@@ -765,18 +781,21 @@
     <annotations/>
   </section>
   <annotations>
-    <annotation managed="false" type="Authority" dest="container">Housing and Community Development Article, Title 6, Subtitle 4, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="Authority" dest="container">
+      <cite doc="Md. Code" path="ghs">Housing and Community Development Article, Title 6, Subtitle 4, Annotated Code of Maryland</cite>
+    </annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-01-13">Effective date: January 13, 1997 (24:1 Md. R. 28)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-01-01"><cite path="|05|14|01|.01">Regulation .01</cite> amended effective May 13, 2002 (29:9 Md. R. 744); January 1, 2010 (36:21 Md. R. 1590)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-05-13"><cite path="|05|14|01|.02">Regulation .02</cite> amended effective May 13, 2002 (29:9 Md. R. 744)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-01-01"><cite path="|05|14|01|.02|B.">Regulation .02B</cite> amended effective January 1, 2010 (36:21 Md. R. 1590)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-09-01"><cite path="|05|14|01|.03|B.">Regulation .03B</cite> amended effective September 17, 2001 (28:18 Md. R. 1619); May 13, 2002 (29:9 Md. R. 744); December 20, 2004 (31:25 Md. R. 1790); January 1, 2007 (33:26 Md. R. 1995); January 1, 2010 (36:21 Md. R. 1590); September 1, 2014 (41:17 Md. R. 970)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2004-12-20"><cite path="|05|14|01|.04|B.">Regulation .04B</cite> amended effective May 13, 2002 (29:9 Md. R. 744); December 20, 2004 (31:25 Md. R. 1790)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|05|14|01|.04|B.">Regulation .04B</cite> amended effective May 13, 2002 (29:9 Md. R. 744); December 20, 2004 (31:25 Md. R. 1790); amended effective November 9, 2026 (53:22 Md. R 1108)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-09-01"><cite path="|05|14|01|.05|B.">Regulation .05B</cite> amended effective May 13, 2002 (29:9 Md. R. 744); December 20, 2004 (31:25 Md. R. 1790); September 11, 2006 (33:18 Md. R. 1505); September 1, 2014 (41:17 Md. R. 970)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-09-11"><cite path="|05|14|01|.06|A.">Regulation .06A</cite> amended effective September 17, 2001 (28:18 Md. R. 1619); May 13, 2002 (29:9 Md. R. 744); September 11, 2006 (33:18 Md. R. 1505)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-01-01"><cite path="|05|14|01|.06|B.">Regulation .06B</cite> amended effective May 13, 2002 (29:9 Md. R. 744); January 1, 2010 (36:21 Md. R. 1590)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-09-01"><cite path="|05|14|01|.06|D.">Regulation .06D</cite> amended effective September 1, 2014 (41:17 Md. R. 970)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2014-09-01"><cite path="|05|14|01|.06|F.">Regulation .06F</cite> amended effective May 13, 2002 (29:9 Md. R. 744); September 1, 2014 (41:17 Md. R. 970)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|05|14|01|.06|G.">Regulation .06G</cite> amended effective November 9, 2026 (53:22 Md. R 1108)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2010-01-01"><cite path="|05|14|01|.07">Regulation .07</cite> amended effective January 1, 2010 (36:21 Md. R. 1590)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-01-01"><cite path="|05|14|01|.07|A.">Regulation .07A</cite> amended effective September 17, 2001 (28:18 Md. R. 1619); January 1, 2007 (33:26 Md. R. 1995)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2007-01-01"><cite path="|05|14|01|.07|D.">Regulation .07D</cite> amended effective January 1, 2007 (33:26 Md. R. 1995)</annotation>

@@ -1,0 +1,787 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Chapter</prefix>
+  <num>09</num>
+  <heading>Maryland Pediatric Cancer Fund</heading>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.01</num>
+    <heading>Purpose and Scope.</heading>
+    <text>This chapter:</text>
+    <para>
+      <num>A.</num>
+      <text>Defines the Maryland Pediatric Cancer Fund;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Sets forth the responsibilities of the Maryland Department of Health with respect to the Maryland Pediatric Cancer Fund;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Describes the Pediatric Cancer Research Commission;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Identifies eligible applicants for the Maryland Pediatric Cancer Fund; and</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Outlines the grant process for the Maryland Pediatric Cancer Fund.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.02</num>
+    <heading>Definitions.</heading>
+    <para>
+      <num>A.</num>
+      <text>In this chapter, the following terms have the meanings indicated.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Terms Defined.</text>
+      <para>
+        <num>(1)</num>
+        <text>“Administrative expenses” means staffing costs, costs associated with establishing and maintaining the Commission, and costs associated with the development, review, evaluation, and award of grants.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Applicant.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Applicant” means an organization who applies to receive a grant under the Maryland Pediatric Cancer Fund.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Applicant” includes an authorized representative acting on behalf of, or submitting an application on behalf of, an organization.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Applied research” means research that is focused on determining how the research enterprise can most effectively translate existing scientific information into solutions to real-world problems, including new diagnostics and therapies for diseases.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Basic research” means experimental or theoretical work undertaken to acquire new knowledge or understanding of cancer.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Capital expenditures” means money spent to add or expand property, equipment, and assets that will benefit a grantee in the long term.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Clinical research” means research:</text>
+        <para>
+          <num>(a)</num>
+          <text>Conducted primarily on patients; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Designed to answer questions about the etiology, prevention, early detection, diagnosis, or treatment of cancer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Commission” means the Pediatric Cancer Research Commission as established in Health-General Article, §20-121, Annotated Code of Maryland.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“Community-based participatory research” means a collaborative, partnership approach to research that equitably involves community members, organizational representatives, and researchers in all aspects of the research process.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Department” means the Maryland Department of Health.</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Educational Institution.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Educational institution” means an organization whose primary mission is to educate individuals.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Educational institution” includes:</text>
+          <para>
+            <num>(i)</num>
+            <text>Colleges;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Universities; and</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Graduate schools.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Fund” means the Maryland Pediatric Cancer Fund.</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Grant.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Grant” means financial assistance from the State to support an applicant's activities related to pediatric cancer research.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Grant” does not mean a contract.</text>
+        </para>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Grantee” means an organization who receives a grant under the Maryland Pediatric Cancer Fund.</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Hospital” means an institution that is licensed in the State under <cite path="|10.07.01">COMAR 10.07.01</cite> or other applicable standards established by the jurisdiction or state in which the service is provided.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Maryland Pediatric Cancer Fund” means the program which is administered by the Department under Health-General Article, §20-120, Annotated Code of Maryland, to provide grants to nonprofit hospitals, educational institutions, and other nonprofit organizations to conduct pediatric cancer research.</text>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Nonprofit organization” means an organization that is classified under §501(c)(3) of the Internal Revenue Code as a nonprofit organization.</text>
+      </para>
+      <para>
+        <num>(17)</num>
+        <text>Research.</text>
+        <para>
+          <num>(a)</num>
+          <text>“Research” means activities to develop or advance the understanding of cancer or the techniques or modalities effective in the prevention, cure, screening, diagnosis, or treatment of cancer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>“Research” includes applied, basic, clinical, translational, and community-based participatory research.</text>
+        </para>
+      </para>
+      <para>
+        <num>(18)</num>
+        <text>“Secretary” means the Secretary of the Maryland Department of Health.</text>
+      </para>
+      <para>
+        <num>(19)</num>
+        <text>“State-based childhood cancer organization” means a social organization as defined by <cite doc="Md. Code" path="gsf|7-402">State Finance and Procurement Article, §7-402(a), Annotated Code of Maryland</cite> that:</text>
+        <para>
+          <num>(a)</num>
+          <text>Is headquartered in the State; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Has a primary mission to address childhood cancer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(20)</num>
+        <text>“Translational research” means using or applying new discoveries to benefit patient care.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.03</num>
+    <heading>Maryland Pediatric Cancer Fund.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Maryland Pediatric Cancer Fund is a non-lapsing, special fund created by Health-General Article, §20-120, Annotated Code of Maryland, for pediatric cancer research, which is generated from:</text>
+      <para>
+        <num>(1)</num>
+        <text>Money appropriated in the State Budget to the Fund; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Any other donations to the Fund.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Department Expenditure of Fund. The Department may only expend funds:</text>
+      <para>
+        <num>(1)</num>
+        <text>In accordance with an appropriation approved by the General Assembly in the annual State budget; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Through an approved budget amendment under State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|7-209">7-209</cite> and <cite doc="Md. Code" path="gsf|7-210">7-210</cite>, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Approved Utilization of the Fund. The Fund shall be used only:</text>
+      <para>
+        <num>(1)</num>
+        <text>To make grants for pediatric cancer research;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>For administrative expenses; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To distribute to a promotional account to be allocated to a State-based childhood cancer organization to be used to promote further donations to the Fund and to educate the State scientific community about opportunities for childhood cancer research through the Fund.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Each fiscal year, the Secretary may distribute and use no more than a total of 5 percent of the Fund for the purposes referenced in §C(2) and (3) of this regulation.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Any unspent portions of the Fund shall remain in the Fund and may not revert to the General Fund of the State.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Money expended from the Fund is supplemental to, and is not intended to take the place of, funding that would otherwise be appropriated to the Department for pediatric cancer research.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.04</num>
+    <heading>Responsibilities of the Department.</heading>
+    <text>The Department shall:</text>
+    <para>
+      <num>A.</num>
+      <text>Administer the Fund;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Submit a report annually to the General Assembly on administration of the Fund;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Each fiscal year, decide on the amount from the Fund to be distributed to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The promotional account;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Administrative expenses; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pediatric cancer research grants; and</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Use the Fund to implement activities related to:</text>
+      <para>
+        <num>(1)</num>
+        <text>The promotional account;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Administrative expenses; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Pediatric cancer research grants.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|14|09|.05">
+    <prefix>Regulation</prefix>
+    <num>.05</num>
+    <heading>Responsibilities of the Pediatric Cancer Research Commission.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission oversees the award of competitive grants from the Fund.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Duties of the Commission. The Commission shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Develop the criteria, standards, and requirements for the review of applications for pediatric cancer research grants from the Fund;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Establish procedures and guidelines to be used in the review, evaluation, ranking, and rating of the research grant proposals;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Develop criteria and a process for reviewing grant applications to ensure that each application is complete and satisfies the criteria, standards, and requirements developed by the Commission;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Develop disclosure and recusal guidelines to be followed by members of the Commission when considering grant applications;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Ensure participation recusal is conducted in accordance with the guidelines required by <cite path="10|14|09|.05|B.|(4)">§B(4) of this regulation</cite>;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Establish standards for the oversight of awards; and</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Conduct progress reviews of grant recipients.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission may consult with experts in performing its duties.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|14|09|.06">
+    <prefix>Regulation</prefix>
+    <num>.06</num>
+    <heading>Eligible Applicants for Pediatric Cancer Research Grants.</heading>
+    <para>
+      <num>A.</num>
+      <text>Subject to any limitations imposed under <cite path="10|14|09|.06|B.">§B of this regulation</cite>, applicants eligible to receive grants from the Department under <cite path="|10|14|09|.04|D.|(3)">Regulation .04D(3) of this chapter</cite> include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Nonprofit hospitals;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Educational institutions; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Other nonprofit organizations the Department determines to be eligible.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department may limit the applicants eligible to receive a grant in <cite path="10|14|09|.06|A.">§A of this regulation</cite> based on:</text>
+      <para>
+        <num>(1)</num>
+        <text>Availability of funds;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department's ability to account for and monitor the grant funding;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The qualifications of the applicants; or</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The ability of the applicants to comply with requirements of the grant.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.07</num>
+    <heading>Allowable Uses of the Pediatric Cancer Research Grant Funds.</heading>
+    <text>Funds granted for pediatric cancer research under <cite path="|10|14|09|.04|D.|(3)">Regulation .04D(3) of this chapter</cite> may be used for:</text>
+    <para>
+      <num>A.</num>
+      <text>Applied research;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Basic research;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Clinical research;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Community-based participatory research; or</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Translational research.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.08</num>
+    <heading>Unallowable Uses of Pediatric Cancer Research Grant Funds.</heading>
+    <text>A grantee may not use grant funds from the Fund to pay for:</text>
+    <para>
+      <num>A.</num>
+      <text>Renovations;</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Capital expenditures;</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Institutional overhead expenses, organizational expenses, or charges that are not directly related to pediatric cancer research;</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Expenses arising from community-based support services; or</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Individual-level prevention, cure, screening, diagnosis, or treatment that is unrelated to a research project eligible for the Fund.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|14|09|.09">
+    <prefix>Regulation</prefix>
+    <num>.09</num>
+    <heading>Pediatric Cancer Research Grant Funding and Application.</heading>
+    <para>
+      <num>A.</num>
+      <text>Each fiscal year, the Department:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall determine the amount of funding available for pediatric cancer research grants; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May consider awarding funding for grant applications for pediatric cancer research.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Department shall make available the grant application and its instructions.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An applicant may not apply for grant funding for more than 2 years with a single grant application.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>An applicant shall submit the completed application packet to the Department by the due date provided by the Department to be eligible for award consideration.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Each Maryland educational institution shall be considered as a singular entity, including:</text>
+      <para>
+        <num>(1)</num>
+        <text>The University System of Maryland and University of Maryland Medical System, including all their campuses and health entities;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Johns Hopkins University and Johns Hopkins Medical Institutions, including all their campuses and health entities, the Kennedy Krieger Institute, and the Lieber Institute for Brain Development; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>All subsidiaries and locations of any other organization.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>As part of the application for a pediatric cancer research grant under <cite path="10|14|09|.09|D.">§D of this regulation</cite>, an applicant shall attest that the applicant:</text>
+      <para>
+        <num>(1)</num>
+        <text>Will use grant funds solely in accordance with the grant requirements;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Will conduct the pediatric cancer research for which the grant is requested in the State;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Has the legal capacity and all necessary legal authority to incur the obligations related to the grant award; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Will comply with all applicable State and federal laws.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|14|09|.10">
+    <prefix>Regulation</prefix>
+    <num>.10</num>
+    <heading>Pediatric Cancer Research Grant Application Review and Approval.</heading>
+    <para>
+      <num>A.</num>
+      <text>The Commission, to review the grant applications that are submitted for funding under the Fund, may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Develop one or more review committees; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contract with one or more external peer review consultants.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If a review committee or external peer review consultant is used for the purposes described in <cite path="10|14|09|.10|A.">§A of this regulation</cite>:</text>
+      <para>
+        <num>(1)</num>
+        <text>The review committee or external peer review consultant shall make a recommendation to the Commission about the merits, rank, and rating of each application; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission shall then evaluate the review committee or external consultant’s report of each application.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission shall recommend to the Department which projects should be funded.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Department shall make the final determination on funding grant applications.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.11</num>
+    <heading>Grantee Progress Reviews.</heading>
+    <para>
+      <num>A.</num>
+      <text>Grantees shall be subject to progress reviews on a schedule set by the Department.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The Commission, to conduct progress reviews and make recommendations to the Department about each grantee’s progress, may:</text>
+      <para>
+        <num>(1)</num>
+        <text>Develop one or more review committees; or</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Contract with one or more external peer review consultants.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Commission shall recommend to the Department whether to continue providing grant funds to each grantee.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The Department shall make the final determination on whether to continue providing grant funds to each grantee.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section>
+    <prefix>Regulation</prefix>
+    <num>.12</num>
+    <heading>No-Cost Grant Extensions.</heading>
+    <para>
+      <num>A.</num>
+      <text>A grantee may apply to the Department for a no-cost extension of the grant period for the award before the expiration of the grant period by submitting a written request for an extension to the Department.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>In evaluating whether to recommend an extension of the grant period, the Commission:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall assess whether progress has been made on the grant project; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>May recommend to the Department that an extension be granted based on reports submitted under <cite path="|10|14|09|.13">Regulation .13 of this chapter</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The Department shall consider the Commission’s recommendation regarding the request for an extension and may approve a no-cost grant extension for up to 1 year.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <section cache:ref-path="10|14|09|.13">
+    <prefix>Regulation</prefix>
+    <num>.13</num>
+    <heading>Payments, Terms and Conditions of Pediatric Cancer Research Grant Awards, and Terminations.</heading>
+    <para>
+      <num>A.</num>
+      <text>If a financial or progress report required in §B or C of this regulation is overdue, the Department may withhold payment to the grantee until the report is submitted.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Financial Reports and Records.</text>
+      <para>
+        <num>(1)</num>
+        <text>A grantee shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Establish a separate account to track expenditures under the grant;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Maintain accurate records, including documentation of each transaction pertaining to the grant;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Submit to the Department invoices for payment by the deadline specified by the Department;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Submit to the Department a final financial expenditure report containing the signature of the financial officer or designee of the entity affiliated with the grant award by the deadline specified by the Department; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Submit a refund of any unexpended funds by the deadline specified by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department may audit the accounts referenced in <cite path="10|14|09|.13|B.|(1)">§B(1) of this regulation</cite> at any time up to 3 years from the date the final financial expenditure report is submitted under <cite path="10|14|09|.13|B.|(1)">§B(1) of this regulation</cite>.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>A grantee shall retain all records pertaining to a grant award for 3 years from the date the final financial expenditure report is submitted under <cite path="10|14|09|.13|B.|(1)">§B(1) of this regulation</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In the case of an audit or litigation, the Department may extend the time period under §B(2) or (3) of this regulation until the completion of the audit or litigation.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Progress Reports.</text>
+      <para>
+        <num>(1)</num>
+        <text>A grantee shall submit to the Department:</text>
+        <para>
+          <num>(a)</num>
+          <text>An interim report describing the progress of the grant by the deadline specified by the Department; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A comprehensive final report by the deadline specified by the Department.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Commission shall conduct oversight and progress reviews of grant recipients using reports submitted to the Department, site visits, or any other mechanism to be determined by the Commission.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The Department shall keep research results confidential as required by Health-General Article, §§4-101—4-103, Annotated Code of Maryland.</text>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Publication of Research.</text>
+      <para>
+        <num>(1)</num>
+        <text>A grantee who publishes results from activities shall include in the publication an acknowledgement with the text: “Supported in part with funds from the Maryland Pediatric Cancer Fund.”</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A grantee shall provide the Department with a copy of any published article pertaining to the activities conducted under the grant.</text>
+      </para>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Ownership of Equipment. A grantee:</text>
+      <para>
+        <num>(1)</num>
+        <text>Shall ensure that equipment purchased under a grant under this chapter is used for the sole purpose of the grant;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Shall keep an inventory of all equipment purchased; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>May not transfer the equipment to another entity without the written permission of the Department.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Termination.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Secretary may terminate a grant:</text>
+        <para>
+          <num>(a)</num>
+          <text>If a grantee fails to comply with:</text>
+          <para>
+            <num>(i)</num>
+            <text>The requirements of this chapter; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>State, federal, and municipal laws applicable to the performance of research under the grant;</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a grantee fails to carry out the purposes for which the grant was awarded;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In compliance with a court order; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>At the request of the grantee.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The Department and the State may not be responsible for any expenses incurred by a grantee after cancellation of a grant.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The grantee shall return all unexpended funds to the Department within 60 calendar days of termination of a grant.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Compliance with Existing Laws. A grantee shall ensure that an activity conducted in the performance of the grant is in compliance with all State, federal, and local laws.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Liability.</text>
+      <para>
+        <num>(1)</num>
+        <text>A grantee is solely responsible for their actions pertaining to research conducted under a grant award; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The State and the Department may not be liable for any claims, losses, liabilities, expenses, or damages arising from research conducted under a grant awarded under this chapter.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>A grantee shall enter into a grant agreement with the Department.</text>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+    </annotations>
+  </section>
+  <annotations>
+    <annotation managed="false" type="Authority" dest="container">Health-General Article, §§2–104, 4-101—4-103, 20-120, and 20-121; State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|7-209">7-209</cite> and <cite doc="Md. Code" path="gsf|7-210">7-210</cite>, Annotated Code of Maryland</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09">Effective date: November 9, 2026 (53:22 Md. R. 1109)</annotation>
+  </annotations>
+  <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-129-F" target-path="10|14|09" type="History" display="false"/>
+</container>

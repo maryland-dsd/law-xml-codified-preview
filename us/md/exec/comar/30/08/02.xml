@@ -44,18 +44,18 @@
       <text>Multiple Clinical Locations.</text>
       <para>
         <num>(1)</num>
-        <text>A single hospital or one or more hospitals under common ownership may be designated as a single trauma or specialty center program with more than one clinical location if:</text>
+        <text>A single hospital or one or more hospitals under common ownership may be designated as a single trauma or specialty referral center with more than one clinical location if:</text>
         <para>
           <num>(a)</num>
           <text>Clinical requirements are met at each separate location;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>There is a designated individual with administrative oversight of the designated trauma or specialty center program;</text>
+          <text>There is a designated individual with administrative oversight of the designated trauma or specialty referral center;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>There is a designated individual with clinical oversight of the designated trauma or specialty center program who is responsible for:</text>
+          <text>There is a designated individual with clinical oversight of the designated trauma or specialty referral center who is responsible for:</text>
           <para>
             <num>(i)</num>
             <text>Data collection;</text>
@@ -99,7 +99,9 @@
         </para>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|02|.01" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -110,7 +112,7 @@
       <text>The EMS Board shall:</text>
       <para>
         <num>(1)</num>
-        <text>Establish criteria for the number and level of trauma and specialty referral centers to be designated; and</text>
+        <text>Determine the number and level of trauma and specialty referral centers to be designated; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -119,7 +121,7 @@
     </para>
     <para>
       <num>B.</num>
-      <text>For each region, the criteria shall address:</text>
+      <text>The EMS Board shall consider:</text>
       <para>
         <num>(1)</num>
         <text>Access to trauma or specialty care;</text>
@@ -145,23 +147,25 @@
       <num>D.</num>
       <text>To be eligible for consideration by MIEMSS as a designated trauma or specialty referral center, a hospital shall meet the standards set forth for such a center in this subtitle.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|02|.02" type="History" display="false"/>
+    </annotations>
   </section>
-  <section cache:ref-path="30|08|02|.03">
+  <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Initial Application Process.</heading>
     <para>
       <num>A.</num>
-      <text>A hospital that is currently functioning as a trauma or specialty  referral center may continue to function as a trauma or specialty referral center until MIEMSS has completed the designation process under this subtitle with respect to that hospital, if the hospital makes application for designation. The application must be received complete within 6 months of the publication date of the initial solicitation in the Maryland Register in accordance with <cite path="30|08|02|.03|B.">§B of this regulation</cite>.</text>
-    </para>
-    <para>
-      <num>B.</num>
       <text>MIEMSS shall solicit applications for trauma and specialty referral center designation from any interested hospital, including all current trauma and specialty referral centers, by publication of the solicitation in the Maryland Register.</text>
     </para>
     <para>
-      <num>C.</num>
+      <num>B.</num>
       <text>MIEMSS may periodically solicit applications for trauma and specialty referral center designation, as needed, by publication of the solicitation in the Maryland Register.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Hospitals may seek verification for designation as a trauma or specialty referral center irrespective of solicitation of interest by MIEMSS by notifying the MIEMSS Office of Care Integration.</text>
     </para>
     <para>
       <num>D.</num>
@@ -169,7 +173,7 @@
     </para>
     <para>
       <num>E.</num>
-      <text>An applicant for trauma or specialty referral center designation shall submit an application to the Office of Hospital Programs in a form specified by MIEMSS, which shall include, but not be limited to, submitting evidence of the applicant's financial capability to provide this care.</text>
+      <text>An applicant for trauma or specialty referral center designation shall submit an application to the Office of Care Integration in a form specified by MIEMSS, which shall include, but not be limited to, submitting evidence of the applicant’s financial capability to provide the required level of care.</text>
     </para>
     <para>
       <num>F.</num>
@@ -181,7 +185,7 @@
     </para>
     <para>
       <num>H.</num>
-      <text>As necessary, MIEMSS shall provide technical assistance to a hospital throughout the designation process by answering questions about this subtitle and the designation process.</text>
+      <text>As necessary, MIEMSS shall provide technical assistance to a hospital throughout the verification and designation process by answering questions about this subtitle and the designation process.</text>
     </para>
     <para>
       <num>I.</num>
@@ -195,7 +199,9 @@
         <text><cite doc="Md. Code" path="ggp">General Provisions Article, Title 4, Subtitle 3, Annotated Code of Maryland</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|02|.03" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -276,11 +282,11 @@
       <text>On-Site Review Teams.</text>
       <para>
         <num>(1)</num>
-        <text>MIEMSS shall establish multidisciplinary on-site review teams composed of individuals knowledgeable in trauma or specialty care and trauma or specialty care systems.</text>
+        <text>MIEMSS shall establish multidisciplinary on-site review teams composed of individuals knowledgeable in trauma care and systems.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The composition of the team shall be appropriate to the level of designation sought.</text>
+        <text>The composition of the team shall be appropriate for the level of designation sought.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -399,7 +405,9 @@
       <num>C.</num>
       <text>Notwithstanding §§A and B of this regulation, instead of conducting an on-site review, MIEMSS may take into consideration or coordinate with verification surveys by the American College of Surgeons or other specialty medical organizations.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|02|.05" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -524,7 +532,7 @@
       <text>Provisional or Full Designation.</text>
       <para>
         <num>(1)</num>
-        <text>MIEMSS may initially designate a trauma or specialty referral center as provisional on the conditions and for the provisional period, including any extensions, which MIEMSS deems appropriate;</text>
+        <text>MIEMSS may initially designate a trauma or specialty referral center as provisional on the conditions and for the provisional period of 6 to 12 months, including any extensions that MIEMSS deems appropriate, but not to exceed 36 total months of provisional designation;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -552,7 +560,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>MIEMSS may grant full designation to a hospital in full compliance with this chapter for a period not to exceed 5 years, excluding an extension during the reverification process as set forth in <cite path="|30|08|02|.10">Regulation .10 of this chapter</cite>.</text>
+        <text>MIEMSS may grant full designation to a hospital in full compliance with this chapter for a period not to exceed 3 years, excluding any extension during the reverification process as set forth in <cite path="|30|08|02|.10">Regulation .10 of this chapter</cite>.</text>
       </para>
     </para>
     <para>
@@ -627,7 +635,9 @@
       <num>I.</num>
       <text>If the hospital does not timely appeal MIEMSS' decision, MIEMSS' decision is the final agency decision.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|02|.07" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -700,7 +710,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Shall provide the Office of Hospital Programs with 90 calendar days advance written notice of its request to change its designation status.</text>
+        <text>Shall provide the Office of Care Integration with 90 calendar days advance written notice of its request to change its designation status.</text>
       </para>
     </para>
     <para>
@@ -720,18 +730,36 @@
       <text>Temporary Inability to Comply with Standards.</text>
       <para>
         <num>(1)</num>
-        <text>A designated trauma or specialty referral center shall notify the Office of Hospital Programs within 5 business days if it is temporarily unable to comply with the requirements for designated trauma or specialty centers as set forth in <cite path="|30.08.03">COMAR 30.08.03</cite>.</text>
+        <text>For an anticipated inability to comply with standards, a designated trauma or specialty referral center shall notify the Office of Care Integration at least 5 business days before it is temporarily unable to comply with the requirements for designated trauma or specialty centers as set forth in <cite path="|30.08.03">COMAR 30.08.03</cite>.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>The notice shall be in writing and shall specify the reasons for and the anticipated duration of the temporary inability to comply with the standards.</text>
+        <text>For an unanticipated or emergency inability to comply with standards, a designated trauma or specialty referral center shall notify the Emergency Medical Resource Center (EMRC), local EMS jurisdictions, and the Office of Care Integration immediately when it is temporarily unable to comply with the requirements for designated trauma or specialty centers as set forth in <cite path="|30.08.02">COMAR 30.08.02</cite>, and provide updates every 12 hours.</text>
       </para>
       <para>
         <num>(3)</num>
-        <text>MIEMSS shall determine whether the temporary inability to comply with the standards warrants disciplinary action under <cite path="|30.08.13">COMAR 30.08.13</cite>.</text>
+        <text>The notice shall be in writing and shall specify the reasons for and the anticipated duration of the temporary inability to comply with the standards.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>MIEMSS shall determine whether the temporary inability to comply with the standards warrants corrective action under <cite path="|30.08.13">COMAR 30.08.13</cite>.</text>
       </para>
     </para>
-    <annotations/>
+    <para>
+      <num>D.</num>
+      <text>A designated trauma or specialty referral center may request to be designated at a higher level at any time, subject to the following:</text>
+      <para>
+        <num>(1)</num>
+        <text>A center’s requests must be a minimum of 24 months apart; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>In considering the request, MIEMSS shall proceed in accordance with Regulations <cite path="|30|08|02|.01">.01</cite>—<cite path="|30|08|02|.08">.08</cite> of this chapter.</text>
+      </para>
+    </para>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|02|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -739,27 +767,19 @@
     <heading>Reverification of Trauma or Specialty Referral Center Designation.</heading>
     <para>
       <num>A.</num>
-      <text>A designated trauma or specialty referral center, other than a designated adult or pediatric burn center, shall repeat the designation process, as set forth in this chapter, every 5 years.</text>
-    </para>
-    <para>
-      <num>B.</num>
-      <text>A designated adult or pediatric burn center shall:</text>
+      <text>A designated trauma or specialty referral center, other than a designated adult or pediatric burn center, shall repeat the designation process, as set forth in this chapter, every 3 years, or sooner if determined by MIEMSS, and as communicated to the hospital as the term of designation.</text>
       <para>
         <num>(1)</num>
-        <text>Complete the reverification process every 3 years; and</text>
+        <text>MIEMSS may reverify a center for less than 3 years if it determines based on its assessment that a shorter reverification cycle is appropriate.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>If verified by the American Burn Association:</text>
-        <para>
-          <num>(a)</num>
-          <text>Concurrently submit to MIEMSS the application submitted to the American Burn Association, along with such supplements as may be required by MIEMSS to demonstrate compliance with <cite path="|30.08.06">COMAR 30.08.06</cite>; and</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Notify MIEMSS immediately of any change in their verification status.</text>
-        </para>
+        <text>The planned duration of a center’s designation shall be communicated to the hospital at the beginning of the period.</text>
       </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>A designated adult or pediatric burn center, if verified by the American Burn Association, shall concurrently submit to MIEMSS the application submitted to the American Burn Association, along with such supplements as may be required by MIEMSS to demonstrate compliance with <cite path="|30.08.06">COMAR 30.08.06</cite>, and notify MIEMSS immediately of any change in its verification status.</text>
     </para>
     <para>
       <num>C.</num>
@@ -786,7 +806,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Designated trauma or specialty referral center shall retain its current designation status until the reverification process is completed.</text>
+        <text>The designated trauma or specialty referral center shall retain its current designation status until the reverification process is completed.</text>
       </para>
     </para>
     <para>
@@ -802,22 +822,30 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Requests that a hospital not designated that wishes to be considered for designation as a trauma or specialty referral center submit a written application to the Office of Hospital Programs in accordance with <cite path="|30|08|02|.03">Regulation .03 of this chapter</cite> within 60 calendar days following publication of the notice.</text>
+        <text>Requests that a hospital not designated that wishes to be considered for designation as a trauma or specialty referral center submit a written application to the Office of Care Integration in accordance with <cite path="|30|08|02|.03">Regulation .03 of this chapter</cite> within 60 calendar days following publication of the notice.</text>
       </para>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-083-F" target-path="30|08|02|.10" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container"><cite doc="Md. Code" path="ged|13-509">Education Article, §13-509, </cite>Annotated Code of Maryland</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1997-03-24">Effective date: March 24, 1997 (24:6 Md. R. 488)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2002-07-01">Regulations <cite path="|30|08|02|.01">.01</cite>—<cite path="|30|08|02|.10">.10</cite> amended effective July 1, 2002 (29:12 Md. R. 932)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-06-01"><cite path="|30|08|02|.01">Regulation .01</cite> amended as an emergency provision effective June 1, 2006 (33:15 Md. R. 1276); amended permanently effective October 23. 2006 (33:21 Md. R. 1678)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|02|.01|C.">Regulation .01C</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|02|.02|A.">Regulation .02A</cite>, B amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2006-06-01"><cite path="|30|08|02|.02|D.">Regulation .02D</cite> amended as an emergency provision effective June 1, 2006 (33:15 Md. R. 1276); amended permanently effective October 23. 2006 (33:21 Md. R. 1678)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|02|.03">Regulation .03</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-03"><cite path="|30|08|02|.03|D.">Regulation .03D</cite> amended effective October 3, 2011 (38:20 Md. R. 1205)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-10-12"><cite path="|30|08|02|.03|I.">Regulation .03I</cite> amended effective December 19, 2005 (32:25 Md. R. 1947); October 12, 2015 (42:20 Md. R. 1265)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-03"><cite path="|30|08|02|.04|A.">Regulation .04A</cite> amended effective October 3, 2011 (38:20 Md. R. 1205)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2015-10-12"><cite path="|30|08|02|.05|B.">Regulation .05B</cite> amended effective December 19, 2005 (32:25 Md. R. 1947); October 12, 2015 (42:20 Md. R. 1265)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|02|.05|B.">Regulation .05B</cite> amended effective December 19, 2005 (32:25 Md. R. 1947); October 12, 2015 (42:20 Md. R. 1265); November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|02|.07|C.">Regulation .07C</cite> amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2011-10-03"><cite path="|30|08|02|.07|C.">Regulation .07C</cite>, G amended effective October 3, 2011 (38:20 Md. R. 1205)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2020-07-01"><cite path="|30|08|02|.10">Regulation .10</cite> amended effective October 3, 2011 (38:20 Md. R. 1205); July 1, 2020 (47:5 Md. R. 313)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|02|.09|A.">Regulation .09A</cite>, C amended effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|02|.09|D.">Regulation .09D</cite> adopted effective November 9, 2026 (53:22 Md. R. 1110)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|30|08|02|.10">Regulation .10</cite> amended effective October 3, 2011 (38:20 Md. R. 1205); July 1, 2020 (47:5 Md. R. 313); November 9, 2026 (53:22 Md. R. 1110)</annotation>
   </annotations>
 </container>

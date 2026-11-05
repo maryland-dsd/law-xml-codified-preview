@@ -111,8 +111,8 @@
       </para>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulations <cite path="|10|27|16|.02">.02</cite>—<cite path="|10|27|16|.04">.04</cite>) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|27|16|.02" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|27|16|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -153,6 +153,7 @@
     </para>
     <annotations>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|27|16|.03" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|27|16|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|27|16|.04">
@@ -261,6 +262,7 @@
     </para>
     <annotations>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|27|16|.04" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|27|16|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -455,12 +457,12 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container">Effective date:</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="1999-11-15">Regulations <cite path="|10|27|16|.01">.01</cite>—<cite path="|10|27|16|.10">.10</cite> adopted as an emergency provision effective August 2, 1999; adopted permanently effective November 15, 1999 (26:23 Md. R. 1777)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.02|B.">Regulation .02B</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|16|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R.943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|27|16|.02|B.">Regulation .02B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R.943); amended permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.03">Regulation .03</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|16|.03|A.">Regulation .03A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R.943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|27|16|.03|A.">Regulation .03A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R.943); amended permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.04">Regulation .04</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|16|.04|B.">Regulation .04B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|27|16|.04|D.">Regulation .04D</cite>, E, F adopted as an emergency provision effective August 25, 2026 (53:19 Md. R. 943)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|27|16|.04|B.">Regulation .04B</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943); amended permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|27|16|.04|D.">Regulation .04D</cite>, E, F adopted as an emergency provision effective August 25, 2026 (53:19 Md. R. 943); adopted permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.05|A.">Regulation .05A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2025-10-13"><cite path="|10|27|16|.06|C.">Regulation .06C</cite> adopted effective October 13, 2025 (52:20 Md. R. 1002)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|27|16|.09|A.">Regulation .09A</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>

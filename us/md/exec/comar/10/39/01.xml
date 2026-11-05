@@ -59,6 +59,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.01" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.01" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -212,6 +213,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.02" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.02" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -253,6 +255,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.03" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.03" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|39|01|.04">
@@ -316,9 +319,9 @@
       <text>Once an application is deemed abandoned under <cite path="10|39|01|.04|C.">§C of this regulation</cite>, an individual seeking CNA certification shall submit a new application on the form required by the Board and meet all of the requirements for CNA certification and pay the required fees that are in effect at the time of re-application.</text>
     </para>
     <annotations>
-      <annotation managed="false" type="Emergency Action">53:19 26-127-E (Regulation .04) EMERGENCY ACTION IN EFFECT 8/25/2026 — 2/21/2027</annotation>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.04" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.04" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|39|01|.05">
@@ -456,6 +459,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.05" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.05" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|39|01|.06">
@@ -605,6 +609,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.06" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.06" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -650,6 +655,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.07" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.07" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -683,6 +689,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.08" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.08" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -708,6 +715,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.09" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.09" type="History" display="false"/>
     </annotations>
   </section>
   <section cache:ref-path="10|39|01|.10">
@@ -893,6 +901,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.10" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.10" type="History" display="false"/>
     </annotations>
   </section>
   <section>
@@ -910,6 +919,7 @@
     <annotations>
       <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
       <annotation app="2026-08-25" doc="Maryland Register, Volume 53, Issue 19" eff="2026-09-28" path="regulations|emergency|26-127-E" target-path="10|39|01|.11" type="History" display="false" exp="2027-02-21"/>
+      <annotation app="2026-11-09" doc="Maryland Register, Volume 53, Issue 22" eff="2026-11-09" path="regulations|final|26-127-F" target-path="10|39|01|.11" type="History" display="false"/>
     </annotations>
   </section>
   <annotations>
@@ -942,7 +952,7 @@
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2018-07-02"><cite path="|10|39|01|.09">Regulation .09</cite> amended effective July 2, 2018 (45:13 Md. R. 667)</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2023-03-30"><cite path="|10|39|01|.09|A.">Regulation .09A</cite> amended as an emergency provision effective September 22, 2022 (49:22 Md. R. 975); emergency status expired effective March 30, 2023</annotation>
     <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-06-08" discontinuity="true">Chapter revised as an emergency provision effective April 3, 2026 (53:9 Md. R. 411); amended permanently effective June 8, 2026 (53:11 Md. R. 484)</annotation>
-    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-08-25"><cite path="|10|39|01|.04|A.">Regulation .04A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943);</annotation>
+    <annotation managed="false" type="History" subtype="Administrative History" dest="container" effective="2026-11-09"><cite path="|10|39|01|.04|A.">Regulation .04A</cite> amended as an emergency provision effective August 25, 2026 (53:19 Md. R. 943); amended permanently effective November 9, 2026 (53:22 Md. R 1109)</annotation>
   </annotations>
   <annotation app="2026-06-08" doc="Maryland Register, Volume 53, Issue 11" eff="2026-06-08" path="regulations|final|26-016-F" target-path="10|39|01" type="History"/>
 </container>

@@ -204,9 +204,11 @@
     </para>
     <para>
       <num>B.</num>
-      <text>A request for award of costs incurred by the interested party in filing and pursuing a protest shall be made by written motion filed within 15 calendar days of the decision by the Appeals Board finding a violation of law or regulation. The motion shall specify all costs being requested, shall be sustained by documented evidence, and the interested party shall certify under oath or affirmation its costs in filing and pursuing a protest. Upon request of a party or on its own initiative, the Appeals Board may conduct a hearing to determine the reasonableness of the cost and fees claimed.</text>
+      <text>A request for award of costs incurred by the interested party in filing and pursuing a protest shall be made by written motion filed within 15 calendar days of the decision by the Appeals Board finding a violation of law or regulation. The motion shall specify all costs being requested, shall be substantiated by documented evidence, and the interested party shall certify under oath or affirmation its costs in filing and pursuing a protest. Upon request of a party or on its own initiative, the Appeals Board may conduct a hearing to determine the reasonableness of the cost and fees claimed.</text>
     </para>
-    <annotations/>
+    <annotations>
+      <annotation app="2026-10-21" doc="Editor Action 2026-10-21" eff="2026-10-21" path="" target-path="21|10|07|.09" type="History" display="false"/>
+    </annotations>
   </section>
   <annotations>
     <annotation managed="false" type="Authority" dest="container">State Finance and Procurement Article, §§<cite doc="Md. Code" path="gsf|12-101">12-101</cite> and <cite doc="Md. Code" path="gsf|15-201">15-201</cite>—<cite doc="Md. Code" path="gsf|15-223">15-223</cite>, Annotated Code of Maryland</annotation>
